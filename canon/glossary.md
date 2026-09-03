@@ -3,14 +3,18 @@
 it is invented. If it isn't here, it isn't canon.*
 
 - **Acreage** — the area of a Hold. One of the three graded numbers. Cannot be bought or
-  farmed; grows only through *deeds*. *(B01)*
 - **Assize, the** — the Ledger's ranked trials. Provincial every 4 years, Sill-wide every 12. *(B01)*
+- **Barley-field** — Hollow Alder's unit of area, ~0.6 acre; what a man can work in a day. The only unit Wick can think in. *(B01 c01)*
+- **Chalk estate, the** — absentee landholder of the Whitts strip. Agent: Nead. *(B01 c05)*
 - **Coherence** — how well a Hold's terrain fits together. Graded *ragged / settled / true*. *(B01)*
 - **Deed** — an act that forces a Hold to make room; the only source of acreage. *(B01)*
 - **Deep Wild, the** — the layer below the Sill. Where terrain grows unowned. *(B01)*
-- **Drawing** — pulling ambient Wild inward through breath and skin. Raises weight. *(B01)*
+- **Drawing** — pulling ambient Wild inward through breath and skin; it is *feeding the fire*. Gran's method: breathe out longer than you breathe in, think about the bottom of a well. *(B01 c04)*
+- **Failed of Kindling** — the Ledger status entered when a second assessment returns an unusable result. Bars hunting licence, Hall membership, and licensed apprenticeship for life. Appeal has succeeded once, Y-604. *(B01 c04)*
 - **Farsense** — the awareness of other Holds, gained at Field rank. *(B01)*
+- **Fire, the** — the Wild present at the moment of kindling, condensed at the middle of the new ground; it burns for life and is the source of all weight. The taper is for the form. *(B01 c04)*
 - **Firmament, the** — the layer above the Sill. Thin Wild. Sovereign country. *(B01)*
+- **Form 9-C** — *Kindling at a place of the subject's nomination.* Requires registrar's assent, a witness of age, written nomination, and two copper. *(B01 c02)*
 - **Graft** — a Seed fitted into a body instead of a Hold. Fast, crude, never quite yours. *(B01)*
 - **Hall of Hunt** — locally-run, Ledger-licensed contract house. Board, bar, bonesetter. *(B01)*
 - **Hold** — the interior country every person carries. The seat of all power. *(B01)*
@@ -20,16 +24,22 @@ it is invented. If it isn't here, it isn't canon.*
 - **Mantle** — the visible physical sign of a Hold's dominant terrain, gained at Wold. *(B01)*
 - **Notion** — a Law not yet articulable. Required for True Wold. *(B01)*
 - **Rafters, the** — the faint fixed lattice of the Firmament, visible on clear nights. *(B01)*
+- **Register of Workings** — the Ledger's catalogue of every named technique. Searchable for a fee. *(B01)*
 - **Rupture** — the cracking of a Hold by a Seed too heavy for it. Usually fatal. *(B01)*
+- **Sarrow's line** — a knotted waxed string for measuring Wild density by candle-lean. In the Ledger's field manual, section four. Nine knots is a domestic length. *(B01 c01)*
 - **Seed** — the compressed terrain-knot inside a Wildborn. Plantable. *(B01)*
+- **Settled acreage** — the portion of a Hold actually carrying weight. Meaningless for a room; everything for Wick. *(B01)*
 - **Sill, the** — the habitable middle layer of the world. *(B01)*
 - **Slack, the** — the five loose days at midwinter belonging to no month. *(B01)*
+- **Tallow Welling** — the licensed, fenced, farmed Welling two hours beyond Marrowfield. *(B01 c05)*
 - **Tally** — the stamped brass chit recording your three numbers and rank. *(B01)*
 - **Terrain** — the contents of a Hold. The source of all techniques. *(B01)*
 - **Verge** — the radius at which a Hold can impose itself on the real world. *(B01)*
 - **Weight** — Wild density. The number people brag about. *(B01)*
 - **Welling** — a place where the Deep Wild breaks through to the Sill. *(B01)*
+- **Whitts** — the Alder tenancy: 40 acres, 66 barley-fields, £11 6s at Gather. *(B01 c05)*
 - **Wild, the** — ambient magic; a natural, universal, weather-like substance. *(B01)*
 - **Wildborn** — creatures grown from concentrated Wild. Ecology, not evil. *(B01)*
 - **Working** — a technique. An export from the Hold into the world. *(B01)*
 - **Writ** — a Law that holds on ground you do not own. Required for Dominion. *(B01)*
+- **Writ of Hunt** — a monster contract, written by the Ledger, posted at a Hall, taken up by the licensed. *(B01 c05)*

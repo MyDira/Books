@@ -111,6 +111,27 @@ why the Ledger has never had to think hard about it before.
   ground between is continuous. This is what produces Farsense.
 - **Wold** — the Verge steps outside the skin. Requires walls that can be *carried*.
 
+### THE FIRE
+Every Hold opens with a fire in it. The taper does not light it; the taper is a formality.
+What lights it is the Wild present at the moment of kindling, condensing at the middle of
+the new ground.
+
+**The fire is where weight comes from.** It burns, slowly, for a lifetime, and saturates
+the ground around it. **Drawing** — the daily discipline of pulling ambient Wild in through
+breath and skin — is *feeding the fire*. In a nine-foot room the fire saturates the whole
+floor within a season and nobody ever thinks about it again.
+
+No fire, no weight. No weight, nothing. A Hold with no fire cannot draw, cannot settle,
+and cannot do a single thing, and there is no recorded instance of one, because a Hold is
+a room and a room concentrates.
+
+Forty-one acres does not concentrate. Whatever was lit at the ford went out across the
+salt and was gone before it was anything.
+
+**The corollary nobody has needed to discover:** terrain can carry weight *without* a
+fire. Planted ground holds what it is given. It is a thousand times slower than a fire and
+nobody has ever had a reason to try it, because everybody has a fire.
+
 ### The Verge
 Your Hold is inside you, but it *presses outward*. The radius at which it can impose
 itself on the real world is the **Verge**.
