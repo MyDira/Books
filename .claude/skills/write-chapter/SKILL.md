@@ -111,8 +111,11 @@ git push -u origin claude/litrpg-25-book-series-nekk0e
 
 ## STEP 6 — AUDIT CADENCE
 
-- **Every 4 chapters** → run skill `continuity-audit` (spawns the auditor + line-editor).
-- **Every 8 chapters** → additionally spawn `power-auditor` and `reader-advocate`.
+- **Every 8 chapters** → run skill `continuity-audit`, **scoped to those 8 chapters only**
+  (auditor + line-editor). Scoping keeps the cost sustainable across 25 books; the canon
+  files carry the earlier history so the agents do not need the earlier prose.
+- **Every 16 chapters / at every book close** → additionally spawn `power-auditor` and
+  `reader-advocate`.
 - **Book boundaries** → run skill `close-book`.
 
 Act on audit findings *before* writing the next chapter. Findings are not suggestions;
