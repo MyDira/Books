@@ -163,3 +163,232 @@ what `canon/STATE.md` and the book OUTLINE are for.*
   *"And I'll go to Marrowfield after. Before Gather. That's a promise, and it's a real one,
   and if I break it I'll know I broke it."*
   → He said nothing at dinner, and found it easy, and that frightened him more than the hole.
+
+## B01 c007 — "A Seam"  [Green 26, afternoon]
+- Rope tied to the **second** alder (solid), not the third (not). Spear left wedged in the
+  split of the tree — **7 ft is too long for the shaft**; this is the chapter's quiet turn.
+- Shaft: feet-first, ~20 ft, angled, chalk. **The cold stops ~15 ft down** — it is a
+  boundary between Deep air and Sill air, not temperature. Below: warm, wet, smells of
+  "mushrooms and old fat and the inside of a mouth."
+- **EMBER SIGHT ESTABLISHED:** an Ember sees the Wild — faint grain in the air over
+  Hollow Alder, moves with wind, pools in the cellar. Wick has been looking at 3 knots
+  his whole life.
+- **Chamber 1:** size of the Hollow's taproom. Wild is **not haze but water** — pale as
+  skimmed milk, hangs and turns in ropes and sheets, **two feet deep on the floor**,
+  running sluggishly downhill into a passage. Felt as pressure behind the ribs.
+- **A candle burns ROUND in rich Wild** — a sphere, 4× the light, consumes no wax.
+  Signature image; reuse.
+- The chalk has gone soft and semi-translucent, "like tallow," and has *run* — ledges,
+  lips, hanging drips, room lit from inside.
+- **The Wickwater leaks in through a seam in the roof**, a drop at a time. This explains
+  the third alder standing low.
+- **THE WHITE GRASS — the most important object in Act I.** A patch of grass on the
+  chamber floor, **nine feet by nine feet**, white (never saw sun), ankle-high, perfectly
+  even, growing out of chalk in the dark. Ordinary to touch; breaks like grass.
+  **The Wild lying over it does not move** while the rest of the room's turns.
+  → It is **terrain lying loose in the world, owned by nobody.** Wick: *"You just grow.
+  Nobody's got you at all."* He does not understand it. Neither does the reader yet.
+- **Tallow-crawler, first sighting:** forearm length, boneless, folds forward and pours;
+  no eyes, no face; front end lifts and turns through half a circle; Wild parts around it
+  like water round a stone.
+- **It went AROUND the white grass, not over it.** Close in, all the way, back on its line.
+- Wick escaped by rolling a lit candle stub across the floor as a decoy. Left the chamber
+  hearing his own "pulse" — actually the roof drip, at the speed of a slow heartbeat.
+- Turn: he could still report it and be the boy who found something. Instead he goes home
+  and starts working out how to make something 4 ft long out of something 7 ft long.
+
+## B01 c008 — "Four Feet of Ash"  [Long 2 – Long 12]
+- **The spear** was his grandfather's; killed nine boar by family reckoning. Wick cut
+  **2½ feet off** it with a hand-axe and rasp, without permission. New length **4 ft and
+  a bit**, butt rounded and fire-hardened, grip wrapped in twine. Balance now wrong.
+- Gran saw. Said "Your grandad's." Then "Mm." Then went to bed. (She knew for a fortnight.)
+- **Second descent, Long 2.** Plan: lantern as bait, ambush from the chalk lip. The plan
+  was *correct in every part* — and failed on a fact he had heard and never thought about.
+- **A spear does nothing to a boneless thing.** Went straight through, stuck in the floor.
+  The crawler **flowed off it sideways** "the way a spilled thing moves off a slope,"
+  onto the haft, onto his hands.
+- **Bitten** on the right forearm below the elbow. No weight to the creature at all.
+- He drove it off by **smashing the lantern on it** — burning oil. It came off at once and
+  **went away still moving, alight in two places.** Lantern destroyed (cost 11d; he does
+  not have 11d).
+- **The bite:** two marks like thumbprints, side by side, no puncture, skin unbroken,
+  grey at the edges → grey in the middle by morning → red lines up the veins by day two →
+  past the elbow by day four. **He will have the two silvery marks at eighty.**
+- He hid it four days, wore sleeves down in warm weather. **Gran noticed the first
+  evening and let it run four days**, then had the vinegar out waiting.
+- Gran's diagnosis by elimination: "not a dog, not a rat, not a nail, not a horse — and
+  the red gone up in four days and not two, which means whatever it was, it isn't in a
+  hurry."
+- **Wick tells her everything.** She does not shout. Counts: "Nineteen days." (Green 24 →
+  Long 12 = 19 days. Consistent.)
+- Gran's three things: (1) report it, and *Gather is five weeks* — "you've made a private
+  arrangement with a tree"; (2) not a prohibition but a fact about his arm: ten days,
+  vinegar and poultice, and if he sweats down a hole he'll die at the bottom of it;
+  (3) she has known about the spear for a fortnight and said nothing, **because "a boy
+  who's given up doesn't measure anything."** *"I've watched people give up in this
+  village all my life. It doesn't look like crying. It looks like sitting still and
+  being pleasant."*
+- Gran's instruction: **"Go and find out."** Specifically — ask Hob, who has been in and
+  out of Marrowfield twenty years, about *killing*, having only been asked about money.
+- Wick starts the list. **Eleven items** that night, left-handed.
+
+## B01 c009 — "Eleven Things"  [Long 13 – Long 22]
+- The list reaches 31 items. Items 1–11 recorded verbatim in the chapter; item 4 (going
+  round the white grass) is boxed as the one he cannot explain.
+- **Item 10 reconsidered:** fire made it *let go*, not die. A thing that flows would put
+  itself out by flowing. Also, the lantern is broken and he has 4 pence.
+- **HOB'S HUNTING LORE (canon):**
+  · You cannot stab a crawler — nothing inside. · You cannot chase one — it goes down a
+  crack the width of a thumb and comes out elsewhere in an hour.
+  · **SALT.** "Crawler-salt," sold at every Hall in the Loam, **a penny the pound**, and
+  it is just salt and everyone knows it. Coarse ground.
+  · Method: a **ring ~4 ft across, 10 lb of salt (12 on rough ground)**, bait in the
+  middle, then sit down. It will not cross salt in any form — ring, drawn line, scattering.
+  · It circles, then eventually tries to cross anyway, "because they're not clever."
+  Salt takes the wet out of it and the wet is all it has. **"About the time to smoke a pipe."**
+  · Halls sell it in a **sack with a drawstring** because you scrape it up and reuse it.
+  · Crawler writs are bottom of the board; taken by men with a bad leg or a bad reputation.
+  · **Seed: pin-head sized, grey, greasy, in the middle.** Spoils in **half a day**.
+- 10 lb of salt = 1 shilling = 12d. Wick owns **4d**. Asking Tam would leave the family
+  12d shorter against a £3 16s shortfall.
+- **SOLUTION: the sheep's rock-salt lick** in the byre trough — every Loam farm has one,
+  a shilling a stone, lasts two years. Wick broke it up over **four days, one-armed**,
+  with the back of the hand-axe and a flat stone. Yield: **a little over 6 lb** on Tam's
+  cheese scale. He needs 10.
+- **THE HORSESHOE:** he does not need a ring. The white grass is nine feet of wall that
+  is already there and costs nothing. A horseshoe of salt run out from one corner of the
+  grass and back to the other = a closed shape with **two thirds the wall and one third
+  the salt**. Worked out at "six pounds and a bit." He has six pounds and a bit.
+- **Ledger item 32: "The grass got there somehow."** Written down without understanding.
+  This is the germ of Wick's entire method and it is planted here.
+- Arm healed on day ten. Marks now dull silver, permanent. Gran: "Don't get bit again.
+  It's twice as bad the second time and I don't know why."
+- **THE MISSING EWE.** Ma Dunnock, on the road: one gone off the **Rennicks' low field**,
+  **gate shut, wall up**. "Foxes," in a voice that does not believe it.
+
+## B01 c010 — "The Warm Damp"  [Long 14 – Long 16]  ★ FIRST RATCHET
+- Descent 3, Long 14, six pounds of sheep salt. Laid the horseshoe in an hour on his
+  knees; line "as thick as a thumb" (a finger's thickness would have saved 2½ lb).
+  Final shape ~11 ft across. Two handfuls of salt left over, tied off and hung on the rope.
+- **The ends of the horseshoe OVERLAP the grass rather than meeting it** — a way in and
+  no way out. Worked out beforehand in the byre with chalk.
+- **Item 33: when a crawler stops and turns its front end, the Wild on the floor goes out
+  from it in a faint ring and comes back.** *That is how it looks.* "It saved his life
+  twice in the next three years." (→ PROMISE)
+- Waited 2 h 40 m. It circled the inside **eleven times**, then crossed on the twelfth.
+  Death took ~20 minutes: shine → dull → grey → crumpled dry, **and it did not pull back**,
+  pouring its wet self into its dry self. Ends as a thing "the colour and texture of a
+  wasp's nest."
+- **Wick made himself watch all of it**, standing at the salt line. No reason except that
+  he had decided to be the sort of person who looks at it.
+- **The Seed:** found in 9 minutes; had to open the whole length with Tam's small knife.
+  Pin-head, grey, permanently greasy, **not quite opaque — light goes in and does not come
+  out.** Weighs nothing. Wrapped in feed-ledger scrap, carried against the skin.
+- Recovered ~4 lb of the 6 lb of salt. The rest went into the floor and the creature.
+- **PLANTING (system fact, from Tam and Ma Dunnock):** no ceremony, no registrar, no
+  place required. Hold the Seed, go in, it comes with you (nobody can say how; nobody has
+  ever thought it strange), set it on the ground. After that it is not up to you.
+  **Everyone puts their first terrain in the corner by the door, out of the way of the fire.**
+- **Wick waited two days before planting** — "the first genuinely disciplined thing he
+  ever did."
+- **He planted it at THE MIDDLE**, because the middle is the only place in forty-one acres
+  he can reliably find, and he has no corner, no door, and no fire.
+- **TERRAIN 1 — "the warm damp."** Spread out from the Seed a hand's breadth at a time and
+  stopped at **two paces across**. Not quite round. Ground warm (a cow's flank) and wet;
+  faintly steaming; smells of mushrooms and old fat.
+- **He can see in his own Hold despite there being no light.** Stopped questioning it
+  around night four.
+- **THE DISCOVERY:** drawing on the warm damp, the thread goes out about a foot, **sinks,
+  and stays.** It does not disperse. Tested eleven more times, "because one was a guess."
+  → **Terrain carries weight without a fire.** Nobody has ever needed to find this out.
+
+## B01 c011 — "Eleven Breaths"  [Long 17 – Dust 2]
+- **THE RATE: eleven breaths, then the patch stops accepting.** On the twelfth the thread
+  lies on the ground, spreads, thins, and is gone into the salt. Resets by the next
+  evening. Wick's first number about himself.
+- **The six-hundred-year arithmetic:** 2 paces ≈ 4 sq paces ≈ under 0.002 acre. 41 acres
+  ÷ 0.002 ≈ **20,000 crawlers**. At one crawler per eleven days = **six hundred years.**
+  He responds by noticing the number has three factors and he has measured only one.
+- **Five weeks of measurement (all of Long, most of High), four more crawlers killed
+  (five total). Six findings:**
+  1. A second Seed of the same kind **expands the existing terrain**; it does not make a
+     new patch. 2 paces → 5.
+  2. Third → 8 paces. Fourth → 11. Increments are **not equal** and he cannot find the
+     rule. Filed under **"things I don't understand yet"** — 19 entries by end of summer;
+     he keeps this list for life.
+  3. **11 paces takes 41 breaths.** Roughly **4 breaths per pace of width**. The match to
+     his acreage is dumb coincidence and he is deflated about it.
+  4. **Where he draws matters.** Ground drawn into recently takes less the next day.
+     He begins **walking the edge as he draws, like a man walking a fence line.**
+     → **41 breaths becomes 52.**
+  5. Crawlers are running out in chamber 1 (five killed; sixth took three nights; seventh
+     not got at all).
+  6. **He is out of salt** — 4 lb left of 6, and it is lost a little every kill.
+- Gran, end of High: *"You'll want to eat more."* Bread in the crock, cleared with Tam
+  ("he said 'mm', which in that man means yes"). **"I'd rather have a grandson than a
+  clear conscience."** Said once, and she says she will not say it twice.
+- **Dust 2 — down the passage.** 4 ft wide, 5 ft high, water-made, chalk run soft. Wild
+  runs downhill along the floor, **knee-deep at ~200 paces**. He goes 50 more.
+- **CHAMBER 2 — THREE SHEEP.** Not recent. Crumpled wasp's-nest colour, and **wool**, in
+  great grey mats with burrs still in. Wick reads the burrs: **Rennick wool.** Counted
+  twice. The Rennicks lost **one**.
+- A crawler could not take a full-grown ewe down a passage. **There is something else
+  down there.** It has been there since at least end of Long — six weeks — and took a
+  ewe out of a field with the gate shut and the wall up.
+- Gather begins in **nineteen days**.
+- Ends: he stands up to walk to the village, and gets eleven paces before he sees a man
+  sitting on the bridge post.
+
+## B01 c012 — "Deputy Under-Auditor"  [Dust 2, late afternoon]
+- **OSSIAN PELL, first appearance.** ~50 or looks it. Long good coat with **ink on both
+  cuffs in about four colours**. Satchel. Round pleasant face. Air of a man on a picnic.
+- **Full title (running gag):** *Deputy Under-Auditor Emeritus of the Third Circuit,
+  Provisional, Seconded.* "You may say it in full the first time and abbreviate thereafter.
+  Most people abbreviate immediately, which I have decided to find charming."
+- He had been sitting there **two hours** and had seen the rope, the alder, the hole
+  ("a very poor hole and I would not myself go down"), the salt, and the shortened spear.
+  He counted Wick's eleven minutes on the gravel. **"I count everything. It is a dreadful
+  habit and it has cost me two marriages and one commission."**
+- **"I am *of* the Ledger, which is different."**
+- **PELL'S NON-INTERVENTION RULE (system/institutional canon, established here):**
+  An auditor acts only in furtherance of a **filed instrument**. Pell's instrument is an
+  **audit of assessment irregularities in the Third Circuit** — eleven pages, four of them
+  schedule — naming **records and persons**. A Welling is neither. Filing outside your
+  instrument is **not a fine and not a reprimand; it is a matter for the Quorum.**
+  He has been before the Quorum **twice**. "I would rather eat my own boots, and I say
+  that as a man who has thought carefully about his boots."
+  · He may not even *tell* Camber: **causing a filing** outside instrument is the same
+  offence with a longer name. Precedent case: ***Odell*** — nine hundred pages, ruined
+  four lives, one of them a man who tried to warn a village.
+  · Rationale, which he states and detests: you cannot let a man walk into any office in
+  the country *and* do as he likes when he gets there. The last time auditors could act
+  outside instrument, one decided a town needed reorganising; it took eleven years and a
+  great many people to explain that it did not.
+  · **"I cannot help you. Not will not. Cannot."** He would stand and watch a village be
+  eaten and file a perfectly correct note. He has said so in writing four times in thirty
+  years.
+- **WHY HE IS HERE:** Wick is **the sixth irregularity, and the largest by a factor of
+  about four hundred**, and the only one written down properly. Pell may examine him,
+  question him, and follow him about — squarely inside instrument.
+- **CAMBER'S SECOND NOTE, verbatim** (the sentence that brought Pell): *"The frame reports
+  an area for which the form makes no provision. I record it as measured. I note that the
+  schedule has no use for it, and I note separately that this is a defect of the schedule
+  and not of the subject."* Pell: four sentences with that much spine in thirty-one years
+  of reading forms.
+- Pell has read Wick's Form 9-C nomination and knows it took four tries.
+- **Pell's four questions:**
+  1. *How did you find it?* — He made Wick repeat the knot sequence (5,6,7,7,9,12,5)
+     **three times**, stopping dead at the final "five," and did not explain why. (→ THREAD)
+  2. *Why did you keep going down?* — **"Because there's a piece of the world down there
+     that nobody owns, and I didn't know that was allowed."** Pell walked twenty paces in
+     silence: his highest compliment.
+  3. *What have you got?* — 11 paces of warm damp out of 41 acres; **52 breaths a day**;
+     where he sits matters. Pell **stopped dead in the road.** "You have been measuring
+     your own intake." Wrote in a small book for fifteen seconds.
+     · Wick: *"There's nobody here to teach me anything, that's the whole of the trouble."*
+     · Wick credits the method to his mother: "One measurement's a guess. Four's a number."
+  4. *(the one that ends the chapter)* — Pell predicts, without weight, that Wick **will**
+     break his promise before Gather, for a very good argument that will be wrong, and asks:
+     **"When you break it — what will you be buying with it?"**
+- Wick momentarily senses something under the cheerfulness: "the way you feel a barn in
+  the dark before you can see it."

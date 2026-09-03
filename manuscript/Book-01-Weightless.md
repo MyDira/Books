@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 6 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 10 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -1153,5 +1153,675 @@ Then he went home and had his dinner and said nothing at all, which was, he disc
 
 ---
 
+# Chapter 7 — A Seam
 
-<!-- 6 chapters · 13,274 words · consolidated 2026-09-03 -->
+He went down on the twenty-sixth of Green, in the afternoon, because he had worked out that if something went wrong at night nobody would come looking until morning and if something went wrong in the afternoon nobody would come looking until morning either, but at least he would be able to see.
+
+He tied the rope to the second alder, which was solid, and not the third, which was not. He put the tinder-box in his shirt and a stub of candle in each pocket and a third in his boot. He took the spear, which was seven feet long and immediately turned out to be the stupidest object anybody had ever tried to take down a hole, and left it wedged in the split of the tree where he could reach it coming up.
+
+Then he went in feet first with the rope in both hands and his elbows against the chalk and slid.
+
+---
+
+The first thing was that the cold stopped.
+
+It stopped about fifteen feet down, all at once, the way stepping out of a draught stops. Above that line the air came up cold and washed and smelling of nothing. Below it the air was warm and wet and smelled overwhelmingly of *something*, and the something was mushrooms and old fat and the inside of a mouth.
+
+Wick hung on the rope with his boots braced and breathed it and did not like it at all.
+
+Then he looked down past his own feet, and the shaft opened out, and he forgot about the smell.
+
+---
+
+Being an Ember meant you could see the Wild.
+
+That was the whole of it, at Ember. You did not get a working and you did not get a strong back; you got a fire in a small room and, from the moment you woke up, you could see. It had taken Wick about a week to stop noticing it and then a week more to understand what he had stopped noticing. The Wild lay over Hollow Alder like a faint grain in the air, a very thin haze that moved when the wind moved and pooled in the cellar and thinned on the ridge, and after fourteen days it was simply what the world looked like, and he could no more have described it than he could have described the colour green.
+
+He had been looking at three knots his entire life.
+
+The shaft opened out into a chamber the size of the Hollow's taproom, and the Wild in it was so thick that he could not see the far wall through it.
+
+It was not haze. It was *water*. It hung and turned in slow ropes and sheets, pale as skimmed milk, and it moved on its own with nothing moving it, and where it lay along the floor it was two feet deep and it ran, sluggishly, downhill, into a passage at the far end and away.
+
+Wick came off the rope onto a floor of soft chalk and stood in it up to his shins and could feel it. Not with his hands. With the front of his chest, behind the ribs, where the salt was, a slow pressure like standing in a river.
+
+He got the candle lit on the fourth try because his hands were unhelpful.
+
+The flame came up round.
+
+Not a teardrop. A ball, the size of a marble, sitting on the wick, perfectly still and perfectly spherical, and it gave off about four times the light a candle had any business giving off, and it burned steadily and did not consume any wax at all in the entire time he stood there staring at it.
+
+"Right," Wick said, and his voice went out flat and dead into the chamber and came back off nothing.
+
+---
+
+The chalk had been eaten.
+
+That was the only way to describe what had happened to the walls. Chalk was chalk; you got it in the Loam under a spade's depth everywhere, white and dry and crumbly and dull. This chalk had gone soft and slightly clear at the edges, like tallow, like the fat off the top of a stockpot when it sets, and it had run. There were shapes in the walls that had been made by something running very slowly for a very long time: ledges and lips and long hanging drips, all of it faintly translucent, all of it giving back the candle in a way that made the room look lit from inside.
+
+There was water coming through from above. He found where: a seam in the roof that was letting the Wickwater in a drop at a time. That answered the third alder holding low. The river was leaking into this.
+
+And there were things growing.
+
+That was the part he had not been prepared for, and it was the part he would still be thinking about when he was three hundred years old.
+
+There was a patch of grass on the floor of the chamber, about nine feet across.
+
+It was white, because it had never seen the sun, and it was ankle-high and perfectly even, and it grew out of soft chalk in a place with no light. Wick walked over to it with his round candle held out and crouched down and touched it and it was grass. Cold, springy, ordinary grass. He pulled a blade and it broke the way grass breaks.
+
+Nine feet across. He paced it, and then he paced it again, because a guess and a number are different things.
+
+Nine feet by nine feet, near enough, and the Wild lying over that nine feet was *not moving* while the rest of the room's turned like smoke.
+
+There was a room in the floor. Not a Hold. Nobody owned it. It was a room-sized piece of somewhere-else, sitting in the chalk, growing grass in the dark, and it had got there without anyone kindling it or planting it or wanting it.
+
+Wick sat down on his heels in the middle of it with his arms round his knees.
+
+Everything he knew about the practice, everything the whole village knew, came down to a person having a place inside them. That was the arrangement. The world was out here and the terrain was in there, and Seeds were how you moved a bit of one into the other, and that was the deal and it was the same deal for everybody.
+
+This was terrain lying loose on the ground.
+
+"You just *grow*," he said out loud, to the grass. "Nobody's got you at all."
+
+He had, at that moment, no way of knowing that he was sitting in the middle of the single most important fact of his life, or that he would spend sixty years working out what it meant. What he had was the strong, unhelpful, entirely accurate sense that the arrangement he had been told about was not the arrangement, and that everybody in Hollow Alder was doing arithmetic with the wrong numbers.
+
+Then something moved in the passage.
+
+---
+
+He got behind a chalk lip and put the candle out with his fingers, which hurt, and did not make a sound.
+
+It came along the floor through the Wild, and the Wild went round it the way water goes round a stone.
+
+It was about the length of his forearm and it had no bones in it. It moved by putting a fold of itself forward and pouring the rest along after, and it was pale and wet and it left a track behind it, and every few feet it stopped and lifted its front end and turned it slowly through half a circle, and there was nothing on the front end. No eyes. Nothing. It was smooth.
+
+Wick had heard the words *tallow-crawler* his whole life the way he had heard *shipwreck*. Four copper for the Seed and threepence for the head. A stomach and no sense of smell. Hob had made it a joke and Wick had done arithmetic about thirty-eight of them without once picturing one.
+
+It came up onto the grass and stopped.
+
+Then it went round the grass.
+
+It did not cross the patch. It came to the white grass and stopped dead and put its front up and turned it through half a circle and then it went round the whole nine feet, close to the edge, all the way, and got back on its line and carried on toward the shaft.
+
+Toward the rope.
+
+Wick did not breathe for a while.
+
+It went past the bottom of the rope without any interest in it and put its front end against the wall and started up. Not fast. It went up the soft chalk about twelve feet, and stopped, and hung there, and did nothing at all.
+
+He counted to two hundred. It did nothing.
+
+He understood, slowly and with real unhappiness, that it was in the shaft, and that it was between him and the outside, and that it was not doing anything because it did not need to do anything, and that he had come down a hole with three candles and no working and had left the spear at the top like an idiot.
+
+The Wild ran past his shins, sluggish, warm, ten feet deep in the corners, more Wild in this one room than in the entire village he had grown up in, and he could not use a single drop of it, because he had no fire and forty-one acres of salt and there was nothing whatsoever inside him to do it with.
+
+He sat down behind the chalk lip in the dark and made himself think.
+
+---
+
+He got out an hour and a half later, and the way he got out was this.
+
+He took the candle stub out of his boot and lit it, low down behind the lip, and rolled it across the floor to the far side of the chamber, where it went on burning with its little round unnatural flame and lit up eleven feet of wall.
+
+Nothing happened for a long time.
+
+Then the thing on the shaft wall came down and went across the floor toward the light, and while it was going across the floor Wick went up the rope hand over hand with his boots skidding on the chalk and his heart going like a bird in a box, and he came out through the base of the third hollow alder into the ordinary cold afternoon and lay on the gravel bar in the daylight for a good ten minutes.
+
+He was shaking. He noted that with some interest.
+
+He was not, he found, frightened. Or he was, and it was underneath something else, and the something else was so large that he had to sit up and put his hands on his knees and look at the river for a while before he could name it.
+
+There was a piece of the world down there that nobody owned.
+
+There was a nine-foot room lying on the floor of it growing grass in the dark, and a thing with no eyes that had gone round it rather than over it, and enough Wild in one chamber to drown the whole of Hollow Alder, and it was four hundred yards from his gran's kitchen and it had been there, probably, for longer than the village.
+
+And he could still, right now, this afternoon, walk up the road and get on Hob Tunny's cart on Tuesday and be in Marrowfield by Friday and go into the Ledger office and say: *there's a Welling under the ford*.
+
+That was still available. He turned it over honestly and it was completely available. He would be the boy who found it. Somebody would probably give him a shilling. Vance would come out with the grey eyes and take charge and fence it and it would be handled properly by people who knew what they were doing, and that would be that, and it would be *right*, and Wick would go back to the barley.
+
+He sat on the gravel bar until the light started to go.
+
+Then he got up and untied the rope from the second alder and coiled it, and got the spear down out of the split of the tree, and stood for a moment looking at seven feet of ash with a boar head on it, thinking about a passage four feet wide and a chalk lip and a thing the length of his forearm that had no eyes on the front of it.
+
+"Too long," he said.
+
+And that was the moment, although he did not notice it going past. Not the promise in the tree. Not the decision. It was standing on a gravel bar at dusk with a coil of rope over his shoulder, holding a spear, thinking about *length*.
+
+He walked home and put the spear back on its pegs and ate his dinner and answered his father's questions about the ford, which were three, and which he answered truthfully by saying that the water was very cold and that he had been looking at the alders.
+
+Then he went out to the byre and found the hand-axe and a whetstone and sat down on an upturned bucket, and began, without any real idea of what he was doing, to think about how a person might make something four feet long out of something seven feet long.
+
+
+---
+
+# Chapter 8 — Four Feet of Ash
+
+The spear had been his grandfather's and it had killed, by family reckoning, nine boar, and Wick cut two and a half feet off it in the byre on a Tuesday evening with a hand-axe and a rasp and no permission whatsoever.
+
+He was sick about it for a full minute afterward, sitting on the bucket with the offcut in his hands. Then he got on with it, because being sick about a thing you have already done is a waste of an evening.
+
+He rounded the new butt and burned it hard in the fire so it would not split, and he sat with the whetstone until the head would take the hair off his arm, and he wrapped the grip in twine because his hands had sweated on it in the chalk and he had not liked that. It came out at four feet and a bit, and it was heavy in the wrong place now, and it was still the best thing he owned.
+
+Gran watched him do the last of it from the doorway with a lamp.
+
+"Your grandad's," she said.
+
+"Yes."
+
+"Mm," said Gran Alder, and went to bed.
+
+---
+
+He went down on the second of Long with the short spear, a lantern instead of candles, and a plan he had spent four nights building and was rather proud of.
+
+The plan was this: tallow-crawlers went toward light. He had seen one do it. So he would put the lantern in the middle of the floor, get behind the chalk lip with the spear, and when one came to the lantern he would put four feet of ash through it from above and behind while it was busy.
+
+It was a good plan. Every part of it was correct. He had observed the behaviour, formed the theory, arranged the ground, and chosen the moment, and if you had put that plan in front of any hunter in the Loam they would have said *well, yes, that will do,* and Wick spent a long time afterward being grateful that he had got it right, because it meant the lesson he learned was a real one and not just the ordinary lesson about being fourteen.
+
+He set the lantern down. He got behind the lip. He waited an hour and forty minutes with his knees going to stone, watching pale rope of Wild turn slowly through the room and pour away down the passage.
+
+Then one came, and went to the lantern, and stopped, and lifted its front end and turned it through half a circle, and Wick came up out of the dark and put the spear through the middle of it with all the weight he had.
+
+The head went in. It went in easily, the whole width of the thing, and out the other side, and struck the chalk floor beneath, and stuck.
+
+And nothing happened.
+
+---
+
+Nothing happened for perhaps a second and a half, which was long enough for Wick to understand, with a horrible clarity, every part of what he had got wrong.
+
+He had put a spear through a boar. That was a thing he had done, with his father, twice. You put a spear through a boar and it *stops*, because a boar has a spine and lungs and a heart, and a spear finds one of them or it opens the boar wide enough that the boar stops caring about you.
+
+A tallow-crawler had none of those things. He had known that. Hob had said *boneless* and Wick had heard the word and had filed it and had not, at any point in four nights of planning, actually thought about what it meant.
+
+What it meant was that he had made a hole in it.
+
+The thing did not scream, because it had nothing to scream with. It did not even convulse. It simply flowed — the whole pale length of it moved at once, sideways, off the spear, the way a spilled thing moves off a slope, and it came off the head and went round the shaft in a fold and it was on the haft, on the wood, coming up.
+
+Wick let go of the spear.
+
+That was the right decision and he made it in about a quarter of a second and it did not help, because it had already crossed onto his hands.
+
+There was no weight to it. That was the thing his body could not get past. He had braced for something like a dog and there was nothing there, no mass, no push, just a cold wet sleeve arriving up his forearm faster than he could pull back, and then a sensation in the meat below his elbow like being pressed very hard with a thumb.
+
+He hit it with the lantern.
+
+He did not decide to. His left hand had the lantern in it and his left hand swung, and the lantern glass went and the oil went and the flame went with it, and there was a smell like a rendering shed, and the thing came off his arm all at once and poured onto the floor and away, burning in two places, into the passage.
+
+The lantern went out.
+
+---
+
+It is about twenty feet from the floor of that chamber to the base of the third hollow alder and Wick went up it in the dark on a rope with one arm that worked properly, and he did not remember any of it afterward at all.
+
+He came out through the rot at the bottom of the tree and got maybe six feet along the gravel bar before he stopped and was extremely sick into the Wickwater.
+
+Then he sat with his back against the second alder and held his right arm up to the moon and looked at it.
+
+There were two marks below the elbow. They were not much. They were the size and shape of a thumbprint each, side by side, and they were not bleeding, and the skin over them was not even broken in any way that showed. They were faintly grey at the edges.
+
+He pressed one. It did not hurt.
+
+That was, he found out over the following four days, considerably worse than if it had.
+
+---
+
+He got home at midnight and washed his arm at the trough for a long time, and went to bed, and by morning the two marks had gone from grey at the edges to grey in the middle and the arm ached from wrist to shoulder in a deep unlocatable way, like a tooth.
+
+By the second morning he could not close his hand properly and there were red lines going up the inside of his forearm, thin and neat, following the veins.
+
+He did the water. He did the ewes. He wore his sleeves down in the second week of Long, in warm weather, in a village where every man in the fields had his sleeves rolled past the elbow, and he told himself that nobody had noticed, and Gran had noticed on the first evening.
+
+She let it run four days.
+
+Wick thought about that a great deal in later years and never entirely got to the bottom of it. It was not that she had not known what to do. Gran Alder had been putting things on wounds since before his father was born. It was, he eventually concluded, that she had wanted him to come and say it, and that she had watched him not say it for four days, and had made a judgement about what kind of person he was going to be, and had then gone and got the vinegar anyway.
+
+On the fourth evening she was sitting on the bench with the bowl and the cloth and the vinegar already out when he came in from the field.
+
+"Sit down," she said.
+
+"Gran —"
+
+"Sit *down*, Wick."
+
+He sat down. She took his wrist and pushed the sleeve up to the elbow and looked at what was there, and her face did not change at all, and she was quiet for a good while.
+
+"Well," she said. "It's not a dog."
+
+"No."
+
+"It's not a rat, and it's not a nail, and it's not a horse, and I've seen all three." She turned the arm over. "Two marks, side by side, no puncture, grey in the middle, and the red gone up the veins in four days and not two, which means whatever it was, it isn't in a hurry." She looked up. "That's a bite."
+
+"Yes."
+
+"From what?"
+
+And Wick, who had lied by omission at his own dinner table twice a day for three weeks and had found it disturbingly easy, found that he could not do it once when she asked him a straight question with his arm in her hands.
+
+"There's a Welling under the ford," he said.
+
+---
+
+She did not shout. He had expected shouting and he had rehearsed for it and he had nothing at all prepared for what actually happened, which was that his grandmother put his arm down carefully on her knee, and sat back, and said, "How long?"
+
+"I found it on the twenty-fourth of Green."
+
+"Nineteen days."
+
+"Yes."
+
+"And you've been down it."
+
+"Twice."
+
+"Mm."
+
+She got up and went inside. Wick sat on the bench with his arm aching and the light going and had time to run through every possible thing she could be fetching, and it was none of them: she came back out with the vinegar bowl and a candle and a small iron thing like a pair of blunt tongs, and she sat back down and started work on his arm without another word, and it hurt so much that he had to hold on to the bench with his other hand.
+
+"Now," said Gran Alder, working. "I'm going to say a number of things, and you'll not interrupt, because this is going to take a while and I want it all said before I lose my temper, which will be in about ten minutes."
+
+"Yes, Gran."
+
+"First. You'll go to Marrowfield and you'll report it."
+
+"I know. I said I would. I said it out loud, to myself, in the tree, and I meant it, and I'm going before Gather."
+
+"Before *Gather*." She pressed the cloth on and he made a noise. "Gather's five weeks."
+
+"Yes."
+
+"There are three hundred people up that road, and a hole with things in it four hundred yards down it, and you've made a private arrangement with a tree." Her voice had not risen at all, which was much worse. "That's the first thing and I've said it. Second."
+
+She stopped working and looked at him.
+
+"You'll not go down there again with that arm."
+
+"Gran —"
+
+"That's not me forbidding you. I gave up forbidding you the day you were nine." She went back to the cloth. "That's me telling you a fact about your arm, which is that it's got something in it that isn't blood, and it's four days in and it's gone up past the elbow, and if you go down a hole with it and you sweat, you'll be lying at the bottom of that hole by morning with your gran not knowing where to look. That's not a rule. That's just what'll happen."
+
+Wick looked at the two grey marks.
+
+"How long?" he said.
+
+"Vinegar and a poultice and rest, and it'll be out of you in ten days."
+
+"Ten."
+
+"Ten. And you'll drink what I give you and you'll not like it." She tied the cloth off. "Third thing."
+
+She sat back and folded her hands.
+
+"You cut your grandad's spear down to four foot," she said, "and I've known for a fortnight, and I've said nothing, and do you know why?"
+
+"No."
+
+"Because a boy who's given up doesn't measure anything, and he doesn't cut down a spear, and he doesn't sit in a byre for four hours getting the balance wrong and doing it again." She looked out at the yard. "I've watched people give up in this village all my life. It doesn't look like crying. It looks like sitting still and being pleasant."
+
+She got up and picked up the bowl.
+
+"So I'm not going to tell you to stop," said Gran Alder. "I'm going to tell you that you're going about it like a boy who thinks he's the only one who's ever been frightened, and that you're going to get killed at it, and that when you go back down there — and you will, and we both know it, and I'll not insult either of us by pretending otherwise — you'll go down knowing what you're doing, and not on a plan you made up in a byre out of one thing you saw once."
+
+"I don't know how to do that."
+
+"No," Gran agreed. "You don't. That's the whole of your trouble, and it's not a small one." She went to the door and stopped there. "So go and find out. There's a man comes through here every week with a cart and a mouth on him, and he's been in and out of Marrowfield for twenty years, and you've asked him about money twice and about killing nothing."
+
+The door shut.
+
+Wick sat on the bench in the dark with his arm strapped and throbbing and the vinegar smell coming off it, and thought about a spear going through something and coming out the other side and making a hole, and how a hole in a boar is a wound and a hole in a spilled thing is nothing at all.
+
+*You have to take it apart,* he thought. *Or you have to change what it's made of.*
+
+He had ten days, and he could not use his right arm, and he had, at that exact moment, no idea what he was going to do.
+
+He got a piece of the feed ledger out anyway, and a stub of charcoal, and sat there in the dark writing down, left-handed, in a hand that was even worse than his usual, a list of every single thing he had seen a tallow-crawler do.
+
+There were eleven items. He had not known there were eleven.
+
+
+---
+
+# Chapter 9 — Eleven Things
+
+By the third day of the poultice the list had thirty-one items on it, because once you start writing down what you actually saw rather than what you remember seeing, it turns out you saw a great deal.
+
+Wick kept it on the back of the feed ledger with everything else, in charcoal, left-handed, and he read it over so many times that he could recite it for the rest of his life.
+
+> 1. Moves by folding a bit of the front forward and pouring the rest after.
+> 2. No eyes. No face. Front end turns through half a circle and stops.
+> 3. Goes toward a lantern. Went toward a candle too. Went slowly both times.
+> 4. **Went round the white grass. Did not go over it.** Went all the way round, close in, and got back on its line.
+> 5. Leaves a wet track that stays wet.
+> 6. A hole in it does nothing at all.
+> 7. Came off the spear sideways, the way spilled fat comes off a slope.
+> 8. Got onto my arm faster than I could pull back and weighed nothing.
+> 9. Bite: two marks like thumbprints, no cut, grey in the middle, four days to the elbow.
+> 10. Burning oil took it off me at once. It went away burning in two places and it kept going.
+> 11. Cold and wet, in a room that is warm and wet.
+
+Items twelve through thirty-one were smaller and duller and some of them were probably wrong, and item four had a box drawn round it because it was the one he could not explain and could not stop looking at.
+
+He had been very sure, on the first day, that fire was the answer. Item ten said so. Fire had come off well.
+
+By the fourth day he had gone off it. Fire had made the thing let go of his arm, which was not the same as killing it, and it had gone away *still moving* with two parts of itself alight, and he had a strong suspicion that a creature which flows would simply put itself out by flowing, and in any case the only fire he had was a lantern, and the lantern was broken, and it had cost eleven pence and he did not have eleven pence.
+
+On the sixth day, still one-armed, he walked down to the road and waited two hours for Hob Tunny.
+
+---
+
+"Hob," said Wick, "how do you kill a tallow-crawler?"
+
+Hob Tunny stopped with the nosebag half on.
+
+"Do what?"
+
+"How do you kill one? Properly. Not with a spear."
+
+"Why in God's name would you want to know that?"
+
+Wick had prepared for this and his preparation was, he was slightly ashamed to notice, extremely good.
+
+"Because I'm going to be told I'm Failed of Kindling in Rust," he said, "and everyone in this village has been kind to me for six weeks, and I've decided I'd rather know things than be kind to." He shrugged. "And you're the only person I know who's ever been near a Hall."
+
+Hob looked at him for a moment. Then he took the nosebag right off, which meant Wick had an hour.
+
+"Right," said Hob Tunny. "Well. First off, nobody kills a crawler with a spear, and anybody who tells you they have is telling you about a different animal. You can't stab a thing that's got no inside." He held up a finger. "Second, you can't chase one. You'd think you could. Great slow horrible thing, you'd think a man could just walk after it. You can't, because it goes down a crack, and it can go down a crack the width of your thumb, and it'll come out somewhere else in an hour with you still standing there."
+
+"So what do they do?"
+
+"Salt," said Hob.
+
+Wick did not say anything. He had, in fact, stopped being able to for a second.
+
+"Crawler-salt," Hob went on, entirely unaware. "You can buy it in any Hall in the Loam, penny the pound, and it's not crawler-salt at all, it's *salt*, and the Hall knows it and you know it and they charge you a penny anyway because they've got you. Coarse ground. You lay a ring of it about so wide" — he made a circle with his arms, four feet across — "on good dry ground, and you put something in the middle of it they want, and then you go and sit down."
+
+"And?"
+
+"And nothing. That's the whole of it. It comes for the bait and it gets to the salt and it stops, because it won't cross salt, not for anything. So it goes round. And round. And there's no round to go, because it's a ring." Hob spread his hands. "And after a while it tries to get across anyway, because they're not clever, and then it's finished, because salt takes the wet out of it and the wet is all it's got. Takes about the time to smoke a pipe."
+
+"It won't cross salt."
+
+"Won't cross salt, won't cross a drawn line of it, won't cross a scattering." Hob shrugged. "That's not clever hunting, mind. Any fool can lay a ring. That's why crawlers are four copper. Bottom of the board, that is. The men who take crawler writs are the ones who've got a bad leg or a bad reputation."
+
+Wick was doing arithmetic and it was not going well.
+
+"How much salt for a ring?"
+
+"Ten pound. Twelve if the ground's rough."
+
+"That's a shilling."
+
+"That's a shilling," Hob agreed, "and you get four copper for the Seed, so you'd want to be picking your salt up after and using it twice, and you would, and everybody does, and that's why the Halls sell it in a sack with a drawstring." He grinned. "Nobody's getting rich off crawlers, boy."
+
+"And the Seed?"
+
+"Middle of it. Bout the size of a pin-head, grey, and greasy, and you want a knife and no imagination." He put the nosebag back on. "And you want to be quick, because they go off. Half a day and the Seed's spoiled and you've got a shilling of salt spent on a bad smell."
+
+---
+
+He had, in the whole world, four pence.
+
+He sat in the yard that evening and did the sums and did not like any of them. A shilling was twelve pence. Twelve pence was three times everything he owned. He could ask his father, and his father would give it to him, and his father would then be short twelve pence at Gather when they were already short nine hundred and twelve.
+
+Then he stopped, and put the charcoal down, and looked across the yard at the byre, where there was a lump of rock salt in a wooden trough the size of a loaf of bread, because every farm in the Loam that had ever kept sheep had a lump of rock salt in a trough, because sheep need salt and it costs a shilling a stone and lasts two years.
+
+Wick sat and looked at it for a while.
+
+Then he laughed out loud, once, in the empty yard.
+
+---
+
+It took him four days to break it up, because it was rock salt and because he had one arm.
+
+He did it in the byre with the back of the hand-axe and a flat stone, an hour at a time, and it was the most tedious work he had ever done, and the salt got in the two grey marks below his elbow and stung so badly the first time that he sat down.
+
+By the end of it he had a flour sack about a third full, coarse-ground, grey-white, and gritty, and it weighed, on his father's cheese scale, a little over six pounds.
+
+Six.
+
+He needed ten.
+
+He sat in the byre doorway with the sack between his feet and turned it over for a long time. He could take more from the trough. He could take the whole trough, and the ewes would go without salt for a season and would be ill, and his father would find out and would not shout and would look at him in the way he had looked at him about the spear, which was worse.
+
+He could go and get more chalk-salt off the road, except there was no such thing.
+
+He could use less.
+
+Wick got the feed ledger out and read item four for what was probably the eight hundredth time.
+
+> 4. **Went round the white grass. Did not go over it.** Went all the way round, close in, and got back on its line.
+
+Nine feet across. Ankle-high, white, growing out of chalk in the dark, and nine feet of Wild lying over it that did not move when the rest of the room's turned like smoke. A room-sized piece of somewhere-else, lying loose on the floor of a Welling, that nobody owned.
+
+And a thing with no eyes had come to the edge of it, and stopped, and gone round.
+
+*It won't cross salt,* Wick thought. *And it won't cross that. And I don't know why it won't cross that, and I don't need to know why yet.*
+
+He got up and paced the byre floor, nine feet, and looked at it.
+
+A ring four feet across needed ten pounds of salt. But he did not need a ring. He needed an *enclosure*, and he had one side of it already, nine feet long, sitting on the floor of that chamber, and it had cost him nothing and it would still be there tomorrow.
+
+If he laid the salt in a horseshoe against the edge of the grass — a curve out from one corner and back to the other — he had a closed shape with two thirds the wall and one third the salt.
+
+He worked it out properly on the ledger, badly, twice, and got six pounds and a bit.
+
+He had six pounds and a bit.
+
+---
+
+He went to bed that night and could not sleep and got up again and went out and sat on the step and drew for three hours, out of pure restlessness, putting cup after cup of nothing into a lake.
+
+And somewhere in the second hour he stopped, halfway through a breath, because something had occurred to him and it would not go away.
+
+He had been thinking about the white grass all week as a wall. It was a wall. It was a very good wall and it was going to save him four pounds of salt and he was pleased with himself about it.
+
+But it was not a wall. It was a piece of terrain, lying on the ground, out in the world, that had *got there*.
+
+And he had forty-one acres with nothing in them.
+
+Wick sat very still on the step in the dark.
+
+He did not have a plan. He did not even have a thought, properly; it was more like the shape of where a thought would go. It sat somewhere behind the arithmetic and it was, roughly: *there is terrain out there, and there is terrain in here, and everybody in the world says the only road between them is a Seed, and I have just spent a week looking at a nine-foot room lying on a floor.*
+
+He did not know what to do with it. He was fourteen, and he could not read properly, and he had six pounds of sheep salt and a cut-down spear and a bad arm.
+
+He wrote it down anyway, on the ledger, under the eleven things, because writing things down was what he had instead of understanding them.
+
+> 32. The grass got there somehow.
+
+---
+
+On the tenth day Gran took the cloth off and looked at his arm and grunted.
+
+The two marks had gone from grey to a dull silvery colour, like old solder, and they were not going to fade; he would have them at eighty. The red lines had gone. He could close his hand.
+
+"Ten days," said Gran Alder.
+
+"You said ten."
+
+"I did." She put the bowl away. "Don't get bit again. It's twice as bad the second time and I don't know why."
+
+He went out to the byre and put the sack of ground rock salt by the door where he had put the coiled rope and the short spear and a candle stub and his father's small knife, which he had cleaned and sharpened and which was going to have to do for a thing the size of a pin-head.
+
+Then he stood in the doorway and looked out at the road, where Ma Dunnock was coming up from the Thatchers' with a face on her.
+
+"Ewe's gone," she said, as she went past. "Off the Rennicks' low field. Gate shut, wall up, and no ewe."
+
+Wick looked at her.
+
+"Foxes," said Ma Dunnock, in the voice of a woman who did not believe it, and went on up the road.
+
+
+---
+
+# Chapter 10 — The Warm Damp
+
+It took the time to smoke a pipe, and Wick made himself watch all of it.
+
+---
+
+He went down on the fourteenth of Long with six pounds of sheep salt in a flour sack tied across his back, and it was the third time and it was the first time he was not frightened going in, which he noticed and did not entirely trust.
+
+He laid the horseshoe against the grass. That took him an hour, on his knees in the soft chalk, pouring the salt out of the corner of the sack in a line as thick as his thumb, going out from one corner of the nine-foot patch in a wide curve and back to the other. He had practised it twice in the byre with sand and had learned two things: that his line wandered, and that the difference between a line as thick as a thumb and a line as thick as a finger was two and a half pounds.
+
+When it was done he had a shape on the floor about eleven feet across, with grass on one side of it and salt around the rest, and he had a double handful of salt left in the bottom of the sack, which he tied off and hung on the rope where he could get it.
+
+He put the candle stub in the middle, on a flat of chalk, and lit it.
+
+The flame came up round.
+
+Then he went and got behind the chalk lip and put the short spear across his knees and waited.
+
+---
+
+Wick had done a great deal of waiting in his life. Farm work is mostly waiting arranged around brief periods of panic. He had waited on ewes and on weather and on his father coming back up a field, and he had thought he understood it.
+
+He had not waited in the dark, twenty feet under a river, in a room where the Wild lay two feet deep on the floor and turned in slow ropes and poured away down a passage, for a thing that had put its mouth on his arm eleven days ago.
+
+Two hours in, he began to be able to hear his own pulse, and it took him another half hour to work out that it was not his pulse, it was the drip through the seam in the roof, and that it was exactly the speed of a slow heartbeat and had been the whole time.
+
+Two hours and forty minutes in, one came.
+
+---
+
+It came out of the passage on the far side and it took a while to arrive, the way they did: fold and pour, fold and pour, stopping every few feet to lift the front end and turn it through half a circle.
+
+Wick watched it come and had time to notice a thirty-third thing, which was that when it stopped and turned, the Wild lying on the floor moved. Not much. It went out from the front end in a ring, faintly, like the ring off a dropped stone, and came back.
+
+*It's looking,* he thought. *That's how it looks.*
+
+He filed it. He had no idea what to do with it and he filed it, and it saved his life twice in the next three years.
+
+The thing came on. It reached the near edge of the white grass and stopped, and put its front up, and turned it through half a circle, and the ring went out and came back.
+
+Then it went round.
+
+Wick's hands closed on the spear.
+
+It went round the outside of the grass, close in, exactly as it had done the first time, and it came round the corner where the grass stopped and the salt began, and it went across the corner and into the enclosure, because the salt line started three inches further out than the corner of the grass, and Wick had spent an entire evening in the byre with a piece of chalk working out that if he made the two ends of the horseshoe overlap the grass rather than meet it, there would be a way in and no way out.
+
+The candle sat burning in the middle. It went toward the candle.
+
+Then it stopped, because it had arrived, and there was nothing there to eat.
+
+Wick stayed absolutely still.
+
+The thing lifted its front end and turned it and the ring went out across the floor of the enclosure and hit salt on one side and grass on the other, and it came back, and the tallow-crawler poured itself forward two feet in a new direction and stopped again.
+
+And then it did it again. And again. And it began, slowly and with no sign whatsoever of distress, to go round the inside of the shape, close to the edge, all the way round, and get back to where it had started, and do it again.
+
+It did that eleven times.
+
+---
+
+On the twelfth circuit it tried to cross.
+
+There was no decision in it that Wick could see. It came to the salt at a place it had already come to eleven times and this time it went up onto it, the front fold going out flat over the line, and Wick felt something go out of his chest that he had not known he was holding.
+
+Then it stopped, and it started to come apart.
+
+It was not fast and it was not loud. The front of it, where it had gone over the salt, went dull. That was the first thing: it lost its shine, the way a wet stone loses its shine when the sun gets on it, and then it went from dull to grey to a sort of crumpled dry colour, and it did not pull back.
+
+That was the worst of it. It did not pull back. It could have. It had eleven feet of itself still on clean chalk and it stayed exactly where it was and kept going forward, pouring the wet part of itself into the dry part, and the dry part got bigger.
+
+It took about twenty minutes.
+
+Wick came out from behind the chalk lip after the first three and stood at the edge of the salt line with the spear in his hands and watched the whole rest of it, and there was no reason on earth to do that, and he did it anyway, and he was never able to explain to anybody why except that it had seemed to him, quite strongly, that if he was going to do this then he was going to be the sort of person who looked at it.
+
+At the end there was a thing on the floor about the length of his forearm that was the colour and texture of a wasp's nest, and it did not move, and the room smelled like the inside of a rendering shed.
+
+Wick sat down on the chalk and put his head between his knees for a while.
+
+---
+
+The Seed was where Hob had said it would be, in the middle, and it took him nine minutes to find because the middle of a collapsed tallow-crawler is not an obvious place and he had to open the whole length of it with his father's small knife and go through it with his fingers.
+
+He found it against the last of the wet.
+
+It was the size of a pin-head, exactly as promised. It was grey. It was greasy, and it stayed greasy however much he wiped it, and when he held it up to the round candle-flame it was not quite opaque; there was something in the middle of it that the light went into and did not come out of.
+
+It weighed nothing. He turned it over on his palm and understood, in a distant academic way, that he was holding four copper, and that he was also holding the first thing he had ever owned that was not a farm implement or a piece of string.
+
+He wrapped it in a scrap of the feed ledger and put it in his shirt, against the skin, because he did not trust his pocket.
+
+Then he scraped up every grain of salt he could get, which was about four pounds, because the rest had gone into the floor and into the thing, and he went up the rope one-handed with the sack over his shoulder, and came out through the base of the third hollow alder into a hot bright afternoon in the middle of Long, and sat down on the gravel bar, and found that he was grinning so hard his face hurt.
+
+---
+
+He did not plant it that night. He wanted to and he did not, and holding off was, he thought afterward, the first genuinely disciplined thing he ever did.
+
+He waited two days, and in those two days he asked his father four careful questions and Ma Dunnock two, framed as idle curiosity about how it had gone for Bri, and he learned the following:
+
+You did not need a ceremony. You did not need a registrar. You did not need to be anywhere in particular. You held the Seed in your hand, and you went in, and it came in with you — nobody could tell him how, and nobody had ever thought it strange — and you put it down on the ground, and after that it was not up to you.
+
+"Where'd Bri put hers?" he had asked.
+
+"Corner," his father said. "By the door. That's what they all do. You want it out the way of the fire."
+
+Wick had thought about that for a long time. *That's what they all do.* Nine feet of room and a fire in the middle, and everybody in the world puts their first terrain in the corner by the door, and there is not one person alive who has had to think about where to put a thing in forty-one acres.
+
+---
+
+He went in on the sixteenth of Long, at night, lying on his back in the dark with the Seed in his fist.
+
+The salt was where it always was. The black ceiling of a sky. The silence.
+
+He opened his hand and the Seed was in it, which he had half expected and was still not ready for; a greasy grey pin-head sitting on his palm in a place that had no light in it and yet where he could see perfectly well, which was a thing about his Hold he had stopped questioning around the fourth night.
+
+He stood in the middle and thought about it properly, because he had been thinking about it for two days and he wanted to get it right the first time and there was not going to be a second one.
+
+The middle was the only place he could find.
+
+That was the whole argument and it took him about four seconds to have it. He had forty-one acres and no landmarks and a sky with nothing in it to steer by, and he had exactly one fixed point in the entire country, and it was under his feet, and it was the one place he could walk to from anywhere without knowing where he was.
+
+Everybody else put the first one in the corner by the door, to keep it out of the way of the fire.
+
+He did not have a corner. He did not have a door. He did not have a fire.
+
+Wick Alder knelt down in the middle of forty-one acres of salt and put a pin-head on the ground.
+
+---
+
+Nothing happened for long enough that he began to be sick about it.
+
+Then the salt went dark around his hands.
+
+It went out from the Seed in a ring, slowly, a hand's breadth at a time, and it was not a stain and it was not water; the ground was simply *wet* where it had been dry, and warm where it had been cold, and it kept going, and Wick knelt there with his hands on his knees and watched it go past him on all sides.
+
+It stopped at about two paces across.
+
+Two paces. He stood up and walked round it. It was not even properly round; it had gone further one way than the other for no reason he could see. Two paces of warm wet ground, faintly steaming into cold air, in the middle of forty-one acres.
+
+He had killed a thing and watched it die and cut it open with his father's knife, and had spent four days breaking rock salt one-handed and eleven days with a poisoned arm, and had lied to his family for a month, and what he had to show for it was a damp patch you could cover with a horse blanket.
+
+Wick started laughing and could not stop for a while, and it was not a good laugh at first and then it was.
+
+Because he was standing on it. He was standing on ground that was warm, in a place where he had walked a thousand paces in a straight line and passed nothing, and it had not been there yesterday, and it was going to be there tomorrow.
+
+He got down and put both palms flat on it. It was the temperature of a cow's flank. There was a faint smell, mushrooms and old fat, the inside of a mouth.
+
+Then he sat down cross-legged in the middle of it, on the warm wet ground in the dark under the black ceiling, and breathed out longer than he breathed in, and thought about the bottom of a well.
+
+The thread came in, thin and cool, the way it always did.
+
+It came in through his chest and down through the floor of himself and out onto the ground, and it went — and it did not go far.
+
+It went about a foot and stopped, and sank, and stayed.
+
+Wick opened his eyes.
+
+He put his hand on the ground where it had gone. He could not feel anything. There was nothing to feel; it was warm wet ground and it had been warm wet ground before.
+
+He shut his eyes and did it again, slower.
+
+In through the chest. Down through the floor. Out onto the ground.
+
+And it went about a foot, and sank, and stayed.
+
+He did it eleven more times to be sure, because one was a guess.
+
+
+---
+
+
+<!-- 10 chapters · 22,508 words · consolidated 2026-09-03 -->
