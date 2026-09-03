@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 18 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 21 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -3554,5 +3554,672 @@ Nettle looked at him for a while.
 
 ---
 
+# Chapter 19 — The Line
 
-<!-- 18 chapters · 40,607 words · consolidated 2026-09-03 -->
+He could not draw for four days.
+
+That was the bill for the chalk-hound, and nobody had warned him about it because nobody had ever had cause to. Every practitioner in the world spends what is in their fire and the fire keeps burning, and by the following evening the room has warmed up again and they think no more about it. Wick had spent five months of nights soaking eleven paces of ground and he had put the whole of it out through the palm of one hand in about a second and a half, and what was left was cold.
+
+He went in on the first evening and knelt on the warm damp and it was not warm.
+
+That was the frightening part. Not the ache behind his ribs, which he could bear, and not the shaking, which passed. It was kneeling on the only thing he had ever made and finding it the temperature of the salt around it, and putting both palms flat on it, and getting nothing back.
+
+He drew anyway, because there was not one other thing to be done, and the thread came in and went out and lay on the ground like water on a table.
+
+Second evening: the same.
+
+Third evening: it sank. Once. He was so relieved he had to stop.
+
+Fourth evening: four breaths. Fifth: nineteen. By the eighth it was back to fifty-two and the ground was warm again, and Wick, lying in the dark with his hands folded on his chest, added a line to the ledger under *things I don't understand yet*, which was up to twenty-six entries by then.
+
+> *It comes back. It takes eight days and it comes back all at once at the end and not evenly. Why?*
+
+He also, quietly, and without telling anybody including Nettle, added a line to a different page.
+
+> *That was a working. I did a working.*
+
+He looked at it for a while and then crossed it out, because he had done it once, by accident, at the cost of everything he had, on an animal that was sitting on his chest. A thing you can do once when you are about to die is not a working. It is a piece of luck with a story attached.
+
+Then he uncrossed it, because it was still true.
+
+---
+
+The survey took him nine nights after that and it very nearly broke him, and at the time it was just a boy in a byre with six Seeds and a stick.
+
+---
+
+The method was the ford's method and he did not have to invent any of it, which was the only reason it worked.
+
+He could not measure the Wild inside his Hold. There was no candle in there and no lean and no string. He had turned that over for two days and had got nowhere and had then, sitting on the trough with his empty chest aching, come at it sideways.
+
+He did not need to measure the ground.
+
+He needed the ground to measure *itself*.
+
+Six chalk-hound Seeds. Identical, near enough: same beast, same pack, same hill, same morning, all six cut out by the same knife within an hour of each other. Plant an identical thing in six different places and whatever comes up is not a fact about the Seed. It is a fact about the place.
+
+*Your existing ground decides the particulars.* Everybody knew that. Everybody said it. Everybody said it about *quality* — plant a river in a wood and you get a good creek, plant it in a desert and you get a salt ditch — and nobody had ever thought to say it about *size*, because nobody had ever had two places to try.
+
+Wick had forty-one acres of places.
+
+---
+
+**Peg one.** He walked out from the middle for a hundred paces and put a Seed on the ground.
+
+It took the way the crawler Seed had taken: nothing for a long moment, and then the salt went out from under his hands in a slow ring, except this time what came was not warm and wet. It was dry. It went pale and short and even, and the ridged salt underfoot turned to turf over chalk, and there was a wind on it that had not been there before, and Wick stood in the dark in a place where no wind had ever blown and had to sit down for a minute.
+
+Then he paced it out.
+
+**Nine paces.**
+
+He walked back to the middle, which took no navigation at all, and lay awake till morning.
+
+---
+
+**Peg two.** Four hundred paces out.
+
+**Seven paces.**
+
+**Peg three.** A thousand paces, which took him most of an hour and cost him a full night, because you cannot do this and also do the ewes.
+
+**Five paces.**
+
+He wrote the three numbers on the ledger and looked at them, and did not let himself think about what they meant, because thinking about what a number means before you have four of them is how a guess gets dressed up as a fact.
+
+---
+
+**Peg four** was where it stopped being a survey and started being an ordeal.
+
+He went out three thousand paces. It took him two hours of walking in a straight line across flat pale ground under a black lid of a sky, and the walking was not the difficulty. The difficulty was that after the first thousand paces there was nothing to think about, and after two thousand there was nothing to *be*, and he came up out of it at four in the morning shaking, having discovered a specific new kind of loneliness that he could not explain to Nettle and did not try to.
+
+**Three paces.**
+
+---
+
+**Peg five.** Eight thousand paces. Two nights, because he could not do it in one and had to come out halfway and go back in the following evening, and the second evening he could not find where he had stopped, because the salt keeps nothing, and had to start again from the middle.
+
+Nettle found him in the morning sitting in the byre with his hands round a cup of nothing.
+
+"Well?"
+
+"Two paces."
+
+She sat down on the trough.
+
+"Nine, seven, five, three, two," she said.
+
+"Yes."
+
+"That's not a slope."
+
+"No," said Wick. "That's a curve. It's going down and it's slowing down while it goes." He turned the ledger round, though she could not read his hand any better than he could. "It's going to keep halving. Nine, seven, five, three, two — the next one's not nought. The next one's one and a bit, and after that it's a bit less than that, and after that it's a bit less than *that*."
+
+"For how long?"
+
+"Forever," said Wick.
+
+---
+
+He put peg six down at twenty thousand paces and it took him four nights to get there.
+
+He did not walk it in one go, because he had learned by then that he could not; he went out as far as he could bear and came back, and the next night he had to do the whole distance again from the middle, because there was nothing out there to find his way back to. Four nights, and on each of the four he walked the same first eight thousand paces past four pegs he could see from a long way off, standing in the flat like lamps, and then out past the last of them into ground that had never had anything happen to it.
+
+On the fourth night he stopped because his legs had stopped, and knelt down, and put the last Seed on the salt.
+
+It took.
+
+The ring went out from under his hands, slower than the others, much slower, and the pale ridged ground went to turf over chalk, and there was a wind, and it was the same wind.
+
+He paced it.
+
+It came out at a little over a **pace and a half**, and it was the loneliest thing Wick Alder had ever seen: a patch of white downland the size of a horse blanket, with a wind on it, twenty thousand paces from anywhere, under a sky with nothing in it.
+
+He sat down on it and put his hands in the grass.
+
+Then he walked back to the middle, which took no time at all and no navigation whatsoever, because that is how a middle works.
+
+---
+
+He came out at dawn on the twenty-fourth of Dust and got the ledger and wrote the line, and it was the first line of numbers ever run across the inside of a human being, although he did not know that and would have been appalled if anybody had told him.
+
+> **100 — 9**
+> **400 — 7**
+> **1,000 — 5**
+> **3,000 — 3**
+> **8,000 — 2**
+> **20,000 — 1½**
+
+Then he sat and looked at it for a long time, and Nettle came in and sat down and did not say anything, and Gran came in with bread and did not say anything either, and the three of them sat in the byre in the early light while a boy read six numbers.
+
+"There's no edge," he said at last.
+
+Nettle said nothing.
+
+"I've been looking for the wrong thing. I thought there'd be a wall out there, or a cliff, or the world stopping like yours does." He put the charcoal down. "There isn't. It just thins. It goes out and it gets less and it keeps getting less and it never gets to nought, it just gets *smaller*, forever, and that's where the forty-one point two came from. Camber's frame didn't measure a field. It measured — " he cast about — "it measured how far out you'd have to go before there wasn't enough left to bother writing down."
+
+"So the frame lied to you," said Nettle.
+
+"No. The frame was honest. I read it wrong." Wick rubbed his eyes. "Everybody's got a room. I haven't got a room. I've not got a big room, I've not got a broken room. I'm not a room at all."
+
+"What are you, then?"
+
+Wick looked out of the byre door at the yard, and the sky over it, and the thin grey weather coming up off the Loam the way it did every morning of the world.
+
+"I'm weather," he said.
+
+---
+
+Gran Alder put the bread down.
+
+"Then you'll want a wall," she said.
+
+"That's what I've been *trying* —"
+
+"No." She said it without heat. "You've been trying to *find* one. That's not the same job and you've had three weeks of it." She sat down on the upturned bucket with her hands on her knees, and Wick understood, dimly, that his grandmother had been waiting several days for a place to put this. "Weather hasn't got an edge. Nothing that's weather has ever had an edge. And there's not a farm in the Loam that isn't a fight with the weather, and not one of them has ever won it, and every single one of them has got a wall."
+
+"You can't wall in weather."
+
+"No," said Gran. "You wall in a *field*." She started cutting the bread. "You don't wall the sky, boy. You wall four acres of it and you call that yours and you let the rest of it do as it likes, and that's what a farm is, and that's what a farm has been since before there was anybody to write it down."
+
+The byre went very quiet.
+
+"Four acres," said Wick.
+
+"I said four because I was cutting bread. Say one. Say half."
+
+"Say eleven paces," said Nettle.
+
+---
+
+He was on his feet.
+
+"The frame pushes on the boundary," he said. "That's the standard. *The subject's boundary sustains applied load without deformation.* It doesn't say the boundary of what. It doesn't say it has to be the boundary of *everything you've got*."
+
+"No," said Nettle, "it doesn't," and she was up too.
+
+"Camber pushed on forty-one acres of fade and there was nothing to push on. But if there's a *line* in here — if there's a place where one thing stops and another thing starts, and it holds—"
+
+"Where two grounds meet."
+
+"Where two grounds meet." Wick had the ledger and was drawing on it, badly, a circle and a smaller circle. "The warm damp's got a border. It's had a border since Long. Eleven paces across and all the way round it there's a line where wet stops and salt starts, and I have walked that line every single night for two months while I was drawing and I have never once looked at it, because I was looking at what was *inside* it."
+
+He stopped.
+
+"That's my wall," he said. "It's already there. It's been there since the sixteenth of Long. It's eleven paces round a puddle in the middle of a country the size of a parish, and it is the only edge I have got, and nobody has ever pushed on it to see if it holds."
+
+Nettle said, "It won't."
+
+"No," Wick agreed. "Not yet."
+
+He looked down at the six numbers.
+
+"But it's a border, and it's mine, and it's the right *kind* of thing, and I have got two months and eleven acres of nothing and six Seeds' worth of proof that this whole place does exactly what I tell it if I ask it in the right order."
+
+"You've got no Seeds left."
+
+"I know."
+
+"And you're not allowed within forty feet of the only Welling in this parish."
+
+"I know."
+
+"And you're barred from the board at every Hall on the Loam."
+
+"I know," said Wick Alder, and started laughing, and Gran handed him a piece of bread to shut him up.
+
+
+---
+
+# Chapter 20 — A Number That Is Not Nought
+
+Ossian Pell turned up on the twenty-sixth of Dust with a frame on a mule.
+
+Wick came round the side of the byre with two buckets and found him in the yard unstrapping it, whistling, in a coat that now had a fifth colour of ink on the cuff.
+
+"Alder. Excellent. Put those down and come and hold this, it goes over on its own if you look away."
+
+"That's an assessor's frame."
+
+"It is a *field* frame, which is a smaller and much worse assessor's frame, and it belongs to the Third Circuit and I have signed for it and if you drop it I shall be filling in a form about you until the Slack." Pell got the last strap. "Take the near hoop. Gently. It is worth more than this farm."
+
+Wick took the near hoop. Two hoops of brass, one inside the other, on a jointed stand, and it did not do anything visible, and the last time he had stood next to one it had gone round to the pin and stopped.
+
+"Why?"
+
+"Because you have been at something for a month," said Pell, "and you have not told me what, which is your right, and because I am seconded to an audit of assessment irregularities and you are the largest one in this circuit, and it has been four months since anybody put a frame on you." He was setting the feet in the mud with great care. "An auditor may examine. This is examination. It is possibly the most legitimate thing I have done all year and I intend to enjoy it enormously."
+
+---
+
+Gran came out. Then Tam came in from the field, because a man does not stay in a field when there is brass in his yard. Then Ma Dunnock came up the road with the specific unhurried casualness of a woman who has walked a quarter mile at speed and does not want it known, and then Sil Thatcher, and then most of the rest of them, and Nettle came out of the byre and leaned on the doorpost with her arms folded and watched the crowd assemble with open contempt.
+
+"Nine people," she said.
+
+"Twenty-two," said Wick.
+
+"I meant it as a figure of speech."
+
+"There's twenty-two."
+
+"Step in," said Pell.
+
+---
+
+Wick stepped in.
+
+It was different from the ford. At the ford he had been fourteen and wet to the knee and had not known what any of it meant, and there had been a taper, and the whole thing had been over in four seconds.
+
+This took nine minutes and he knew exactly what every part of it was for, which was much worse.
+
+"Acreage first, because it is quick and because it will make everybody feel better," said Pell.
+
+The inner hoop swung out to the limit of its arm and stopped there, quivering.
+
+"Forty-two point one," said Pell.
+
+There was a small noise from the crowd. It was not an impressed noise; nobody in Hollow Alder had ever been able to make forty-one point two mean anything and forty-two point one was no better. It was the noise of people registering that a number had moved.
+
+Wick heard it and thought: *nine tenths of an acre. In the lane on the sixth of Dust, when I worked out what a wall was for. That's what understanding a thing costs the ground.*
+
+"Now," said Pell. "Weight."
+
+---
+
+He reset the outer hoop with two fingers.
+
+Wick watched it and found that he could not swallow.
+
+Four months ago that hoop had gone all the way round to the pin and pressed against it, and a man had said *nil* out loud in front of everyone he had ever met, and Wick had gone home and been kind-to for a fortnight.
+
+Pell let go.
+
+The hoop swung.
+
+It went round, and round, and it did not reach the pin, and it stopped about two thirds of the way, and it hung there, and it did not move.
+
+Nobody said anything.
+
+"Ah," said Ossian Pell.
+
+He crouched down and looked at it from underneath, which cannot possibly have helped. Then he got up and reset it and let it go again, and it went to the same place, and he did it a third time and a fourth.
+
+"Nought point four," he said.
+
+---
+
+Somebody at the back of the crowd said, "Is that good?"
+
+"No," said Pell cheerfully. "It is appalling. Hearth is one and a half, and Thatcher's girl over there was kindled the same afternoon as this one and she is at nought point nine."
+
+"Then what are we all stood here for?"
+
+"Because four months ago it was nought," said Nettle, from the doorpost, in a voice that went across the whole yard like a dropped plate, "and *nought* isn't a small number. Nought's a different kind of thing. You can multiply a small number. You can't do anything at all with nought."
+
+The yard was quiet.
+
+"He's not weak," she said. "He was *empty*. There's people in this village been calling him unlucky for four months and there's not one of you understood he wasn't on the ladder at all." She pushed off the doorpost. "He's on it now. That's what you're stood here for."
+
+Then she went back into the byre, because she had heard herself and did not care for it.
+
+---
+
+Wick had not moved. He was standing in the frame in his own yard with his hands at his sides, and there was a number, and the number was not nought.
+
+He did not cry, and he was reasonably proud of that for years afterward, and it was a nearer thing than anybody knew.
+
+"Pell."
+
+"Mm."
+
+"Do it again."
+
+"I have done it four times."
+
+"Do it once more. It's not a number till it's four and you did the first one before I was ready."
+
+Ossian Pell looked at him for a moment.
+
+Then he reset the hoop, and let it go, and it swung round and stopped in exactly the same place, and Pell wrote *0.4* on a slip of paper and handed it to him without a word.
+
+---
+
+The complication came afterward, when everybody had gone and Pell was sitting on the mounting block writing up his examination note with the frame still standing in the mud.
+
+"There is a difficulty," he said, "and it is an interesting one, and I am going to talk at you about paperwork for some time, so sit down."
+
+Wick sat down.
+
+"The frame reads *peak*," said Pell. "Not average. It finds the densest coherent piece of you and it reports that, because that is the number that decides what you can do at the moment you need to do something, and eight hundred years of assessors have agreed that this is sensible, and it is."
+
+"All right."
+
+"Nought point four is your warm damp. Eleven paces of it, in the middle. It is not the whole of you; it is the best of you, and the rest of you is fade, and the frame is entirely uninterested in the rest of you."
+
+"Yes."
+
+"So." Pell turned the slip round. "Consider a man with a nine-foot room and nought point four. Everything he has is that room. The room *is* the number. When the office writes *acreage 0.002, weight 0.4*, those two figures describe the same object and every clerk in the Sill reads them together without thinking about it."
+
+Wick saw it coming and sat up.
+
+"Now consider you," said Pell. "*Acreage 42.1. Weight 0.4.* Read them together and it says a monstrous thing. It says you have forty-two acres at nought point four, which would make you — " he did some arithmetic on his fingers, and his eyebrows went up despite himself — "considerably heavier than Dorn Vance."
+
+"But I'm not."
+
+"You are not. You have eleven paces at nought point four and forty-two acres of nothing whatsoever, and there is no box on any form in the Sill that can say so, because *no one has ever needed to*." Pell was beginning to look extremely pleased. "The form assumes acreage and weight describe the same ground. For every human being who has ever been assessed, they do."
+
+"So the form's wrong."
+
+"The form is *insufficient*, which is a far more serious thing and requires a far longer memorandum." Pell got out a fresh sheet. "You need a third figure. You need a number that says *how much of your ground is actually carrying anything*, and the difference between that number and your acreage is the whole and entire truth about you, and there is no word for it."
+
+He dipped the pen.
+
+"So we shall have to have one," said Ossian Pell, with the deep contentment of a man who has waited thirty-one years to invent a category. "I propose **settled acreage**. Ground that carries weight is *settled*; ground that does not is *unsettled*. Yours reads —" he glanced at the frame — "eleven paces across, so, generously, nought point zero zero two of forty-two point one."
+
+"That's nothing."
+
+"That is *nothing at all*," Pell agreed happily, writing. "It is the smallest fraction I have ever entered on a Ledger form and I shall be teased about it in three offices. And it is the first honest description of you that has ever existed, and in about eleven minutes it is going to be worse news than anything you have been told this year, so brace yourself."
+
+"...Why?"
+
+Pell stopped writing.
+
+"Because you have just spent a month learning that the frame grades a *boundary*," he said, "and you have gone away and decided, I would guess, that you will build one round your eleven paces and present it in Rust and be graded Hearth."
+
+Wick did not say anything.
+
+"Which is correct," said Pell. "It is entirely correct and it is the only road available and you should take it. And when you do, the office will write down that you are Hearth, and it will also write down that you are Hearth on nought point zero zero two of forty-two point one acres." He capped the pen. "And every single person who reads that form for the rest of your life will see a boy who has one nine-foot room, like everybody else, standing in the middle of the largest empty field ever recorded."
+
+He got up and started folding the stand.
+
+"The rank will not fix it, Alder. The rank is a door out of a cupboard. What is on the other side is forty-two acres of nothing and a lifetime of very slow work, and I am telling you now, in your own yard, while you are still pleased about nought point four, because you will not hear it in Rust."
+
+Wick sat on the mounting block with a slip of paper in his hand.
+
+"How long?" he said.
+
+"To settle forty-two acres?"
+
+"Yes."
+
+Ossian Pell hoisted the frame onto the mule and thought about it properly, which took him some time, and Wick understood that he was being paid a compliment.
+
+"At eleven paces a season," said Pell, "and assuming, generously, that it does not get harder as it goes — which it will —"
+
+"Say it."
+
+"Roughly nine hundred years."
+
+He tightened the strap.
+
+"So I should not do it eleven paces a season," said Pell, "if I were you. I should find out what makes a thing settle, and then I should find a very great deal of it, and I should not tell anybody what I was doing until I was much harder to kill."
+
+
+---
+
+They sat on the mounting block after he had gone, Wick and his grandmother, with the mule's hoofprints filling up in the mud.
+
+"Nine hundred years," said Gran.
+
+"He was being generous."
+
+"Mm." She had her hands in her apron. "And what's it worth, that nought point four?"
+
+Wick had been waiting for this and had not worked out how to say it, so he said it badly.
+
+"On its own? Nothing. It's not a working. It's not — I can't dry a wall with it, Gran, I can't do what Sil does or what Ma Dunnock does. I did one thing with it, once, on the down, and it emptied me for eight days."
+
+"That's not what I asked." She looked out at the yard. "I asked what it's *worth*. Money."
+
+And there it was.
+
+"Nothing," said Wick.
+
+"Right." Gran nodded slowly. "Then I'll say the rest of it, because your father won't and I'd rather it came from me than from Nead."
+
+"Gran—"
+
+"Barley came in at five and a quarter. Not five and a half." She said it in the flat voice she used for reading out distances. "Wool went at one seventeen because Marrowfield's full of it this year. We're at seven pound two against eleven six, and Bri's eight shilling's in it, and Gather's in eleven days."
+
+Wick sat very still.
+
+"Four pound four," he said.
+
+"Four pound four."
+
+"That's more than it was."
+
+"It's always more than it was." Gran got up, joints going off like green wood. "I'm not saying it to make you feel it. I'm saying it because you're the only one in this house who does arithmetic in his head and you've been doing it about salt for four months, and you'd have got there on your own by Turn and I'd rather you had the time."
+
+She stopped in the doorway.
+
+"You'll not fix it," she said. "I want that clear, because you've got a face on you. There's nothing a boy with nought point four can do about four pound four, and if you go and try you'll do something stupid at the ford and I'll be burying you instead of moving house, and moving house is survivable."
+
+*Failed of Kindling is survivable. Being eaten is not.*
+
+"Everyone keeps telling me that," said Wick.
+
+"That'll be because it's true," said Gran Alder, "and because nobody's yet worked out how to say it to you in a way you'll hear."
+
+
+---
+
+# Chapter 21 — The Rim
+
+Walking your Hold was the thing everybody knew you were supposed to do and nobody did.
+
+Wick had heard it perhaps forty times in his life, always in the same tone: from Ma Dunnock, from old Rennick, from a Hall man on the road who had said it with his eyes on the middle distance. *You want to walk your Hold. Every day, mind. Every day.* And then whoever said it would change the subject, because they had not walked theirs since Thaw and both parties knew it.
+
+It was the flossing of the practice. Everybody agreed. Nobody did it.
+
+Wick started walking his border on the twenty-seventh of Dust, and he walked it every night for nine nights, and by the fourth night he understood exactly why nobody did it.
+
+It was unbelievably boring.
+
+---
+
+Eleven paces across is about thirty-four paces round.
+
+He did it in the dark, on wet ground, in a country with nothing in it, going round and round a puddle. Thirty-four paces and you are back where you started. Thirty-four more. Thirty-four more.
+
+The first night he did forty circuits and came out with his jaw aching from setting it.
+
+The second night he did sixty and spent the whole of the last twenty composing an argument with Dorn Vance that he would never have.
+
+The third night he did ninety, and somewhere in the sixties something happened that he could not describe to anybody afterward and never entirely stopped chasing: the counting fell away, and he was not going round a thing any more, he was going *along* it, and he could feel it under his boots — not the ground, the *line* — the exact place where wet stopped and dry started, running away ahead of him and coming back round behind, one continuous thing that had been there since the sixteenth of Long and that he had walked over ten thousand times without once looking down.
+
+He came out at three in the morning and wrote one line on the ledger.
+
+> *It's not a shape. It's a thing.*
+
+---
+
+On the sixth night there was a rim.
+
+He nearly missed it. He was three quarters of the way round when his boot caught, and he stopped, and crouched, and put his hand down.
+
+Where the warm damp met the salt there was a ridge.
+
+It was about the height of a thumbnail. It ran along the border, both ways, as far as he could feel in the dark, and it was salt — ordinary ridged pale salt, the same as the whole forty-two acres — except that it had taken up water out of the wet ground and set, and it was *hard*. He pressed it with the heel of his hand and it did not crumble. He picked at it and got a flake off, and the flake was like a bit of thin pot.
+
+He went all the way round on his hands and knees, which took an hour, and it was there for the entire circuit except in one place.
+
+He marked the place in his head and came out and lay in the dark grinning at the ceiling like a fool.
+
+---
+
+Nettle listened to all of it over breakfast and asked exactly one question.
+
+"Does it hold?"
+
+"It's an inch high."
+
+"That's not what I asked and you know it isn't."
+
+Wick put the bread down.
+
+"No," he said. "I don't know if it holds. I've built a thing and I've been walking round it admiring it for two days."
+
+"Then push on it."
+
+"How?"
+
+"You've got wet ground on one side and dry on the other." Nettle counted it out on her fingers. "So make the wet ground bigger. Not with a Seed — you haven't got one — just *push*. Draw hard, put it all into the middle, and see if the wet goes over the top."
+
+"That's the frame's test."
+
+"That's *every* test," said Nettle. "That's the only test there is. You put a load on a thing and you find out."
+
+---
+
+He did it on the twenty-ninth of Dust and it took nine minutes and it was the worst nine minutes he had had since the lane.
+
+He sat at the middle and drew, hard, faster than he had ever drawn, spending nothing and holding all of it, and he felt the warm damp take it and take it and start to strain. The ground under him got warmer. The steam off it thickened until he could not see his own hands. The whole eleven paces went from wet to *sodden* and then to something with standing water on it, and he held it, and held it, and pushed.
+
+The rim held.
+
+For about four seconds the rim held all the way round and Wick Alder felt, for the first and only time in that entire summer, absolutely certain of something.
+
+Then it went.
+
+---
+
+It went in one place, and once it had gone in one place it did not matter that it held everywhere else, because water does not care about the nine tenths of a wall that is standing.
+
+It came out of the northern side — he had no north, but that was the word he used, and he used it for the rest of his life — in a flat spreading tongue, and it went out across the salt for a good six paces, and it kept going, and Wick scrambled up and went after it and there was nothing whatsoever he could do, because you cannot pick water up.
+
+It stopped on its own after a minute. Then it soaked away and was gone, and the salt where it had run was the same as the salt everywhere else, because nothing stays in the salt.
+
+He paced the warm damp afterward.
+
+**Nine paces.**
+
+Two paces of ground, gone. Two crawlers' worth. Two months' worth. Gone in about ninety seconds because he had put a load on his own wall to find out whether it would hold, and it had not.
+
+Wick sat down at the middle of forty-two acres and put his head in his hands, and then, after a while, got up and went and looked at the place where it had failed.
+
+---
+
+It was the gap.
+
+Of course it was the gap. It was the one place in thirty-four paces where the rim had never formed, and he had known it was there for three days and had not thought about it once, because it was small and everything else was going so well.
+
+He crouched at it and looked at it properly for the first time.
+
+It was about a pace and a half of border with no ridge on it, and the ground either side of it was scuffed.
+
+Wick knelt there in the dark with his hand on the scuff for a long time.
+
+Then he said, out loud, to nobody, "You get on and off in the same place every night."
+
+Because he did. Because he had walked out from the middle to the border every night for nine nights and had arrived at the border in the same place every night, because it was eleven paces from the middle whichever way you went and he had never once thought about *which* way, and so his boots had gone across that line four hundred times, on, and off, and on, and off.
+
+Everywhere else, he had walked *along* it.
+
+There, he had walked *through* it.
+
+"That's not a wall," he said. "That's a gate."
+
+---
+
+He worked it out over the next two days and it was so simple that he was angry about it.
+
+A boundary is not a thing you put down. It is a thing you *wear*, like a footpath across a common — nobody builds a footpath, and there is no day on which one is finished, and yet after forty years it is the hardest ground in the parish and you can find it in the dark.
+
+He had made an inch of rim in six nights by walking. He could make more by walking more. And the one place he had broken it was the one place he had crossed it, and he had crossed it because he had been careless about a detail so small that it had not occurred to him to measure it.
+
+*Where you sit matters.* He had learned that in Long, about drawing, and had written it down, and had then spent nine nights walking a circle and stepping across the line at the same point like a man wearing a hole in a doormat.
+
+He got the ledger and wrote a rule under the survey line, and it was the first rule he ever made that was properly his:
+
+> *Never cross it twice in the same place.*
+
+---
+
+The village had its own count going, and it was not his.
+
+Dorn Vance had sealed the ford on the seventh of Dust and had ridden to Sennet-on-Weft the same afternoon, and the word that came back up the road with Hob was that a Circuit officer had been requested, and that a Circuit officer had been *granted*, and that a Circuit officer would arrive on the eighteenth.
+
+Eleven days.
+
+He came on the twenty-third.
+
+Nobody in Hollow Alder was surprised by this. Nobody in Hollow Alder had ever known anything from the Ledger to arrive on the day it was promised, and the village position was that five days late for a man of that rank was practically running.
+
+His name was Assessor Vell and he was Wold, and he was in the parish for one afternoon. He walked the chain twice with Vance. He put his hand on the ground inside it for four minutes. He said eleven words to Ock's father, who had been waiting at the gate since dawn, and nine of them were an apology for something that was not his fault.
+
+Then he authorised a rank-appropriate hunt, entered a Wold-grade classification, and rode for Sennet-on-Weft to file it, and the filing would take three days at the office and the writ would be posted at Marrowfield after that, and licensed men would come out on the second or third of Gather.
+
+The whole of it — request, grant, journey, survey, authorisation, filing, posting — was, from the day Vance sealed the ford, twenty-six days.
+
+Dorn Vance had said eleven and had been off by fifteen, and Wick, who had done the arithmetic on the road that morning walking behind Hob's cart, understood that Vance had not been lying and had not been wrong. He had quoted the rule. The rule said eleven.
+
+The rule had never once been eleven.
+
+---
+
+After that it was work, and the work was extremely dull, and he did it for eleven nights.
+
+He walked in from a different bearing every time. He kept a tally on the ledger of where he had entered so that he would not repeat himself, and when the tally got complicated he started entering in the order of a number he had made up, and Nettle found the page and looked at it for a while and said, "You've invented a rota for going into your own soul," and Wick said, "Yes," and she said, "God help us all."
+
+The rim went from a thumbnail to a knuckle.
+
+Then to the height of the side of his hand.
+
+By the ninth of Gather it was a ridge of hard set salt a hand high all the way round nine paces of warm wet ground, with no gate in it anywhere, and it made a sound when he tapped it, a dull *tock*, like a flowerpot.
+
+He tested it again on the ninth. He drew everything he had, and pushed, and the ground went sodden and the steam came up and the water rose against the inside of the rim.
+
+It held.
+
+It held for as long as he could hold the load, which was about forty seconds, and then he let go, and sat down in the middle of it, and put both hands flat on the wettest ground in forty-two acres.
+
+Nine paces of enclosed country.
+
+Nought point zero zero one four of an acre.
+
+He came out and lay in the dark in the byre with his heart going and did the sums, and the sums said that he had spent five months and nearly died three times and lost two paces of ground to get a walled field one seventh the size of the room every other child in that village had been given free at fourteen.
+
+"Right," said Wick Alder, out loud, in the dark, and grinned at the roof beam like a lunatic, because it was *walled*.
+
+---
+
+Nettle was awake. She was always awake.
+
+"Well?"
+
+"It holds."
+
+"Against you."
+
+"Against me."
+
+"You're nought point four," said Nettle, "and Camber's frame is going to lean on it in Rust with a Field rank behind it, and that's not the same push and you know it isn't."
+
+"I know it isn't."
+
+"So what's the plan?"
+
+Wick lay looking at the beam.
+
+"Make it thicker," he said. "Walk it every night till Rust. That's forty-one nights. If it goes a hand high in eleven, then—"
+
+He stopped.
+
+"Then it's about four hands," said Nettle, "and I've been waiting two days for you to do that sum, and I'd like you to do the other one now."
+
+"What other one?"
+
+"The one where you're stood in Camber's frame in Rust with four hands of salt round nine paces of puddle," said Nettle, "and it holds, and he writes *Hearth*, and then you walk out of that yard with a mark on your tally and a fine you can't pay and your family living in a rented room in Marrowfield, because Gather's in *three days*."
+
+The byre was quiet.
+
+"I haven't got a plan for that one," said Wick.
+
+"No," said Nettle. "Nor me."
+
+Outside, a long way off, a dog started barking, and then another one, and then every dog in Hollow Alder at once.
+
+
+---
+
+
+<!-- 21 chapters · 47,606 words · consolidated 2026-09-03 -->
