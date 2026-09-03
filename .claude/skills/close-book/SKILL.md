@@ -48,3 +48,16 @@ git commit -m "Book XX complete: <Title> (NN chapters, ~NNk words)"
 git push -u origin claude/litrpg-25-book-series-nekk0e
 ```
 Then tell the user, in two lines: book done, word count, where to read it, what's next.
+
+## AGENT INVOCATION — IMPORTANT
+The role briefs live in `.claude/agents/*.md`. They register as real subagent types only
+when a session *starts* with them already on disk. In a session where they are not
+registered (e.g. the session that created them), invoke `general-purpose` instead and
+point it at the brief:
+
+```
+subagent_type: general-purpose  (or the named agent if it is registered)
+prompt: "Working directory: /home/user/Books. Read .claude/agents/<agent>.md and follow
+         that role brief exactly. Scope: <files>. Also read: <canon files>."
+```
+Always try the named agent first; fall back to `general-purpose` on 'agent type not found'.

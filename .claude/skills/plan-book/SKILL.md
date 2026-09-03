@@ -97,3 +97,16 @@ Commit.
   update the outline when the book turns.
 - Each book must be readable standalone by someone who forgot the previous one, without
   a recap chapter. Re-establish through action.
+
+## AGENT INVOCATION — IMPORTANT
+The role briefs live in `.claude/agents/*.md`. They register as real subagent types only
+when a session *starts* with them already on disk. In a session where they are not
+registered (e.g. the session that created them), invoke `general-purpose` instead and
+point it at the brief:
+
+```
+subagent_type: general-purpose  (or the named agent if it is registered)
+prompt: "Working directory: /home/user/Books. Read .claude/agents/<agent>.md and follow
+         that role brief exactly. Scope: <files>. Also read: <canon files>."
+```
+Always try the named agent first; fall back to `general-purpose` on 'agent type not found'.
