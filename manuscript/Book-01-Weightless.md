@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 15 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 18 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -2817,5 +2817,742 @@ Then he walked out of the Hall of Hunt, and the room came back up to its own noi
 
 ---
 
+# Chapter 16 — What Walls Are For
 
-<!-- 15 chapters · 33,204 words · consolidated 2026-09-03 -->
+The mail cart went at ten and it went all night, and Nettle spent the first four hours of it interrogating him about warm damp ground.
+
+She did it the way a farrier goes over a hoof. She wanted the numbers first, all of them, and she made him say each one twice and did not once say *that's interesting* or *that's a shame*. Two paces, eleven breaths. Five paces. Eight. Eleven paces, forty-one breaths, then fifty-two once he started walking the edge instead of sitting in one place.
+
+"Say that last one again."
+
+"Fifty-two. It was forty-one when I sat still."
+
+"So the ground remembers where you sat."
+
+"That's what it looks like."
+
+"For how long?"
+
+Wick opened his mouth and shut it.
+
+"I don't know," he said. "I never measured it. I just started moving."
+
+"Then you've got a number you haven't got," said Nettle, with enormous satisfaction, and wrote it on his own feed ledger with his own charcoal, because she had taken both off him somewhere around midnight and had not asked.
+
+He found, somewhat to his annoyance, that he did not mind.
+
+---
+
+Around three in the morning, with the cart going through country neither of them could see, she said:
+
+"You didn't look for your sister."
+
+"No."
+
+"You were in her town for a day and a half."
+
+"I know."
+
+"Why not?"
+
+Wick sat with that for a while. The cart went over something.
+
+"Because I'd have had to ask people," he said. "And I'd have had to say her name to them, and then I'd have had to hear what they said back, and I've spent three years telling my gran that she's probably fine."
+
+"Mm," said Nettle.
+
+"Don't do that."
+
+"Do what?"
+
+"That's my gran's."
+
+"Then your gran's right," said Nettle, and went to sleep sitting up.
+
+---
+
+They came into Hollow Alder at four in the afternoon on the sixth of Dust and there were eleven people standing in the road.
+
+That was the first wrong thing. Nobody in Hollow Alder stood in the road. There was nothing in the road to stand in it for.
+
+The second wrong thing was that Dorn Vance's horse was tied to the Alders' gate, half a mile short of the ford, which was not where a man went to seal a Welling.
+
+Wick was off the cart before it stopped.
+
+---
+
+They had laid Ock out on a door.
+
+That was the phrase in his head and it was accurate: somebody had taken the byre door off its hinges and laid it flat on the trestles the Rennicks used for shearing, and Ock was on it, on his back, with his father kneeling by his head.
+
+He was not dead. Wick got that in the first half-second from the way the crowd was standing, which was the standing of people who have already stopped being frightened and have started being sad.
+
+He was breathing. His eyes were open. He was looking straight up at the sky and he was doing it with an expression of mild, ongoing surprise, as though somebody had just said something he did not quite follow.
+
+"Ock," said Wick.
+
+The eyes came round.
+
+"Wick Alder," said Ock, and his voice was perfectly ordinary, which was the worst thing about the whole afternoon. "You've been to Marrowfield."
+
+"Yes."
+
+"Big, isn't it."
+
+---
+
+He got the rest of it in pieces, from Ma Dunnock and from Sil Thatcher and from a Hall man with a broken nose who was sitting on the wall being no use to anybody.
+
+Word had come up the road on the fourth. That was two days ahead of Dorn, because word always is. There was a Welling under the ford. It was going to be sealed and posted and then, in eleven days, a Circuit officer would come with the authority to open it properly, and there would be writs on it, and the writs would be worked by licensed men out of Marrowfield, and there would be money in it, and none of the money would come to Hollow Alder.
+
+Ock's father had money. Not much. Enough.
+
+He had ridden to Marrowfield on the fourth and been back by the fifth, and what he had brought back was a chalk-hound Seed in a twist of oilcloth, two shillings, from a Hall man who had been perfectly honest with him about what it was and had not been asked the only question that mattered.
+
+Ock was ten and a half feet across. Brick.
+
+A chalk-hound Seed is Hearth grade.
+
+"He said it'd take him to Hearth," said Ock's father, without looking up. "He said the Alder boy had got five out of the ground already, and he was *nought*, and our Ock was the best kindled in this village in thirty years, and if there was going to be a Welling in this parish then by God there was going to be one man in it who was ours."
+
+Nobody said anything.
+
+"He wasn't wrong," said Ock's father.
+
+---
+
+It had happened at about noon, in the lane, in front of the byre, with six people watching.
+
+They told it four different ways and the four ways agreed on this much.
+
+Ock had planted it standing up. He had gone still and shut his eyes and stood there for about a count of eight, and gone slightly pale, and said "oh," in a mild voice.
+
+And then, for something between three and five seconds, there had been white downland in the lane.
+
+Not a picture of it. Not a haze. Sil Thatcher had been standing four feet away and had put his foot down on short dry turf over chalk, in a lane he had walked for fifty years, and there had been *sky* over it that was not the sky over Hollow Alder, and a wind coming across it that was not blowing anywhere else, and it had smelled of dry grass and old bone.
+
+Then it had gone, and Ock had gone down on his face, and there had been blood out of his nose and both ears.
+
+---
+
+"Rupture," said Dorn Vance.
+
+He was standing at the back with his arms folded and he had not moved in some time.
+
+"Is he going to die?"
+
+"No." Vance did not soften it. "Chalk-hound is a small Seed. It cracked him. It did not open him." He looked at the boy on the door with his flat grey eyes. "He will be up in a fortnight and he will be himself, and his Hold has a split in one wall about a foot long, and it will not close, because they do not."
+
+"What does that mean?"
+
+"It means his weight leaks," said Vance. "He will draw and it will go out of the crack and into nothing. He is ten and a half feet and about two weight, and he will be ten and a half feet and about two weight when he is sixty." He turned to go. "He is not ruined. He is *finished*, which is different and which he will not understand for about four years. Somebody bring me the man who sold that Seed."
+
+---
+
+Wick stood in the lane a long time after they carried Ock inside.
+
+He was looking at the place where the downland had been. There was nothing there. It was a lane with a rut in it and some nettles up the bank.
+
+"You'll want to have seen that," said a voice, comfortably.
+
+Ossian Pell was leaning on the gate with his satchel over his shoulder and his coat done up wrong. He looked, for the first time since Wick had met him, faintly grim, and it did not sit on him well, like a hat borrowed off a smaller man.
+
+"You were here."
+
+"I was here for all of it, and I could not lift a finger, and I have already written the note, and it is three lines long and perfectly correct." Pell's voice was entirely level. "Ask me your question, Alder. You have got one and I can see it on you."
+
+"Why did it come out?"
+
+"Say the whole of it."
+
+"The downland." Wick pointed at the rut. "It was *out here*. In the lane. Sil stood on it. Terrain's meant to be inside. Mine's inside, it's forty-one acres of inside, I've never once got a single thing out of it." He was talking too fast and did not care. "Why did his come out?"
+
+"Because the wall went," said Pell.
+
+"That's not an answer."
+
+"No," Pell agreed. "It is a fact. You will have to make the answer yourself; that is rather the arrangement." He shifted on the gate. "But I will give you the rest of the fact, because it is a matter of record and record is what I am for. Would you like to know the assessment standard for Hearth? The actual wording. I have read it perhaps nine hundred times."
+
+Wick's mouth had gone dry.
+
+"Yes."
+
+"*Rank of Hearth is conferred where the subject's boundary sustains applied load without deformation.*" Pell recited it flatly. "The frame does not measure how much you have got. Anybody can have things. The frame pushes on your edge, and if your edge holds, you are Hearth, and if it does not, you are not, and that has been the standard for eight hundred and twelve years."
+
+---
+
+Wick heard it.
+
+He heard it the way you hear a step that is not there in the dark — the whole thing arriving at once, before any of the parts.
+
+"Say that again," said Nettle, behind him.
+
+She had come up the lane and stopped, and she was looking at Pell, and her face had changed.
+
+"The subject's boundary," said Pell, "sustains applied load without deformation."
+
+"*Boundary*."
+
+"Boundary."
+
+Nettle turned round and looked at Wick, and Wick looked back at her, and neither of them said anything for about four seconds, and then she said it, because she had understood it first and because she was the only person there for whom it was not the worst news of the afternoon.
+
+"You haven't got one," said Nettle.
+
+---
+
+He walked away from them.
+
+That was not a decision either. He got about twenty paces up the lane before he stopped, because he had to stop, and he stood there with his hands on his knees in the ruts and did the arithmetic properly, out loud, in a whisper, because he did not trust himself to do it any other way.
+
+"A Hold's a room," he said. "Nine feet. Four walls."
+
+That was true. That was true of every kindled person he had ever met.
+
+"You put things in it. It's a *room*, that's what a room's for, you put things in it, and when it's full enough they push on the walls and see if the walls hold."
+
+That was true too. It was so obviously true that nobody had ever said it to him, because you do not explain to a boy that a room has walls.
+
+"And the walls are the bit that's graded."
+
+He straightened up.
+
+"They're not grading what's *in* it. They never were. They're grading the edge."
+
+Behind him, twenty paces back, Nettle had followed him and had stopped and was standing there saying nothing, which he understood later had cost her something, because she had known this since she was fourteen and had spent six years listening to clerks explain the other half of it.
+
+"I've got forty-one acres," said Wick.
+
+"Yeah."
+
+"I've been filling it up. All summer. Five crawlers. Eleven paces of warm damp and I nearly died twice getting it and I'd got a *rate*, I'd got fifty-two breaths a day, I was going to —"
+
+He stopped.
+
+"It doesn't matter," he said.
+
+"No."
+
+"It doesn't matter *at all*. I could kill a thousand crawlers. I could put warm damp across the whole forty-one acres and get to Rust with the biggest Hold anybody's ever measured, and Camber'd put the frame on me and push, and there'd be nothing to push on, because I haven't got an edge. I've never *found* my edge. I walked at it all night once and I never got there."
+
+He heard his own voice go and did not stop.
+
+"That's why he couldn't grade me. It's not that the number was too big for the form. He *pushed*, and there was nothing there, and he wrote *unrankable* because that's the honest word for it, and I've spent five months thinking he meant *too much* and he meant *nothing to push on*."
+
+Nettle did not say anything.
+
+"And everybody in this village has been telling me since Green that it doesn't matter and I've been getting angry about it," said Wick, "and they were *right*, they were right the whole time, they were just right for the wrong reason, and I've been so busy being sure they were wrong that I never once sat down and asked what a wall was *for*."
+
+He put his hands over his face.
+
+"I've been refusing to know that," he said, into his palms. "Since the ninth of Green. It's been there the whole time and I've been walking round it."
+
+---
+
+And forty-one acres away, at the middle of a salt flat under a black ceiling of a sky, in a place where nothing had happened in five months except eleven paces of warm wet ground, something happened.
+
+It was not dramatic. Wick felt it in the lane with his hands over his face, and it stopped him mid-breath.
+
+The ground went out.
+
+That was all. A little further in every direction, all at once, the way a held breath goes out. Not much. It felt like nothing at all and it was the first time in his life he had ever felt his own country move.
+
+He stood in the lane with his hands over his face and started laughing, and it was a terrible laugh and Nettle let him have it.
+
+"Something happened," she said, when he had finished.
+
+"Yes."
+
+"What?"
+
+"It got bigger."
+
+Nettle stared at him.
+
+"You've just found out the whole thing you've been doing is worthless," she said, "and it got *bigger*?"
+
+"Yes."
+
+"Why?"
+
+And Wick Alder wiped his face on his sleeve and looked back down the lane, where they were carrying a door with a boy on it into a house, and where a man in an inked coat was writing three perfectly correct lines in a small book, and where Dorn Vance was going to seal a Welling tomorrow that would take eleven days to open properly.
+
+"Because I understood something," he said, "and it had to make room."
+
+---
+
+That night he went in and paced it, because pacing was all he had, and the warm damp was still eleven paces across and the salt still went out flat and pale in every direction to nowhere at all.
+
+But there was more of it. He could not have said how he knew and he knew.
+
+He came out and lay in the dark and got the ledger and wrote, left-handed, badly, one line.
+
+> *How do you put a wall round forty-one acres?*
+
+Then he lay there until it got light, and did not sleep, and did not have the beginning of an answer.
+
+
+---
+
+# Chapter 17 — Survey
+
+Dorn Vance sealed the ford on the seventh of Dust and it took him and two Hall men four hours.
+
+Wick watched from the top of the bank because there was nowhere else to watch from. They drove eight iron stakes into the gravel bar in a ring around the third alder and ran a chain between them, and Vance walked the ring twice and stopped at two places and had the stakes moved, and then he put his palm flat on the ground inside the chain and knelt there for about two minutes with his eyes shut.
+
+Nothing visible happened.
+
+"That's a ward," said Nettle, beside him.
+
+"What's it do?"
+
+"Nothing to you. Nothing to me." She was watching with her arms folded and an expression Wick was learning to read as *paying full attention*. "It's terrain, pinned to real ground. Nine feet of his down laid over that gravel like a blanket, and anything that comes up out of that hole has to cross ground that isn't its own, and it'll hate it." She shrugged. "Won't stop it. Slows it. Tells him if it's crossed."
+
+"How do you know all that?"
+
+"My mother makes wards for cellars." Nettle spat. "Same thing, six ranks down."
+
+Then they nailed the notices, one to each of the six hollow alders, and the notices said that by order of the Ledger of the Sill no person of any rank might approach within forty feet of the marked ground, and that the penalty was four silver and a mark, and Wick read all six of them slowly, mouth moving, and then walked home.
+
+---
+
+He got three days of being useless.
+
+He did the ewes and the water and the endless small work, and he lay awake, and he went in every night and paced eleven paces of warm damp and then stood at the edge of it looking out at forty-one acres of nothing, and asked the ledger's question, and got nothing back.
+
+*How do you put a wall round forty-one acres?*
+
+On the third day Nettle, who had installed herself in the Alders' byre with the alarming self-possession of somebody who has decided a thing is settled and does not intend to discuss it, said:
+
+"You're asking it wrong."
+
+"Thanks."
+
+"No — you're asking it *wrong*." She came and sat on the trough. "You keep saying forty-one acres. You don't know it's forty-one acres."
+
+"The frame said forty-one point two."
+
+"The frame said forty-one point two and you've never been to the edge of it." Nettle held up a hand and started counting on her fingers, which she did when she was serious. "You've walked a thousand paces and not got there. You've walked a whole night and not got there. You told me distance in there goes out further than it ought to. So what you've actually got is: *a middle, some warm ground, and a number a brass hoop told you.*"
+
+Wick opened his mouth.
+
+Then he shut it.
+
+"You've never seen your own edge," said Nettle. "You don't know if it's a wall or a cliff or a fog or the world just stopping like mine does. You don't know if it's the same all the way round. You don't know if it's *there*." She leaned back against the byre wall. "And you want to build one."
+
+"...I want to find one."
+
+"Then say *that*."
+
+---
+
+He got the feed ledger out that night and turned to a clean part of it, which took a while because there was not much clean part left, and he wrote at the top, in charcoal, in his terrible hand:
+
+> **SURVEY.**
+
+And underneath it, the problem, in three lines.
+
+> 1. I cannot see the edge from the middle.
+> 2. I cannot walk to it and know how far I have gone, because the ground does not keep count.
+> 3. I have got nothing to leave behind me.
+
+He sat looking at the third line for a long time.
+
+Because that was it. That was the whole of it. He had spent five months on his stomach in wet grass measuring a farm with a candle and a piece of string, and the only reason that had worked — the only reason any of it had worked — was that the farm held still. You could scratch a thumbnail mark in the dirt of a cellar and come back to it. You could start at the bridge post, because the bridge post was the only fixed thing on the whole ford, and everything else could be counted from there.
+
+His Hold had exactly one fixed thing in it, and he was standing on it.
+
+Everything else was salt, and salt closed behind his boots, and left no footprints, and had never in five months held a single mark he had tried to make in it. He had tried. He had dragged a heel. He had piled it. He had, on one memorable night in Long, spent an hour scratching his own name into it with a stick that did not exist, and gone away, and come back, and found nothing.
+
+Nothing stayed in the salt.
+
+Except.
+
+Wick stopped with the charcoal in the air.
+
+*Except eleven paces of warm wet ground that had been there since the sixteenth of Long and had not moved an inch.*
+
+---
+
+He was out of the house and across the yard before he had the whole of it, and he had it by the time he reached the byre door, and he stood in the doorway with the lamp and said, "Nettle. Wake up."
+
+"'M awake. What."
+
+"Terrain stays."
+
+"Yes," said Nettle, from the straw, in the voice of somebody being told that water is wet.
+
+"No — listen. Nothing stays in my Hold. Nothing. I've tried, I've scratched my name in it and come back and it's gone, the salt takes everything." He was talking too fast again. "Except the warm damp. That's stayed. Five months. It's the only thing in forty-one acres that's ever stayed put."
+
+Nettle sat up in the straw with bits in her hair.
+
+"So?"
+
+"So that's a *marker*."
+
+He crouched down in the doorway so the lamp was between them.
+
+"When I did the ford I started at the bridge post because it was the only thing that didn't move. Then I walked ten paces and measured, and ten more, and I had a line of numbers, and the line of numbers is what showed me the edge — five, six, seven, seven, nine, twelve, five. It wasn't the twelve that told me. Anybody could've found the twelve. It was the *five after it*."
+
+"Because the five means it stops."
+
+"Because the five means it *stops*." Wick put both hands flat on the byre floor. "And I've been standing in the middle of my own country for five months with no bridge post and no line and no way of knowing whether I was walking out or walking round in a circle, and I've had a marker the whole time and I've been treating it like a *crop*."
+
+Nettle was very still.
+
+"You want to plant Seeds as survey pegs," she said.
+
+"Yes."
+
+"Not to fill it. To *measure* it."
+
+"Yes."
+
+"You want to walk out from the middle a set distance, plant a terrain, walk back, walk out further, plant another one, and read the line."
+
+"Yes." Wick heard his own voice crack and did not care. "And when the line does what the ford did — when it goes and goes and then it *changes* — that's my edge. And then I'll know where it is and how far and whether it's the same all the way round, and *then* I can start asking about walls."
+
+Nettle got out of the straw.
+
+"There's a problem," she said.
+
+"I know."
+
+"Say it, then."
+
+"Crawler Seeds don't make a new patch," said Wick. "I found that out in Long. Second one didn't put a second bit of warm damp down at the other end, it made the first one *bigger*. Two paces went to five. Every crawler I plant just grows the same patch out from the middle." He looked up at her. "I can't peg out a survey with one kind of Seed. I'd just be making the middle fatter."
+
+"So you need different kinds."
+
+"I need different kinds. As many as I can get. And they've got to be *tellable apart*, because a peg's no good if you can't say which peg it is when you're standing on it in the dark."
+
+Nettle started, slowly, to grin, and it was the first time he had seen her do it, and it was not a pleasant expression at all. It was the expression of somebody who has been waiting years for a reason to go and hit something.
+
+"Well," she said. "That's the best news I've had in six years."
+
+"Why?"
+
+"Because I can't plant *anything*," said Nettle, "so I've got no use for a Seed, so every Seed I take is yours, and there's a Welling forty feet inside a chain half a mile from this byre that neither of us is allowed within forty feet of." She pulled her boots on. "And the barrows above Fell Lane are full of chalk-hounds, and there's a standing writ on them at two shilling the Seed and three shilling bounty, and I'm licensed."
+
+Wick stared at her.
+
+"You're licensed."
+
+"Course I'm licensed. I'm Ember with seven and a half weight, they'd have been mad not to." She was pulling the straw out of her hair with her fingers. "I've had a Hall licence since I was fourteen and I've taken forty-one writs off that board and I've never once had a use for what came out of the middle, and every single Seed I've cut out of a chalk-hound has gone straight back to the Hall for two shilling because it was that or throw it in a ditch."
+
+She stopped.
+
+"Forty-one," she said.
+
+"What?"
+
+"Nothing." Her face had done something complicated and then gone flat again. "Forty-one writs. It's a stupid number. Get your spear."
+
+---
+
+They left on the eleventh of Dust and it took them two days on foot to the barrows above Fell Lane, and on the road Wick said the thing he had been carrying since the lane.
+
+"It's still not a wall."
+
+"No."
+
+"Even if I find the edge. Finding it's not the same as it holding. Camber pushes on the frame and if there's nothing there it doesn't matter how well I've *measured* the nothing."
+
+"No," Nettle agreed. "It doesn't."
+
+"Rust is in seven weeks."
+
+"Yep."
+
+"So this probably doesn't work."
+
+Nettle walked another quarter mile before she answered, and when she did she did not look at him.
+
+"When I was fourteen," she said, "I got told I was capped, and I went home and I sat in my mother's shop and I did nothing for four months. Four months. I didn't practise, I didn't draw, I didn't go up the barrows, I sat in a chair in a room that smelled of curing fat and I waited for somebody to come and tell me it wasn't true."
+
+"Did they?"
+
+"No. My mother came in on about the hundredth day and put a licence application in front of me and said, *you can be capped sitting down or you can be capped up a hill.*" Nettle shifted the pack on her shoulder. "So don't ask me whether it works. I've not got the first idea whether it works. I've got a strong opinion about hills."
+
+---
+
+She briefed him on the second afternoon, walking, because she did not believe in stopping to talk.
+
+"Chalk-hound. Hearth grade, and don't let anybody tell you a Hearth beast is like a Hearth man, because a Hearth man has to sleep and go to market and be sad about things." She held up fingers. "Waist high. White. Runs the barrows in packs of four to nine. Hide's the problem — it's not armour, it's *loose*, it slides off a point, so you don't stab, you cut, and you cut across."
+
+"How do you kill one?"
+
+"I hit it and it dies." She said it without any pleasure at all. "That's not a method, that's me. For you: you get behind a stone and you stay there."
+
+"That's not a method either."
+
+"No," Nettle agreed. "It isn't. Here's the method." She stopped walking, which meant it mattered. "A chalk-hound doesn't hunt with its eyes. It hunts with its *nose* about as well as a dog does, which is well enough, and the eyes are ordinary. But that's not how it finds you."
+
+"How does it find me?"
+
+"It finds your Hold."
+
+Wick stopped too.
+
+"They feel the Wild the way a hound feels a scent," said Nettle. "Anybody kindled is a post standing in a river — you saw it over Marrowfield, you told me about it on the cart. Everything kindled *drags*. And a chalk-hound can read the drag off a man at four hundred paces on open down, and that's why they take shepherds and not sheep, and that's why hiding doesn't work, and that's why the writ's three shilling bounty and not one."
+
+"So the trick is—"
+
+"There isn't a trick. That's what I'm telling you." She started walking again, hard. "There's a reason a chalk-hound writ is Hearth grade and it isn't the hide. It's that you cannot be quiet. You are shouting the whole time and you cannot stop, and every hunter who's ever gone up those barrows has gone up shouting, and the good ones just get there first."
+
+She was thirty paces on before she noticed he had not followed.
+
+She turned round.
+
+Wick was standing in the middle of the road with a very strange look on his face.
+
+"How much do I drag?" he said.
+
+Nettle opened her mouth.
+
+Then she did not say anything at all for about four seconds, which for her was a considerable speech.
+
+"...Nought weight," she said slowly.
+
+"Nought weight."
+
+"You've got eleven paces of warm damp and about half a weight in the whole of it, spread out over — over *forty-one acres*, so it's not even half a weight anywhere, it's nothing anywhere, it's —"
+
+"It's thin ground," said Wick.
+
+He was, he realised, grinning like an idiot in the middle of a road on the way to a hill full of things that ate shepherds, and he could not stop.
+
+"I'm the thinnest ground on the Sill," he said. "I'm thinner than the *Loam*. I've been walking round for five months being the least interesting thing in every room I've stood in and I've been *miserable* about it, and there's a hill up there full of animals that hunt by finding the loudest thing on the down."
+
+Nettle stared at him.
+
+"That's the worst plan I have ever heard," she said, "and I have heard my own."
+
+
+---
+
+# Chapter 18 — The Loudest Thing on the Down
+
+The barrows above Fell Lane were nine long grass mounds on a bare white shoulder of hill, laid out east to west, and there was nothing else up there at all for two miles in any direction.
+
+They got up at dusk on the thirteenth of Dust and lay on their stomachs behind the western-most mound while the light went, and Wick understood within about four minutes why the bounty was three shillings.
+
+There was nowhere to be.
+
+The turf was ankle-high and dry and the chalk came through it in patches. The mounds were the only cover, and they were the only cover for anything, which meant that whatever you hid behind, the hounds had already been behind. You could see four hundred paces in every direction and so could they, except that they did not need to.
+
+"How many?" he whispered.
+
+Nettle had her chin on her fists and was watching the second mound along.
+
+"Six," she said. "Maybe seven. There's one I'm not sure of."
+
+"How can you tell?"
+
+"Because I can *feel* them, and if you're going to ask me that again you're going to have to accept the answer, which is that I'm Field-blind like you and I can still feel six holes in the ground moving about, because I've been coming up here for a year and a half and you get to know a thing."
+
+"That's not an answer."
+
+"No," said Nettle. "It's practice. Practice isn't an answer, it's just the reason I'm right."
+
+---
+
+The plan was hers and it was very short.
+
+She would go and stand on top of the third mound.
+
+That was all of it. She would walk out of cover onto open down and go up onto the highest thing on the hill and stand there, and every chalk-hound within four hundred paces would come, because she was seven point four weight in two feet of ground and on that white shoulder of hill she was a bonfire on a beach.
+
+"How long can you hold?"
+
+"Three."
+
+"That's not what I asked."
+
+"It's the only number I've got." She was checking the knife on her belt without looking at it. "Three strikes and I'm on the floor. If there's six, that's three left over, and that's you."
+
+"I haven't got a working."
+
+"No."
+
+"I've got a spear and I can't stab them with it because the hide slides."
+
+"So cut across," said Nettle. "Same as I told you on the road. And keep behind them, and go one at a time, and don't get clever, and *don't touch one until it's the only thing left to do*."
+
+She stood up.
+
+"They can't see you," she said. "I've been thinking about it for two days and I can't make it come out any other way. You've got no weight, so you've got no drag, so as far as anything up here is concerned there is a spear walking about on its own." She looked down at him, and her face in the last of the light was doing something he had not seen it do. "That's not a plan, Wick. That's a *guess*. If I'm wrong you're dead in about nine seconds and it'll be my fault."
+
+Wick lay in the turf and looked up at her.
+
+"One measurement's a guess," he said.
+
+"Yes."
+
+"So let's get four."
+
+---
+
+She walked out onto the down.
+
+He counted forty paces before anything happened, which was longer than either of them had expected, and then the whole hill changed.
+
+He did not see it start. What he saw was the grass on the second mound move against the wind, and then a shape came off the side of it that was the colour of the chalk under the turf and was the height of his waist and did not look like a dog at all. It was too long in the body and the head was too flat and it ran with its spine going, like a stoat.
+
+Then there was another, off the fourth mound.
+
+Then four more, all at once, out of the dead ground between six and seven, and they came up the hill in a spread, not fast, not slow, converging on the third mound the way water converges on a drain.
+
+Nettle stood on top of it with her hands loose at her sides.
+
+Wick got up out of the turf and started walking.
+
+---
+
+He would remember three things about the next four minutes for a very long time.
+
+The first was that it worked.
+
+He walked out of cover onto open ground in the last of the light forty feet behind six chalk-hounds and not one of them turned round. He was close enough to the nearest to see the ribs move. He walked past a thing that took shepherds off this hill twice a year and it went on up the slope with its head down and its attention entirely somewhere else, and Wick Alder had never in his life been so completely and specifically unimportant, and it was the single most useful thing about him.
+
+The second was the noise Nettle's first strike made.
+
+He had heard it on a horse-trough in a yard behind a Hall and had thought he understood it. On open down in the dark it was not a crack. It was a *shot*, and the flat of the sound went out over the hill and came back off nothing, and the hound that had been going up the last three feet of the mound stopped being a shape and became a smell.
+
+Six became five.
+
+The third thing was how long it took him to kill one.
+
+---
+
+He got behind the rearmost while it was watching the mound.
+
+*Cut across.* He had four feet of ash with a boar head on it and he had spent two evenings on the whetstone, and he put it into the side of the animal's neck with both hands and dragged it toward himself, and it was exactly like cutting a rope that was fighting back.
+
+It went down. It did not go down quickly. It got round on him and it opened its mouth and it did not make any sound at all, and Wick got the shaft of the spear across it and put his knee on it and held it there in the grass in the dark for about twenty seconds, which was long enough to learn something about himself that he did not particularly want to know.
+
+Then it stopped, and he was up, and there was another one nine feet away with its back to him, and above him on the mound Nettle struck for the second time and four became three.
+
+He got the second one the same way.
+
+He got most of the way through getting the third one when the world went wrong.
+
+---
+
+It was not that it saw him.
+
+That was the part he worked out afterward, lying on his back looking at the sky. It never saw him. What happened was that he cut the third one badly — he was tired, his hands were slipping, the shaft had gone slick — and the animal went sideways instead of down, and in going sideways it fetched up against the fourth one.
+
+And the fourth one had blood on it that had come from nowhere.
+
+Wick watched a chalk-hound work it out. It took about a second and a half. It stood in the dark on the white shoulder of that hill with something wet on its flank and nothing anywhere to have put it there, and then it lowered its head and started casting, back and forth, in a tightening arc, and Wick understood that it had stopped looking for a Hold and had started looking for a *hole*.
+
+He was the hole.
+
+He got the spear up.
+
+It came in under it.
+
+---
+
+He was on his back with the whole weight of it on his chest and its jaws working four inches from his throat and the spear pinned uselessly across both their bodies, and his right hand was on its shoulder, on the hide, and the hide was doing exactly what Nettle had said it would do.
+
+It slid.
+
+He could not get a grip and he could not get the spear and he could not get out from under it, and the thing on top of him was dry — that was the thing his hand kept telling him, over and over, in a stupid urgent way, *it is dry, it is so dry* — dry hide over dry muscle on a dry hill, hot and papery and sliding under his palm like a sack half full of grain.
+
+Up on the mound Nettle struck for the third time, on somebody else, and then he heard her go down.
+
+That was it, then. That was the whole of the arithmetic and it had run out.
+
+So Wick Alder, with a chalk-hound on his chest and no working and no weight and nothing whatsoever to do it with, did the only thing he had ever been able to do, which was to be extremely stubborn about a small quantity of warm wet ground.
+
+He went in.
+
+He did not go *away*; that is not what it is. It is a half-second and a turn of attention, and he was standing at the middle of forty-one acres with eleven paces of steaming ground under his boots and five months of fifty-two-breath nights soaked into it, and he took hold of all of it at once, every drop, everything he had, and he shoved it up his own arm and out through the palm of his hand.
+
+---
+
+Nothing dramatic happened.
+
+The hound's shoulder got wet.
+
+That was all. A patch about the size of a dinner plate under Wick's right hand went from dry and papery to warm and soaked, as though somebody had wrung out a cloth on it, and the animal *flinched* — a whole-body flinch, the flinch of a cat that has stepped in something — and in flinching it lifted four inches.
+
+Four inches was enough to get the spear off his chest.
+
+And the wet hide did not slide.
+
+He got his left hand into the soaked patch and it *held*, it gripped like wet canvas, and he hauled the whole animal round by the shoulder with a strength he did not have and would not have again for a year, and got the spear head into the side of its neck, and cut across.
+
+---
+
+He lay on the down for a while afterward.
+
+The sky over the barrows had come out properly, and the Rafters were up, that faint fixed lattice going all the way over from one horizon to the other, minding its own business.
+
+He was empty.
+
+That was a new word for a thing he had never felt. It was not tiredness. Tiredness was a farm word and he had known it since he was six. This was a specific hollow ache behind the ribs, like a tooth that has come out, and when he shut his eyes and went in, the warm damp was still eleven paces across and it was *cold*, and the ground took his hand without any give in it at all, and when he tried to draw, the thread came in and went out onto it and lay there and did not sink.
+
+Not eleven breaths. Not one.
+
+He came out and lay in the grass and was frightened in a way he had not been at any point during the actual fight.
+
+"Wick."
+
+Nettle was on her hands and knees about nine feet away, having got that far.
+
+"Are you dead?"
+
+"No."
+
+"Right," she said, and lay down.
+
+---
+
+They counted six hounds in the morning, which meant she had been right about the number and wrong about the one she was not sure of, and it was lying dead at the bottom of the slope with its throat opened and neither of them could say who had done it.
+
+Nettle cut the Seeds out. It took her most of the morning because Wick could not lift his arms properly and because she stopped twice to be sick, which she did not comment on and neither did he.
+
+Six Seeds. Knuckle-sized, chalky, dry as a dice.
+
+She laid them out on a flat stone in the sun in a row and they both sat and looked at them for a while.
+
+"Twelve shilling at the Hall," said Nettle. "Plus three bounty for the pack, that's fifteen. That'd pay a fine and a licence and a fortnight's lodging."
+
+"Yes."
+
+"You're not going to do that."
+
+"No."
+
+"Why not? You've got a four-silver fine and a rent short and a gran."
+
+Wick picked one up. It was cool and dry and slightly rough, like a bit of hard soap, and there was something in the middle of it that the light went into and did not come out of.
+
+"Because it's six," he said.
+
+Nettle waited.
+
+"It's six *different places*," said Wick. "That's six pegs. That's a line." He turned it over. "I can walk out from the middle and put one down and walk out further and put the next one down, and that's the first line anybody's ever run across the inside of me, and at the end of it there'll be a number that isn't nought."
+
+He put it in the twist of oilcloth with the others.
+
+"Fifteen shilling's a lot," said Nettle.
+
+"Yes."
+
+"You'd be measuring an empty field while your family gets put out of a house."
+
+"Yes." Wick pulled the drawstring. "I've thought about that all night and I haven't got an answer to it, and I'm going to do it anyway, and I'd rather you said it out loud than didn't."
+
+Nettle looked at him for a while.
+
+"Right," she said, and then, "no — that's yours, isn't it. All right." She got up, slowly, holding the stone. "*Fine.*"
+
+
+---
+
+
+<!-- 18 chapters · 40,607 words · consolidated 2026-09-03 -->
