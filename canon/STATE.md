@@ -1,102 +1,124 @@
 # ═══ SERIES STATE — THE SAVE FILE ═══
-> **The single most important file in the repository.**
 > Cold start: `README.md` → this file → current book's `OUTLINE.md` → write.
-> Update at the end of every chapter. Keep under 250 lines; prune into `continuity-log.md`.
+> Update at the end of every chapter. Keep under 250 lines.
 
 ---
 
 ## POSITION
 - **Series:** WILDHOLD (25 books) · **Writing:** Book 01 — *Weightless*
-- **Chapters complete:** 6 / 32 · ~13,300 words
-- **Story date:** Y-812, Green 24 (month 3 of 12)
-- **Clock:** Rust assessment (month 9). ~5 months left. Rent falls at Gather (month 7).
+- **Chapters complete:** 15 / 32 · ~33,200 words
+- **Story date:** Y-812, **Dust 4**, night (month 6 of 12)
+- **Clocks:** Rust assessment (month 9) ≈ 3 months. Rent at Gather (month 7) ≈ 4 weeks.
+  **Dorn's procedure: eleven days. The Nine's schedule: six.** (Not yet stated on page.)
 - **Manuscript:** `manuscript/Book-01-Weightless.md` (rebuilt every chapter)
+- **Audits:** c001–c010 continuity + line edit **complete and remediated** (see
+  `series/book-01-weightless/AUDIT.md`). Next battery due at c020.
 
 ## NEXT ACTION
-Write B01 c007. Invoke skill `write-chapter`.
+Write B01 c016 — the **midpoint**. Invoke skill `write-chapter`.
 
 ---
 
 ## WHERE EVERYONE IS, RIGHT NOW
-- **Wick Alder** — Hollow Alder · has found an unlicensed Welling under the third hollow
-  alder at the ford and told nobody · wants to go down before he reports it, and knows
-  exactly what that makes him.
-- **Gran Alder** — the farm · watched him take rope and spear and said only "Mm."
-- **Tam Alder** — the farm · £3 16s short for Gather, hasn't said so out loud.
-- **Rab Camber** — on the Third Circuit, gone since Green 10 · returns in Rust.
-- **Dorn Vance** — Marrowfield · not yet on-page · introduce ch 15.
-- **Nettle** — Marrowfield · not yet met · introduce ch 13.
-- **Pell** — inbound · not yet met · introduce ch 12.
-- **Bri Alder** — Marrowfield · off-page · sends money, no word.
+- **Wick** — on the Marrowfield mail cart at ten, going home. Has confessed everything,
+  been fined, been offered a true argument he cannot answer, and has 12 lb of salt.
+- **Nettle** — coming with him. Uninvited. Has just worked out that Dorn paid for one seat.
+- **Dorn Vance** — rides to Hollow Alder tomorrow with two Hall men to seal the Welling.
+- **Pell** — Hollow Alder, or near it. Cannot act. Waiting to see what Wick buys.
+- **Gran / Tam** — the farm. Gran does not yet know he confessed.
+- **Bri** — Marrowfield. He did not find her. He did not really look.
+- **Camber** — Third Circuit. Returns in Rust.
 
 ## POWER LEDGER — LIVE
 | Character | Rank | Acreage | Weight | Coh. | Terrain | Workings |
 |---|---|---|---|---|---|---|
-| Wick Alder | **Ember (unrankable)** | 41.2 | 0.0 | ragged | salt flat (0.0 settled) | none |
-| Dorn Vance | Wold (high) | — | — | — | white down, deep flint | — |
-| Rab Camber | Field | — | — | — | — | — |
+| **Wick** | Ember (unrankable) | 41.2 | ~0.4 | ragged | salt flat; **warm damp, 11 paces** (~0.002 settled) | none |
+| **Nettle** | Ember | 0.002 | **7.4** | **true** | strike-glass (unbordered) | the strike ×3/day |
+| Dorn Vance | **Wold (high)** | 0.31 | **52** | true | white down · deep flint | 4 registered |
+| Camber | Field | — | — | — | — | — |
+| Pell | withheld (reveal ≥ B04, as a cost) | — | — | — | — | — |
 
-**Wick's Hold facts (his running list):** 1. No fire. 2. There is a middle, and out.
+**Yardsticks:** Hearth = 1.5 weight. A Field in Marrowfield is under 6.
+**Wick's rate:** 52 breaths/day, ≈4 per pace of warm damp. Walk the edge as you draw.
+**Wick's Hold facts (his list):** 1 no fire · 2 a middle, and out · 3 distance goes out
+further than it should · 4 he can see with no light · 5 planted ground holds weight
+without a fire · 6 same-kind Seeds expand, unequally, rule unknown.
 
 ## OPEN THREADS — TOP 7
-1. No fire → no weight → nothing. Partial answer due c10–11: *terrain can carry weight
-   without a fire.*
-2. The Rust deadline. *Failed of Kindling.* Due c32 — never overturned; a different form.
-3. Rent: £3 16s short at Gather. The weekly pressure.
-4. An unlicensed Welling under a village on 0.35 ground. **DO NOT EXPLAIN IN BOOK 1.**
-5. Wick's spoken promise: Marrowfield before Gather. Due c26.
-6. Bri sends money, no word. Third time. Gran is not glad.
-7. The Wild at the ford has an *edge*. Wild does not do edges.
+1. **Eleven days vs six.** Dorn seals it correctly and it is not fast enough. → c25.
+2. **The Rust deadline.** *Failed of Kindling.* Never overturned — **a different form
+   applies** at c32, and **Dorn signs it.**
+3. The white grass: terrain lying loose in the world, unowned. Wildborn go round it.
+   **Do not explain in Book 1.**
+4. Why an unlicensed Welling opened on 0.35 ground. **DO NOT EXPLAIN IN BOOK 1.**
+5. Both Moon and Pell stopped at the **final "five"** in the knot profile. Neither said why.
+6. Bri: money, no word. He was in her town and did not look. Gran said *find your sister*.
+7. Dorn buried nine, one of them his brother.
 
-## PROMISES OUTSTANDING (top 4)
-- The salt flat's properties (no footprints, black sky, silence) → **it is the weapon
-  that kills the Nine, c30.** The book's central setup. Do not waste it earlier.
-- "There is a middle, and out" → how he measures the seam's approach, c31–32.
-- Gran's "Mm" → she knew, and let him go. Pay at c26.
-- Camber crossing out a word on a form → he becomes important; argues acreage is a
-  number too.
+## PROMISES OUTSTANDING (top 5)
+- **The salt flat kills the Nine at c30.** Untouched since c03. Do not spend it early.
+- Wick's promise to the tree — already half-broken. Deed 2 at c26 is **refusing Dorn's
+  offer**, which costs him the safe road.
+- Item 33 (a crawler "looks" by pushing a ring of Wild out and back) — pays in the dark.
+- Nettle's cap and her "wall with pots on it" refusal — mirrors Wick's refusal at c26.
+- Dorn's salted thresholds — *"that is nine tenths of what kills a village."*
 
 ## RULES IN TENSION
-1. **Can terrain carry weight with no fire?** Bible says yes, a thousand times slower,
-   nobody has tried. **Establish on the page at c10–11.** This is Wick's whole method.
-2. Weight reads *peak*, not mean — so Wick can hit 1.9 on a patch without saturating 41
-   acres. Introduce **settled acreage** as a spoken concept around c20.
+1. **Hearth requires walls that hold under pressure. Wick has no walls.** He learns this
+   at **c16 and not before.** Nobody may say it earlier.
+2. Weight reads *peak*, not mean → **settled acreage** must become a spoken concept
+   around c20, when he gets his first non-zero public reading.
 
 ## MUST NOT FORGET
-1. Hollow Alder ground = 3–4 knots. Cellar 4. **The ford is 12, with an edge.**
-2. Wick can't read fluently. He does arithmetic in **barley-fields** (0.6 acre).
-3. The nine-knot string was his mother's; the 27-knot twine line is his own.
-4. Gran is unkindled and it is never a secret tragedy. Do not give her a hidden past.
-5. Money: 4 copper a tallow-crawler Seed, 2s a chalk-hound, £8 a nine-in-a-coat.
-   Licence costs 2s and needs Hearth. Unlicensed hunting: 4 silver and a mark.
-6. **Hearth requires walls that hold under pressure.** Wick has no walls. He does not
-   learn this until **c16**. Do not let him or anyone say it before then.
-7. Nobody in the crowd noticed the river go still.
-8. Wick's promise was *"I'll go to Marrowfield after. Before Gather."*
+1. **Calendar is pinned** — see the correction block at the head of `continuity-log.md`.
+   Bite Green 30; confession Long 4; planting Long 16; Pell Dust 2; Marrowfield Dust 4.
+2. The spear is his **grandfather's**, cut to four feet. Not Tam's.
+3. Bri's Hold is **thirteen feet**, brick.
+4. Salt maths: a 4-ft ring ≈ 13 ft of line; grass gave him 4 of it; he needed 7 lb, had
+   6, **ran the line thin**. He now has **12 lb** bought at the Hall.
+5. Nettle gets **three** strikes and then she is on the floor for an hour.
+6. Wick reads badly and does not pretend otherwise.
+7. Dorn is **right** and must stay right. He is a debt at the end, never an enemy.
+8. **§ THE TIC LEDGER in `bible/06-style-guide.md` is binding.** Especially: no lifespan
+   prolepsis; `, which was` ≤10/book; no default numbers; "Right." is Wick's alone;
+   "Mm." is Gran's alone; vary Wick's cognition posture.
 
 ---
 
-## LAST CHAPTER SUMMARY (c006 — "The Ford")
-Wick made a 27-knot line and measured the ford properly: 12 knots at the alders, and —
-critically — the reading has an **edge**, dropping to 5 within ten paces, which Wild
-never does. He found the third hollow alder holding water below river level, and under
-its rotted base a shoulder-width hole angling into the bank, breathing cold washed-smelling
-air, with a candle that goes out cold and smokeless at three knots down. It is a Welling,
-unlicensed and unrecorded, four hundred yards from the village. He worked out that the
-correct thing is to walk to Marrowfield and report it, did not pretend otherwise for a
-second, and decided to go down first anyway — saying aloud, alone in the tree, that he was
-doing it because he wanted to and not because it was right, and promising to report it
-before Gather. Then he went home, said nothing at dinner, found that easy, and was more
-frightened by that than by the hole.
+## LAST CHAPTER SUMMARY (c015 — "Rules Written After Funerals")
+Dorn Vance found them at the Hall by reading the crawler-salt column in the Hall's book,
+having been sent to by Registrar Moon at six. He showed his tally — 0.31 acres, weight 52,
+true — which made Wick's 41.2 acres of nothing arithmetically humiliating in about a
+second. He waited seven minutes for Wick to finish eating, then asked the question Moon
+never got to, and Wick answered it in full. No shouting: a four-silver fine run as a
+single offence, and a mark on a tally he does not have. Then Dorn made the argument the
+book has to survive — that Failed of Kindling is a life nine people in ten already live,
+that *being eaten is not survivable*, and that Wick goes down the hole because being
+ordinary frightens him more than dying does, which is arithmetic and is wrong. He named a
+fourth sheep Wick did not know about, said he would seal the Welling tomorrow, and gave
+the number that runs the rest of the book: **the correct procedure for a Wold-grade beast
+takes eleven days.** He sent Wick home on the mail cart, paid the penny himself, and told
+him to salt the thresholds of every house in the village. Nettle liked him, and noticed
+that only one penny had been paid.
 
 ## NEXT CHAPTER BRIEF
-**B01 c007 — "A Seam."** He goes down. This is the reader's first look at a Welling from
-the inside and it must be *strange before it is dangerous* — the Wild thick enough to
-have texture, terrain that grew with nobody owning it, the specific wrongness of a place
-that is not the Sill. He should get some way in, understand the scale of what he has
-found (it is bigger than a hole in a bank), and see a **tallow-crawler** for the first
-time — not fight it. He is unarmed of any working whatsoever and must be, and the chapter
-should make the reader feel that arithmetic. End on the turn: he could still report it
-today and be a boy who found something. Tomorrow he will be something else.
-Ratchet: none (this is the last chapter without one — c10 must deliver).
-Deliver: revelation + relationship-change (with himself). Keep 2,200–2,900.
+**B01 c016 — "What Walls Are For." THE MIDPOINT. The most important chapter in the book.**
+Two days on a cart with Nettle, then Hollow Alder with Dorn's men already staking the ford.
+The chapter's job is a **belief reversal, not an escalation**: the reader (and Wick) have
+believed *fill the ground and the rank follows.* That becomes false. **Hearth is conferred
+when a Hold's walls hold under pressure — and forty-one acres of open salt flat has no
+walls.** Everything he has done all summer is the wrong work.
+
+Deliver it through evidence, not exposition: he watches a **rupture** — someone (a Hall
+man, or a Marrowfield hopeful at the ford) takes a Seed too heavy and their Hold fails
+**at its weakest boundary**. Wick sees that a Hold under load breaks at the *edge*, asks
+what the edge is *for*, and does the arithmetic out loud himself. **He must say the ugly
+sentence.** Nettle, who has the opposite problem and perfect coherence, is the one who can
+confirm it, and it should cost her something to say.
+
+His position must be **worse** at the end than the start. New driving question for Act
+II-b: *how do you put walls around forty-one acres?*
+
+**RATCHET: acreage — DEED 1, of the bible's third type: understanding a thing he had been
+refusing to understand.** 41.2 → 42.1. Name the deed on the page.
+Deliver: revelation + cost. 2,600–3,200 words. Watch the tic ledger.

@@ -392,3 +392,162 @@ what `canon/STATE.md` and the book OUTLINE are for.*
      **"When you break it — what will you be buying with it?"**
 - Wick momentarily senses something under the cheerfulness: "the way you feel a barn in
   the dark before you can see it."
+
+## ⚠ CALENDAR CORRECTION (applied 2026-09-03 after continuity audit)
+The c008/c009 dates in the entries above are superseded. **Authoritative Book 1 timeline:**
+| Ch | Dates (Y-812) |
+|---|---|
+| 1 | Green 6 |
+| 2 | Green 6–9 (Circuit arrives Green 9) |
+| 3 | Green 9 dusk → Green 10 dawn |
+| 4 | Green 10–16 |
+| 5 | Green 14–18 (Hob's cart Green 16) |
+| 6 | Green 18–24 (Welling found Green 24) |
+| 7 | Green 26 (first descent) |
+| 8 | **Green 30** (second descent, the bite) → **Long 4** (confession; Gran counts "ten days" from Green 24) |
+| 9 | Long 5–14 (Hob Long 10; salt ground Long 10–13; cloth off Long 14) |
+| 10 | Long 14 (third descent, the kill) → Long 16 (planting) |
+| 11 | Long 17 → **Dust 2** (six weeks of measurement; Gather four weeks off) |
+| 12 | Dust 2, late afternoon (Pell) |
+| 13–15 | Dust 3–5 (cart Dust 3–4, Marrowfield Dust 4–5) |
+
+Gather 1 is 86 days after Long 4 (= twelve weeks). Rust 1 is the assessment deadline.
+
+## B01 c013 — "Marrowfield"  [Dust 3–4]
+- **Marrowfield is fifty-five miles.** Two days by Hob's cart (a penny, sitting on the
+  salt; passengers walk Cutter's Bank because Marnie won't take four up it). Three days
+  walking. Wick had never been more than nine miles from home.
+- Tam gave him **two shillings out of the crock — Bri's money.** Wick could not refuse it
+  without explaining why.
+- Gran, at the road: *"And what'll you say when they ask how you found it?"* … *"It's all
+  true, and it stops ten weeks short."* Then: **"Go on, then. And find your sister."**
+- **Marrowfield:** 4,000 people, a paved street, a smith on every second corner, an
+  all-day market. Tanyard on the approach.
+- **THE WILD OVER A TOWN (major image):** lies about **three feet deep** and slow, and
+  every kindled person stands in it **like a post in a river** — the Wild goes round them
+  and drags behind. ~2,000 posts. The whole town's air combed and turned over by people
+  doing nothing in particular.
+- **The Ledger office, Cross Street:** stone, brass plate, a queue. 90 minutes to the
+  front. Business seen in the queue: a boundary-ward variation, a fee dispute, a Grafter's
+  apprentice filing nine forms with the corners lined up (in under a minute — "something
+  like a craft").
+- **REGISTRAR ILSA MOON** — grey in her hair, chain of office. Takes the report herself.
+  Underlined **the final "five"** in the knot profile, exactly as Pell had stopped at it.
+  (→ THREAD: two Ledger professionals independently flag the edge.)
+- **THE WELLING IS IN THE DAY-BOOK.** This is real and it holds regardless of what follows.
+- **THE BALK:** asked "Have you taken any Seed from that Welling?", Wick asks to ask
+  something else first, is told to sit and think, sits **nine minutes counting them**, and
+  **walks out.** Not from fear of the fine but of a mark on a tally he does not yet have,
+  stacked on Failed of Kindling — and, underneath, of losing eleven paces of warm damp.
+- Afterward: sick, and underneath the sick **relief**, which is the part that makes him
+  put his hand on a wall. Both things are now permanently true and they do not cancel.
+- **NETTLE (Annet Faring), first meeting**, on the step opposite: small, square, dark,
+  hair cropped short and badly by herself with a knife, **old shiny burn up the inside of
+  the left forearm**, a Grafter's apron **with the strings cut off**. Had been there
+  ninety minutes. Does not ask what he was in trouble for. Wick notices that.
+- **NETTLE'S TALLY (printed in full):** Acreage **0.002** · Weight **7.4** · Coherence
+  **true** · Terrain: **strike-glass (unbordered)** · **Rank: Ember** · Reassessed 4th of
+  Dust Y-812, *result unchanged; see appended note.* **Fourth reassessment.**
+- Yardsticks established: **Hearth is 1.5.** There is a **Field-rank in Marrowfield under
+  6.** Nettle is 7.4 at Ember. Rank goes on the **lower** of the two numbers.
+- She has **two feet across**. Wick laughs, is nearly lost, and saves it by giving her his
+  own numbers. Her reply: **"That's the stupidest thing I've ever heard."**
+- Wick has no tally: the Ledger does not issue brass for *unrankable*.
+
+## B01 c014 — "Strike-Glass"  [Dust 4]  *(NETTLE POV — 1 of 2)*
+- Her mother's saying: two kinds come into a shop wanting things explained — one wants an
+  answer, the other wants to be told they're special, and four questions tell you which.
+  **In six years Nettle has met nine of the first kind.** Wick clears it in one minute.
+- **Nobody had ever asked her whether her Hold was level.**
+- **Her Hold:** a dead circle, two feet across, **flat as a plate**, glass, no edge —
+  *"it just stops," like the world stops.* Wick's stops too; he has never reached his.
+- **MARROWFIELD HALL OF HUNT:** long low building off the market, bath-house at the back,
+  bonesetter's room off the passage, 200 years of wet leather and beer in the walls. Bar,
+  and **the board**. Writs seen: chalk-hound in the barrows above **Fell Lane** (Hearth,
+  2s + 3s standing bounty); **tallow, Seam 4, infestation** (Ember, 4d, party rates);
+  **writ of survey, Tallow Welling lower gallery** (Wold, by nomination only); a notice of
+  suspended licences.
+- Wick reads the board for a quarter of an hour, aloud, badly, mouth moving, unembarrassed.
+- **Bought 12 lb of crawler-salt, a shilling, in a drawstring sack.**
+- **THE GRAFT (major system canon, from Nettle):**
+  · Her mother is a **Concord-licensed Grafter, 22 years, third best in Marrowfield.**
+  · Nettle's burn: at **eleven**, she got her arm across a pan of curing chalk-hound Seed.
+    It went in about a quarter inch and **it is still in there four years later.**
+  · It gives her a real working — cold hand on a wall dries a patch — **and it is not
+    hers.** *"It sits in my arm and it does it, and I'm holding the door. Every time I use
+    it I get this feeling like reading a letter somebody else wrote."*
+  · That is what **every** graft is like. Half the town has one and half the town is fine.
+  · A graft does not go in the Hold, but **you feel it right next to the place.**
+  · Her refusal: her coherence is **true at Ember** because there is one thing in her Hold
+    and nothing to argue with. Hang borrowed workings off herself and she would be strong,
+    and she would be **"a wall with pots on it,"** and would never find out what hers is for.
+- **THE STRIKE (her working):** palm flat on a surface, breathe out. No gesture, no light.
+  A single **crack** like a hammer on rock; an iron-bound horse-trough jumped a quarter
+  inch on the cobbles. **Leaves a bright silver handprint burned into iron, hot to touch.**
+  Registered as **the Faring Contact Working** ("because the clerk who wrote it up was
+  showing off"). Common name: **the strike.**
+- **Her limit: THREE. Then she is empty, on the floor, for an hour.** 7.4 weight in two
+  feet of ground — *"It's a full bucket, and it's a bucket."*
+- Her own verdict: she could put a hand on a Wold and genuinely hurt him **once**, then be
+  killed at his leisure. *"That's not power. That's a party trick with a good story."*
+- **THE DEAL:** she works out what her Hold is for, he works out what his is for, together,
+  because they are the only two broken ones either has met and **everything anyone has
+  told her came out of a book that hasn't got either of them in it.**
+  Terms, stated by her: *"I'm not being nice to you. I'm not your friend, I'm not sorry
+  for you, and if it turns out you're a fool I'll say so and go home."* Plus: full
+  disclosure of numbers, no holding back the good bit.
+- Wick discloses the Welling, the unlicensed hunting, the five Seeds, and the balk at the
+  office, **before** letting go of her hand. Her response: **"Why didn't you lead with that?"**
+- Wick reads badly and does not pretend otherwise. Nettle notices and does not comment.
+
+## B01 c015 — "Rules Written After Funerals"  [Dust 4, evening]
+- **DORN VANCE, first appearance**, at the Marrowfield Hall, 8 p.m.
+- **How he found them:** every sale of crawler-salt **over five pounds** goes in the Hall's
+  book with a name against it, *"because it is the only thing in this building that a man
+  buys when he is about to do something stupid."* He has read that column fourteen years.
+- Registrar Moon **sent to him at six** — he holds the Loam hunting licence.
+- Physically ordinary height and build, face like a fence post, plain coat. **The bench
+  moved half an inch when he sat on it.** The room went quieter without noticing it had.
+  **Mantle: ocular — eyes flat grey-white all through, no iris, no dark in the middle.**
+- **DORN'S TALLY (the series' first Wold yardstick):** Acreage **0.31** · Weight **52** ·
+  Coherence **true** · Terrain: white down · deep flint (bordered, **settled 0.31 of 0.31**)
+  · **4 registered workings** · **Rank: Wold (high)** · Mantle: ocular · reassessed
+  11th of Thaw Y-812.
+  → Wick has **133×** Dorn's acreage and 0 weight. The most humbling second of his life.
+- He **waited seven minutes** for Wick to finish eating rather than question a tired boy.
+- **Wick confesses in full, unprompted:** five tallow-crawlers, all planted, eleven paces
+  of warm damp. Dorn's entire response: **"Thank you."** No shouting — *"I have never once
+  got a useful thing out of shouting at a boy."*
+- **THE PENALTY:** four silver for unlicensed hunting, five instances, **run as a single
+  offence** because he was a minor and unassessed and because Moon will write it that way.
+  A **mark on his tally** when he has one. Goes against his name; takes about two years to
+  pay. *"It is an irritation and not a ruin."*
+- **DORN'S ARGUMENT, stated plainly (the book's counter-thesis):**
+  · What Failed of Kindling actually costs: no writ, no Hall, no apprenticeship. Then you
+    farm, or take wages, or drive a cart like Tunny — *"a happy man with a bad back and
+    nine grandchildren"* — and live to seventy or eighty, and after about five years you
+    stop thinking about it every day. **"That is a life. It is the life of nine people in
+    ten on this Sill and it is not a punishment."**
+  · **"Failed of Kindling is survivable. Being eaten is not."**
+  · *"You go down because being ordinary frightens you more than dying does. That is not
+    courage. It is arithmetic, and it is wrong, and the reason it is wrong is that you
+    have never actually seen the second number."*
+  · **He has buried nine people** who were the sort who get out of it. Four were better
+    than Wick. **One was his brother.** (→ THREAD)
+- **A FOURTH SHEEP:** Thatcher lost one on the ninth and did not report it, thinking it
+  strayed. It is in Moon's day-book. Dorn now has four; Wick had three.
+- **DORN'S PLAN:** ride to Hollow Alder tomorrow with **two Hall men**, survey and post the
+  Welling, stake it, nail notices on every alder, **offence to go within forty feet of the
+  ford** for anyone including the villagers. He has done this nine times.
+- **THE PROCEDURAL TRAP (the book's engine):** the rule for a **Wold-grade beast in an
+  unlicensed Welling** is that it is *sealed and reported*, and a **Circuit officer comes
+  out with authority to authorise a rank-appropriate hunt.* **Eleven days.**
+  Dorn has already done this arithmetic and did not like the answer either.
+- Dorn sends Wick home **that night on the mail cart (leaves at ten)** and pays the penny
+  himself. Tells him to let his grandmother be angry at him.
+- **DORN'S GIFT, unasked:** *keep the salt.* Not for the Welling — **salt the thresholds
+  and byre doors of every house in the village, a line as thick as your thumb, renewed
+  when it rains.** It will not stop what took the ewes. It stops what comes up behind it,
+  **"and that is nine tenths of what kills a village."**
+- Nettle's verdict: **"Right. I like him."** Then: the mail cart goes at ten, and he said
+  he'd pay *Wick's* penny.

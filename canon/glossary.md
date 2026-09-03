@@ -7,10 +7,12 @@ it is invented. If it isn't here, it isn't canon.*
 - **Barley-field** — Hollow Alder's unit of area, ~0.6 acre; what a man can work in a day. The only unit Wick can think in. *(B01 c01)*
 - **Chalk estate, the** — absentee landholder of the Whitts strip. Agent: Nead. *(B01 c05)*
 - **Coherence** — how well a Hold's terrain fits together. Graded *ragged / settled / true*. *(B01)*
+- **Concord, the (Grafters')** — the craft guild that cuts, cures and fits Seeds. Licensed; Nettle's mother has held one 22 years. *(B01 c14)*
 - **Deed** — an act that forces a Hold to make room; the only source of acreage. *(B01)*
 - **Deep Wild, the** — the layer below the Sill. Where terrain grows unowned. *(B01)*
 - **Drawing** — pulling ambient Wild inward through breath and skin; it is *feeding the fire*. Gran's method: breathe out longer than you breathe in, think about the bottom of a well. *(B01 c04)*
 - **Failed of Kindling** — the Ledger status entered when a second assessment returns an unusable result. Bars hunting licence, Hall membership, and licensed apprenticeship for life. Appeal has succeeded once, Y-604. *(B01 c04)*
+- **Faring Contact Working, the** — registered name of Nettle's technique. Common name **the strike**. *(B01 c14)*
 - **Farsense** — the awareness of other Holds, gained at Field rank. *(B01)*
 - **Fire, the** — the Wild present at the moment of kindling, condensed at the middle of the new ground; it burns for life and is the source of all weight. The taper is for the form. *(B01 c04)*
 - **Firmament, the** — the layer above the Sill. Thin Wild. Sovereign country. *(B01)*
@@ -18,11 +20,15 @@ it is invented. If it isn't here, it isn't canon.*
 - **Graft** — a Seed fitted into a body instead of a Hold. Fast, crude, never quite yours. *(B01)*
 - **Hall of Hunt** — locally-run, Ledger-licensed contract house. Board, bar, bonesetter. *(B01)*
 - **Hold** — the interior country every person carries. The seat of all power. *(B01)*
+- **Instrument** — the filed document defining what an auditor may examine. Acting or causing a filing outside it is a matter for the Quorum. *(B01 c12)*
 - **Kindling** — the ceremony that opens a Hold. Traditionally at fourteen. *(B01)*
 - **Law** — a single true sentence that governs a Hold and, at rank, its Verge. *(B01)*
 - **Ledger, the** — the accounting institution that measures, ranks, and licenses. *(B01)*
 - **Mantle** — the visible physical sign of a Hold's dominant terrain, gained at Wold. *(B01)*
 - **Notion** — a Law not yet articulable. Required for True Wold. *(B01)*
+- **Odell** — the precedent case on filing outside instrument. Nine hundred pages; ruined four lives, one of them a man who tried to warn a village. *(B01 c12)*
+- **Post in a river** — the common image for how a kindled person stands in ambient Wild: it goes round them and drags behind. *(B01 c13)*
+- **Quorum, the** — the Ledger's nine, unnamed. Where offences against instrument are tried. *(B01 c12)*
 - **Rafters, the** — the faint fixed lattice of the Firmament, visible on clear nights. *(B01)*
 - **Register of Workings** — the Ledger's catalogue of every named technique. Searchable for a fee. *(B01)*
 - **Rupture** — the cracking of a Hold by a Seed too heavy for it. Usually fatal. *(B01)*
@@ -31,12 +37,16 @@ it is invented. If it isn't here, it isn't canon.*
 - **Settled acreage** — the portion of a Hold actually carrying weight. Meaningless for a room; everything for Wick. *(B01)*
 - **Sill, the** — the habitable middle layer of the world. *(B01)*
 - **Slack, the** — the five loose days at midwinter belonging to no month. *(B01)*
+- **Strike, the** — see *Faring Contact Working*. *(B01 c14)*
+- **Strike-glass** — Nettle's terrain: lightning-struck sand gone to glass. Two feet across, unbordered. *(B01 c14)*
 - **Tallow Welling** — the licensed, fenced, farmed Welling two hours beyond Marrowfield. *(B01 c05)*
 - **Tally** — the stamped brass chit recording your three numbers and rank. *(B01)*
 - **Terrain** — the contents of a Hold. The source of all techniques. *(B01)*
 - **Verge** — the radius at which a Hold can impose itself on the real world. *(B01)*
+- **Warm damp, the** — Wick's first terrain, from tallow-crawler Seeds. Warm, wet, faintly steaming. *(B01 c10)*
 - **Weight** — Wild density. The number people brag about. *(B01)*
 - **Welling** — a place where the Deep Wild breaks through to the Sill. *(B01)*
+- **White grass, the** — a nine-foot patch of terrain lying loose and unowned on the floor of the Welling under Hollow Alder. Wildborn will not cross it. Unexplained. *(B01 c07)*
 - **Whitts** — the Alder tenancy: 40 acres, 66 barley-fields, £11 6s at Gather. *(B01 c05)*
 - **Wild, the** — ambient magic; a natural, universal, weather-like substance. *(B01)*
 - **Wildborn** — creatures grown from concentrated Wild. Ecology, not evil. *(B01)*

@@ -44,6 +44,6 @@ does not have.
 - **Numbers:** — · — · —
 - **Terrain:** none
 - **Workings:** none
-- **Injuries/possessions:** a spear his father made for boar. Gran's tinder-box.
+- **Injuries/possessions:** his grandfather's boar spear, cut down to four feet. Gran's tinder-box.
 - **Knows:** nothing about Wellings, Seeds, or the Register beyond village rumour.
 - **Does not know:** that Bri is in trouble. What Pell is. What his Hold means.
