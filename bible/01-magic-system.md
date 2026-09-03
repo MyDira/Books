@@ -56,11 +56,60 @@ Every Hold is graded on three axes. The Ledger prints them on your tally in this
 2. **Weight** — how much Wild your Hold contains per acre. Determines *how hard you hit*.
    A heavy Hold is dense, saturated, dangerous. This is the number people brag about.
 3. **Coherence** — how well the terrain fits together, graded *ragged / settled / true*.
+   Each grade has sub-classifications (*ragged, first class* through *fourth*) which
+   exist because the Ledger cannot bear an unsubdivided category, and which are the only
+   way most practitioners ever measure progress.
    A ragged Hold leaks, wanders, and fails under pressure. A true Hold does what it is
    told. This is the number that actually wins fights, and almost nobody talks about it.
 
-**Total output ≈ acreage × weight × coherence.** Practitioners argue about the formula
-in taverns the way other worlds argue about sports.
+**Total output ≈ settled acreage × weight × coherence.** Practitioners argue about the
+formula in taverns the way other worlds argue about sports.
+
+### The fourth number: SETTLED ACREAGE
+Weight is **not uniform across a Hold.** The brass frame reads the *peak* — the densest
+coherent region — because that is what determines output at the point of use. Ground
+that carries no weight is *unsettled*: it is yours, it counts toward acreage, and it does
+nothing whatever.
+
+For ordinary practitioners this distinction is meaningless. A nine-foot room settles
+entirely within a season and nobody thinks about it again, which is why the Ledger's
+form has three boxes and not four.
+
+For anyone whose acreage badly outruns their weight, it is the whole of their life.
+Raising weight across ground is slow, expensive, and unglamorous, and it is the only
+thing that turns acreage from a curiosity into power.
+
+> **Wick's arithmetic, the whole series in one line:** he has more ground than a
+> Dominion and less weight than a loaf of bread. Every book is a fight to settle
+> another piece of it.
+
+### WEIGHT BANDS (locked — every number in 25 books measures against these)
+Weight is Wild density, in the same unit used for ordinary matter. A grown adult body
+carries about **1.0**. A loaf of bread, about 0.004.
+
+| Rank | Hold weight (peak) | Typical *settled* acreage |
+|---|---|---|
+| **Ember** | 0.2 – 1.5 | 0.002 (a nine-foot room) |
+| **Hearth** | 1.5 – 5 | 0.004 – 0.01 |
+| **Field** | 5 – 18 | 0.02 – 0.1 |
+| **Wold** | 18 – 90 | 0.1 – 0.6 |
+| **March** | 90 – 600 | 0.6 – 4 |
+| **Realm** | 600 – 5,000 | 4 – 30 |
+| **Dominion** | 5,000 – 60,000 | 30 – 200 |
+| **Sovereign** | self-generating; the frame reads nothing | — |
+
+Rank is conferred on the **lower** of the two columns, not the higher. This is why a
+freak with enormous acreage and no weight is *unrankable* rather than terrifying, and
+why the Ledger has never had to think hard about it before.
+
+### WHAT EACH RANK ACTUALLY REQUIRES (the thresholds, stated plainly)
+- **Ember** — a Hold that opens, and a fire lit in it.
+- **Hearth** — **the Hold's walls hold under pressure.** An assessor applies load; the
+  boundary must not deform. *A Hold with no walls cannot be graded Hearth at any weight,
+  and this has never come up, because every Hold is a room.*
+- **Field** — the Hold gains a **horizon**: a settled boundary far enough out that the
+  ground between is continuous. This is what produces Farsense.
+- **Wold** — the Verge steps outside the skin. Requires walls that can be *carried*.
 
 ### The Verge
 Your Hold is inside you, but it *presses outward*. The radius at which it can impose
