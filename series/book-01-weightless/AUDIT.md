@@ -37,3 +37,59 @@ Three structural faults found, all adopted into outline v2.
 
 **Carried forward:** Book 2 must open on a hunt that makes two terrains look clever
 within ten pages.
+
+---
+
+## 2026-09-03 · CONTINUITY AUDIT — c001–c010 — 8 BREAK / 9 DRIFT / 6 NOTE
+**All 8 BREAKs fixed. All DRIFT fixed. NOTEs resolved or accepted.**
+
+| # | Finding | Fix applied |
+|---|---|---|
+| B1 | The spear changed owner (father in c5/c6, grandfather in c8) | Grandfather's throughout. c5, c6, character file corrected. |
+| B2 | Gran's "Nineteen days" did not compute | **Calendar re-pinned.** Second descent moved Long 2 → **Green 30**; confession **Long 4**; Green 24 → Long 4 = **ten days**. |
+| B3 | "Gather's five weeks" was off by seven | → **twelve weeks** (Long 4 → Gather 1 = 86 days). |
+| B4 | Third descent (Long 14) preceded the arm healing (Long 16) | Bite moved to Green 30 → cloth off **Long 14** → descent Long 14. Clean. |
+| B5 | The forearm-length crawler was "eleven feet" long for one sentence | → "a foot and more of itself". |
+| B6 | Wick waited two days to plant a Seed Hob said spoils in half a day | Hob's rule narrowed: half a day **in the beast**; out of it, it keeps. |
+| B7 | The shortfall never absorbed Bri's eight shillings | 912d → **816d**. |
+| B8 | "That's near a third of it" — 8s of £3 16s is a tenth | → "That's eight shillings off it." |
+| D1 | Horseshoe arithmetic self-contradictory; salt density wouldn't scale | Rebuilt honestly: a 4-ft ring is ~13 ft of line; 4 ft of it is grass; he buys 9 ft instead of 13, needs **7 lb**, has **6 lb and a bit**, and **must run the line thin** — a stated, written-down risk. Enclosure is 4 ft across, not twelve. |
+| D2 | Hob specified "good dry ground"; the chamber floor is wet | c10 now has the salt cake on damp chalk and Wick deciding it is probably in his favour. |
+| D3 | Systematic elapsed-time inflation (5 instances) | All recomputed against the new calendar. |
+| D4 | "second week of Long" for events in the first | → "the last days of Green". |
+| D5 | "Fifty paces down toward the alders" contradicted ten-pace steps | → "Ten paces". |
+| D6 | Earth weekday names (Tuesday, Friday) — no weekdays in this calendar | Removed. |
+| D7 | Ember sight arrived late and undercut the string; "no working" contradicted c4 | Added the seeing-vs-measuring distinction ("He could see that the ford was thick. He could not see *twelve*") and softened to "nothing you could fight with… one modest useful trick." |
+| D8 | Tam knew where Bri planted her Seed, though she has stopped writing | Question rewritten to the general custom. |
+| D9 | The £3 16s shortfall ignored the ewe money Gran had just counted | Gran now names the ewe money as the tup money, not theirs to count. |
+| N1 | 9×9 ft is 1/538 acre, not 1/480 | → "about one five-hundredth". |
+| N2 | 41.2 acres cannot contain a 1,000-pace straight walk | **Legalised on the page**, not hand-waved: distance in his Hold goes out further than it has any business going. Extends Hold Fact 2. |
+| N3 | STATE/ledger/glossary lagged the log | Brought current. |
+| N4–N6 | Salt pricing slip; the loaf-sized lick; lifespan framing | N4/N5 accepted as in-voice; N6 fixed under the line-edit prolepsis pass. |
+
+## 2026-09-03 · LINE EDIT — c001–c010
+**Verdict: no voice drift, zero purple, 10/10 closings, exemplary paragraph discipline
+and all-`said` attribution. Four tics fixed; all rules written into
+`bible/06-style-guide.md` § THE TIC LEDGER so they do not recur across 25 books.**
+
+1. **Lifespan prolepsis — 5 clauses cut.** The narrator had guaranteed Wick reaches sixty
+   more years, eighty, **three hundred**, and survives the next three years twice. That
+   pre-defuses every fight in the series and breaks the no-destiny rule by a friendlier
+   mechanism. Cut every clause naming a lifespan; kept the ones naming a change.
+2. **`, which was` — 52 → 30**, worst clusters removed (c6 had 9 in 1,941 words). The
+   closing gloss of c6 was explicitly protected as the form working.
+3. **The number eleven — 77 uses across 15 chapters → 21**, and the survivors are the
+   protected metrics (eleven breaths, eleven paces). Four different objects had been
+   measured at eleven feet; two separate scenes climaxed on "did it eleven times."
+   Bri's Hold moved 11 ft → **13 ft** to free the number.
+4. **Shared verbal furniture assigned.** "Right." taken off Tam and Hob (Wick's alone).
+   "Mm." taken off Tam (Gran's alone). Tam rebuilt from his one true thing, the doubled
+   "Course you did."
+5. **c5 opened on a tenancy agreement with no person in it** — the only FAIL opening in
+   ten. Rewritten to open on Tam's "Barley'll do six."
+6. **Exposition cuts:** c1's 441-word ladder lecture trimmed; c5's fourth restatement of
+   the same insight deleted; c6's re-explanation of the four-corners rule cut.
+
+**Carried forward:** vary Wick's cognition posture (44 identical staged thoughts); vary
+the simile frame (39 of 72 comparisons were "the way ___"); watch paragraph-opener
+distribution.
