@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 25 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 28 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -4990,5 +4990,514 @@ Then, after a moment: "Sorry. That's yours."
 
 ---
 
+# Chapter 26 — Knocking
 
-<!-- 25 chapters · 57,156 words · consolidated 2026-09-04 -->
+It knocked on the Alders' door at twenty past two in the morning on the fourteenth of Gather.
+
+Three times. Not loud. The ordinary domestic knock of somebody who has walked a mile in the rain and would like to come in, and Wick, who had been asleep for perhaps an hour, was awake between the second and the third with every hair on his body standing up, and the reason he was awake was not the sound.
+
+It was that the sound was *polite*.
+
+---
+
+Nobody in the house moved.
+
+He knew, without checking, that all four of them were awake in the dark listening: himself in the room off the kitchen, Tam upstairs, Gran in the back, Nettle in the byre across the yard. He could hear the house not breathing.
+
+The knock came again. Three times, the same spacing.
+
+Then the latch moved.
+
+It moved the way a latch moves when a person tries it: down, and stopped, and up, and down again, and stopped. Twice. Politely. And then it stopped moving and there was nothing for about nine seconds and Wick had time to think, with absolute clarity, *it is standing there working out what else you do.*
+
+Then something went along the wall of the house, outside, at about the height of his chest, all the way to the corner. It did not sound like feet. It sounded like a full sack being dragged over gravel by somebody in no hurry.
+
+At the doorstep it had stopped. He heard it stop. Two feet of dry salt in a line as thick as a thumb, laid down on the eighth of Dust by a boy with a sack and no rank, and it had come up to that and it had gone round.
+
+---
+
+They found each other in the kitchen at about half past, in the dark, without a lamp, because Gran said *no lamp* in a voice that ended the discussion.
+
+"Where's it gone," said Tam.
+
+"Up the road," said Wick.
+
+"How d'you know?"
+
+"Because there's nine doors on the north side with a line on them and it's going to try all of them," said Wick, and heard his own voice come out steady and hated it.
+
+They stood in the dark and listened to Hollow Alder be knocked on.
+
+That was the worst thing Wick ever heard and he heard a great many things afterward. It went from house to house up the north side of the road, and at every one there were three knocks, and a pause, and the latch, and then the long slow dragging sound going round the wall, and then nothing, and then three knocks at the next one along.
+
+Rennick's. The Thatchers'. Ma Dunnock's. The Hollow. It took it about four minutes a house and it did not hurry and it did not get angry, and after the fourth Wick understood that it was not testing the doors at all.
+
+It was *practising*.
+
+---
+
+The eleventh house was Ock's.
+
+There was no line on that step. There had never been a line on that step. A boy had come up the path in Dust with a sack over his shoulder and a man who had lost everything and could not stand to be told a thing by that particular boy had opened the door, looked at the sack, and shut it again without a word.
+
+Wick was out of the kitchen and across the yard before Gran got to the door, and Nettle came out of the byre at a dead run and was ahead of him by the gate, and it was four hundred yards and they did it in a little under two minutes and it was not nearly fast enough.
+
+They heard the knocking stop when they were halfway.
+
+---
+
+Ock was in the road.
+
+He was standing in the middle of it in his nightshirt with his bare feet in the mud and his arms down at his sides, and the door of his house was open behind him, and there was nothing in the doorway and nothing in the road and nothing anywhere at all.
+
+"Ock."
+
+He did not turn round.
+
+"Ock. Where's your father?"
+
+"He knocked," said Ock.
+
+His voice was perfectly ordinary. That was the thing about Ock; it had been the thing about him since the lane, and it was worse every time.
+
+"He knocked and Da said *who's there*," said Ock, "and it said *who's there*, and Da laughed, because it's Sil, isn't it, it's Sil messing about, and Da's been on his back nine days and he's had nobody in but Ma Dunnock, and he wanted it to be Sil so much that he got up off that bed on his own legs for the first time since the ninth and he went and lifted the latch."
+
+Nettle went past him into the house.
+
+She came out after about four seconds.
+
+"Wick," she said, in a voice he had not heard her use before and heard perhaps six times in the rest of his life.
+
+"Is he—"
+
+"There's nobody in there," said Nettle. "There's nobody in there at all."
+
+---
+
+Dorn Vance was in the road by ten to three, on foot, without his coat.
+
+He had been sleeping in the Hollow's back room and he had heard the fourth house knocked on and had come out of a window, and he had got to the eleventh house one minute after Wick, and Wick would think about that minute for a long time and so, he was fairly sure, would Vance.
+
+He went into the house. He came out. He knelt in the road at the doorstep and put his palm flat on the mud for about twenty seconds with his eyes shut.
+
+"North," he said, getting up. "It has gone back down the road. It is not carrying him, or it is not carrying all of him. It will be in the shaft inside the hour and once it is in the shaft I lose it entirely, because that ward reports a crossing and it does not tell me what is on which side."
+
+"He's alive," said Ock, from the middle of the road.
+
+Vance stopped.
+
+Wick watched a high Wold with fourteen years and fifty-two weight take a full second to decide whether to lie to a boy in a nightshirt, and come down on the wrong side of it, which is to say the right one.
+
+"No," said Dorn Vance. "He is not. I am sorry. It does not take them to keep them; it takes them to try them on, and it has had four sheep and none of them held, and it will not have got more than a mile before it found out he would not either." He put a hand on Ock's shoulder, briefly. "Go inside, lad. Go to the Alders'. There is a line on that step."
+
+Then he turned round.
+
+"Alder. Come here."
+
+---
+
+"I am going down at first light," said Vance, "which is in three hours, and I am going now instead, because it has taken a man and because a thing that has just failed to wear something is at its stupidest in the hour after."
+
+"I'm coming."
+
+"No."
+
+"I've been in that shaft ten times, I know the first chamber, I know where the passage goes, I know how far it is to the second—"
+
+"I have your sketch," said Vance. "You gave it to Moon on the fifth of Dust with the numbers on it and she copied it to me, and it is good, and I have had it in my coat for five weeks. That is the whole of what you know and I already have it, and the rest of what you would bring down that hole is a fourteen-year-old with nought point four weight and no working and a spear, and a beast that wants a shape."
+
+"You need somebody to—"
+
+"I need nothing whatever from you," said Dorn Vance, "and I want you to think about *why you cannot hear that*."
+
+Wick stood in the road.
+
+"I'll go on my own," he said. "After you've gone in. You can't stop me."
+
+"No," Vance agreed. "I cannot."
+
+Then he went and got his satchel off the pack horse, and came back, and knelt down in the road in the mud, and got out an inkhorn and a board and a printed form and a lamp, and lit the lamp.
+
+"What are you doing?"
+
+"I am filling in a form," said Dorn Vance.
+
+---
+
+It took him four minutes, in the rain, in the road, four hundred yards from a house that had somebody missing out of it, with the whole of Hollow Alder standing in their doorways behind their salt lines watching him do it.
+
+"On the fourth of Dust," he said, writing, "in the Hall of Hunt at Marrowfield, you disclosed to me five instances of unlicensed hunting. I recorded them in my day-book and I did *not* lay a charge, and I have not laid one in six weeks, because Moon and I agreed to hold it and run it as a single offence and let the fine sit against your name and be paid off over two years."
+
+"I know."
+
+"You do not know why we held it." Vance did not look up. "We held it because an unpaid fine is a fine. A *laid charge* is a different animal. A laid charge is live, and while it is live the schedule provides for an interim restraint, and an interim restraint on a person named in it can be attached to a place."
+
+He turned the form round.
+
+"I am laying it," said Dorn Vance. "Now. And I am attaching the restraint to the ford of the Wickwater, and I am serving it on you in the road in front of nineteen witnesses, and the effect of it is that if you go within forty feet of that hole while this is live, it is not a fine and it is not a mark. It is *contempt of a laid restraint*, and that carries a term of detention, and it is the only thing in the entire schedule that would stop you and I have been through the whole of it twice tonight looking for something better."
+
+Wick could not speak.
+
+"Sign here," said Vance, "or do not sign, it makes no difference at all, service is service."
+
+"You'd put me in a cell."
+
+"I would put you in a cell in Marrowfield for six months," said Dorn Vance, "and you would hate me for the rest of your life, and I have buried nine people and I know exactly which of those two things I can live with." He stood up and blew on the ink. "Your grandmother will be angry at me. Your father will not. I have met about forty of your father and they never are."
+
+He put the form in his satchel and picked up the lamp.
+
+"For what it is worth," he said, "and it is not worth anything and I am saying it anyway: on the ninth you saved this village and I sat on a hill and watched you do it. If I come back up that shaft I am going to spend a considerable amount of time trying to talk you into that instrument again, and I expect to lose."
+
+Then he walked down the road toward the ford, alone, in the rain, at three in the morning, without his coat, and that was the last anybody in Hollow Alder saw of Dorn Vance for two days.
+
+---
+
+Wick stood in the road with a copy of a form in his hand.
+
+Nettle came and stood next to him and read it over his shoulder, which took her a great deal less time than it would have taken him.
+
+"Forty feet," she said.
+
+"Forty feet."
+
+"From the ford of the Wickwater."
+
+"Yes."
+
+"Named on the instrument as *Wick Alder of Whitts strip in Hollow Alder*," said Nettle.
+
+"Yes," said Wick, and then stopped.
+
+And turned his head.
+
+And looked at her.
+
+"He's not been able to charge me with anything for six weeks," said Nettle, "on account of me never having done anything, on account of me being a licensed Hall member in good standing with forty-one writs off that board and a clean tally, and he was in a considerable hurry just now and he wrote one name."
+
+
+---
+
+# Chapter 27 — Down
+
+They gave him a day and a half, which was thirty hours longer than Nettle wanted and eleven hours longer than Wick could justify afterward.
+
+That was Pell's doing.
+
+"He is a high Wold," Pell said, on the morning of the fourteenth, sitting on the Alders' gate with his satchel on his knees. "A high Wold in a hole is not a man in trouble; a high Wold in a hole is the single most survivable thing in this parish. He has fifty-two weight and a settled terrain and four registered workings and he has done this nine times. If you go down there this morning you will find him working, and you will be in his way, and being in a Wold's way in a confined space is how beaters die."
+
+"And if he's not working?"
+
+"Then he is dead," said Pell, "and there is nothing under that ford for either of you, and you will find that out at the cost of your lives, and I would like you to notice how *convenient* it is that both branches of that argument tell you to stay here."
+
+Wick looked at him.
+
+"You're telling me to go."
+
+"I am telling you *nothing whatever*," said Ossian Pell, with feeling. "I am laying out a decision tree with a defect in it, which is examination, which is my instrument. What you do with it is entirely your affair and I shall write four lines about it either way."
+
+"How long till the defect matters?"
+
+"Thirty-six hours," said Pell, "at which point a man who is working has finished working, and a man who has finished working comes up, and a man who has not come up is neither working nor dead but *held*, and that is a third branch, and I notice the argument did not contain it."
+
+---
+
+The ward reported at nine on the morning of the fourteenth and did not report again.
+
+They knew that because Vell had left a countersign stake at the Hollow when he came through in Dust — a thing about the size of a fence post, driven in behind the taproom, which nobody had paid the slightest attention to for three weeks and which was, it turned out, the other half of the chain at the ford.
+
+It went cold at nine. It stayed cold.
+
+"That means he's crossed in," said Nettle.
+
+"It means something crossed in at nine," said Pell, "and that nothing has crossed since. It does not say which direction, or who, or how much of them."
+
+---
+
+They went down at four in the afternoon of the fifteenth of Gather.
+
+Between the ward going cold and that moment they slept four hours between them and did the following, in this order, because Wick could not do a frightening thing without making a list first and had long ago stopped apologising for it:
+
+They broke up nine pounds of rock salt from the Hollow's own trough, which the landlord gave them without a word and did not ask about.
+They cut and pointed two new stakes and drove them at the head of the shaft with forty feet of rope between them, because Wick had gone up that shaft twice on a single rope in the dark and did not intend to do it a third time.
+They took four lamps and eleven candles and a tinder-box, because the light in a Welling goes round and unnatural and Wick had learned in Long that a candle that burns without wax is a candle you cannot judge.
+They took Wick's four-foot spear and a Hall billhook off the wall of the Rennicks' byre.
+They took two blankets, water, bread, and a length of hurdle-twine, and Nettle said "what's the twine for" and Wick said "I don't know yet" and she said "good" and put it in.
+
+And they took the ledger, because he was not going down a hole with sixty-eight items of hard-won information sitting in a byre.
+
+At half past three Gran Alder came out into the yard and did not tell either of them not to go.
+
+What she did was hand Nettle a small stoppered pot and say, "Vinegar and the grey stuff. Two marks side by side, no cut. If it goes red up the veins it's four days, not two, and I'll not have him hiding it," and Nettle said, "He won't," and Gran said, "He will," and went inside.
+
+---
+
+Wick stepped over the chain at four minutes past four in the afternoon.
+
+He counted it. He stood at the notice nailed to the second alder and read the whole of it out loud, badly, mouth moving, the way he read everything, and then he read the copy of the laid restraint in his pocket, which he had had Nettle read to him twice so he would not be able to pretend afterward that he had not understood it.
+
+*Contempt of a laid restraint. A term of detention.*
+
+Six months in a cell in Marrowfield, at fourteen, with a mark on a tally he did not have and a family in a rented room.
+
+"Right," said Wick Alder, and stepped over the chain.
+
+Nettle stepped over it beside him, which cost her nothing legally and cost her about the same amount in every other way, and neither of them ever discussed it again.
+
+---
+
+The first chamber had changed.
+
+He knew it before his boots were off the rope. The air was wrong — not the warm wet mushroom-and-old-fat smell he had spent a summer breathing, but something under it and over it, thinner, with a mineral edge like a struck flint.
+
+He got a lamp lit and held it up and stood in two feet of turning pale Wild that had gone slow and heavy as cold porridge, and looked round a room he knew better than his own bedroom, and found three things.
+
+**One.** The chalk was cut.
+
+There were marks in the soft translucent walls that had not been there in Dust: long clean gouges, four and five feet, running down and across, and in two places a section of wall had come away entirely and lay in slabs on the floor. It was not damage. It was too regular. Somebody had been *cutting the room to shape* — opening the angles, taking out the lips and ledges that a smaller thing could get behind.
+
+"That's him," said Nettle. "That's a man making a place to fight in."
+
+**Two.** There was a line of salt across the mouth of the passage.
+
+It was thin and it was broken in the middle, and the break was about two feet wide, and on the near side of the break there was a wide dry crumbling drift of it where a thing had come across and taken the wet out of the ground.
+
+"It crossed," said Wick. He crouched. "It crossed *salt*."
+
+"Crawlers can't."
+
+"A crawler can't." He put his fingers in the drift. "Nine of them agreeing to be one thing apparently can, if they're willing to lose the front of themselves doing it, and there's about — " he looked at the width of it — "there's about a crawler's worth of dead salt here. It walked across on one of its own."
+
+Nettle did not say anything for a moment.
+
+"That's a thing that can spend a ninth of itself on a door," she said.
+
+**Three.** The white grass was gone.
+
+He nearly missed it, because an absence in the dark is not a thing the eye goes to. He had crossed the floor twice before he understood that the floor was all the same, and turned round, and held the lamp low, and walked the middle of that chamber in a slow arc with his heart going.
+
+Nine feet by nine feet of ankle-high white grass, growing out of soft chalk in the dark, that had been there before the village and that a thing with no eyes had gone round rather than over.
+
+There was bare chalk where it had been. Not scorched, not torn. *Bare*, and slightly dished, as though the whole nine feet had been lifted out clean.
+
+Wick knelt at the edge of it with the lamp and could not make himself say anything at all.
+
+"Wick."
+
+"It took the grass," he said.
+
+"How? It's *ground*. It's ground lying loose on a floor, you can't—"
+
+"I don't know." He put his palm flat on the bare chalk and it was cold and it was nothing, an ordinary cold floor in an ordinary cave, and the last four months of his life had begun on that patch. "I don't know, and Vance doesn't know, and Vell wrote *Wold grade* off four sheep and a shaft, and I have been telling myself for six weeks that I understood what was down here because I could name it."
+
+He stood up.
+
+"It wanted a shape," he said. "There was a shape lying on this floor that nothing in this Welling would set foot on, and it took it."
+
+---
+
+They went into the passage at ten past five.
+
+Four feet wide, five high, chalk run soft, sloping down. The Wild ran along the floor and went ahead of them, downhill, and it got deeper as they went, and at two hundred paces it was over Wick's knees and at three hundred it was at his waist, and it was like walking down into a river that had decided not to be in a hurry.
+
+At three hundred and forty paces they came to the second chamber and the sheep were still there, three grey mats of wool with the burrs in them, and a fourth one now, smaller, and neither of them looked at it for very long.
+
+Beyond the second chamber Wick had never been.
+
+He stopped in the far entrance with the lamp up and Nettle beside him and looked down a passage that went on going down, and got the ledger out with cold fingers, and made a note, because a boy who measures things does not stop measuring at the point where it gets frightening; that is exactly the point where the measuring starts being worth anything.
+
+> *Past ch. 2. Passage bears down and left. Wild at chest. Air still moving up.*
+
+"Air's moving," said Nettle.
+
+"Yes."
+
+"That's good, isn't it. That means it goes somewhere."
+
+"It means it goes somewhere," Wick agreed, "and I've been assuming for five months that this is a hole under a ford, and a hole under a ford does not have a *draught*."
+
+They went down.
+
+---
+
+They found Dorn Vance an hour later, four hundred paces further, at the bottom of a fall of chalk in a place where the passage opened into something too big for the lamp to reach the far side of.
+
+He was sitting up against the rock with his legs straight out in front of him and his hands in his lap, and he had been there some time.
+
+His left arm was broken in two places and had been splinted, competently, one-handed, with a strip of his own shirt and the shaft of a Hall spear.
+
+His eyes were shut.
+
+And there was a ring of salt round him, poured out in a circle about six feet across, laid down thick, and the near quarter of it was gone.
+
+Wick got to him first and got a hand on his shoulder and Vance's flat grey eyes came open at once, all the way, with no drift in them at all, and looked at the boy who was not supposed to be within forty feet of the ford, and Dorn Vance said, in a perfectly level voice:
+
+"You are in contempt of a laid restraint."
+
+"Yes," said Wick.
+
+"Good," said Vance. "Then you will have brought the salt."
+
+
+---
+
+# Chapter 28 — What He Learned in Two Days
+
+Nettle laid the new salt while Wick got water into him, and neither of them said anything for four minutes, and then Dorn Vance started talking and did not stop for a quarter of an hour, because he had spent two days in the dark composing a report he did not expect to deliver.
+
+"Write it down," he said. "You have the ledger. Write it down as I say it, and if I stop making sense, keep writing and mark the place."
+
+So Wick wrote it down, in charcoal, in the worst handwriting in the Loam, sitting on a chalk floor four hundred paces past the end of the known world.
+
+---
+
+"I came in at nine on the fourteenth. I found it in the first chamber at twenty past. It was standing on the grass."
+
+"Standing on it?"
+
+"On it. Not near it. It had the whole nine feet of that patch *inside* itself and it was standing there wearing it like a man in a coat two sizes large." Vance's voice did not change at all. "I did not understand what I was looking at for about four seconds and those four seconds are why my arm is broken. Write that down too."
+
+Wick wrote it down.
+
+"Describe it," he said.
+
+"I cannot."
+
+"Vance—"
+
+"I am not being difficult. I am telling you the single most useful fact I have." Vance shifted against the rock. "I have looked at that thing across a room, at nine feet, in good light, for a total of perhaps two minutes across two days, and I *cannot describe it*, and neither will you, and you must not waste any part of your attention trying, because it is the whole of its defence.
+
+"It is about the size of a cart horse. It is pale. It has nine things in it. And every time you look at it your eye tries to make it into something — a man, a dog, a heap, a person leaning in a doorway — and it is *none of those*, and the shape you thought you saw is gone before you can check it, and you spend the whole fight being fractionally wrong about where it is."
+
+"That's not fog," said Nettle. "That's not it moving fast."
+
+"No. It is that there is nothing there to be a shape. Nine boneless things holding an edge between them by agreement, and the agreement is not about *what* shape. Only that there is to be one." Vance was quiet a moment. "It borrows. It saw me and for about a second and a half it was doing an extremely poor impression of a man with a broken arm, and I want you to understand that I had not broken my arm yet."
+
+---
+
+"What did you do to it?"
+
+"Everything," said Dorn Vance.
+
+He said it flatly, and Wick, who had spent six weeks reading this man, understood that this was the part he had been dreading and had rehearsed.
+
+"Four registered workings, fifty-two weight, fourteen years, and a room I had spent forty minutes cutting to shape before it came. That is not a boast. That is the *inventory*, and I want it in your ledger, because what matters is what it bought.
+
+"*Flint Standing* is a wall of my own down, laid down across ground, waist high and eleven feet across. It went straight through it. Not over. Through. It came apart into about four pieces at the wall and each of the pieces went round or under and it put itself back together on my side and *it did not slow down.*
+
+"*The Second Cut* is a cutting working and it is a good one. I have taken the leg off a cinder-boar with it. I hit that thing eleven times in two days and I have opened it, top to bottom, four times, and every single time the two halves went on doing exactly what they had been doing, because there is no *inside*. I have been cutting a sack of water in half and expecting it to die."
+
+"You killed some of it," said Nettle.
+
+Vance stopped.
+
+"Yes," he said. "That is the only useful thing I did and I did it by accident. On the second afternoon I got about a ninth of it against a wall and I held it there and I kept cutting until it stopped moving, and I killed it, and it was a tallow-crawler, it was one boneless thing the length of your forearm, and it lay there on the floor being *dead*."
+
+"And the rest of it?"
+
+"Went away and came back an hour later and there were eight." Vance let that sit. "Then it went up the road on the ninth — no. That was before. The order of it is going." He shut his eyes for a second and opened them. "Mark that place. I have got the days wrong."
+
+Wick marked the place.
+
+"It can be killed," Vance said. "One ninth at a time, by a high Wold, at about four hours a ninth, and there were nine and now there are eight and I have got one arm. That is the arithmetic. That is *the whole* arithmetic and I have had two days with it and it does not improve."
+
+---
+
+"The salt," said Wick.
+
+"The salt is finished."
+
+"It crossed the line in the first chamber. It spent a bit of itself to do it—"
+
+"On the fourteenth, yes. It burned about a crawler's worth getting across your line and I thought, *good, that is the price, it can pay it eight more times and then it is done.*" Vance nodded at the broken quarter of the ring around him. "And then it did it a second time on the fifteenth and paid *nothing*, and I have been sitting here since working out why, and I have got it, and you are going to hate it."
+
+"The grass."
+
+Vance turned his head and looked at Wick properly.
+
+"Say the rest," he said.
+
+"Salt doesn't kill a crawler because it's clever," said Wick slowly. "It takes the wet out of it. That's all it is. It's got no bones and no skin worth the name and the wet is the whole of what it's made of, so you put dry against wet and the wet goes."
+
+"Yes."
+
+"It's got nine feet of white grass in it. That's not crawler. That's ground. It's *terrain*, and it's been growing on a chalk floor in the dark since before Hollow Alder was a village, and it does not care about salt in the slightest."
+
+"It walks on the grass," said Dorn Vance. "It puts the borrowed ground down in front of itself and it steps on that, and my line does not touch it, and my *ward* does not touch it, and every defence this parish has is a line of dry stuff on the floor, and it is carrying nine feet of floor."
+
+Nettle said, very quietly, "It's got a bridge."
+
+"It has got a bridge," Vance agreed, "and it took it out of the one place in the Sill where a piece of unowned ground was lying about waiting to be picked up, and I have been going up that shaft in my head for two days and every single house on that road has a line of salt on the step and not one of them is going to matter."
+
+---
+
+They sat with that for a while, in a cave, with a lamp.
+
+"Right," said Wick.
+
+Nettle's head came round.
+
+"You've got a face on," she said.
+
+"I've got a *question*." He was already turning the ledger back through the pages, fast, past the survey line and the rota and the six pegs and thirty-three items about tallow-crawlers. "Vance. Two things and they're both stupid and I want you to answer them like they're not."
+
+"Go on."
+
+"Why nine feet?"
+
+"...What?"
+
+"The grass was nine feet by nine feet. I paced it in Green and I paced it twice because one's a guess." Wick had the page. "Ock's Hold was ten and a half feet. My sister's is thirteen. Everybody in Hollow Alder gets nine feet of daub. Nine feet is what a *room* is."
+
+The cave was quiet.
+
+"I had assumed," said Dorn Vance, in a slightly different voice, "that it was a coincidence."
+
+"So had I. For four months." Wick turned the page. "Second question. You said it wants a shape and that the agreement isn't about *what* shape, only that there's to be one. Say how you know."
+
+"Because it takes them and puts them down again. Four sheep. A man. It is not eating, it is *fitting*, and nothing fits."
+
+"Why doesn't anything fit?"
+
+Vance opened his mouth and shut it.
+
+"I don't know," he said.
+
+"No," said Wick. "Nor do I. But it's had four sheep and a man and nine feet of grass, and it's still going, and the only thing it's kept is the *ground*." He looked up. "It didn't want the shape of a sheep. It's got a shape. It's got nine of them. What it hasn't got is somewhere to *be* one."
+
+---
+
+That was when the light changed.
+
+Not much. The lamp was on a shelf of chalk nine feet away and it did not flicker; what changed was the Wild. It had been lying chest-deep and turning slowly and pouring past them downhill for an hour, and it stopped pouring, all at once, the whole width of the cave, and hung.
+
+Nettle was on her feet before Wick had registered it.
+
+"How far can you see," said Vance, not moving.
+
+"Nine feet. Maybe eleven."
+
+"That is the lamp's fault and not yours. Put it out."
+
+"*Out?*"
+
+"Out," said Dorn Vance. "Everything you can see is a shape it can borrow and everything you cannot see is a shape you will invent. In the dark you will only be wrong about where it is. In the light you will be *sure*, and you will be wrong, and being sure is what broke my arm."
+
+Wick put the lamp out.
+
+---
+
+In the dark, in a cave four hundred paces past the second chamber, under a ford, under a village, Wick Alder stood with a four-foot spear in both hands and listened to something come.
+
+It did not sound like feet. It sounded like a full sack being dragged over gravel by somebody in no hurry, and then it stopped, at what he judged to be about thirty feet, and there was nothing for nine seconds.
+
+And then it knocked.
+
+Three times, on the chalk, at about the height of a door.
+
+"Who's there," said the dark, in Ock's father's voice.
+
+
+---
+
+
+<!-- 28 chapters · 63,016 words · consolidated 2026-09-04 -->

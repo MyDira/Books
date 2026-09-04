@@ -4,6 +4,6 @@ Reader-facing consolidated books. Regenerated automatically as chapters land.
 
 | Book | Title | Chapters | Words |
 |---|---|---|---|
-| 1 | [Weightless](Book-01-Weightless.md) | 25 | 57,156 |
+| 1 | [Weightless](Book-01-Weightless.md) | 28 | 63,016 |
 
-**Total: 57,156 words across 1 book(s).**
+**Total: 63,016 words across 1 book(s).**
