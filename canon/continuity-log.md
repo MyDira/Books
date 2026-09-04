@@ -19,7 +19,7 @@ what `canon/STATE.md` and the book OUTLINE are for.*
 - Barley is a hand's width short of Wick's knee on Green 6; should be past it.
 - **Family:** Tam Alder (father, quiet, hands in pockets, can find water). Gran Alder =
   **Mereth Alder**, 71, unkindled. Mother dead (Y-806), taught Wick the string.
-  **Bri Alder**, sister, 3 yrs older, kindled 11 feet BRICK — Camber said "well now" aloud.
+  **Bri Alder**, sister, 3 yrs older, kindled **13 feet BRICK** — Camber said "well now" aloud.
   Left for Marrowfield ~3 months after. Wrote, then less, then stopped.
 - Kindling: age 14, Circuit comes twice yearly (Green and Rust), brass frame, taper.
   Standard result: a room, 9 ft in a village, 12 typical, 18 if wealthy/rich ground.
@@ -347,7 +347,7 @@ what `canon/STATE.md` and the book OUTLINE are for.*
   Most people abbreviate immediately, which I have decided to find charming."
 - He had been sitting there **two hours** and had seen the rope, the alder, the hole
   ("a very poor hole and I would not myself go down"), the salt, and the shortened spear.
-  He counted Wick's eleven minutes on the gravel. **"I count everything. It is a dreadful
+  He counted Wick's nine minutes on the gravel. **"I count everything. It is a dreadful
   habit and it has cost me two marriages and one commission."**
 - **"I am *of* the Ledger, which is different."**
 - **PELL'S NON-INTERVENTION RULE (system/institutional canon, established here):**
@@ -802,3 +802,31 @@ Gather 1 is 86 days after Long 4 (= twelve weeks). Rust 1 is the assessment dead
   crossed it, wherever he was, and will be here tomorrow evening or the morning after;
   (2) it is **the ninth of Gather**, and **Nead** is riding up from the Chalk estate with a
   book, with eleven tenancies to call on in this parish, and **Whitts is the fourth**.
+
+
+## ⚠ CORRECTIONS APPLIED 2026-09-04 (continuity + line audit, c011–c022)
+- **c021 calendar break fixed.** The load test that follows the sixth night of walking is
+  re-dated from *the twenty-ninth of Dust* to **the second of Gather**. Walking begins
+  Dust 27; night six therefore falls on Gather 2. Anchors unchanged: Dust 27 start,
+  Dust 7 sealing, Gather 9 completion.
+- **Pell said "Mm."** in c020 — reserved to Gran. Changed to "I have."
+- **Gran said "Right."** in c020 — reserved to Wick. Changed to "Mm."
+- **Nettle said "Right."** five times (c013, c014, c015, c018 ×2) and **Dorn once** (c015).
+  All reassigned. The single surviving instance (c018) is now explicitly lampshaded: she
+  hears herself borrowing his word and stops. Wick keeps it.
+- **Nettle's floor-strike cost** (c022): "about a third of everything she had" corrected to
+  **two thirds**, to match "it cost her two of her three."
+- **The Ledger's full procedure length** is **twenty-six days** from sealing. c022 said
+  twenty-four; corrected.
+- **"Five weeks later"** in c022 → **"A month later"** (Dust 8 → Gather 9 = 30 days).
+- **c012 number contradiction:** Pell says Wick sat on the gravel **nine minutes**; the
+  callback three paragraphs later said *eleven*. Corrected to nine throughout.
+- **Bri's Hold is THIRTEEN FEET, brick.** The c001 log entry said eleven (stale — the prose
+  was changed during the c1–10 audit). c023's "Bri's got eleven feet" also corrected.
+- **Lifespan prolepsis:** Dorn's "he will be ... when he is sixty" (c016) rewritten to state
+  the permanence without naming an age.
+- **"for the rest of his life"** had become a replacement tic (4 uses); varied.
+- **Em-dash density** brought from 4.30 to **2.56 per 1,000 words** book-wide.
+- **"for a while"/"for a long time"** reduced from 29 to 20 in c011–c029.
+- **", which was"** reduced; the signature construction *"X was what he had instead of Y"*
+  was reused for Nettle in c014 and has been removed — it is one per series.

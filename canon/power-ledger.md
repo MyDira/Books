@@ -16,8 +16,15 @@ AND the deed/Seed that earned it.
 | B01 c07 | **Ember sight** in use for the first time at real density (Welling chamber 1) | 41.2 | 0.0 | ragged | rank-inherent, not a gain |
 | B01 c10 | **Terrain 1 planted — "the warm damp," 2 paces.** First weight ever to stay. | 41.2 | ~0.1 | ragged | Killed tallow-crawler #1 (salt horseshoe against the white grass). Seed cut with Tam's knife. |
 | B01 c11 | Crawlers #2–5 planted. Warm damp 2 → 5 → 8 → **11 paces**. | 41.2 | ~0.4 | ragged | Four more kills over six weeks |
+| B01 c16 | **DEED 1 — acreage.** *Understanding a thing he had been refusing to understand:* that Hearth grades a **boundary**, and he has none. Felt the ground go out "the way a held breath goes out." | **42.1** | 0.4 | ragged | The deed is named on the page. Position gets *worse*. |
+| B01 c18 | **First export** (unregistered, accidental): pushed the whole of his soaked ground out through one palm onto a chalk-hound's hide. Emptied him for **8 days**. | 42.1 | 0.4 | ragged | Pinned under a Wold-hunting beast; the only thing he had |
+| B01 c19 | Six chalk-hound Seeds planted as **survey pegs** at 100/400/1,000/3,000/8,000/20,000 paces. Yields 9/7/5/3/2/1½ paces of white down. **Finding: there is no edge — the Hold thins forever.** | 42.1 | 0.4 | ragged | — (measurement, not gain) |
+| B01 c20 | **Assessed by Pell's field frame.** Acreage **42.1**, weight **0.4** (read five times). **Settled acreage coined: 0.002 of 42.1.** | 42.1 | **0.4** | ragged | First non-zero weight in the series |
+| B01 c21 | **THE RIM.** Walked the warm damp's border nightly; hard set salt forms where wet meets dry. Load test failed at the one place he crossed it — **lost 2 paces (11 → 9)**. Rebuilt, entering from a different bearing each time. **A hand high, no gate, holds ~40 s under his own full load.** | 42.1 | 0.4 | ragged | Rule: *Never cross it twice in the same place.* |
+| B01 c25 | **DEED 2 — acreage.** *Keeping a promise that cost him:* refused Dorn's sponsorship (which would have paid the rent, remitted the fine and prevented the striking-off) and told Gran the cost first and the reason second. | **~43** (unmeasured) | 0.4 | ragged | Felt it go out a second time. No frame until Rust. |
+| B01 c29 | **WORKING 2 — "the crust."** Push warm wet ground onto his own skin, then pull the water back; the salt sets into a shell a nutshell thick. Bone dry. | 43 | ~0 (spent) | ragged | Improvised with both hands inside a nine-in-a-coat |
 
-**Settled acreage: ~0.002 of 41.2** (11 paces across ≈ 0.002 acre).
+**Settled acreage: 0.002 of 42.1** (9 paces enclosed ≈ 0.0014 acre; 11 paces before the c21 loss).
 **Intake rate — the series' first personal metric:** 11 breaths/day at 2 paces →
 **41 breaths at 11 paces** → **52 breaths** once he began walking the edge as he drew
 (recently-drawn ground takes less the next day). ≈ 4 breaths per pace of width.
@@ -31,17 +38,27 @@ AND the deed/Seed that earned it.
 | 4 | He can see in there although there is no light. | B01 c10 |
 | 5 | Planted ground holds drawn weight where bare salt does not. **Terrain carries weight without a fire.** | B01 c10 |
 | 6 | Same-kind Seeds expand existing terrain; they do not make a second patch. Increments are unequal and the rule is unknown. | B01 c11 |
+| 7 | **Different-kind Seeds make separate, permanent, findable patches** — therefore survey pegs. | B01 c19 |
+| 8 | **There is no edge.** The Hold thins outward on a curve that halves and never reaches nought. He is not a room. He is weather. | B01 c19 |
+| 9 | **A boundary is worn, not built** — like a footpath. It fails where you cross it. *Never cross it twice in the same place.* | B01 c21 |
+| 10 | Drawn-on ground takes less the next day. Walk the edge as you draw. | B01 c11 |
+| 11 | Emptying himself completely costs **eight days**, and it comes back all at once at the end, not evenly. | B01 c19 |
 
 ### Terrain planted
 | Book·Ch | Terrain | Seed source | Borders | Techniques enabled |
 |---|---|---|---|---|
 | — (opening) | **the salt flat** — 41.2 acres, flat, pale, ridged, leaves no footprints; black featureless sky; total silence | none; present at kindling | none | none yet — **this is the terrain that kills the Nine at c30** |
-| B01 c10–11 | **the warm damp** — 11 paces across, centred on the middle. Warm as a cow's flank, wet, faintly steaming, smells of mushrooms and old fat | tallow-crawler ×5 | salt flat (all round) | none yet |
+| B01 c10–11 | **the warm damp** — 11 paces, reduced to **9** at c21. Centred on the middle. Warm as a cow's flank, wet, faintly steaming | tallow-crawler ×5 | salt flat (all round) — **and that border is THE RIM** | working 1 (the wet), working 2 (the crust) |
+| B01 c19 | **six white-down pegs** — 9, 7, 5, 3, 2, 1½ paces, at 100/400/1,000/3,000/8,000/20,000 paces from the middle | chalk-hound ×6 | salt flat | none (they are instruments, not weapons) |
 
 ### Workings
 | Book·Ch | Registered name | Common name | Terrain source | Cost |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| B01 c18 | unregistered | **"the wet"** — push warm wet into what he is touching | the warm damp | catastrophic: emptied him for 8 days |
+| B01 c29 | unregistered | **"the crust"** — wet the surface, then pull the water back; the salt sets hard | the warm damp *bordering* the salt flat (the rim's own effect) | everything he had |
+
+**Note:** working 2 is an **edge effect**. It does not come from either terrain alone. It
+comes from the *border he built by walking*, which is the book's thesis rendered as a technique.
 
 ---
 
