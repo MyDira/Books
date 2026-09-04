@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 6 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 7 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -1179,7 +1179,7 @@ Vance was quiet for about four seconds.
 
 Here is what it was actually like, and it took eleven seconds.
 
-Wick went in first, at a crouch, along the left wall of the cut, and the boar did not come at him — he had known it would not, because he had spent four months being the least interesting thing in every room, and a cinder-boar hunts by heat and weight and there is not one thing about a boy on nought point six that is worth a beast's attention.
+Wick went in first, at a crouch, along the left wall of the cut, and the boar did not come at him. He had known it would not, because he had spent four months being the least interesting thing in every room, and a cinder-boar hunts by heat and weight and there is not one thing about a boy on nought point six that is worth a beast's attention.
 
 That is the whole of why it worked, and he never once told anybody, because it did not sound like courage.
 
@@ -1191,7 +1191,7 @@ He got his hands on Vance's forearms at nine feet from the animal and put the cr
 
 Vance went in.
 
-The grip took. Wick watched a one-armed Wold get a cased hand round the base of a cinder-boar's ear and stop six hundred pounds of it dead in a nine-foot cut, and heard the shell go — a sound like a plate under a thumb, which he knew, which he had heard on his own rim in Gather with a nine-in-a-coat leaning on it — and he was already moving.
+The grip took. Wick watched a one-armed Wold get a cased hand round the base of a cinder-boar's ear and stop six hundred pounds of it dead in a nine-foot cut, and heard the shell go, a sound like a plate under a thumb, which he knew, which he had heard on his own rim in Gather with a nine-in-a-coat leaning on it. He was already moving.
 
 Second casing. He got both hands on Vance's wrist and put the water in and pulled it back and the salt set and the grip held and the boar screamed, which he had not known they could do.
 
@@ -1203,7 +1203,7 @@ And on the fourth Dorn Vance said, "*Enough*," in a voice with the whole of a hi
 
 Wick sat down in the chalk afterward and could not make his hands do anything for about a quarter of an hour.
 
-Not empty. That was the interesting part and he wrote it down at midnight. Not empty at all — three castings and a bad fourth, and he could still feel the warm damp when he went in, cool but not cold, maybe a third gone.
+Not empty. That was the interesting part and he wrote it down at midnight. Not empty at all: three castings and a bad fourth, and he could still feel the warm damp when he went in, cool but not cold, maybe a third gone.
 
 *The crust is a third of the wet. Confirmed under load. Four is available. Six might be.*
 
@@ -1255,7 +1255,7 @@ Marrin found him afterward, by the fire, and sat down, and was perfectly friendl
 
 "Confluence." Marrin turned the word over and did not do anything unkind with it. "What is it?"
 
-And Wick — who had been asked a real question by a boy of seventeen who could not read a density profile and who earned nine shillings a day — heard himself begin to explain the border of the warm damp and the salt flat, and got about four sentences in, and stopped.
+And Wick — who had been asked a real question by a boy of seventeen who could not read a density profile and who earned nine shillings a day, heard himself begin to explain the border of the warm damp and the salt flat, and got about four sentences in, and stopped.
 
 Because Marrin's face had gone polite.
 
@@ -1298,5 +1298,213 @@ He got up, and stood in front of the fire, and did not have an answer, and went 
 
 ---
 
+# Chapter 7 — Seven Borders
 
-<!-- 6 chapters · 14,360 words · consolidated 2026-09-04 -->
+She asked him on the third of Green, out loud, using words, the way she had written down that she would.
+
+"How did you make a boundary?"
+
+Wick looked up from the ledger.
+
+"You know how. You were there."
+
+"I was there for the *complaining*. I watched you go up and down a byre for three weeks looking like a man with toothache." Nettle sat down opposite him and put both hands flat on the table, which was a thing she had picked up off him and which he had never mentioned. "I want the method. Not the story. If I had to do it, what would I do."
+
+And Wick, who had explained it twice to Camber and once to a room of three hundred people, opened his mouth and found there was nothing in it.
+
+---
+
+He tried for about a quarter of an hour and it went badly.
+
+"You walk it."
+
+"That's not a method, that's a verb."
+
+"You walk the line where two grounds meet, and you don't cross it, and you don't get on and off in the same place, and after about six nights there's a ridge."
+
+"Why?"
+
+"Because." He stopped.
+
+"Because *why*, Wick."
+
+"I don't know," said Wick.
+
+Nettle sat back.
+
+"Six months," she said. "You've been telling this story since Rust. You told a registrar. You told a *square*. And you've never once said the word *because* in it."
+
+"I said the salt takes up the water out of the wet ground and sets."
+
+"That's what the rim's *made of*. That's not why walking does it." She counted it off on her fingers, which she did when she was serious. "You walked twenty-one nights and got a hand of rim. If walking makes a rim, then a shepherd walking a field boundary for forty years ought to have the hardest ground in the parish, and he does, and it's a *footpath*, and a footpath is packed dirt and not a wall. So it isn't walking."
+
+"Then what is it?"
+
+"I don't know either," said Nettle, "and I've been at it since two in the morning on the twentieth, and I would like it very much if you would stop being pleased with yourself about the one thing you did and go and find out how you did it."
+
+---
+
+He went out on the fourth and did not come back for four nights.
+
+Not out of Marrowfield; out into himself. He took a week's leave from the Hall board, which cost him nothing because there was nothing on the board he could take, and he lay on his back in a rented room over a chandler's and walked.
+
+The plan was simple and it was Nettle's, in the sense that she had asked the question, and his, in the sense that it involved measuring something nobody had ever thought to measure.
+
+He had seven borders. He had walked one.
+
+- **the warm damp / the salt** — 28 paces round, at the middle. Walked twenty-one nights. Has a rim two hands high.
+- **peg one / the salt** — 100 paces out. White down, was nine paces across.
+- **peg two** — 400 paces out. Seven paces.
+- **peg three** — 1,000. Five.
+- **peg four** — 3,000. Three.
+- **peg five** — 8,000. Two.
+- **peg six** — 20,000. A pace and a half.
+
+He had put those six down in Dust of last year with six identical chalk-hound Seeds, one after another, to make a survey line. He had read the line, and got his answer, and had never gone back to any of them except to walk past.
+
+He had never once walked *round* one.
+
+---
+
+Peg one took him a night and a half and he found it in the first hour.
+
+He got out to it — a hundred paces, no navigation needed, it stood in the flat like a lamp — and stepped onto short white turf with a wind on it that blew nowhere else, and started round the edge, counting.
+
+At the eleventh pace his boot caught.
+
+Wick stopped. He crouched down in the dark on ground that had never had a person on it but him, and put his hand out, and felt along the line where the turf stopped and the salt started.
+
+There was a ridge.
+
+It was about the height of a thumbnail. It ran along the border both ways as far as he could feel. It was salt, and it had taken up water out of the ground beside it and set hard, and when he pressed it with the heel of his hand it did not crumble, and when he picked at it he got a flake off like a bit of thin pot.
+
+He sat down on the white down at the edge of his own peg one and said, out loud, to nobody:
+
+"I have never walked you."
+
+---
+
+He went all the way round on his hands and knees, which took an hour, and it was there for the entire circuit with no gap anywhere.
+
+Then he paced the patch.
+
+Nine paces across in Dust. He had written it down; it was the first number in the survey line; it was the number the whole of his understanding of his own country was built on.
+
+**Nine and three quarters.**
+
+He did it four times from four bearings, because one is a guess, and it came out nine and three quarters, nine and three quarters, a shade over, and nine and three quarters.
+
+Then he walked the hundred paces back to the middle and paced the warm damp, which he had done on the ninth of Seed and had written down with a question mark.
+
+**Nine and a half.** The same as three weeks ago. It had not moved again.
+
+He came out at four in the morning and lit the candle and got the ledger, and wrote, and then sat looking at what he had written, which made no sense at all in the direction he wanted it to.
+
+> *Warm damp: 9 (Gather) → 9½ (Seed 9) → 9½ (Green 4). Grew once, then stopped.*
+> *Peg one: 9 (Dust) → 9¾ (Green 4). Nobody has walked it. It has a rim I did not make.*
+> *I walked the warm damp twenty-one nights and got a rim.*
+> *I have never walked peg one and it has a rim.*
+> *SO WALKING IS NOT WHAT MAKES A RIM.*
+> *So what did I do for twenty-one nights?*
+
+---
+
+He did the other five over the following three nights and it cost him a day's work and eleven shillings he did not have, and he would have paid four times that.
+
+Peg two, four hundred paces out: **a rim**. Thumbnail high, all the way round, no gap. Patch seven paces in Dust, **seven and a half** now.
+Peg three, a thousand: **a rim**, thinner. Five paces then, **five and a quarter** now.
+Peg four, three thousand: a rim you could feel with a fingertip and not with a boot. Three paces then, three and a bit now.
+Peg five, eight thousand: he could not find a rim at all and spent an hour on his hands and knees looking, and wrote *none that I can feel*, and underlined *that I can feel*.
+Peg six took four nights on its own.
+
+He had known it would. He had put it down in Dust of last year and it had cost him four nights then, walking the same first eight thousand paces past four pegs standing in the flat like lamps and then out past the last of them into ground where nothing had ever happened, as far as he could bear, and back to the middle, and out again the next night from the beginning because the salt keeps nothing and there is no way to leave off partway.
+
+Nothing about it had got easier.
+
+The first eight thousand were company, in a way: peg one at a hundred with its wind, peg two at four hundred, three at a thousand, four at three thousand, five at eight. Six lit places in a country the size of a parish. He touched each one going past, which was not necessary, and he knew it was not necessary, and he did it every time.
+
+Past peg five it was flat pale ground under a lid of a sky for twelve thousand paces.
+
+He had discovered a specific kind of loneliness out there in Dust and had not been able to explain it to Nettle and had not tried again since. It was not being alone; he had been alone on the Chalk at night with things that ate shepherds and had been frightened but not this. It was that after about two thousand paces there was nothing to think *about*. No stone, no rise, no dip where water had once stood. The counting went. Then the sums went. And what was left after four hours was a boy walking in a straight line inside his own chest with no evidence in any direction that he had ever done anything at all.
+
+On the fourth night, at about the fifteen-thousandth pace, he understood why he kept coming back out here and it was not a good reason.
+
+*Because if it is empty out here it is not my fault.*
+
+He wrote that down at four in the morning and then crossed it out and then wrote it again underneath, because it was true and he had made a rule.
+
+Peg six was where he had left it: a patch of white downland the size of a horse blanket, with a wind on it, twenty thousand paces from anywhere.
+
+He got down and went round it on his hands and knees in about nine minutes, because it is small.
+
+Bare salt right up to the turf. No ridge. No thumbnail. Nothing at all.
+
+He paced the patch, four times, from four bearings.
+
+**A pace and a half.** Exactly what he had written down in Dust.
+
+It had not grown. It was the only one of the seven that had not, and it was the only one with no rim, and it was the furthest out, and Wick Alder sat down on it in the dark a four-night walk from the middle of himself and got it.
+
+---
+
+It was not walking.
+
+It had never been walking. Every one of the six pegs had a rim except the two furthest out, and he had not set foot on any of them since Dust, and the rims got *thinner the further out he went*, in exactly the same order and exactly the same shape as everything else in that country: nine, seven, five, three, two, one and a half. And now: a rim, a rim, a thinner rim, a rim you need a fingertip for, none-that-I-can-feel, nothing.
+
+It went with the *ground*, not with the boots.
+
+And the patches were growing. All of them, by about the same fraction, without a Seed put in any of them since Dust of last year.
+
+*Overfilled ground spreads.* He did not have those words yet and would not have them for eleven days. What he had, sitting on a pace and a half of white downland twenty thousand paces from the middle of himself, was the shape of where the words would go, and one very unwelcome corollary that arrived about four seconds behind it and which he wrote down that night with a hand that was not entirely steady.
+
+> *If ground makes its own edge wherever two grounds touch —*
+> *then I did not build my rim. I grew it, and I would have grown it if I had stayed in bed.*
+> *And the twenty-one nights did SOMETHING, because mine is two hands and peg one's is a thumbnail.*
+> *Find out what the walking is actually for.*
+
+And underneath that, after a while, and this is the one he did not show Nettle for three days:
+
+> *The seam is a border. It is nothing else. It is not terrain, it is the LINE where terrain meets terrain, and it is the only thing in here that is made entirely of edge.*
+> *Everything I have just learned is about how fast an edge grows.*
+
+---
+
+He told her on the eighth, in the room over the chandler's, and left out the last line, and she knew he had left something out and did not ask, which he noticed.
+
+Nettle listened to the whole of it, and looked at the seven numbers, and then said the thing he had walked twenty thousand paces without arriving at.
+
+"So your rim's two hands and peg one's is a thumbnail."
+
+"Yes."
+
+"And you walked yours twenty-one nights and you've never walked peg one at all."
+
+"Yes."
+
+"Then the walking's worth about *eleven times*," said Nettle. "That's not nothing. That's not even a little. If a man could make his boundary eleven times harder by going for a walk, every practitioner on the Sill would be doing it and my mother would have told me about it when I was nine."
+
+She pulled the ledger over.
+
+"So either it doesn't work for a nine-foot room," she said, "or it does and nobody's ever bothered, and I don't know which of those is worse."
+
+"The first one," said Wick. "It has to be the first one. In a room the border between two terrains is about a foot long and it's under the fire. There's nothing to walk."
+
+"Then say the whole of it."
+
+Wick sat with it.
+
+"The whole of it," he said, "is that there is a thing you can do to a Hold that only works if the Hold is big, and nobody has ever had a Hold that was big, so nobody has ever found out that it works, and it isn't in the Register and it isn't in the field manual and it isn't in the Concord's schedule."
+
+"And?"
+
+"And I found it by accident in a byre in Dust because I was trying to pass an examination."
+
+Nettle wrote it down herself, under her own heading, in her own hand.
+
+> *7. How many other things are there like that?*
+
+
+---
+
+
+<!-- 7 chapters · 16,717 words · consolidated 2026-09-04 -->
