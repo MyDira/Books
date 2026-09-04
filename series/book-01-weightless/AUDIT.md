@@ -131,3 +131,44 @@ chapter closings land a turn; no purple; no skimmable paragraphs.
 **Carried forward:** c014's Nettle POV reads as the same narrator with a different name.
 A POV must differ in **what the character notices**, not only in what they say. Rule written
 into the style guide; apply from c023 onward and revisit c014 at book close.
+
+---
+
+## 2026-09-04 · READER ADVOCATE — full book — **"WOULD I KEEP READING: yes"**
+- **Skimmed nowhere.** Went in braced for the middle third (survey work, arithmetic, a boy
+  walking in circles for twenty-one nights) and it held: *"it's structured as a mystery where
+  the clue is a number, and every number changes what I think is possible, so I kept reading
+  the way I'd read a ledger someone was quietly cooking."*
+- Best ratchet: **c16**, the boundary reveal — *"it's not a bigger number, it's a reframe that
+  makes every earlier number mean something different in retrospect."* c20 (nought → 0.4) does
+  the emotional work a stat increase usually cannot. c32 is confirmation rather than surprise,
+  "which is correct."
+- Climax read as **inevitable, not clever** — the c9 salt rule and the c3 terrain landing at
+  once. Wanted to reread the forearm-casing moment.
+- Laughed twice out loud (Pell's "two marriages and one commission"; Nettle's "That's the
+  stupidest thing I've ever heard"). **Tone contract holds.**
+- Nettle is a person, not a function. Gran is the best-written adult. Vance beats his archetype.
+- **THE ONE FIX: Tam was furniture until c24**, so his big speech was the first time he
+  existed as a person. → **FIXED**: he now has a full scene at c20 (the drought year, eleven
+  wells, "nobody's ever mentioned it since; that's the *job*"), which makes the c24 speech land
+  as the second time he speaks rather than the first.
+- Hook 8/10. Against the comps: *"a real Cradle-book-1 … beats Path of Ascension on heart and
+  early HWFWM on discipline."*
+
+## 2026-09-04 · POWER AUDIT — full book — 3 BREAK, all remediated
+| # | Finding | Resolution |
+|---|---|---|
+| **B1** | **Hearth conferred at weight 0.6, against the bible's own *locked* weight band (1.5–5) and its rule that rank goes on the lower column.** Camber's in-fiction argument is a character asserting an interpretation, not a retcon. Worse: **every** rank threshold in the ladder is phrased as a qualitative boundary condition, so "pass the test, ignore the band" is a template for skipping the weight-grind at *every future rank* — which would gut the 25-book runway. | **Not softened — made to cost.** `bible/01-magic-system.md` amended with § WHAT A RANK ACTUALLY IS: a rank is a statement about a **boundary**, not about power. Where the test and the table disagree, the test governs and the tally is annotated **"held on the boundary"** — a real four-hundred-year-old status with teeth: writs one grade down at one grade's pay, no sponsorship either way, re-testable on demand at his own expense, and **publicly challengeable by anyone of his rank or above.** He is legally Hearth and would lose to an ordinary Ember, and everyone who reads his tally knows. Camber now says all of this out loud in c032 *before* reading the good part. An author's hard rule forbids the exception ever becoming a shortcut: it must cost the threshold in full, confer no capability the weight does not support, and **be paid for socially**. |
+| **B2** | **Deed 3 (acreage, survival) was asserted but never staged.** Deeds 1 and 2 are dramatised as felt sensations; deed 3 was only inferable from the final number — a breach of hard rule 3. | **Staged** in c031: the fourth hour of the eleven-hour climb out, Nettle going down a moving chalk slope she cannot arrest one-armed, Wick holding a rope and a coat with nothing left in him. Shoulder out and back in. He notices the ground go *while busy* and is irritated by the timing. *"It does not wait until you have time."* |
+| **B3** | `OUTLINE.md`'s settled-acreage budget (~3.1 of 44.6 acres) was **off by ~1000×** against the book's own pace-to-acre maths, and incompatible with Pell's "nine hundred years." | OUTLINE corrected to ~0.0014. Weight target corrected 1.9 → 0.6 with the reason. |
+| **RUNWAY** | **The seam's placement contradicted its own five-book plan.** The c30 mechanics forced it to land 15 paces from the middle, not "forty acres out," and at the stated half-a-pace-a-night it reaches the rim in a month, not five books. | **Recalibrated without moving it.** The rate was never constant: "half a pace a night" was **Wick drawing a line through two points**, which is the exact error the book has trained him out of since page one. Real data: 15 paces at Gather 16 → 11¼ at Rust 4 = three and three quarters in forty-eight nights. It **spreads along its length far faster than it advances inward**, and the inward advance decelerates on the same halving curve as the survey line. He catches his own error on the last page. Arc map rewritten around it. |
+| minor | Nettle's c022 area effect was absent from the power ledger | Added, with her arm injury as an unresolved entry. |
+
+**Verdicts:** Pacing correct, conservative on weight (the safe failure mode). **Creep: none
+detected** in techniques or terrain. Cost: *"Nothing in this book is free."* The climax
+"holds up completely as rank-gap combat" — territory, terrain interaction and preparation,
+with an 800-year setup rather than a stat boost.
+
+**Ratchet gaps flagged for future books:** c5–c9 (five chapters of setup with no mechanical
+ratchet) and c12–c15 (four, mitigated by yardstick chapters). Everything from c16 on runs at
+or better than one per three chapters.
