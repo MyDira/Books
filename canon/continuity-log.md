@@ -830,3 +830,389 @@ Gather 1 is 86 days after Long 4 (= twelve weeks). Rust 1 is the assessment dead
 - **"for a while"/"for a long time"** reduced from 29 to 20 in c011–c029.
 - **", which was"** reduced; the signature construction *"X was what he had instead of Y"*
   was reused for Nettle in c014 and has been removed — it is one per series.
+
+## B01 c023 — "What It Is Worth"  [Gather 11]  *(NETTLE POV — 2 of 2)*
+- **NEAD**, agent of the Chalk estate: ~50, tired, decent coat, **bad knee**, dismounts
+  carefully, takes his hat off to Gran. A clerk on a worse horse. **Fourteen tenancies** in
+  the parish; Whitts is the fourth. Forty minutes at Whitts.
+- **Terms: arrears until the Slack, at a shilling in the pound.** £4 4s becomes **£4 8s**.
+  He said *have to* about taking the tenancy and meant it. **"There's nobody to be angry at."**
+- Nettle's realisation: she has spent six years furious because it was easier than being
+  capped, and out here problems do not come with a person attached.
+- **THE ARGUMENT (their only real one).** Nettle offers to work the barrows four times before
+  the Slack — 6 pound, enough for rent, fine and boots — on condition Wick **sells** the
+  Seeds she brings instead of planting them. He refuses and says he has no reason yet that
+  isn't stubbornness, and would rather say so than invent one.
+- **WICK'S SEED THESIS (the book's economic idea, stated whole):** a nine-foot room holds
+  four or five terrains; Bri's thirteen feet would take six with her coherence in bits. So
+  **for everyone alive, Seeds run out long before ground does** — and the price of a Seed is
+  set by people who will never need a sixth. He has 43 acres and could plant twenty thousand.
+  *"I can buy the single most valuable thing in the world at the price of a bad afternoon's
+  hunting."* Every Seed sold is two shillings; every Seed planted is settled ground that
+  carries weight for six hundred years.
+- **"Gran's done it."** The argument against selling: Gran has been the most useful person in
+  the village for fifty years and nothing she made will outlast her.
+- **GRAN & NETTLE, shelling:** *"I've spent a good deal of my life watching people get talked
+  out of the only thing about them that was worth anything, and it's always done kindly, and
+  it's always by somebody who loves them."* … *"a thing that's useful and doesn't last is a
+  candle, and I've been a candle … if that boy has found a way to be something that stays,
+  then he can have the farm."*
+- **NETTLE'S OWN TURN:** nobody has ever asked what her Hold is *for* — what a thing that
+  dense, that small, that perfectly coherent and that useless for storage might be **good at,
+  on purpose, as a design rather than a mistake.** She does not have an answer; she has the
+  shape of where one goes. She stops selling her Seeds too. **(→ THREAD, B02+)**
+
+## B01 c024 — "The Offer"  [Gather 11, evening]
+- **NOBODY TOOK THE WRIT.** Posted at Marrowfield on Gather 1 at the standing rate for a
+  Wold-grade clearance: **nine pound and the Seed**, expenses on receipts. It sat **eight
+  days**. Marrowfield has **five** people who can take a Wold writ: two on the Tallow lower
+  gallery (a survey paying eleven pound, four miles from a bath); one aged sixty-one who has
+  not taken a live writ in two years and everyone pretends otherwise; one who had a bad
+  autumn in Rust last year and will not go into a hole; and **Dorn, who holds the circuit
+  licence and is therefore barred from taking a writ posted inside it** (a man cannot both
+  write the report and collect the fee).
+- Referred up to **Sennet-on-Weft on the ninth**; Sennet would post ~the fourteenth; three
+  days' travel for nine pound against eleven better-paying local jobs. If taken there:
+  arrival the 20th–21st. If not: **standing status**, worked when convenient. Dorn has known
+  standing writs sit **two years**.
+- **DORN WILL WORK IT HIMSELF, on the fourteenth**, filed as an **abatement of imminent
+  hazard** — a real provision he has used twice. **He takes no fee and no Seed. That is
+  precisely why it is permitted.**
+- **THE NINE-IN-A-COAT — full canon (Dorn):**
+  · Vell entered it Wold grade **on sign alone**; nobody has seen it.
+  · Dorn has seen the sign twice in fourteen years, and both times a village woman told him
+    the story before he reached the ford. The Loam has told it since before the Ledger.
+  · **Five hundred crawlers in one hole in rich enough ground long enough, and some of them
+    stop being five hundred things.** Nine of them — nobody knows why nine; the Concord has
+    a four-hundred-page paper that says nothing.
+  · **They *agree*.** The agreement is not about *what* shape. Only that there is to be one.
+  · **It has no shape.** Nine boneless things holding an edge between them by main force.
+    It wants a shape more than it wants to eat: it takes shapes and wears them. Clearing a
+    Welling from the bottom up is not hunger, it is *shopping*. Four sheep = four tries.
+  · **It borrows.** It did a poor impression of a man with a broken arm *before* Dorn's arm
+    was broken.
+  · **The knocking:** a door is a shape it has seen people use; it has worked out what you
+    do at one and not why.
+- **THE INSTRUMENT OF SPONSORED ENGAGEMENT (BEATER, UNRANKED):** engaged under Dorn's
+  licence → lawfully in a Welling and in the trade; **the four-silver fine remitted against
+  service**; **eight shillings the month with keep** (he pays it to two others); **seven
+  years**, then the Hall examination.
+  · **A person in licensed engagement is not entered Failed of Kindling** — schedule
+    provision since **Y-241**. Camber would enter him as *engaged* and the second note is
+    never written.
+  · **THE STANDARD CLAUSE: THE SPONSOR HOLDS THE SEEDS.** Because the sponsor is liable for
+    a rupture. Logged, and released at seven years or sooner at the sponsor's judgement.
+    **Dorn has opened that lock early for two people out of nine.**
+  · Dorn's honest summary: Wick would be very good at it; beating for a Hall man by
+    nineteen, own writs by twenty-five, forty years in the trade, respected, money by.
+    **Hearth or thereabouts by thirty. And he would never get his forty-two acres.**
+- Deadline: **the morning of the fourteenth.**
+- **TAM ALDER SPEAKS** (his longest speech in the book): *"Take it, Wick. Please. It's a
+  life. It's the life I've got and I'd not swap it."* Wick: *"I know."*
+
+## B01 c025 — "Two Days"  [Gather 12–13]
+- **PELL'S INSTRUMENT REVEALED (the reason he is in the parish):** in **eight hundred and
+  twelve years** and a working figure of **a little over eleven million assessments**, there
+  are **SIX** entries where acreage exceeded one full acre. Four predate Y-300 with poor
+  records, two of those probably clerical. One is **a woman in the Rakes, Y-611, with an
+  acre and a third**, a footnote in a book about something else. **The sixth is Wick.**
+  → **43 acres is ~31½ times the largest Hold ever recorded and ~20,000× the median.**
+- Pell: Dorn is right on every particular and has not even shaded it, **and it is still the
+  wrong offer**, and he will not say why, because a handed reason will not hold when Wick is
+  frightened. The one thing he does say: *a locked box is the one thing forty-two acres
+  cannot survive.*
+- **DEED 2 (acreage) — "keeping a promise that cost him."** The promise being kept is the
+  second half of the one made in the tree on Green 24: *"if I break it I'll know I broke
+  it."* He tells Gran, first, before anyone, **cost first and reason second, with no story
+  and no reassurance**: *"So I'm choosing an empty field over your house, and I know that's
+  what I'm doing, and I'm not going to dress it up."*
+- Gran: **"Good."** Not that he is doing it — that he said it in that order. *"There's a
+  difference between a boy who does a hard thing and a boy who does a hard thing and hides
+  how much it cost somebody else … the second one is how a person goes wrong and it always
+  starts kindly."* She will be angry for months and says so.
+- **The ground went out a second time** — slower than the lane, "the way a field looks when
+  a cloud comes off it." Not larger. *Further.* Estimated **~43**; no frame until Rust, so
+  he wrote **43?** with a question mark, because a guess is a guess.
+- **THE TRUE REASON, said aloud to Nettle:** *"I'm not going down there to save anybody. I'm
+  going down there because it's the biggest thing anybody's ever going to put in front of me
+  and there is not one other person alive who could hold it."*
+
+## B01 c026 — "Knocking"  [Gather 14, 2:20 a.m.]
+- **It knocked on the Alders' door at twenty past two.** Three knocks, ordinary spacing, and
+  the horror is that it is **polite**. Then the latch, tried twice, the way a person tries
+  it. Then a sound along the wall at chest height *"like a full sack being dragged over
+  gravel by somebody in no hurry."*
+- **The salt line held.** Laid Dust 8 by a boy with a sack and no rank.
+- It worked up the north side house by house — Rennick's, the Thatchers', Ma Dunnock's, the
+  Hollow — **about four minutes a house**, three knocks, latch, drag, nothing, next.
+  **It was practising.**
+- **The eleventh house was Ock's**, and there had never been a line on that step.
+- **OCK'S FATHER IS TAKEN.** It knocked; he said *who's there*; **it said *who's there* back**;
+  he laughed, because it must be Sil, and he got off a sickbed on his own legs for the first
+  time in nine days and lifted the latch. Nettle: *"There's nobody in there at all."*
+- Dorn was sleeping in the Hollow's back room, heard the fourth house, came out of a window,
+  and reached the eleventh **one minute after Wick**.
+- **Dorn tells Ock the truth** rather than a kindness: it does not take them to keep them, it
+  takes them to try them on; four sheep and none held; it will not have got a mile before it
+  found out.
+- **THE LAID RESTRAINT.** On Dust 4 Wick disclosed five instances of unlicensed hunting;
+  Dorn recorded them in his day-book and **did not lay a charge** for six weeks, because he
+  and Moon agreed to run it as a single offence with the fine sitting against the name.
+  **An unpaid fine is a fine; a LAID charge is live**, and while live the schedule provides
+  an **interim restraint**, and a restraint on a named person **can be attached to a place**.
+  · Laid in the road in the rain at ~3 a.m. before **nineteen witnesses**, attached to the
+    ford. Effect: entering within forty feet is **contempt of a laid restraint**, carrying
+    **a term of detention** (six months, Marrowfield). *"It is the only thing in the entire
+    schedule that would stop you and I have been through the whole of it twice tonight."*
+  · Dorn: *"I would put you in a cell … and you would hate me for the rest of your life, and
+    I have buried nine people and I know exactly which of those two things I can live with."*
+  · He also says, unprompted: on the ninth Wick saved the village and Dorn watched from a
+    hill, and if he comes back up he will try the instrument again and expects to lose.
+- **He wrote ONE NAME.** Nettle is a licensed Hall member in good standing with forty-one
+  writs and a clean tally and has never done anything chargeable, and Dorn was in a hurry.
+
+## B01 c027 — "Down"  [Gather 14–15]
+- **PELL'S DECISION TREE WITH A DEFECT IN IT:** a high Wold in a hole is the most survivable
+  thing in the parish; if you go now you will be in his way and being in a Wold's way in a
+  confined space is how beaters die. If he is not working he is dead and there is nothing
+  down there for you. **"I would like you to notice how convenient it is that both branches
+  of that argument tell you to stay here."** The missing third branch, at **36 hours**:
+  a man who is neither working nor dead but **held**.
+- **THE COUNTERSIGN STAKE:** Vell left one behind the Hollow's taproom in Dust — the other
+  half of the chain at the ford. **It reported at nine on the morning of the fourteenth and
+  stayed cold.** It reports a crossing; it does not say which direction or who or how much.
+- **Kit taken (Wick's list, in order):** nine pounds of rock salt from the Hollow's own
+  trough (given without a word); **two stakes and forty feet of rope at the shaft head**,
+  because he had gone up on a single rope twice and would not do it a third time; four lamps,
+  eleven candles, a tinder-box; the four-foot spear and a Hall billhook off the Rennicks'
+  wall; two blankets, water, bread, and **hurdle-twine** ("what's the twine for" / "I don't
+  know yet" / "good"); **and the ledger.**
+- Gran gave Nettle a stoppered pot: vinegar and the grey stuff; two marks side by side, no
+  cut; **if it goes red up the veins it's four days, not two.** *"He won't." "He will."*
+- **Wick stepped over the chain at four minutes past four on the fifteenth of Gather**, after
+  reading the restraint aloud twice, so he could not later pretend he had not understood.
+  **Nettle stepped over beside him.** Never discussed again.
+- **CHAMBER 1 HAS CHANGED — three findings:**
+  1. **The chalk is cut** — long clean four- and five-foot gouges, sections taken out in
+     slabs. Not damage: a man cutting a room to shape, opening the angles, removing the lips
+     and ledges a smaller thing could get behind.
+  2. **A salt line across the passage mouth, broken two feet wide**, with a drift of dead
+     dry salt on the near side. **It crossed salt** — by spending about a crawler's worth of
+     itself. *"That's a thing that can spend a ninth of itself on a door."*
+  3. **THE WHITE GRASS IS GONE.** Bare, slightly dished chalk where nine feet of it had been.
+     Lifted out clean. *"It wanted a shape. There was a shape lying on this floor that
+     nothing in this Welling would set foot on, and it took it."*
+- Passage: Wild knee-deep at 200 paces, waist at 300. Chamber 2 at **340 paces** — now with
+  **a fourth, smaller** mat of wool. Beyond that Wick had never been.
+- **The air is moving up.** *"A hole under a ford does not have a draught."* (→ THREAD)
+- **DORN FOUND** ~400 paces further, at the bottom of a chalk fall, where the passage opens
+  into something too big for a lamp to cross. Left arm broken in two places, **splinted
+  one-handed** with a shirt strip and a Hall spear shaft. A six-foot ring of salt round him
+  with the near quarter gone. *"You are in contempt of a laid restraint." "Yes." "Good.
+  Then you will have brought the salt."*
+
+## B01 c028 — "What He Learned in Two Days"  [Gather 15, evening]
+- Dorn dictates a report he did not expect to deliver, and has Wick **mark the place** when
+  he stops making sense (he does, once, on the order of days).
+- **IT CANNOT BE DESCRIBED, and that is its defence.** Size of a cart horse, pale, nine
+  things in it. Every look makes your eye build a shape — a man, a dog, a heap, a person
+  leaning in a doorway — and it is none of them, and **you spend the whole fight being
+  fractionally wrong about where it is.** Do not spend attention trying.
+- **WHAT DORN THREW AT IT (the inventory, and what it bought):**
+  · ***Flint Standing*** — a wall of his own down, waist high, eleven feet. **It went
+    through**: came apart into ~four pieces at the wall, each went round or under, reassembled
+    on the far side, did not slow.
+  · ***The Second Cut*** — a cutting working; has taken the leg off a cinder-boar. Hit it
+    **eleven times in two days**, opened it top to bottom **four times**, and both halves
+    carried on, **because there is no inside**. *"I have been cutting a sack of water in half."*
+  · **He killed one ninth**, by accident, by pinning it against a wall and cutting until it
+    stopped: it was a tallow-crawler, forearm-length, lying there being dead. **~four hours
+    per ninth. Nine became eight.**
+- **THE SALT IS FINISHED.** On the 14th it burned a crawler's worth crossing; on the 15th it
+  paid **nothing** — because it is **carrying nine feet of the white grass and putting the
+  borrowed ground down in front of itself to walk on.** *"It has got a bridge."* Every
+  defence the parish has is a dry line on a floor, and it is carrying a floor.
+- **WICK'S TWO QUESTIONS:** (1) **Why nine feet?** The grass was nine feet by nine, paced
+  twice. Ock's Hold is ten and a half; Bri's thirteen; Hollow Alder gets nine feet of daub.
+  **Nine feet is what a room is.** Dorn had assumed coincidence. **(→ MAJOR THREAD, unanswered)**
+  (2) **Why does nothing fit?** Neither knows. Wick's answer: *"It didn't want the shape of a
+  sheep. It's got nine of them. What it hasn't got is somewhere to be one."*
+- **PUT THE LAMP OUT.** *"Everything you can see is a shape it can borrow and everything you
+  cannot see is a shape you will invent. In the dark you will only be wrong about where it
+  is. In the light you will be sure, and you will be wrong, and being sure is what broke my
+  arm."*
+- **It knocks on the chalk at door height and says "Who's there" in Ock's father's voice.**
+
+## B01 c029 — "Nine Feet"  [Gather 15, night]
+- The voice runs the words together by the third repetition. **It does not know what they
+  mean; it is the noise that happens at a door.**
+- **The strike underground:** not a crack but a physical event — sound from all sides, and a
+  quarter-second of flat blue-white light. In it Wick sees the thing **and cannot draw it**;
+  the afterimage is *a man in a doorway*, and there was no man and no doorway.
+- **WHAT FAILED, in ~90 seconds:** the strike (a third of the front taken off; **it put it
+  back**); a second strike (a hole through the middle; a hole in a thing with no inside is a
+  hole in nothing); **the four-foot spear** (straight through, stuck in the floor — the exact
+  mistake of Long 2, made again); ***Flint Standing*** across the passage behind them (it
+  came apart and reassembled and did not slow).
+- **NETTLE'S THIRD STRIKE, at one foot.** Her palm went **in**. Her arm was in it past the
+  elbow. The strike went off **inside** it — the worst noise in the book, with no light,
+  because the light was inside something — and **it did not let go**.
+- **WICK PUTS BOTH HANDS IN IT.** It is **cold, wet, and has no strength at all** — hands go
+  in like hands into a barrel of tallow. What holds her is not force; there is simply a great
+  deal of it and nowhere for the arm to go.
+- **WORKING 2 — "THE CRUST" (improvised).** He takes the whole of the warm damp again, pushes
+  it out through his hands as a soaking film wrist to elbow, **and then pulls the water back**.
+  **The salt sets** — a shell the thickness of a nutshell, moulded, cracked at the knuckles,
+  **bone dry**. This is the rim's own effect, exported. The Nine came off him *"like a cat off
+  a hot stove."*
+- **Nettle's right arm: grey from fingers to above the elbow, with a nap on it like mould on
+  a cheese.** Cannot move it, cannot feel it. Not a ten-day injury.
+- **THE DEDUCTION:** it is not strong. It is nine tallow-crawlers, and everything wrong with
+  it comes from their agreeing to be one instead of nine. It cannot be cut, walled, or salted.
+  **"So don't kill it. Put it somewhere."**
+
+## B01 c030 — "A Place With No Shape In It"  [Gather 15, night]  ★ CLIMAX
+- **WICK'S RUPTURE ARGUMENT:** a rupture is not the Seed being heavy. **It is the walls.** A
+  room is nine feet across, so anything you put in it is against the wall the moment it
+  arrives; that is not a flaw in a room, that is *what a room is*. He has 43 acres that thin
+  forever and **nothing out there to crack.** It would arrive on open ground and could walk
+  a week without reaching an edge. He can leave; it cannot, because it has never been in that
+  country and there is nothing in it to steer by.
+- **AND HIS HOLD IS SALT.** Forty-three acres of it, sitting there doing nothing since Green
+  9. A crawler will not cross four inches of salt, and **agreeing does not make you dry.**
+- Dorn: *"You are the only person in the history of the Ledger of the Sill who could do this,
+  and you worked it out sitting on a floor, and I have been down here for two days cutting a
+  sack of water in half."*
+- **THE ELEVEN SECONDS:** (1) Nettle, one-armed and empty, throws the lamp left — a noise and
+  **a shape**, and it goes to it; (2) Dorn puts *Flint Standing* **behind** it, not in front,
+  forcing it to come apart to pass and spend a second and a half being nine things;
+  (3) Wick walks eleven paces on a bearing Dorn calls, puts both salt-cased arms in, closes
+  his hands on he-knows-not-what, **and goes in.**
+- **CARRYING IT IN HURTS** — "the sensation of being a doorway that something too large is
+  being pushed through." Iron in the mouth.
+- **SEEN PLAIN, for the first and only time**, because there is nothing anywhere to borrow:
+  **nine pale boneless forearm-length things holding on to each other**, wound into a mass
+  the size of a cart horse, dull and slack where they grip, standing on the white grass laid
+  on the salt like a rug. Nine blind ends turning at different rates, each sending a ring out
+  and **getting nothing back**.
+- **It goes for the warm damp** — the only wet thing in 43 acres — and Wick gets between it,
+  realises that is idiotic (it has 43 acres to go round in), and **stands on the rim instead**.
+- **THE RIM TAKES THE LOAD.** Felt through the boots, distributed, "the way a gate feels when
+  a bullock leans on it," round the entire circuit at once because it is one continuous thing.
+  **It bowed** — a sound like a plate under a thumb, on the north side. **It did not go.**
+  *The subject's boundary sustains applied load without deformation.*
+- **THE DEATH.** It circles the rim, exactly as a crawler circled the white grass on Green 26.
+  On the third circuit **one lets go**, drops four feet from the rim, and dies on the salt —
+  dull, grey, wasp's-nest, **and does not pull back, because they never do.** The agreement
+  fails. **~20 minutes.** Nine dry crumpled things in a rough circle with a nine-foot spread
+  of browning white grass between them.
+- Wick watched all of it, standing on his own rim, for no reason except that he had decided
+  to be the sort of person who looks.
+
+## B01 c031 — "Nothing to Crack"  [Gather 15–16]
+- **INTERIOR/EXTERIOR TIME: ~20 minutes inside ≈ 41 seconds outside. Ratio ~29.** Kindling
+  takes four seconds and every child says it took longer; nobody has measured it because
+  nobody has had reason to be in there for twenty minutes. **(→ Wick's ledger, to be checked)**
+- **GETTING OUT TOOK ELEVEN HOURS.** Dorn: broken arm splinted, two days without food, cannot
+  rope one-handed on loose chalk. Nettle: grey to the shoulder, feverish by the fourth hour,
+  not making sense by the seventh, still walking. Wick: empty, stopping every third step.
+  740 paces of passage, twenty feet of shaft, **two ropes between two stakes**. Dorn went last
+  and would not be argued with. Out at ~9 a.m. on **Gather 16**, in rain, to forty people.
+- Dorn, told four times he is a hero, answers each with **"I did not kill it."**
+- **NINE PIN-HEAD SEEDS** recovered inside the Hold (~4–5,000 pennies' worth of terrain).
+- **THE TENTH THING — the Nine's Seed.** Size of a hen's egg. **Not grey and not greasy:
+  clear, like poor glass, with nothing in the middle for the light to go into.** Half proud
+  of the ground and half **already sunk into the salt** — the salt that has never held a mark
+  in five months of trying. **It is already planted and it cannot be pulled out.**
+- **WHAT ITS TERRAIN IS:** not a landscape. Nine crawlers stopped being nine and started being
+  one; that is the entire content of it. **The making of many things into one thing** — an
+  **edge**, a **seam**, a line where separate things are held together. In a nine-foot room
+  that is a wall through the middle of you, and that is why it kills people, and why the Seed
+  is eight pound. **In 43 acres there is nothing to crack.**
+- **IT PROPAGATES INWARD.** First measurement **15 paces from the middle**; at midnight the
+  same day, **14½**. ~**half a pace a night**.
+- **PELL ON IT:** *"It is propagating, which is not quite the same thing as walking, and the
+  difference will matter later. A thing that walks has somewhere it is going. A thing that
+  propagates is only doing the next bit, over and over, and does not know you are there."*
+  He is **relieved** by that: a thing that wants something can be bargained with, and stories
+  about the ground inside a person always end the same way. *"A seam is not a visitor. It is
+  weather, and you are weather, and weather does not negotiate."*
+- **THE COST — the last-page inversion.** Where it has been, the ground is no longer salt: a
+  hard line about a hand across, running both ways further than he can see, that is not salt
+  and not grass and has no name. **A crawler Seed laid on it did not take.** Everything he has
+  ever put on that salt has taken, even a pace and a half at twenty thousand paces out.
+  **Every foot the seam crosses is ground he can never plant.**
+  *"I've got forty-three acres … and there's a line coming in at half a pace a night."*
+- Pell puts a hand on his shoulder for the first time in three months: **"Then you had better
+  get on."**
+
+## B01 c032 — "Assessment"  [Rust 4]  ★ LANDING
+- Camber returns **six days late** ("punctual, by the standards of the Third Circuit"), with
+  **a document case that was not on the cart in Green.** Eleven children kindled first,
+  because the schedule is the schedule; a Rennick boy gets nine feet of daub and is delighted.
+- **THE FIVE ITEMS — four hours and eleven minutes, in public, in writing:**
+  1. The Welling: reported by the subject in person at Marrowfield **Dust 5**, entered by
+     Moon; classified Wold by Vell **Dust 23**; writ posted Marrowfield **Gather 1** at nine
+     pound and the Seed; **unclaimed eight days**; referred to Sennet **Gather 9**; never
+     posted there, because **an abatement suspends a writ.**
+  2. **The fine stands.** Four silver, five instances run as one offence. *Three separate
+     officers of the Ledger spent a considerable amount of time trying to make this go away
+     and it will not go away.*
+  3. **The restraint and the contempt.** Wick crossed the chain at 4:04 p.m. on Gather 15
+     having first read the restraint aloud, with two witnesses, and has said so in writing.
+  4. **SCHEDULE FOURTEEN, PROVISION NINE — ABATEMENT BY A PERSON NOT LICENSED.** Where a
+     hazard is classified, a writ posted, and the writ **goes unworked by every licensed
+     person to whom it was available**, and the hazard is then abated by a person not
+     licensed, **that person is treated for all purposes as having worked the writ.**
+     Four hundred years old. Written after **Stone Harrow, Y-411**, where a village abated
+     its own hazard after nobody came and the Ledger declined to pay them; eleven years and
+     a great deal of shouting. **Used nine times since.** Camber has read it once, in his
+     second year, out of boredom.
+     · **The difficulty:** the same act is both contempt and abatement — one crossing of one
+       chain at 4:04 — and it cannot be two things. It is therefore a question for the
+       officer who laid the restraint.
+     · **DORN'S RULING:** he has **signed and certified the abatement** as circuit
+       licence-holder (sent to Sennet on the 29th). And he has **entered the contempt,
+       because it happened and a thing that happened goes in the book**, and entered
+       alongside it that **he does not proceed**, with two pages of reasons ending: *a boy of
+       fourteen did the work of a Wold rank because no adult in this province would, and if
+       the Ledger wishes to put him in a cell then it may send somebody who is not me.*
+     · **NOTHING IS OVERTURNED.** The contempt stays on the book for ever and any officer may
+       raise it. *"I would rather you carried a true thing than were handed a clean one."*
+  5. **THE MONEY.** Nine pound, less four silver (fine), less two shilling (a licence he is
+     not yet eligible to hold, receipted "pending"), less **eleven pence** deducted in a
+     manner nobody in the square ever fully understood = **£8 12s 1d**.
+     **Rent paid on the spot: £4 8s** (£4 4s at Gather, arrears at a shilling in the pound).
+     Receipt written by Camber and given to **Gran**, because Wick asked.
+     **£4 4s 1d left.** Gran: *"Put it by."*
+- **THE ASSESSMENT.** Frame set up in the square at 6:30 p.m. Acreage **43.9**. Weight
+  **0.6** — *"which is under Hearth by a considerable distance and which I mention now so
+  that nobody is confused in a moment."*
+- **THE LOAD TEST.** A third instrument — a brass clamp on a long arm, which about four
+  people on the Sill have ever seen used. Camber explains: **the standard has never been
+  about weight.** In Green the frame found forty-one acres with no boundary anywhere and
+  nothing to push on.
+  · Wick describes his boundary aloud to three hundred people: nine paces across, ~34 round,
+    a rim of set salt a hand high with a permanent bow on the north side, **made by walking
+    it, twenty-one nights, never crossing twice in the same place after the first failure.**
+  · Camber: **"You built it." "I walked it." "There is no procedure for that."**
+  · **Load applied 6:40 p.m., held eleven seconds — nine more than the standard requires.**
+    Camber then applied it harder, which he was not obliged to do. **Held. Tested four times.**
+- **FINAL ASSESSMENT: RANK HEARTH.** Acreage 43.9 · Weight 0.6 · Coherence **ragged (second
+  class)** · **Settled 0.0014 of 43.9** · Terrain: salt flat (unsettled), warm damp 9 paces
+  bounded, white down ×6 at survey distance, **one entry withheld** · Workings: two,
+  unregistered, pending examination · Boundary: sustains applied load without deformation.
+  **Camber's appended note** repeats the Green formula: *I record it as measured. The
+  schedule has no procedure for it, and that is a defect of the schedule and not of the
+  subject.*
+- Gran did not cry and put her hand flat on his back for a moment. Nettle stood at the edge
+  with her arm strapped, **grey at the fingers still and going to be for a long time**,
+  refusing to come closer and refusing to leave. **Ock shook his hand.**
+- **DORN:** *"The instrument is still open." "I'm not taking it." "No. You are Hearth, and a
+  Hearth may hold a licence, and I am going to have to hire you now, at rates, like a person,
+  and I want you to know that I have thought about this and I am extremely annoyed."*
+- **LAST PAGE.** Fifty-first measurement of the seam: **eleven and a quarter paces from the
+  middle.** The column runs down two full pages. 15 → 14½ → 14 → 13½ → … → 11¼.
+  *things I don't understand yet* reaches **32**: ***What happens when it gets here.***
+  Then he went in and walked his border, thirty-four paces round, from a bearing he had not
+  used before.
