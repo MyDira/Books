@@ -102,6 +102,45 @@ Rank is conferred on the **lower** of the two columns, not the higher. This is w
 freak with enormous acreage and no weight is *unrankable* rather than terrifying, and
 why the Ledger has never had to think hard about it before.
 
+### ⚠ WHAT A RANK ACTUALLY IS — read this before conferring one
+*(Amended B01 c032. See the RETCON entry in `canon/continuity-log.md`.)*
+
+**A rank is a statement about a boundary. It is not a statement about power.**
+
+The threshold conditions below are the law. The weight bands above are *what a person who
+meets that threshold normally weighs*, and for every Hold that is a room the two agree,
+because in a room the densest ground and the tested boundary are the same nine feet. Eight
+hundred years of assessment produced a table and a test that had never once disagreed.
+
+They can disagree. When they do, **the test governs and the table is annotated**, and the
+Ledger has a word for the result:
+
+| Status | Meaning |
+|---|---|
+| **Rank held in full** | The boundary passes *and* the weight sits in the band. Everybody. |
+| **Rank held on the boundary** | The boundary passes and the weight does not reach the band. |
+
+**"On the boundary" is a real status with real teeth**, and it is not a courtesy:
+- You may not take a Writ of Hunt graded at your rank. You take them one grade down.
+- You may not be sponsored, and you may not sponsor.
+- Any assessor may re-test you on demand, at your expense.
+- Any practitioner of your rank or above may **challenge the assessment**, which is a
+  public re-test, and challenges are a recognised way of humiliating people.
+- It is printed on your tally. Everyone who reads it knows.
+
+So the rank is real, the door it opens is real, and **the holder is still exactly as strong
+as their weight says they are.** A Hearth at 0.6 is legally Hearth and will lose to an Ember
+at 1.4 every time. The status is the Ledger being honest about a thing its own table cannot
+describe, which is the most characteristic act available to it.
+
+**AUTHOR'S HARD RULE — this exception is not a shortcut and must never become one.**
+Advancing on the boundary alone is *harder*, not easier: it costs the same threshold work
+and delivers none of the power, and the holder carries the disability until the weight
+catches up. Any future rank taken this way must (a) cost the threshold in full on the page,
+(b) confer **no** capability the weight does not support, and (c) be *paid for socially* —
+in writs refused, in challenges, in what people assume. If a rank ever arrives without all
+three, it is a cheat and the power-auditor will say so.
+
 ### WHAT EACH RANK ACTUALLY REQUIRES (the thresholds, stated plainly)
 - **Ember** — a Hold that opens, and a fire lit in it.
 - **Hearth** — **the Hold's walls hold under pressure.** An assessor applies load; the

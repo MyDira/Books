@@ -38,8 +38,10 @@ back third. Thin ground throughout. A book about scarcity.
 ```
 RANK:       Unkindled → Ember (ch 3) → Hearth (ch 30)
 ACREAGE:    41.2 → 44.6
-WEIGHT:     0.0 → 1.9   (peak; see bible weight bands)
-SETTLED:    0.0 → ~3.1 of 44.6 acres     ← the number that makes his build legible
+WEIGHT:     0.0 → 0.6   (peak. NOT 1.9 — Hearth is taken **on the boundary**,
+            with the weight still inside the Ember band. See bible § WHAT A RANK ACTUALLY IS.)
+SETTLED:    0.0 → ~0.0014 of 44.6 acres  ← the number that makes his build legible
+            (an 11-pace patch is ~0.002 acre. 3.1 settled acres would be a Realm.)
 COHERENCE:  ragged (4th class) → ragged (2nd class)    ← grade held, sub-class moves
 TERRAIN:    3 plants
               1. the warm damp   — tallow-crawler — ~ch 10 — genuinely pathetic

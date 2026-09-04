@@ -3910,7 +3910,7 @@ He put his hand back in his pocket.
 
 Wick did not say anything.
 
-"So when I tell you nought point four's a good day," said his father, "I want you to understand I'm not being kind at you. I've been nought point nine my whole life. There's a great deal you can do at nought point nine."
+"So when I tell you nought point four's a good day," said his father, "I want you to understand I'm not being kind at you. I've been one and a bit my whole life and I never got past it. There's a great deal you can do at one and a bit."
 
 He straightened up off the gate.
 
@@ -5969,6 +5969,28 @@ They went up four hundred paces of passage, through the second chamber past four
 
 Vance went last. He would not be argued with about it.
 
+It happened in the fourth hour, on the slope of loose chalk, and it very nearly killed all three of them.
+
+Nettle went down. She had been walking on a fever for an hour by then, and her boots went out from under her on the scree, and she could not put a hand out because the hand did not work, and she went down the slope on her side toward a drop that Wick had measured on the way in at rather more than twenty feet.
+
+He got her at the rope. That was all. He got a fist in the rope with one hand and a fist in her coat with the other and he stopped, and she stopped, and for about four seconds the whole weight of a fifteen-year-old and forty feet of moving chalk went through a boy who had nothing left in him at all.
+
+His shoulder came out of its socket and went back in. He found that out three days later.
+
+What he found out at the time was this: they came to rest, and Nettle said something extremely unpleasant into the chalk, and Dorn Vance said, "Do not let go," in a voice with no air in it. And Wick lay on a slope in the dark holding a rope and a coat and understood, flatly, the way you understand weather, that he was not going to.
+
+And the ground went out.
+
+It was the third time and it was nothing like the other two. In the lane it had been a held breath letting go; in the yard it had been a cloud coming off a field. This was neither. This happened while he was busy, in the middle of an hour he barely remembered afterward, and he only noticed at all because he had been noticing since the sixth of Dust.
+
+*Not now*, he thought, with real irritation, and went on holding the rope.
+
+They got her up in about twenty minutes. Nobody said anything about it. He wrote one line on the ledger four days later, when he finally got round to it:
+
+> *Went out again, on the slope, fourth hour. Was holding on to something. Note: it does not wait until you have time.*
+
+---
+
 They came out through the base of the third hollow alder at about nine in the morning on the sixteenth of Gather, and it was raining, and there were forty people on the bank.
 
 ---
@@ -6035,11 +6057,17 @@ He went and got the ledger the moment he came out, and he did the only thing he 
 
 It was **fifteen paces** from the middle.
 
-He wrote that down with the date. Then he sat on the edge of his bed with the charcoal in his hand and looked at the number for a long time and did not like it, because he had already noticed the thing he was going to spend the next five years noticing.
-
-He went back in at midnight and paced it again.
+He wrote that down with the date. Then he went back in at midnight and paced it again.
 
 **Fourteen and a half.**
+
+Half a pace in a day.
+
+He sat on the edge of his bed with the charcoal in his hand and did the sum that any child in the Loam would have done, which was half a pace a night into fifteen paces, and got thirty nights, and felt the bottom go out of the evening for the second time that year.
+
+Thirty nights. A month, and it would be at the rim.
+
+It was three weeks before he worked out that he had just done the one thing he had been told not to do since he was six, which is to draw a line through two points and call it a number.
 
 ---
 
@@ -6053,7 +6081,7 @@ Ossian Pell listened to the whole of it without saying a word, and at the end of
 
 "You will do it four times, because one is a guess." Pell was not smiling. "And then you will do it every week for a year and you will write down the date every time, and when somebody eventually asks you what it is, the thing that will matter is not that you noticed it. It is that you have got a *line*."
 
-"It's coming toward the middle."
+"It's coming toward the middle. Half a pace a night. That's thirty nights."
 
 "It is propagating," said Pell, "which is not quite the same thing and the difference will matter later. A thing that walks has somewhere it is going. A thing that propagates is only doing the next bit, over and over, and does not know you are there." He turned the hat round. "Do you know why I am relieved about that, and I am, enormously?"
 
@@ -6083,7 +6111,7 @@ He turned round.
 
 "Yes."
 
-"And there's a line coming in at half a pace a night," said Wick Alder, "and every foot of ground it crosses is ground I will never be able to plant."
+"And there's a line coming in," said Wick Alder, "and every foot of ground it crosses is ground I will never be able to plant."
 
 Ossian Pell did not say anything for a long moment.
 
@@ -6258,6 +6286,26 @@ Camber took it off, and set it again, and put it on harder, which he was not obl
 
 He did it four times.
 
+"Now," said Camber, "I am going to say the unpleasant part, and I am going to say it before I write the good part down, because I have watched families hear these in the wrong order.
+
+"The weight band for Hearth is one and a half to five. This subject is at nought point six, which is Ember, and which is under the girl Thatcher who was kindled the same afternoon.
+
+"There is a status for that. It is not a courtesy and it is not new; it is four hundred years old and it is used perhaps twice in a generation, and it is called **holding a rank on the boundary**." He counted it off. "The rank is real. The door is real. He may hold a licence. But the tally will say *on the boundary*, and it will say it for as long as the weight lags, and it means this:
+
+"He may not take a writ graded at his rank. He takes them one grade down, at one grade's pay.
+
+"He may not be sponsored and he may not sponsor.
+
+"Any assessor may re-test him on demand, at his own expense.
+
+"And any practitioner of his rank or above may **challenge the assessment**, which is a public re-test in a public place, and I will not pretend to this village that challenges are anything other than what they are, which is a way of humiliating somebody in front of their neighbours."
+
+He looked up.
+
+"He is Hearth," said Registrar Rab Camber. "And he will lose to an Ember of ordinary weight, and everyone who reads his tally will know it, and both of those things are true at once and the Ledger's business is to write down what is true."
+
+---
+
 Then he sat down at the folding desk in the square and wrote for a long time, and when he had finished he stood up and read it out to the village in the voice he used for the formula, which was not his ordinary voice at all.
 
 > **LEDGER OF THE SILL — ASSESSMENT**
@@ -6268,7 +6316,7 @@ Then he sat down at the folding desk in the square and wrote for a long time, an
 >  white down, six discrete plantings at survey distance · *one entry withheld, see note*
 > Workings: two, unregistered, pending examination
 > Boundary: **sustains applied load without deformation** (tested ×4)
-> **Rank: HEARTH**
+> **Rank: HEARTH — held on the boundary**
 > Note appended: *The subject's boundary was not inherited. It was constructed, by the
 > subject, over twenty-one nights, by a method not provided for in the schedule. I record
 > it as measured. I note that the schedule has no procedure for it, and I note separately
@@ -6299,13 +6347,42 @@ He went in that night at about eleven o'clock and paced it, because that was the
 
 **Eleven and a quarter paces from the middle.**
 
-He came out and wrote it on the ledger under the date, in a column that now ran down two full pages in the worst handwriting in the Loam, and looked at the line of numbers.
+He came out and wrote it on the ledger under the date, in a column that now ran down two full pages in the worst handwriting in the Loam, and then he did the thing he had been putting off for three weeks, which was to read the whole column at once.
 
-Fifteen. Fourteen and a half. Fourteen. Thirteen and a half.
+Fifteen, on the sixteenth of Gather.
+Fourteen and a half, that midnight.
+Fourteen. Thirteen and a half. Thirteen and a quarter.
+Thirteen.
+Twelve and three quarters, and then twelve and three quarters again, for four nights.
+Twelve and a half.
 
-He had a rank, and a receipt for a paid tenancy, and eight pound twelve and a penny less four pound eight, and a mark on a tally, and a contempt on the book, and forty-three point nine acres.
+Eleven and a quarter, tonight, forty-eight nights after the first one.
 
-And a seam coming in at about half a pace a night, on ground he would never be able to plant, and eleven and a quarter paces to go before it reached the rim.
+Half a pace a night would have been twenty-four paces. It had gone **three and three quarters.**
+
+Wick sat on the edge of his bed for a long moment with the candle guttering.
+
+Then he laughed, once, out loud, in a house full of sleeping people, because it was the survey line again. It was the exact same shape. Nine, seven, five, three, two, one and a half. It went and it went and it slowed while it went and it was never, ever going to be a straight line, because nothing in that country ever had been.
+
+He got the charcoal and wrote underneath it, pressing hard:
+
+> *IT IS NOT HALF A PACE A NIGHT. It was half a pace on the FIRST night. Two points is not a line. YOU KNOW THIS.*
+
+Then, after a while, more slowly:
+
+> *It is going sideways faster than it is coming in. Paced the length of it tonight going out
+> from the middle: I walked it 900 paces one way before I gave up and it was still going and
+> still a hand across. It was not doing that in Gather.
+> It is not walking at me. It is getting LONGER, and the longer it gets the slower it comes.
+> Work out the curve. Then work out where it stops. If it stops.*
+
+He looked at the two entries for a while.
+
+Thirty nights had become a number he could not calculate, and he found that he minded that much less than he had expected, because a number he could not calculate was a number he could go and *measure*.
+
+He had a rank he could not back up, and a receipt for a paid tenancy, and four pound four and a penny put by, and a mark on a tally, and a contempt on the book, and forty-three point nine acres.
+
+And a seam, on ground he would never be able to plant, getting longer every night and closer more slowly than it had any right to, eleven and a quarter paces out.
 
 He got out the other page, the one headed *things I don't understand yet*, which was up to thirty-one entries, and added the thirty-second.
 
@@ -6320,4 +6397,4 @@ Then he blew the candle out and lay in the dark and did what he had done every n
 *End of Book 1: Weightless.*
 
 
-<!-- 32 chapters · 72,479 words · consolidated 2026-09-04 -->
+<!-- 32 chapters · 73,557 words · consolidated 2026-09-04 -->

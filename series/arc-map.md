@@ -65,14 +65,35 @@ Book 1 spends 2. Fourteen steps across twenty-four books = **0.58 per book.**
 6. **Punch up one gap per movement.** Gaps are qualitative; a Realm beating a Dominion
    thrills exactly because the reader knows the arithmetic.
 
-## THE SEAM (long burn opened B01 c31)
+## THE SEAM (long burn opened B01 c31) — **RECALIBRATED after the B01 power audit**
+
+> **The original plan said the Seed lands "forty acres out" and closes over five books.
+> The c30 mechanics made that impossible** — Wick had to pull the Nine to his own middle to
+> use the salt, so it landed **fifteen paces out**, and at the first-night rate of half a
+> pace it would reach the rim inside a month. The fix is not to move it. The fix is that
+> **the rate was never constant, and Wick's "half a pace a night" was a two-point line**,
+> which is exactly the error the book has been training him out of since page one.
+
+**THE ACTUAL BEHAVIOUR (canon):**
+- It spreads **along its own length far faster than it advances inward.**
+- The inward advance **decelerates as the total length grows** — the same halving curve as
+  the survey line (9/7/5/3/2/1½). It is the shape everything in that Hold makes.
+- Measured: **15 paces at Gather 16 → 11¼ at Rust 4** — three and three quarters in
+  forty-eight nights, not twenty-four. Wick catches his own error on the last page of B01.
+- By B05 it is **a line across the whole country** and only a few paces from the rim. That
+  is when it stops being a countdown and becomes a **horizon** — which is what Field rank
+  requires, arriving uninvited, on ground he needed whole.
+- **The reader must be able to plot it.** Print the column. It is a timer, not a mystery.
+
+
 The Nine's Seed. Its dominant terrain is *the thing that makes many into one*: an edge.
 In a room-sized Hold it would rupture. In forty-one acres of open salt it arrives slowly.
 - **It is a timer, not a mystery.** Wick can measure the distance. It shrinks by a
   stateable amount. Camber files it. There is a form.
 - **It costs him.** Every acre it crosses is ground he cannot plant. His single advantage
   inverts on the last page of Book 1.
-- **Waypoints:** B3 climax it crosses a boundary and makes a terrain stop working.
+- **Waypoints:** B2 he plots the curve and predicts a date, and is wrong. B3 climax it
+  crosses one of the survey pegs and makes that terrain stop working.
 - **Lands end of B5, at the Assize**, in public, while he is being formally measured.
 - **What it is:** not a creature, not a friend — a **horizon**. The thing Field rank
   requires, arriving uninvited, dividing ground he needed whole. A fence line drawn by

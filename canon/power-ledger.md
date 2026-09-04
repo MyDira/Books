@@ -23,6 +23,17 @@ AND the deed/Seed that earned it.
 | B01 c21 | **THE RIM.** Walked the warm damp's border nightly; hard set salt forms where wet meets dry. Load test failed at the one place he crossed it — **lost 2 paces (11 → 9)**. Rebuilt, entering from a different bearing each time. **A hand high, no gate, holds ~40 s under his own full load.** | 42.1 | 0.4 | ragged | Rule: *Never cross it twice in the same place.* |
 | B01 c25 | **DEED 2 — acreage.** *Keeping a promise that cost him:* refused Dorn's sponsorship (which would have paid the rent, remitted the fine and prevented the striking-off) and told Gran the cost first and the reason second. | **~43** (unmeasured) | 0.4 | ragged | Felt it go out a second time. No frame until Rust. |
 | B01 c29 | **WORKING 2 — "the crust."** Push warm wet ground onto his own skin, then pull the water back; the salt sets into a shell a nutshell thick. Bone dry. | 43 | ~0 (spent) | ragged | Improvised with both hands inside a nine-in-a-coat |
+| B01 c31 | **DEED 3 — acreage.** *Surviving what should have killed him:* holding Nettle and a rope on a moving chalk slope in the fourth hour of the climb out, with nothing left. Shoulder out and back in; he noticed the ground go while busy and was irritated by the timing. | **43.9** | 0 → 0.6 | ragged | Staged on the page. *"It does not wait until you have time."* |
+| B01 c31 | **TERRAIN 3 — "the seam."** The Nine's remnant plants *itself* in the salt 15 paces from the middle. Terrain = **the making of many things into one**: an edge. Cannot be pulled out. **Ground it crosses will not take a Seed.** | 43.9 | 0.6 | ragged | Emergent from the kill, not chosen |
+| B01 c32 | **RANK: HEARTH — held on the boundary.** Load applied 4× and held 11 s (standard is 2). Weight 0.6 remains in the Ember band. | **43.9** | **0.6** | ragged (2nd class) | 21 nights of walking a rim, never crossing twice in the same place |
+
+### ⚠ THE STATUS — read before Book 2
+Wick holds Hearth **on the boundary**: the threshold passed, the weight did not. Per
+`bible/01-magic-system.md` § WHAT A RANK ACTUALLY IS this is a real Ledger status with real
+teeth — writs one grade down at one grade's pay, no sponsorship either way, re-testable on
+demand at his own expense, and **challengeable in public by anyone of his rank or above.**
+He is legally Hearth and would lose to an ordinary Ember. **This must cost him socially in
+Book 2**, or the exception becomes a shortcut and the runway is gone.
 
 **Settled acreage: 0.002 of 42.1** (9 paces enclosed ≈ 0.0014 acre; 11 paces before the c21 loss).
 **Intake rate — the series' first personal metric:** 11 breaths/day at 2 paces →
@@ -70,9 +81,18 @@ comes from the *border he built by walking*, which is the book's thesis rendered
 
 **Terrain:** *strike-glass* — a dead circle two feet across, flat as a plate, lightning-struck
 sand gone to glass. **Unbordered.** No edge; "it just stops."
-**Working:** *the Faring Contact Working*, common name **the strike**. Palm flat on a
-surface, breathe out; a single crack like a hammer on rock. Leaves a silver handprint
-burned into iron. **Three uses, then empty and on the floor for an hour.**
+**Workings:**
+1. *the Faring Contact Working*, common name **the strike**. Palm flat on a surface,
+   breathe out; a single crack like a hammer on rock. Leaves a silver handprint burned into
+   iron. **Three uses, then empty and on the floor for an hour.**
+2. **unnamed area effect** *(B01 c22, first use)*. Palm flat on packed earth; spends a
+   stated fraction of her total rather than one of the three. At **two thirds** of everything
+   she had, a byre floor lifted a quarter inch and came down and every boneless thing on it
+   came apart. It is **not the strike** and the text says so. Unregistered. Nettle has not
+   discussed it and does not appear to have decided what it is.
+
+**Injury:** right arm grey from fingers to above the elbow (B01 c29, inside the Nine),
+with a nap on it like mould on a cheese. Recovering slowly. **Not resolved.**
 **Graft:** chalk-hound Seed, quarter inch into the left forearm, age eleven, by accident.
 Dries a patch of wall when her hand is cold. *It is not hers.*
 **Cap:** weight without room. Cannot plant; every Seed has been rejected or cracked her.
