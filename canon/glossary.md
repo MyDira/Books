@@ -8,6 +8,7 @@ it is invented. If it isn't here, it isn't canon.*
 - **Chalk estate, the** — absentee landholder of the Whitts strip. Agent: Nead. *(B01 c05)*
 - **Coherence** — how well a Hold's terrain fits together. Graded *ragged / settled / true*. *(B01)*
 - **Concord, the (Grafters')** — the craft guild that cuts, cures and fits Seeds. Licensed; Nettle's mother has held one 22 years. *(B01 c14)*
+- **Confluence** — where two terrains border, the border does a thing neither of them does. Known to the Grafters' Concord since Y-600 and in their schedule for 200 years; **not** one of the Ledger's five classification boxes. Entered for the first time under protest of the form, B02 c05. *(B02)*
 - **Deed** — an act that forces a Hold to make room; the only source of acreage. *(B01)*
 - **Deep Wild, the** — the layer below the Sill. Where terrain grows unowned. *(B01)*
 - **Drawing** — pulling ambient Wild inward through breath and skin; it is *feeding the fire*. Gran's method: breathe out longer than you breathe in, think about the bottom of a well. *(B01 c04)*
@@ -19,6 +20,8 @@ it is invented. If it isn't here, it isn't canon.*
 - **Form 9-C** — *Kindling at a place of the subject's nomination.* Requires registrar's assent, a witness of age, written nomination, and two copper. *(B01 c02)*
 - **Graft** — a Seed fitted into a body instead of a Hold. Fast, crude, never quite yours. *(B01)*
 - **Hall of Hunt** — locally-run, Ledger-licensed contract house. Board, bar, bonesetter. *(B01)*
+- **Held on the boundary** — a rank conferred on the threshold test where the weight does not reach the band. Writs one grade down at one grade's pay; no sponsorship either way; re-testable on demand at the holder's expense; **publicly challengeable**. ~Twice a generation in 400 years. *(B01 c32)*
+- **Hired person** — the Hall's category for someone who works a hunt but cannot sign a return. Four shillings a day against a Hall hand's nine. *(B02 c06)*
 - **Hold** — the interior country every person carries. The seat of all power. *(B01)*
 - **Instrument** — the filed document defining what an auditor may examine. Acting or causing a filing outside it is a matter for the Quorum. *(B01 c12)*
 - **Kindling** — the ceremony that opens a Hold. Traditionally at fourteen. *(B01)*
@@ -33,6 +36,7 @@ it is invented. If it isn't here, it isn't canon.*
 - **Register of Workings** — the Ledger's catalogue of every named technique. Searchable for a fee. *(B01)*
 - **Rupture** — the cracking of a Hold by a Seed too heavy for it. Usually fatal. *(B01)*
 - **Sarrow's line** — a knotted waxed string for measuring Wild density by candle-lean. In the Ledger's field manual, section four. Nine knots is a domestic length. *(B01 c01)*
+- **Schedule of Working (First Entry)** — the Register's eleven-part form. Part six's five classification boxes (Body · Export · Verge · Construct · Ward) unchanged since Y-440. *(B02 c05)*
 - **Seed** — the compressed terrain-knot inside a Wildborn. Plantable. *(B01)*
 - **Settled acreage** — the portion of a Hold actually carrying weight. Meaningless for a room; everything for Wick. *(B01)*
 - **Sill, the** — the habitable middle layer of the world. *(B01)*
