@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 3 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 4 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -620,5 +620,211 @@ Nettle did not move at all.
 
 ---
 
+# Chapter 4 — Four Hundred Yards
 
-<!-- 3 chapters · 7,347 words · consolidated 2026-09-04 -->
+*(Nettle)*
+
+She let him say the whole of it, which took eleven minutes, and she did not interrupt once, and that was the most frightening thing she did all winter.
+
+Wick had got that far in four months. Nettle had known him since Dust and could read him about as well as anybody ever had, and she watched him work through it in the order Doreth had told him to: Bri, the sweeping, the shoulder, the hundred and forty fittings in someone else's name. And she watched him *not* say the thing he wanted to say, which was *why haven't you been*, and she gave him full credit for it and did not tell him so.
+
+At the end he stopped and put his hands flat on the table.
+
+"That's all of it," he said. "She told me to say all of it and then shut up, so that's me shut up."
+
+"Good," said Nettle.
+
+Then she got up and put her coat on and went out.
+
+---
+
+She walked to the end of Cross Street and stood at the corner where it met Fell, and from that corner, on a clear night, you could see the light in the top window of sixty-one.
+
+Four hundred yards. Six minutes at a walk. She had done the six minutes about nine thousand times in her life and had not done them since the Slack.
+
+The light was on.
+
+She stood at the corner for as long as it takes a person to be honest with themselves, which for Nettle was about ninety seconds, because she was extremely fast at it and had never once found it useful.
+
+*You are not frightened of her.* True.
+*You are not angry at her.* True, and had been true for about four years, which was the annoying part.
+*You do not think she is wrong.* Also true. That one had gone at fifteen and had never come back.
+
+She turned round and walked home.
+
+---
+
+Here is what happened, and she had never said it out loud to anybody and did not say it to Wick that night or for a long time afterward.
+
+It was not a row. There had never been a row, and that was the whole of the problem, because a row you can go back and apologise for.
+
+It was Thaw of Y-eight-twelve, three months before a boy in a village on thin ground put a candle on a gravel bar, and it was the fourth reassessment, and Nettle had walked home from the Cross Street office with a chit in her hand that said *result unchanged* on it for the fourth time.
+
+Her mother had been at the bench. She had looked up and said, "Well?"
+
+And Nettle had said "unchanged," and her mother's face had done something, and then Doreth Faring had put down what she was holding and had cried, standing up, with her hands at her sides, for about forty seconds, which she had done twice in Nettle's life.
+
+And then she had stopped, and wiped her face with the back of her wrist, and said — kindly, and this is the part, this is the entire part — she had said:
+
+"Annet. Love. Will you let me put one in."
+
+And Nettle had said: "I'd rather be capped than be you."
+
+---
+
+She had meant it.
+
+That was the thing she could not get round and had been failing to get round for eleven months. If she had not meant it, she could have gone back the next morning and said *I didn't mean that*, and Doreth would have taken it, because Doreth took everything.
+
+But she had meant it, precisely, in the specific sense in which she had said it, which was: *I would rather have nothing that works than have a life made out of things that were somebody else's.*
+
+And that was true, and it was the truest thing about her, and she still believed it at that corner at the end of Cross Street eleven months later.
+
+And it was also, said out loud in that room to that woman with four buttons up her left forearm and twenty-two years behind her and a wet face, the single cruellest sentence Nettle had ever constructed, and she had constructed it in about a second and a half, because she was extremely fast at it.
+
+She had moved her things out over the following fortnight. Nobody had asked her to. Doreth had helped her carry the chest.
+
+And in eleven months neither of them had said one word about it, because Nettle could not apologise for a thing she still believed, and Doreth would not ask her to stop believing it, and so they had arrived at four hundred yards, and stayed there.
+
+---
+
+Wick was still up when she got in. He had the ledger out and had done nothing to it, which was how she knew he had been sitting there the whole hour.
+
+"I didn't go," she said.
+
+"I know."
+
+"I got to the corner."
+
+"That's four hundred yards further than the last four months."
+
+"Don't," said Nettle, "manage me."
+
+"I'm not managing you, I'm doing arithmetic." He did not look up. "It's what I've got instead of being any use."
+
+She sat down.
+
+They did not say anything for a bit, and the chandler's stove ticked, and down in the street somebody was having an argument about a horse.
+
+"Your sister's better at it than my mother," said Nettle.
+
+"That's not what she said."
+
+"That's exactly what she said. She said fifteen months, and she said *I do not say that*, and if you'd heard her say a thing like that about anybody else you'd have understood it." Nettle pulled the ledger over and turned it round. "Doreth Faring has never once in her life overstated a number."
+
+"All right."
+
+"So there's a woman in this town who is going to be the best fitter in the Loam inside two years and she cannot sign her own work," said Nettle, "and there's another one who's the third best and has got four borrowed workings in her arm and a licence, and the difference between them isn't skill, it's that one of them was fourteen at the right time and the other one was seventeen."
+
+"Yes."
+
+"And I've got seven and a half weight and I'm not allowed to be anything either, and *my* reason is that a brass hoop says my ground's two feet across." She was going faster now. "Three of us. Three, out of about six people I've ever met properly, and all three of us are stuck behind a *rule with a number in it*, and every single one of those numbers was written down by somebody who never once imagined us."
+
+Wick had gone very still.
+
+"Say that again," he said.
+
+"Don't do that. That's mine, I said it first."
+
+"I'm not — " He put his hand flat on the table. "Nettle. Say the last bit again."
+
+"Every one of those numbers was written down by somebody who never imagined us."
+
+Wick sat back.
+
+"The Concord admits at fourteen," he said slowly, "because that's when a Hold opens and that's when you've got most of your life left to indenture. It's not a *rule*, it's a — it's an assumption about when people start."
+
+"So?"
+
+"So it's the form having two boxes for feet." His voice had changed. "Camber crossed out FEET and wrote ACRES and then wrote a note saying the defect was in the schedule and not in the subject, and a man in an inked coat read that note eleven months ago and came four days' ride to sit on a bridge post because of it."
+
+Nettle looked at him.
+
+"You're not going to fix my mother," she said.
+
+"No."
+
+"Or Bri. Not with a form."
+
+"No." Wick got the ledger and turned to the back, where he kept the list he had started in Long and had never stopped keeping, and wrote a line at the bottom of it in his awful hand. "But I've spent four months asking people in this town what my sister *does*, and not one of them could tell me, and the reason is that there is no word for it and no box for it and no line in any register anywhere.
+
+"And I know exactly one person in the entire world whose whole job is finding those."
+
+---
+
+---
+
+She did the thing at about two in the morning, when Wick had gone to sleep on the floor by the stove the way he did when he had been thinking too hard to get into a bed.
+
+She had not gone in properly in eleven months. That was not a secret and it was not a decision; there had simply been nothing to go in *for*. A person walks their Hold to raise coherence, and hers was true, and had been true since she was fourteen, and there is no grade above true.
+
+So she went in, at two in the morning, in a rented room over a chandler's, for the first time since Thaw.
+
+Two feet of glass.
+
+Flat as a plate. A dead circle. Struck sand gone smooth, and when she put her palm on it, it was neither warm nor cold, the way a thing is when it has never been anything else.
+
+She stood in the middle of it, which took no walking at all, and looked at the edge.
+
+*Like the world stops*, she had said to him, on a kerb on Cross Street in Dust, and he had asked whether it stopped like a wall or like the world stopping, and nobody in six years had ever asked her that.
+
+She went and looked at it properly.
+
+It did not stop like a wall. There was no ridge, no lip, no rim, no crust, no line of set anything. The glass went out to arm's length and then there was no glass, and there was no *not*-glass either; there was nothing at all, in the way there is nothing at all past the end of a thought.
+
+Nettle stood at the edge of her entire country with her hands at her sides and worked it out in about four seconds, because she was extremely fast at it and had never once found it useful.
+
+Wick had spent twenty-one nights walking a line in the dark to make a boundary, and had been graded on it, and had a rank because of it.
+
+She had no boundary.
+
+Not a bad one. Not a small one. **None.** There was nothing there to walk. There was nothing there to load. Camber's brass clamp had a place to push on a nine-foot room and a place to push on nine paces of warm damp and there was, in the whole of Annet Faring, nowhere to put it.
+
+*Coherence: true.*
+
+She said a word out loud that she would not have said in front of her mother.
+
+Because that was not a grade. That was not an achievement and it had never been one and four registrars had written it on four chits and she had carried it round her neck for six years like a thing she had earned. Coherence is how well the terrain in a Hold fits together. Hers fit perfectly.
+
+There was one thing in it and nothing to argue with.
+
+She had been given full marks for an empty examination and had spent six years being quietly proud of it.
+
+---
+
+She came out and lay on her back in the dark with her eyes open and did not sleep, and at about four she got up and got the ledger, quietly, and turned to the heading of her own that she had been keeping since Dark, and wrote the fifth thing on it.
+
+Then, because she was honest and because it was four in the morning, she went back and wrote a sixth underneath.
+
+> *5. What is two feet of ground with no edge FOR?*
+> *6. Ask him how he made one. Out loud. Using words. Tomorrow.*
+
+She looked at the second one for some time.
+
+Then she crossed out *tomorrow* and wrote *soon*, and then crossed out *soon* and wrote *tomorrow* again, and put the charcoal down and went to bed.
+
+---
+
+She read it upside down, because she read everything upside down and faster than he wrote it.
+
+> *40. Who decides what the boxes are?*
+
+"That's not a thing you don't understand," said Nettle. "That's a thing you've decided to be annoyed about."
+
+"It's the same list."
+
+"It is *not* the same list, and if you start putting that sort of thing on it the list stops being any use." She pulled it toward her, got the charcoal off him, crossed out the *40*, and wrote it out again lower down under a heading of her own.
+
+Wick leaned over to see what she had called it.
+
+**THINGS THAT ARE NOBODY'S FAULT AND SOMEBODY'S JOB.**
+
+"That's a terrible heading," he said.
+
+"It's a *long* heading. It's not a terrible one." Nettle put the charcoal down. "And there's four things on it already and I've been keeping it since Dark, and I'd thank you not to look at the other three."
+
+
+---
+
+
+<!-- 4 chapters · 9,566 words · consolidated 2026-09-04 -->
