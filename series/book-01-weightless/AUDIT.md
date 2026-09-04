@@ -172,3 +172,23 @@ with an 800-year setup rather than a stat boost.
 **Ratchet gaps flagged for future books:** c5–c9 (five chapters of setup with no mechanical
 ratchet) and c12–c15 (four, mitigated by yardstick chapters). Everything from c16 on runs at
 or better than one per three chapters.
+
+## 2026-09-04 · CONTINUITY AUDIT — c023–c032 — 5 BREAK / 2 DRIFT — all remediated
+| # | Finding | Fix |
+|---|---|---|
+| B1 | **£9 − 4s − 2s − 11d = £8 13s 1d, not £8 12s 1d.** The wrong figure was then reused twice. | The catch-all deduction becomes **1s 11d**, which makes the arithmetic land — and is now *identified on the page* as the lantern Wick broke on a crawler in Long and never paid for. The Ledger settles its own eleven-month-old debt without comment. |
+| B2 | "Four pound sixteen **by Thaw**" is twelve months of wages, but Thaw falls five days after the Slack. | → "inside a year", and Wick's line changed to the Slack figure. |
+| B3 | c027 says they waited "a day and a half… thirty hours longer than Nettle wanted", but its own clock (ward at 9 a.m. Gather 14 → descent 4 p.m. Gather 15) is **31 hours**. | → "thirty-one hours… twenty-five hours longer". |
+| B4 | The seam's "half a pace a night" restated as settled fact against 48 days of data showing ~0.07. | Already resolved by the power-audit pass: it is explicitly Wick's two-point line and he catches it himself on the last page. |
+| B5 | "Eleven and a quarter paces to go before it reached the rim" — but the rim is at 9, so ~2¼. | Already resolved in the same pass. |
+| D1 | "Nine paces across, near enough **thirty-four** round" — the circumference was never recalculated after the damp lost two paces (11→9). | → **twenty-eight**, and c021 now shows him re-pacing it and writing the new figure under the old one with a line through it, and minding. |
+| D2 | Power ledger still had Bri at 11 ft. | → 13 ft. |
+| N2 | Six unexplained hours between Dorn leaving the road (~2:50 a.m.) and the ward reporting (9 a.m.), for a ford 400 yards away. | Explained in c028 in his own voice: he went back for his kit and **slept two hours on purpose**, because going down a hole tired is what killed a better man than him. |
+
+**Checked and clean:** the Gather 9 → Rust 4 anchor chain; the rent arrears at a shilling in
+the pound; the writ-posting timeline against c021's twenty-six-day figure; nineteen witnesses;
+both broken arms; and the c030 climax against the bible's hard rules — the beast is never a
+bonded ally (it dies of its own environment, not as Wick's tool), the carry-it-in method is
+flagged in-text as unprecedented rather than asserted as law, and the boundary-under-load
+standard matches the one fixed at c016. Camber, away since Green 10, is never shown knowing
+anything that is not in the document case he is visibly carrying.
