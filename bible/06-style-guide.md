@@ -239,3 +239,73 @@ sentence.
   one as explanation.
 - Zero purple. Not one three-adjective stack in 22,000 words. Hold that line.
 
+---
+
+## ⚠ SECOND-PASS ADDENDA (learned from the c011–c022 audit)
+*The first Tic Ledger was written after c1–10. Auditing c11–22 against it found that
+**three quotas got worse, not better**. Quotas are not self-enforcing. Check them
+mechanically at every audit, with greps, not by feel.*
+
+### THE DEFAULT NUMBER MOVES — it does not die
+Eleven was removed as the default in c1–10. In c11–22 **nine** took its place: nine
+minutes, nine years, nine hundred pages, nine forms, nine words, nine grandchildren, nine
+people, nine seconds, nine doorsteps, nine doors. The habit was never about the number.
+
+**The rule is therefore about the reflex, not the digit.** Before writing any figure, ask:
+*is this doing work, or does it just sound specific?* If it sounds specific, roll a
+different one. Odd, unlovely numbers read as real: seven, nineteen, twenty-six, forty-three.
+
+**A default number will eventually produce a factual error.** It did: c012 had Pell say
+Wick sat "nine minutes" and then had the narration recall "*eleven minutes*" three
+paragraphs later. That is the reflex writing over the fact.
+
+### VERBAL FURNITURE IS STOLEN BY THE CHARACTER YOU LIKE MOST
+In c11–22, **Nettle used Wick's "Right." more often than Wick did**, and Dorn and Gran each
+took one. This happens because the token is *useful* and the newest character is the one you
+are enjoying writing.
+
+**Check ownership by grep at every audit.** And note the good version: when Nettle takes
+Gran's "Mm." in c016, Wick immediately says *"That's my gran's"* — the theft is the joke.
+An unlampshaded borrowing dilutes; a lampshaded one characterises. If a character reaches
+for someone else's word, make them get caught.
+
+### A REPLACEMENT TIC IS STILL A TIC
+Banning "he would have them at eighty" produced four uses of **"for the rest of his life"**
+in twelve chapters — the same rhetorical move (*this changes forever*) with the number
+filed off. When you remove a construction, watch what rushes into the gap.
+
+### THE ONCE-PER-SERIES CONSTRUCTIONS
+*"X was what he had instead of Y"* is Wick's, it has been spent, and it was accidentally
+reused for Nettle in c014 and removed. Keep a list here as they accrue:
+
+| Construction | Spent on | Where |
+|---|---|---|
+| *"X was what he had instead of Y"* | Wick — lists instead of a temper | B01 c004 |
+
+### A POV CHAPTER IS NOT A PRONOUN SWAP
+c014 (Nettle POV) was judged *the same narrator wearing a different name*: it opened by
+having her **count and categorise**, which is Wick's defining cognitive move, and it kept
+his sentence rhythm and his dry dropped-punchline cadence.
+
+**A second POV must differ in what the character NOTICES, not only in what they say.**
+- **Wick** notices quantities, edges, and what a thing is made of. He measures before he feels.
+- **Nettle** notices *people* — status, who is being condescended to, who is lying, what a
+  room costs her to be in. She is a reader of rooms and a terrible reader of ground.
+  She should get the details Wick would walk straight past.
+- Her chapters should be **shorter-sentenced and more impatient** than his, and should
+  cut away from a scene before it is finished.
+
+### THE CHAPTER FLOOR IS A DIAGNOSTIC
+Chapters that land under 2,200 words are **missing a beat**, not missing sentences. Three
+did in c11–22, and the shortest was the one that leaned hardest on narrator-gloss. When a
+chapter runs short, ask what happened off the page that should have happened on it.
+
+### WHAT THE SECOND PASS CONFIRMED IS FIXED — protect these
+- Similes framed *"the way ___"*: 54% of comparisons in c1–10, **13%** in c11–22.
+- Negation-as-definition: effectively cured.
+- Wick's cognition choreography: genuinely varied (a numbered list, thinking in the dark,
+  thinking out loud to somebody).
+- Exposition: **zero failures** in c11–22 — every system passage had a person doing
+  something and paid off within two pages.
+- Closings: 29 for 29 across the book so far. Every chapter turns.
+

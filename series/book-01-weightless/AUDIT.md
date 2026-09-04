@@ -93,3 +93,41 @@ and all-`said` attribution. Four tics fixed; all rules written into
 **Carried forward:** vary Wick's cognition posture (44 identical staged thoughts); vary
 the simile frame (39 of 72 comparisons were "the way ___"); watch paragraph-opener
 distribution.
+
+---
+
+## 2026-09-04 · CONTINUITY AUDIT — c011–c022 — 2 BREAK / 4 DRIFT / 4 NOTE — all remediated
+| # | Finding | Fix |
+|---|---|---|
+| B1 | c021's load test dated Dust 29, three days *before* the sixth night of walking it follows | Re-dated to **Gather 2**. Anchors untouched. |
+| B2 | Pell said "Mm." (Gran's, and off his own contract) | → "I have." |
+| D1 | Log said Pell counted "eleven minutes"; prose says nine | Log corrected. |
+| D2 | Power ledger stopped at c011 while two on-page gains had landed | Brought current through c029, incl. Deed 1, Deed 2, both workings, the rim, the pegs. |
+| D3 | Nettle "let go of about a third" but "it cost her two of her three" | → **two thirds**. |
+| D4 | The Ledger procedure stated as 26 days in c021 and 24 in c022 | → twenty-six. |
+| N1 | Bri's eight shillings possibly double-counted in the rent tally | Left; the arithmetic balances without it and the line reads as aside. |
+| N2 | Bri's Hold: 11 ft in the log and c023, 13 ft in the prose and STATE | **Thirteen feet** everywhere. |
+| N3 | "Five weeks later" for a 30-day span | → "A month later". |
+| N4 | Mail-cart transit slightly fast for the bible's rate | Accepted (mail cart runs through the night). |
+
+## 2026-09-04 · LINE EDIT — c011–c022 — **three hard quotas had got WORSE, not better**
+The Tic Ledger written after c1–10 was not self-enforcing. Findings and fixes:
+
+| Tic | c1–10 | c11–22 found | After fix |
+|---|---|---|---|
+| `, which was` | 39 | +17 (rate unchanged) | 15 across c11–29 |
+| em-dashes /1,000 | 1.24 | **4.30** | **2.56 book-wide** |
+| "for a while"/"for a long time" | 25 | +19 | 20 across c11–29 |
+| "Right." ownership | Wick's | **Nettle ×5, Dorn ×1, Gran ×1** | Wick's alone; one lampshaded theft kept as a joke |
+| default number | eleven | **nine** had replaced it | flagged as a *reflex*, not a digit |
+| lifespan prolepsis | 5 cut | 1 (Dorn on Ock, "when he is sixty") | rewritten |
+| once-per-series construction | Wick's | reused for Nettle (c014) | removed |
+| "for the rest of his life" | — | 4 (a replacement tic) | varied |
+
+**Confirmed fixed and protected:** similes 54% → 13% "the way ___"; negation-as-definition
+cured; Wick's cognition staging genuinely varied; **zero exposition failures**; 29/29
+chapter closings land a turn; no purple; no skimmable paragraphs.
+
+**Carried forward:** c014's Nettle POV reads as the same narrator with a different name.
+A POV must differ in **what the character notices**, not only in what they say. Rule written
+into the style guide; apply from c023 onward and revisit c014 at book close.
