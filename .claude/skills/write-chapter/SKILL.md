@@ -59,6 +59,19 @@ No front matter in chapter files. Nothing but the story.
   diagrammable resolution).
 - Invent freely — but everything invented is written down in STEP 4.
 
+## STEP 2.5 — RUN THE TOOL
+```bash
+python3 tools/tics.py <book> --from <last audited chapter>
+```
+Free, instant, and it catches what your ear will not: em-dash density, gloss and
+time-vagueness clustering, He/Wick paragraph runs, default-number skew, lifespan prolepsis
+(a hard rule), verbal-furniture theft, and chapters under the 2,200 floor. Fix what it flags
+before Step 3.
+
+**If you edit prose to fix a finding: explicit old → new pairs only, one per instance, after
+reading the sentence. Never a blind regex.** Then re-run the integrity check:
+`grep -o '[a-z]\. [a-z]' series/book-*/chapters/ch-0*.md | wc -l` must be 0.
+
 ## STEP 3 — SELF-CHECK (before touching canon)
 
 Read your own chapter and answer, honestly, in one line each:

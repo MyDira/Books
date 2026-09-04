@@ -309,3 +309,56 @@ chapter runs short, ask what happened off the page that should have happened on 
   something and paid off within two pages.
 - Closings: 29 for 29 across the book so far. Every chapter turns.
 
+---
+
+## ⚠ THIRD-PASS ADDENDA — two lessons that cost real time
+
+### 1. NEVER RUN A BLIND REGEX OVER PROSE
+A bulk `re.sub` intended to convert 42 instances of a construction matched **111**, silently
+rewrote sixty-nine sentences that were already fine, and left nine sentences grammatically
+broken (`". a place inside you"`, `". long enough for Wick to understand"`) plus twenty
+dangling `". Which was …"` fragments. It took a full revert to fix.
+
+**The rule:** style fixes on prose are made by an **explicit, reviewed list of exact
+old → new pairs**, one per instance, with the surrounding sentence read first. Extract the
+instances with grep, *read them*, decide each one, then write the pairs. If a pass reports
+more replacements than instances you counted, you have damaged the manuscript — revert.
+
+**After any bulk edit, always run the integrity check:**
+```bash
+grep -o '[a-z]\. [a-z]' series/book-*/chapters/ch-0*.md | wc -l   # must be 0
+```
+
+### 2. THE FIRST QUOTAS WERE WRONG, AND WRONG QUOTAS CAUSE BAD EDITS
+The line editor set `, which was` at **≤10 per book**. That is one per 7,300 words for a
+construction that *is* this narrator's laugh — the dry gloss appended to a plain fact. Chasing
+it produced worse prose than the tic did.
+
+**Corrected, defensible quotas** (enforced by `tools/tics.py`):
+
+| Tic | Quota | Reasoning |
+|---|---|---|
+| `, which was` | **30 / book** | ~1 per 2,500 words. It is the voice. |
+| time-vagueness family | **60 / book** | *for a while · a long time · some time · a moment · a bit.* ~1 per 1,200 words is ordinary prose. |
+| em-dashes | **3 / 1,000 words** | unchanged; this one was right. |
+| paragraphs opening He/Wick | **18%** | unchanged. |
+| lifespan prolepsis | **0** | unchanged. Still a hard rule. |
+
+**The real check is CLUSTERING, not the total.** `tools/tics.py` now flags any chapter
+carrying more than three of either family. A chapter with six is a chapter where the gloss was
+doing work a scene should have done.
+
+**And when you do cut one: replace vagueness with a MEASUREMENT where the book supplies one.**
+This is a series about a boy who counts things. *"It did that for a while"* → *"It did that
+for a good count of thirty."* The narrator should sometimes count too.
+
+### 3. RUN THE TOOL, NOT YOUR FEEL
+```bash
+python3 tools/tics.py 2            # current book
+python3 tools/tics.py 2 --from 17  # since the last audit
+```
+It catches everything the line-editor agent catches by grep, at no cost, in a second. Run it
+every few chapters and before every audit. It found five live rule-breaks that two separate
+agent audits had missed, including a character wearing another character's verbal furniture.
+Agents are for judgement. **The tool is for counting, and counting is not a judgement call.**
+
