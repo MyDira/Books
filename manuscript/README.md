@@ -5,6 +5,6 @@ Reader-facing consolidated books. Regenerated automatically as chapters land.
 | Book | Title | Chapters | Words |
 |---|---|---|---|
 | 1 | [Weightless](Book-01-Weightless.md) | 32 | 73,595 |
-| 2 | [The Crowded World](Book-02-The-Crowded-World.md) | 5 | 11,305 |
+| 2 | [The Crowded World](Book-02-The-Crowded-World.md) | 5 | 11,869 |
 
-**Total: 84,900 words across 2 book(s).**
+**Total: 85,464 words across 2 book(s).**
