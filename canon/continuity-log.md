@@ -1216,3 +1216,333 @@ Gather 1 is 86 days after Long 4 (= twelve weeks). Rust 1 is the assessment dead
   *things I don't understand yet* reaches **32**: ***What happens when it gets here.***
   Then he went in and walked his border, thirty-four paces round, from a bearing he had not
   used before.
+
+# ═══ BOOK 02 — THE CROWDED WORLD ═══
+**Calendar:** Y-813. Wick and Nettle have lived in Marrowfield since **the Slack** (end of
+Y-812). Book opens **Seed 9, Y-813** (month 2). Wick is 15; Nettle 16; Bri 19.
+
+## B02 c001 — "Four Copper"  [Seed 9]
+- **Wick has killed 206 tallow-crawlers since the Slack.** The rate has not moved in 11 years:
+  **4d the Seed, 3d the head.**
+- **THE CRAWLER METHOD (his, invented, nine seconds):** palm on the wall, push warm wet out
+  (*the wet*) → the crawler comes to it, because a crawler goes to wet like a moth to a lamp →
+  **pull the water back** (*the crust*) → the chalk glazes with the front third of the animal
+  set into it → the rest pours forward into the dry, because that is what they do.
+- **THE STATUS, on the back of the tally, in a clerk's printed hand:**
+  *Hearth. Held on the boundary. Weight 0.6. See appended note.*
+  A Hearth on the boundary **takes Ember writs at Ember pay.** No appeal, no hardship
+  provision, because in 400 years the status has been used ~twice a generation.
+- Writ taken: ***TALLOW, SEAM 4, INFESTATION*** — the exact writ he read off the Marrowfield
+  board in B01 c14 when he was unranked and could touch none of it.
+- Two days at the bottom of seam four = **41 Seeds = 13s 8d**. A Hall man is paid **9s a day.**
+- **Wick's rate is now 61 breaths/night** (up from 52; it rose when the rim rose).
+  At 61 breaths/night he reaches weight 1.5 in **about nine years.**
+- **The rim is two hands high**, twenty-eight paces round, permanent bow on the north side.
+- **THE SEAM COLUMN (distance from the middle):** 15 (Gather 16, Y-812) · 11¼ (Rust 4) ·
+  10½ (the Slack) · **9½ (Seed 9, Y-813)**. Six months, five and a half paces. Decelerating.
+  Wick plotted it in Dark and wrote *asymptotic* and underlined *WORK OUT WHETHER YOU BELIEVE
+  THIS OR WHETHER YOU WANT IT* twice, and under it: *You have got four points and a nice
+  shape. Four is a number. Four is not a LAW.*
+- **THE HIDDEN RATCHET (the midpoint's seed):** he paces the warm damp on the first of every
+  month. It has been **9 paces** since Gather 2 (when the load test cost him two). On Seed 9
+  it reads **9½**, four times from four bearings. He has planted nothing since Gather — he
+  made a rule in Dark not to plant until he understood why the last one cost him two paces —
+  so it cannot have grown. He writes **9½?** and *check on the first of Green* and assumes he
+  miscounted.
+- **Marrowfield texture:** nobody is cruel. The syllable is **"*Ah*"**, heard eleven times a
+  week for four months. **Marrin**, 17, Hearth in full at 2.1, cannot read a density profile,
+  perfectly friendly, earns 9s a day: *"You want to get your weight up."*
+- Gran's one line at the foot of Tam's letter: *You'll not tell me the rest, so I'll ask when
+  you're home.*
+- Bri's last real letter: **Y-810**, four lines, about a girl called **Sen** with a laugh like
+  a gate. Did not say where she worked.
+
+## B02 c002 — "The Address"  [Seed 18–20]
+- **TARROW**, ~30, Hall runner, nine years carrying parcels and messages between the Hall, the
+  Ledger office, the Concord workshops and ~40 private houses, six days a week.
+  Sells the address for **two shillings** — which is exactly the sum Tam took out of the crock
+  in B01 c13, out of Bri's own money, to send Wick to Marrowfield.
+  His pitch: *"I'm not selling you a secret. There isn't one. I'm selling you the four months
+  I've already spent."* And: a clerk tells you what is on a register, and a register only has
+  people on it who are on it.
+- **61 Fell Street. Round the side. A green door and a bootscraper shaped like a dog.**
+  Knock after six. Free warning: *"She's never once been on a register, and there's about four
+  reasons for that and only one of them is nice."*
+- Wick stands on the bootscraper **an hour and eleven minutes** and does not knock. Four
+  reasons; three are furniture; the fourth is that his family has held a *shape* where Bri is
+  for two years and four months, and he is not looking for her because Gran told him to —
+  **he wants the shape checked**, and to be the one who brings it home.
+- **THE DOOR OPENS FOR FOUR SECONDS** (the big woman going out with a covered basket). Inside:
+  a long bench, **four lamps** (more light than any Loam workshop would spend), a rack of small
+  tools with the spaces marked, three pans on a cured-iron stand over slow heat. A man on a
+  stool with his sleeve to the shoulder and his arm laid out on a folded cloth, looking at the
+  ceiling. **A girl bent over the arm with a lamp brought down close, working.**
+  The shape in Wick's head had never once been *a girl who is extremely good at something.*
+- **NETTLE'S SECOND COLUMN — the discovery that reframes the seam.** Wick has recorded, forty-one
+  times since Dark, how far he walked *along* the seam before giving up, and never once read
+  them as a set:
+  **900 (Dark 4) · 1,600 (Dark 19) · 2,400 (Deep 2) · 4,100 (Deep 21) · 6,800 (Still 9) ·
+  11,000 (Seed 3)** — still a hand across at every reading.
+  **It is roughly doubling every three weeks.**
+  → Both columns are his own measurements and both are correct. *"It's not slowing down.
+  It's spreading out."* **Ledger entry 39: *Why is it in a hurry sideways and not in a hurry
+  at me?*** Nettle: *"Because you were looking at the middle. You look at where you are and
+  not where it is."*
+
+## B02 c003 — "Sixty-One Fell Street"  [Seed 20]
+- **DORETH FARING** — Grafter, **Concord licence, 22 years, third best in Marrowfield.**
+  Enormous; a head taller than any woman in Hollow Alder, built across the shoulders like a
+  smith. Says all three facts about herself in the flat voice used for reading out a distance.
+  **She is Nettle's mother** — which Wick has known since B01 c14 as *"a Grafter, 22 years,
+  third best"* and never once connected, having walked past that building nine times a week
+  for four months.
+- **Nettle has been four hundred yards away for four months.** Doreth: *"She won't come." …
+  "You've had a shock and you'd like to be useful. That's decent of you and it's not what's
+  wanted."* Instruction: tell Nettle the whole of what was said, then shut your mouth, and
+  **if it takes four years then it takes four years.**
+- **BRI ALDER'S HISTORY, from Doreth:** arrived **Rust Y-810** with an unfiled
+  licence-application, thirteen feet of brick, and nine shillings. Eleven weeks in town first:
+  kitchen work → carting → two months as a Hall runner, **lost**. Taken on to sweep at
+  **3s a week**; swept for **seven months**; never once asked for more (nine of eleven girls
+  ask inside a fortnight).
+  **Green Y-811:** a man on the bench with an arm gone bad round a nine-year-old soldier's
+  graft; Doreth two hours in and about to take the arm; Bri, who had never touched a tool,
+  from over by the door: ***"it's not in the arm, it's in the shoulder, look how he's sitting."***
+  She was right. Doreth does not know how she knew and neither does Bri.
+- **WHY SHE IS ON NO REGISTER (the book's central injustice):** the Concord admits apprentices
+  at **fourteen**, takes **seven-year** indentures, and requires an **£11 bond.** Bri was
+  seventeen with nine shillings and no family in the town, and by the time she was any good
+  she was eighteen, **and there is no door in the Concord's rules that opens at eighteen.**
+  Doreth has written to Sennet twice and had two very polite replies.
+  → She may not cure a Seed under her own hand or sign a fitting. **All 140 of her fittings
+  are written in the book as Doreth's**, because an unlicensed fitting takes the licence off
+  the *supervisor*, and then there is no workshop, no wage, and no her.
+- **THE GRAFT ARGUMENT, in its strongest form.** Doreth rolls her sleeve: **four grafts** in a
+  neat line up the inside of the left forearm — chalk-hound (hands), river-drake (heat: you
+  cannot hold a pan at that temperature for two hours with an ordinary arm), **nine-in-a-coat
+  (£11; lets her feel the seat of a fitting instead of guessing)**, tallow-crawler (4 copper;
+  put in herself at twenty because she was frightened of her own hands shaking).
+  **She is 0.9 weight and nine feet of daub, and has been for 22 years, and always will be.**
+  · *"A graft is for a woman with nine feet of daub doing work a Wold couldn't do, and doing
+    it for twenty-two years, and being paid for it. That's the whole of what it's for."*
+  · **"Nettle is *right*."** It isn't hers. Every time she uses her hands she is reading a
+    letter somebody else wrote. *"I had a choice between something that was mine and nothing,
+    and nothing is not a thing you can keep."*
+  · *"My daughter can afford to be right, because she's got seven and a half weight… she is
+    telling the truth, and she is also telling it from about eleven feet up in the air, and I
+    have never once said so to her because she would take it as me asking."*
+  · **"Your sister could afford it for exactly as long as she had nine shillings."**
+- **Doreth's closing statement, and the book's thesis:** *"I have had six years of the pair of
+  them, and I do not know which of them is right, and anybody who tells you they do is selling
+  something."*
+- Bri is at **Tallow until the fourth of Green.** Doreth writes to her the same night.
+
+## B02 c004 — "Four Hundred Yards"  [Seed 20, night]  *(NETTLE POV)*
+- Nettle lets Wick say the whole of it uninterrupted (eleven minutes) and gives him full credit
+  for not asking *why haven't you been*, and does not tell him so. Then puts her coat on and
+  goes out.
+- She walks to the corner of Cross and Fell, from which the top window of 61 is visible, and
+  stands there ninety seconds and goes home. **Four hundred yards. Six minutes at a walk.
+  ~9,000 times in her life. Not once since the Slack.**
+  *Not frightened of her.* True. *Not angry.* True, for four years. *Does not think she is
+  wrong.* Also true — that one went at fifteen.
+- **WHAT HAPPENED — Thaw Y-812** (three months before B01 opens). Not a row; there has never
+  been a row, *and that is the whole of the problem, because a row you can apologise for.*
+  Fourth reassessment, *result unchanged.* Doreth put down what she was holding and cried
+  standing up for about forty seconds (twice in Nettle's life). Then wiped her face and said,
+  kindly: **"Annet. Love. Will you let me put one in."**
+  And Nettle said: **"I'd rather be capped than be you."**
+  · **She meant it**, precisely: *I would rather have nothing that works than a life made out
+    of things that were somebody else's.* She still believes it. That is why she cannot
+    apologise, and Doreth will not ask her to stop believing it, **so they arrived at four
+    hundred yards and stayed there.** Nettle moved out over the following fortnight; nobody
+    asked her to; **Doreth helped her carry the chest.**
+- **NETTLE'S RATCHET — she goes in for the first time in eleven months.** Two feet of glass,
+  flat as a plate, neither warm nor cold. She goes to look at the edge.
+  **There is no edge.** Not a wall, not a lip, not a rim, not a line of set anything: glass to
+  arm's length, and then nothing at all, "in the way there is nothing at all past the end of a
+  thought."
+  → **She has no boundary. Not a bad one — none.** Nowhere to walk, nowhere to load, nowhere
+  for Camber's clamp to push.
+  → **Therefore *coherence: true* is not a grade.** Coherence is how well the terrain fits
+  together; there is one thing in her Hold and nothing to argue with. *"She had been given
+  full marks for an empty examination and had spent six years being quietly proud of it."*
+- **Nettle's own list, kept since Dark: THINGS THAT ARE NOBODY'S FAULT AND SOMEBODY'S JOB.**
+  Five entries by that night; a sixth added at four a.m.
+  > *5. What is two feet of ground with no edge FOR?*
+  > *6. Ask him how he made one. Out loud. Using words. Tomorrow.*
+  (She crossed out *tomorrow*, wrote *soon*, crossed that out, wrote *tomorrow* again.)
+- Her formulation, which starts Wick's whole line of thought: **"Every one of those numbers
+  was written down by somebody who never imagined us."** (Three people: Bri behind an age,
+  Doreth behind a licence, herself behind a brass hoop.)
+- Wick's ledger entry **40 — *Who decides what the boxes are?*** — which Nettle crosses out of
+  *things I don't understand yet* and re-files under her own heading, on the grounds that it is
+  not a thing he doesn't understand, it is a thing he has decided to be annoyed about.
+
+## B02 c005 — "The Register of Workings"  [Seed 23]  ★ RATCHET
+- **THE REGISTER.** A room at the back of the Ledger building on Cross Street; **411,000
+  entries**; earliest is **Y-119**, a working for keeping bees warm, still on the shelf.
+  *"Nobody has used it in six hundred years. That is not the point of the Register."*
+  **2s to search. 4s to enter.**
+- **REGISTRAR H. SARROW**, ~60, thirty-four years in that room. **Great-grandson of the Sarrow
+  of the Sarrow's line** (the candle-and-string method in the field manual, section four).
+- **Form: SCHEDULE OF WORKING (FIRST ENTRY), eleven parts.** Part six's five printed
+  classification boxes, unchanged since **Y-440**:
+  **Body · Export · Verge · Construct · Ward.**
+- *the wet* is a clean **Export**. ***the crust fits none of them***: two acts where the second
+  undoes the first, leaving a property of a terrain he never acted on; not Body (he has done it
+  to a chalk-hound); not Verge (Hearth's Verge stops at the skin); not Construct (the crust is
+  his own ground behaving, not a thing he made); not Ward (unfixed — it goes where his hand goes).
+- **CONFLUENCE — the word, and the book's engine.** Sarrow supplies it: *where two terrains
+  border, the border does a thing that neither of them does.* **The Concord has known since
+  Y-600** because they cure Seeds in pairs and the pans do things the pans should not do;
+  it is in the Concord's schedule and has been for two hundred years, and **has never been
+  added to the Ledger's** — because a practitioner has one Hold, one Hold is a room, and in a
+  nine-foot room the line between two terrains is **about a foot long and it is under the fire.**
+  Sarrow has entered ~11 in 34 years and **every one was a Grafter.**
+- **ENTRY 411,206.** *1. The Alder Standing Working* (common: **the wet**), class Export.
+  *2. The Alder Setting Working* (common: **the crust**), class **Confluence — entered under
+  protest of the form; see attached memorandum.** Seat: the border of warm damp and salt flat,
+  28 paces, walked. Shell ~2mm. Cost: total. Recovery 8 days, non-linear.
+- **THE PUBLIC-RECORD COST:** anyone may search for 2s; **searches are logged, and the searcher
+  is never disclosed** (rule since Y-411, "the only reason anybody files anything true").
+  **Wick's name has been searched four times since Rust** — on the tally alone, before he had a
+  working in it.
+- **PELL** returns: *Deputy Under-Auditor Emeritus of the Third Circuit, Provisional, Seconded,
+  **and Attached*** (he will not explain the last one). Sat outside two hours and eleven minutes
+  on purpose. **Sarrow has protested a form nine times in thirty-four years and all nine went
+  to the Quorum.** *"He has spent four shillings and made a noise that carries three hundred
+  miles, and he did it by answering eleven questions honestly at a counter."*
+- **Closing turn:** Wick has **seven borders** (salt touches all six pegs and the warm damp) and
+  has walked exactly one. He has measured the distance *to* every peg and has never once
+  measured the way *round* one.
+
+## B02 c006 — "At Rates"  [Seed 28 – Green 2]
+- **Dorn pays him 4s a day.** A Hall hand is 9s; a Hall hand holds a rank in full and may sign
+  a return; Wick cannot sign a return, so he is a **hired person**, and the Hall rate for a
+  hired person is four. Vance states the number before they leave so there is no conversation
+  about it on the road, refuses to soften it, and refuses to be ashamed of it.
+- **CINDER-BOARS at Ninefold** (11 miles out on the chalk). Canon: ~600 lb, permanently
+  smouldering, hot as a stove at four feet so the air over them shimmers; charge in a straight
+  line and turn badly. **One in about nine turns**, and nobody knows why; three Register entries
+  on it disagree and one is four hundred years old. Vance's forearm burned wrist to elbow.
+- **THE FOURTH BOAR** backs into a nine-foot cut in the chalk. Everything Vance has is at range
+  and in a straight line; a hole is not a straight line. He needs **two seconds** of the animal
+  held still. The problem is heat and grease: *"a burnt hand on hot grease is not a grip, it is
+  a suggestion."*
+- **Wick's solution and its stated hole:** salt does not conduct heat well (he knows this from
+  a lifetime of a lick sitting cold in a byre trough). Case Vance's forearms in **the crust**;
+  the shell will crack; **re-cast at arm's reach of the boar.** He cannot promise how many he
+  has, says so plainly, and refuses to invent a number — which is why Vance agrees. *"If you
+  had given me a number I would have gone home."*
+- **It worked because the boar never once looked at him.** A cinder-boar hunts by heat and
+  weight and there is nothing about a boy on 0.6 worth a beast's attention. He never told
+  anybody, because it does not sound like courage.
+- **NEW MEASUREMENT, under load: the crust costs about a THIRD of the wet.** Three castings and
+  a bad fourth, and he was maybe a third gone. *"Four is available. Six might be."*
+- Vance: *"That is worth nine shillings, and you are paid four, and both of those are true at
+  the same time, and I would rather you carried the true one."*
+- **THE SECOND OF THE MONTH** at the Hall: four men read the last month's Register entries aloud
+  at the long table. **Corse** reads Wick's. The room makes an interested noise at *Confluence*
+  and *entered under protest of the form* — and then he reaches *Held on the boundary. Weight
+  nought point six*, and four or five voices at once say ***"Ah."***
+- **Marrin** asks what Confluence is, out of genuine friendliness, and his face goes **polite**
+  four sentences in — not bored, not mocking; the politeness of someone handed an answer with
+  arithmetic in it. *"That's clever. You want to get your weight up, though."*
+- **THE CLOSED LOOP**, written on the back of the Ninefold receipt: no Hearth writ until weight
+  1.5 → weight comes from drawing → drawing goes into settled ground → settled ground comes
+  from Seeds → Seeds are afforded by taking writs → no Hearth writ until weight 1.5.
+  And under it: *This is the same shape as the one from Green. It closed then too. It came
+  apart because the money was not the point. So what is not the point THIS time?*
+  (The Green Y-812 loop is B01 c05, broken by realising nobody licenses *planting*.)
+- The difference between 4s and 9s over a year of work: **something over £26** — 2½ Whitts
+  rents, two Concord bonds and change, or about eleven years of what Doreth pays Bri.
+
+## B02 c007 — "Seven Borders"  [Green 3–8]
+- **Nettle asks the question out loud, using words: "How did you make a boundary?"** Wick tries
+  for a quarter of an hour and cannot. He has told a registrar and a square of three hundred
+  people and **has never once said the word *because* in it.**
+  Nettle's objection: if walking makes a rim, a shepherd walking a field boundary for forty
+  years should have the hardest ground in the parish — and he does, and it is a **footpath**,
+  which is packed dirt and not a wall. **So it isn't the walking.**
+- **THE SEVEN BORDERS.** Warm damp/salt (28 paces, walked 21 nights, **rim two hands**) plus
+  six pegs at 100 / 400 / 1,000 / 3,000 / 8,000 / 20,000 paces, planted Dust Y-812 with six
+  identical chalk-hound Seeds, then never revisited except in passing.
+- **PEG ONE HAS A RIM HE DID NOT MAKE.** Thumbnail high, whole circuit, no gap, flakes like
+  thin pot. He has never set foot on it. *"I have never walked you."*
+  And the patch: **9 paces in Dust → 9¾ now**, four bearings.
+- **THE FULL SET, Green 8:**
+  · peg 1 (100): rim, thumbnail. 9 → **9¾**
+  · peg 2 (400): rim. 7 → **7½**
+  · peg 3 (1,000): thinner rim. 5 → **5¼**
+  · peg 4 (3,000): a rim you feel with a fingertip, not a boot. 3 → **3 and a bit**
+  · peg 5 (8,000): *none that I can feel* (underlined)
+  · peg 6 (20,000): **nothing. Bare salt to the turf. 1½ → 1½ — it has not grown.**
+  · warm damp: 9 (Gather) → 9½ (Seed 9) → **9½** (Green 4). Grew once, then stopped.
+- **THE FINDING:** the rims go with the **ground**, not the boots, and they thin outward on the
+  same curve as everything else in that country. **The patches are growing without a Seed put
+  in any of them since Dust.**
+- **PEG SIX** cost four nights alone; the first 8,000 paces pass four pegs "standing in the flat
+  like lamps" and he touches each one going past, unnecessarily, every time. Past peg five:
+  twelve thousand paces of nothing, and the specific loneliness of a boy walking in a straight
+  line inside his own chest with no evidence in any direction that he has ever done anything.
+  At the ~15,000th pace he works out why he keeps coming out there: ***Because if it is empty
+  out here it is not my fault.*** He crosses it out and writes it again.
+- **THE COROLLARY he does not show Nettle for three days:**
+  > *The seam is a border. It is nothing else. It is not terrain, it is the LINE where terrain
+  > meets terrain, and it is the only thing in here that is made entirely of edge.*
+  > *Everything I have just learned is about how fast an edge grows.*
+- Nettle's arithmetic: his rim is two hands and peg one's is a thumbnail, so **the walking is
+  worth about eleven times** — which is not nothing, and if it worked for a nine-foot room every
+  practitioner on the Sill would do it. **It does not work for a room, because in a room there
+  is nothing to walk.** Wick found it by accident in a byre because he was trying to pass an
+  examination. **Nettle's entry 7: *How many other things are there like that?***
+
+## B02 c008 — "The Fourth of Green"  [Green 4]  ★ TURN 1
+- Doreth wrote to Tallow on Seed 20; Bri had it on the 23rd and has had **eleven days**.
+- **BRI ALDER**, 19. Loam still under Marrowfield in her voice. First words: *"You've got tall."*
+  … *"God. You've got Dad's neck."* First question, on the wall at the top of Fell Street:
+  ***"Is she alive?"***
+- **Why she lost the Hall runner's job (Green Y-811): she took a shilling out of a purse she was
+  carrying and was caught.** She says it without pause and makes nothing of it: *"I was hungry.
+  That's not an excuse and it's not not one. Both those things are true and you can have them
+  in either order."*
+- **On the first eight shillings:** four months of sweeping at 3s a week. *"I did not send that
+  money because I was doing well. I sent it because I had worked out how much four months of my
+  life was worth to that house, and it was eight shillings, and I could bear that if I did not
+  have to say it."*
+- **THE TURN — she is not in trouble, and that is worse.** 30s a month and keep; a room with a
+  window; four people she would call for; not hungry since Rust Y-811; second-best fitter in
+  Marrowfield and the best inside two years, *known the way you know a number.*
+  **"There is exactly one thing wrong with my life and it is that my name is not written down
+  anywhere… and it is not the same as being in trouble."**
+- **WHY SHE STOPPED WRITING — nobody was doing anything.** The first year she didn't; then it had
+  been a year; and by then the letter was no longer *this is what I do* but *this is what I do,
+  and I have not told you for eighteen months*, which is a different letter and gets worse
+  monthly. **Three written and unsent, in a drawer: Deep Y-811, Turn Y-812, and Seed 24 Y-813.**
+- **What she will do:** send the Seed letter, unrewritten, on tonight's mail. In it: what she
+  does, who for, why she did not say — **and that she is not coming home**, which she has taken
+  out three times and is leaving in. Not to live, probably not ever; she would visit. *"There's
+  no fitting work in Hollow Alder and there never will be, and I am not going to go and be a
+  person who used to be good at something in a village of three hundred people."*
+- **She will NOT go to Nettle**, and neither will Wick: *"That's me deciding a thing for two
+  people who've had eleven months of other folk deciding things for them."* Same formula as
+  Doreth's, and she says where she got it.
+- Bri has worked in that room two years; **Doreth has said Annet's name to her about four times
+  and only ever as a fact**, and Bri never asked why she doesn't come, because it was obviously
+  none of her business. Doreth has **never** said Bri's name to Nettle — she would think telling
+  her daughter about the girl who took her place was cruel, *and she would think it so fast she
+  wouldn't notice she'd decided it.*
+- **THE FITTER'S QUESTION (planted, unanswered).** Bri reads his tally the way Doreth reads a pan
+  — fast once, then slowly — and **does not say *ah***. Then: ***"Where does it sit?"***
+  In fitting, the whole job is *where*, not what: anybody can cure a Seed; the twenty-two years
+  is knowing a graft wants to go three quarters of an inch further up than where the man is
+  pointing, and if you put it where he points his hand works for nine years and then it doesn't.
+  She can feel where and cannot say how; four attempts at explaining it to Doreth, who says it
+  took her eleven years and she still guesses.
+  **"You've got forty-three acres and everything you've got is in nought point nought nought one
+  four of it. That's a great big man with everything he owns in one pocket."**
+  **"In two years of arms I have never once fitted a thing to the middle of anything, because
+  the middle is where a thing *sits* and it is not where a thing *works*."**
+  Wick's note: *Where does it sit? (She could not say what she meant. She was extremely sure she
+  meant something.)*
