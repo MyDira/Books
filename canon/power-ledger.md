@@ -114,5 +114,5 @@ Dries a patch of wall when her hand is cold. *It is not hers.*
 | Ock | Ember | B01 c02 | 10.5 ft brick. Notably good for the Loam. |
 | Ma Dunnock | Ember | B01 c04 | Predicts hard lambing 3 days out, right 4 in 5. |
 | Old Rennick | Ember | B01 c04 | Keeps the well from going brackish. |
-| Bri Alder | Ember+ (unknown) | ref. B01 c01 | 11 ft brick at kindling. Marrowfield. Sending money, no word. |
+| Bri Alder | Ember+ (unknown) | ref. B01 c01 | **13 ft brick** at kindling. Marrowfield. Sending money, no word. |
 | The Welling under the ford | unassessed | B01 c06 | Unlicensed, unrecorded. 400 yds from the village. |

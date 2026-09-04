@@ -4198,6 +4198,10 @@ After that it was work, and the work was extremely dull, and he did it for eleve
 
 He walked in from a different bearing every time. He kept a tally on the ledger of where he had entered so that he would not repeat himself, and when the tally got complicated he started entering in the order of a number he had made up, and Nettle found the page and looked at it for a while and said, "You've invented a rota for going into your own soul," and Wick said, "Yes," and she said, "God help us all."
 
+He paced the new circuit first, because the shape had changed and a number he had not
+re-measured was not a number. **Twenty-eight paces round.** He wrote it down under the
+thirty-four with a line through it, and minded that more than he expected to.
+
 The rim went from a thumbnail to a knuckle.
 
 Then to the height of the side of his hand.
@@ -4779,7 +4783,7 @@ The kitchen was extremely quiet.
 
 Eight shilling the month. Four and a half months to the Slack.
 
-Wick did the arithmetic before he could stop himself, the way he always did, the way he could not help, and it came out at one pound sixteen by the Slack and four pound sixteen by Thaw, and the rent was four pound four, and there it was, sitting on the table on a piece of paper, the whole of it, every single thing.
+Wick did the arithmetic before he could stop himself, the way he always did, the way he could not help, and it came out at one pound sixteen by the Slack and four pound sixteen inside a year, and the rent was four pound four, and there it was, sitting on the table on a piece of paper, the whole of it, every single thing.
 
 "There is one more term," said Dorn Vance.
 
@@ -4848,7 +4852,7 @@ He had two days and he wasted most of the first one.
 
 He did the water and the ewes and he mended a gate that did not need mending, and he walked out to the long field twice and stood at the end of it with his hands in his pockets in his father's exact posture, and every time he tried to think about the form his mind went and did arithmetic instead, because arithmetic was easy and thinking was not.
 
-Eight shilling the month. One pound sixteen by the Slack. Four pound sixteen by Thaw.
+Eight shilling the month. One pound sixteen by the Slack. Four pound sixteen inside a year.
 Four hands of rim round nine paces. Nought point four. Nought point zero zero two of forty-two point one.
 Seven years.
 Nine hundred years.
@@ -4921,7 +4925,7 @@ Gran Alder put the mending down.
 
 "I've not liked any of this year. Say it."
 
-"Eight shilling the month is four pound sixteen by Thaw," said Wick. "The rent's four pound four and Nead's given us till the Slack. If I sign that paper on Friday morning, we keep this farm, and Dad keeps the tenancy, and there's no fine and I'm never struck off, and you die in this house."
+"Eight shilling the month is one pound sixteen by the Slack," said Wick. "The rent's four pound four and Nead's given us till the Slack. If I sign that paper on Friday morning, we keep this farm, and Dad keeps the tenancy, and there's no fine and I'm never struck off, and you die in this house."
 
 The kitchen was quiet.
 
@@ -5219,7 +5223,7 @@ And looked at her.
 
 # Chapter 27 — Down
 
-They gave him a day and a half, which was thirty hours longer than Nettle wanted and eleven hours longer than Wick could justify afterward.
+They gave him thirty-one hours, which was twenty-five hours longer than Nettle wanted and eleven hours longer than Wick could justify afterward.
 
 That was Pell's doing.
 
@@ -5390,7 +5394,7 @@ So Wick wrote it down, in charcoal, in the worst handwriting in the Loam, sittin
 
 ---
 
-"I came in at nine on the fourteenth. I found it in the first chamber at twenty past. It was standing on the grass."
+"I came in at nine on the fourteenth. Not at three — I went back for my kit, and then I slept two hours on purpose, because going down a hole tired is a thing I have watched kill a better man than me. I found it in the first chamber at twenty past nine. It was standing on the grass."
 
 "Standing on it?"
 
@@ -6206,7 +6210,7 @@ He sat down.
 
 **Item four** was the money, and it was the shortest item and the one that changed the most.
 
-Nine pound, the standing rate for a Wold-grade clearance, payable to Wick Alder of Whitts strip in Hollow Alder, less four silver for the fine, less two shilling for a hunting licence which he was not yet eligible to hold and which Camber issued a receipt for anyway "pending", less eleven pence deducted in a manner that nobody in the square ever fully understood.
+Nine pound, the standing rate for a Wold-grade clearance, payable to Wick Alder of Whitts strip in Hollow Alder, less four silver for the fine, less two shilling for a hunting licence which he was not yet eligible to hold and which Camber issued a receipt for anyway "pending", less one shilling and eleven pence deducted in a manner that nobody in the square ever fully understood, and which Wick worked out on the walk home was the lantern he had broken on a tallow-crawler in Long and had never paid for.
 
 Eight pound, twelve shilling and a penny.
 
@@ -6266,7 +6270,7 @@ He set the clamp.
 
 "Describe it."
 
-"Nine paces across, near enough thirty-four round," said Wick Alder, in a village square, in front of three hundred people. "It's the border of my warm damp where it meets the salt. It's a rim of set salt about a hand high and it's got a bow in it on the north side that won't come out. I made it by walking it, twenty-one nights, and I never crossed it twice in the same place after the first time, because the first time I did it failed there and I lost two paces of ground."
+"Nine paces across, near enough twenty-eight round," said Wick Alder, in a village square, in front of three hundred people. "It's the border of my warm damp where it meets the salt. It's a rim of set salt about a hand high and it's got a bow in it on the north side that won't come out. I made it by walking it, twenty-one nights, and I never crossed it twice in the same place after the first time, because the first time I did it failed there and I lost two paces of ground."
 
 Registrar Camber's pen had stopped moving.
 
@@ -6388,7 +6392,7 @@ He got out the other page, the one headed *things I don't understand yet*, which
 
 > *What happens when it gets here.*
 
-Then he blew the candle out and lay in the dark and did what he had done every night since the ninth of Green, which was to go in and walk his own border in the dark, thirty-four paces round, entering from a bearing he had not used before.
+Then he blew the candle out and lay in the dark and did what he had done every night since the ninth of Green, which was to go in and walk his own border in the dark, twenty-eight paces round, entering from a bearing he had not used before.
 
 
 ---
@@ -6397,4 +6401,4 @@ Then he blew the candle out and lay in the dark and did what he had done every n
 *End of Book 1: Weightless.*
 
 
-<!-- 32 chapters · 73,557 words · consolidated 2026-09-04 -->
+<!-- 32 chapters · 73,666 words · consolidated 2026-09-04 -->
