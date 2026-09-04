@@ -551,3 +551,254 @@ Gather 1 is 86 days after Long 4 (= twelve weeks). Rust 1 is the assessment dead
   **"and that is nine tenths of what kills a village."**
 - Nettle's verdict: **"Right. I like him."** Then: the mail cart goes at ten, and he said
   he'd pay *Wick's* penny.
+
+## B01 c016 — "What Walls Are For"  [Dust 5 (mail cart, overnight) → Dust 6]  ★ MIDPOINT
+- Cart: Nettle interrogates the numbers, takes his ledger and charcoal without asking, and
+  finds a number he hasn't got — *how long does drawn-on ground stay tired?* He never measured.
+- Wick admits he did not look for Bri: *"I'd have had to say her name to them, and then I'd
+  have had to hear what they said back."*
+- **OCK'S RUPTURE.** Word of the Welling reached Hollow Alder on Dust 4, two days ahead of
+  Dorn. Ock's father rode to Marrowfield Dust 4, back Dust 5, with a **chalk-hound Seed in a
+  twist of oilcloth, two shillings**, bought from a Hall man who was honest and was not asked
+  the one question that mattered. Ock is 10.5 ft, brick. **A chalk-hound Seed is Hearth grade.**
+- Planted standing up in the lane at noon Dust 6, six witnesses. Count of eight, went pale,
+  said "oh."
+- **FOR 3–5 SECONDS THERE WAS WHITE DOWNLAND IN THE LANE.** Sil Thatcher put his foot on
+  short dry turf over chalk; there was a sky over it that was not Hollow Alder's sky and a
+  wind blowing nowhere else. Smelled of dry grass and old bone. Then it went, and Ock went
+  down with blood from his nose and both ears.
+- **RUPTURE — canon (per Dorn):** a chalk-hound Seed is small; it **cracked** him, did not
+  open him. Up in a fortnight. **His Hold has a split in one wall about a foot long and it
+  will not close, because they do not.** His weight leaks out of the crack. He is 10.5 ft and
+  ~2 weight and will be at sixty. *"He is not ruined. He is finished, which is different and
+  which he will not understand for about four years."*
+- Ock's father's reason, stated: the Alder boy had five Seeds out of the ground already and
+  was *nought*, and Ock was the best kindled in the village in thirty years, and there would
+  be one man in the Welling who was theirs. **"He wasn't wrong."**
+- **THE HEARTH STANDARD, verbatim (Pell, from memory, having read it ~900 times):**
+  ***"Rank of Hearth is conferred where the subject's boundary sustains applied load without
+  deformation."*** In force **812 years**. The frame does not measure how much you have; it
+  **pushes on your edge**.
+- **THE REVERSAL:** Nettle says it first — **"You haven't got one."** Wick then does the
+  arithmetic aloud himself: a Hold is a room, you fill a room, the fill pushes on the walls,
+  **and the walls are the bit that's graded.** He could plant a thousand Seeds and still have
+  nothing to push on. **Camber wrote *unrankable* because there was nothing to push on** —
+  not because the number was too big for the form. Wick had been reading it as *too much* for
+  five months.
+- Pell was present for the rupture and **could not act**; wrote a three-line note; visibly
+  grim, "like a hat borrowed off a smaller man."
+- **DEED 1 (acreage) — "understanding a thing he had been refusing to understand."**
+  **41.2 → 42.1.** He felt the ground go out, all at once, "the way a held breath goes out."
+  First time he has ever felt his own country move. *"Because I understood something, and it
+  had to make room."*
+- Closing line on the ledger: ***How do you put a wall round forty-one acres?***
+
+## B01 c017 — "Survey"  [Dust 7 – Dust 13]
+- **THE FORD SEALED, Dust 7**, by Dorn and two Hall men, four hours: **eight iron stakes** in
+  a ring round the third alder, a **chain** between them, ring walked twice and two stakes
+  moved; then Dorn knelt with his palm on the ground inside it for two minutes.
+- **WARD — canon (Nettle explains):** terrain pinned to real ground. Nine feet of Dorn's own
+  white down laid over the gravel like a blanket. Anything coming out of the hole must cross
+  ground that is not its own and will hate it. **Won't stop it. Slows it. Tells him if it's
+  crossed.** Nettle's mother makes the same thing for cellars, six ranks down.
+- **Six notices** nailed, one per alder: no person of any rank within **forty feet**;
+  penalty four silver and a mark.
+- **NETTLE'S REFRAME:** he does not know his Hold is 41.2 acres — he knows *a middle, some
+  warm ground, and a number a brass hoop told him.* He has never seen his own edge. He is
+  trying to *build* one when he should be trying to *find* one.
+- **THE SURVEY PROBLEM, three lines:** (1) cannot see the edge from the middle; (2) cannot
+  walk to it and know how far, because the ground does not keep count; (3) **has nothing to
+  leave behind him.** Nothing stays in the salt — he once spent an hour scratching his own
+  name in it and came back to nothing.
+- **THE INSIGHT: terrain stays.** The warm damp has not moved since Long 16. It is the only
+  fixed thing in 42 acres besides the middle. **Plant Seeds as survey pegs.**
+  The ford's method transposed: start at the one fixed point, step out, read the line, and
+  watch for the change (*it wasn't the twelve that told me — it was the five after it*).
+- **CONSTRAINT:** same-kind Seeds expand the existing patch, so he cannot peg with one kind.
+  He needs **different kinds, tellable apart in the dark**.
+- **NETTLE IS LICENSED.** Hall licence since fourteen (Ember with 7.4 weight — "they'd have
+  been mad not to"). Has taken **forty-one writs** off the Marrowfield board. Every chalk-hound
+  Seed she has ever cut went straight back to the Hall for 2s because she cannot plant.
+  → **She takes the Seeds legally; they are useless to her; they are everything to him.**
+- Her mother's line, on the hundredth day of Nettle sitting in a chair after being told she
+  was capped: **"You can be capped sitting down or you can be capped up a hill."**
+- **CHALK-HOUND — canon (Nettle's briefing):** Hearth grade. Waist high, white, too long in
+  the body, flat head, runs with its spine going like a stoat. Packs of **four to nine**.
+  Hide is **loose — it slides off a point**, so you cut across, never stab.
+  **It hunts the Hold, not the body** — reads the drag off a kindled person at **four hundred
+  paces on open down**. That is why it takes shepherds and not sheep, why hiding does not
+  work, and why the bounty is three shillings and not one. *"You are shouting the whole time
+  and you cannot stop."*
+- **WICK'S DEFICIT INVERTS:** nought weight = no drag. He is **the thinnest ground on the Sill**.
+  Nettle: *"That's the worst plan I have ever heard, and I have heard my own."*
+
+## B01 c018 — "The Loudest Thing on the Down"  [Dust 13, dusk → Dust 14]
+- **The barrows above Fell Lane:** nine long grass mounds on a bare white shoulder, east–west,
+  nothing else for two miles. Ankle-high dry turf, chalk through in patches, four hundred
+  paces of sightline in every direction. The mounds are the only cover and the hounds have
+  already been behind them.
+- Six hounds (Nettle read six, unsure of a seventh; there were six).
+- **THE PLAN:** Nettle stands on top of the third mound as bait — 7.4 weight on a white
+  shoulder of hill is "a bonfire on a beach." **Three strikes.** Wick works the ground behind
+  them, invisible.
+- Wick's line: *"One measurement's a guess." "So let's get four."*
+- **IT WORKED.** He walked out onto open ground forty feet behind six chalk-hounds and not one
+  turned round. Close enough to see ribs move.
+- **The strike on open down is not a crack but a shot**; the flat of the sound goes out over
+  the hill and comes back off nothing.
+- Killing one with a four-foot spear, cutting across the neck: **it took ~20 seconds on his
+  knee in the grass** and taught him something about himself he did not want to know.
+- **HOW HE WAS FOUND:** never seen. He cut the third one badly (tired, slick hands); it went
+  sideways into the fourth; the fourth had **blood on it from nowhere** and began casting in
+  a tightening arc — it stopped looking for a Hold and started looking for a **hole**.
+- **FIRST EXPORT (unregistered, accidental).** Pinned under the hound, right hand on the hide,
+  the hide **sliding** exactly as Nettle warned. He went in, took **all five months of soaked
+  ground at once**, and shoved it out through his palm.
+  → **A dinner-plate patch of the hide went warm and soaked.** The animal flinched a whole-body
+  flinch and lifted four inches. **Wet hide does not slide** — he got a grip like wet canvas,
+  hauled it round, and cut across.
+- **COST: total emptiness.** Not tiredness — a hollow ache behind the ribs "like a tooth that
+  has come out." The warm damp went **cold**; drawing produced nothing at all.
+- **Six Seeds** cut by Nettle over a morning (she stopped twice to be sick). Knuckle-sized,
+  chalky, dry as dice. Worth 12s + 3s pack bounty = **15 shillings**.
+- Wick keeps all six as **survey pegs** rather than selling them, with the rent short and a
+  fine outstanding, and asks Nettle to say so out loud rather than not.
+
+## B01 c019 — "The Line"  [Dust 14 – Dust 24]
+- **RECOVERY CURVE (canon):** could not draw for **four days**. Day 1–2 nothing; day 3 one
+  breath sank; day 4 four breaths; day 5 nineteen; **by day 8 back to 52 and the ground warm
+  again.** It comes back **all at once at the end and not evenly** — filed under *things I
+  don't understand yet*, which is at **26 entries**.
+- He wrote *"That was a working. I did a working."*, crossed it out (a thing you can do once
+  when you are about to die is luck with a story attached), then uncrossed it.
+- **THE SURVEY METHOD:** six identical Seeds — same beast, same pack, same hill, same morning,
+  same knife within an hour. *Plant an identical thing in six places and what comes up is not
+  a fact about the Seed. It is a fact about the place.* Everyone knew existing ground decides
+  the **quality**; nobody had ever had two places to test **size**.
+- **THE LINE (paces from the middle → paces of white down):**
+  **100 → 9 · 400 → 7 · 1,000 → 5 · 3,000 → 3 · 8,000 → 2 · 20,000 → 1½**
+- Peg 4 (3,000 paces) took two hours' walking and produced a specific new loneliness.
+  Peg 5 (8,000) took two nights; he could not find where he stopped and had to restart from
+  the middle. Peg 6 (20,000) took **four nights**, walking the whole distance from the middle
+  each time; the four earlier pegs stand in the flat "like lamps."
+- **THE FINDING: there is no edge. It thins.** A curve that keeps halving and never reaches
+  nought. The 42.1 figure is *how far out you would have to go before there was not enough
+  left to write down.* **"I'm not a room at all. … I'm weather."**
+- **GRAN'S ANSWER:** *"You don't wall the sky, boy. You wall four acres of it and you call
+  that yours and you let the rest of it do as it likes, and that's what a farm is."*
+- **THE PLAN:** the Hearth standard says *the subject's boundary* — not the boundary of
+  everything you have. The **warm damp has had a border since Long 16**: eleven paces across,
+  ~34 paces round, where wet stops and salt starts. He has walked it nightly for two months
+  while drawing and never once looked at it.
+
+## B01 c020 — "A Number That Is Not Nought"  [Dust 26]
+- **PELL BRINGS A FIELD FRAME** on a mule — "a smaller and much worse assessor's frame,"
+  Third Circuit property, signed for. Examination is squarely inside his instrument.
+- Twenty-two villagers assembled.
+- **ASSESSMENT:** Acreage **42.1**. Weight **0.4** (read four times, then a fifth at Wick's
+  insistence — *"it's not a number till it's four and you did the first one before I was
+  ready"*). Pell wrote *0.4* on a slip and handed it over.
+- Yardsticks: **Hearth 1.5**; Thatcher's girl, kindled the same afternoon, is at **0.9**.
+- **NETTLE'S SPEECH (across the yard):** *"Nought isn't a small number. Nought's a different
+  kind of thing. You can multiply a small number. You can't do anything at all with nought.
+  … He's not weak. He was empty. … He's on it now."*
+- **SETTLED ACREAGE INVENTED ON THE PAGE.** The frame reads **peak**, not average. For every
+  human ever assessed, acreage and weight describe the same ground; for Wick, read together
+  they would make him heavier than Dorn Vance. Pell coins **settled acreage** —
+  Wick's is **0.002 of 42.1**, "the smallest fraction I have ever entered on a Ledger form."
+- **PELL'S WARNING:** the rank will not fix it. Graded Hearth, the form will record Hearth on
+  0.002 of 42.1, and every reader for life will see a boy with one nine-foot room standing in
+  the largest empty field on record. *"The rank is a door out of a cupboard."*
+- **NINE HUNDRED YEARS** to settle 42 acres at eleven paces a season, assuming generously that
+  it does not get harder, **which it will**. Pell: *"find out what makes a thing settle, then
+  find a very great deal of it, and do not tell anybody what you are doing until you are much
+  harder to kill."*
+- **THE RENT, hard numbers:** barley came in at **5¼** (not 5½); wool went at **1 17s**
+  (Marrowfield full of it). **£7 2s against £11 6s, Bri's eight shillings already in it.**
+  **Short £4 4s.** Gather in eleven days (i.e. Gather 1 ≈ eleven days after Dust 26 → the
+  count is to Nead's call, not to the month).
+- Gran: *"There's nothing a boy with nought point four can do about four pound four … moving
+  house is survivable."* Wick hears Dorn's sentence underneath it.
+
+## B01 c021 — "The Rim"  [Dust 27 – Gather 9]
+- **WALKING YOUR HOLD** is universally recommended and universally not done — "the flossing of
+  the practice." Eleven paces across ≈ **thirty-four paces round.** Night 1: forty circuits.
+  Night 2: sixty. Night 3: ninety, and somewhere in the sixties the counting fell away and he
+  was going **along** the line rather than round a shape. *"It's not a shape. It's a thing."*
+- **NIGHT 6 — THE RIM.** A ridge of salt at the border, **a thumbnail high**, formed where the
+  salt has taken up water out of the wet ground and set hard. Flakes off like thin pot.
+  Present all the way round **except in one place**.
+- **THE LOAD TEST (Nettle: "that's every test there is"):** draw hard, hold, push the wet
+  ground outward. The rim held ~4 seconds all the way round, then **went in one place**.
+  A flat tongue of water ran six paces out and soaked away.
+  **COST: the warm damp went from 11 paces to 9.** Two paces = two crawlers = two months, gone
+  in ninety seconds. **The first time he has ever gone backwards.**
+- **WHY IT FAILED:** the gap was where he stepped on and off the border every night — the same
+  place, ~400 times. **"That's not a wall. That's a gate."**
+- **THE RULE (the first that is properly his):** ***Never cross it twice in the same place.***
+  Rhymes with his Long finding that where you sit to draw matters.
+- **A BOUNDARY IS WORN, NOT BUILT** — like a footpath across a common: nobody builds one, no
+  day it is finished, and after forty years it is the hardest ground in the parish.
+- Eleven further nights, entering from a different bearing each time, tallied on the ledger in
+  an invented order. Nettle: *"You've invented a rota for going into your own soul."*
+- **BY GATHER 9: a rim of hard set salt a hand high, all the way round, no gate.** It makes a
+  dull *tock* like a flowerpot. **Load test held ~40 seconds.**
+  **Enclosed: 9 paces = 0.0014 acre.** One seventh the room every other child got free at 14.
+- **THE REAL PROCEDURE LENGTH (the book's engine, on the page):** Dorn sealed Dust 7 and rode
+  to Sennet-on-Weft. A Circuit officer was requested, granted, promised for **the eighteenth**,
+  and arrived **on the twenty-third**. **Assessor Vell**, Wold, in the parish one afternoon:
+  walked the chain twice with Vance, hand on the ground four minutes, said eleven words to
+  Ock's father (nine of them an apology for something not his fault), authorised a
+  rank-appropriate hunt, entered a **Wold-grade classification**, and rode to file it.
+  Filing 3 days at the office, then posting at Marrowfield, then licensed men out on the
+  **second or third of Gather**. **Total from sealing: twenty-six days.**
+  **Dorn said eleven and was off by fifteen. He was not lying. He quoted the rule. The rule
+  had never once been eleven.**
+- Nettle's closing challenge: four hands of rim by Rust is worth nothing if the family is in a
+  rented room in Marrowfield. **"Gather's in three days."** *(⚠ flagged to the continuity
+  auditor — check against c022 opening on Gather 9.)*
+
+## B01 c022 — "The Ninth of Gather"  [Gather 9, 1 a.m. – dawn]
+- **THE SALT LINES.** On Dust 8–9 Wick walked the road with **twelve pounds of Hall salt**,
+  knocked on **eleven doors**, was listened to at nine, laughed at gently at one, and had the
+  door shut on him by Ock's father. Nobody believed *him*; they believed Dorn Vance
+  second-hand, and a line of salt costs nothing and looks like sense.
+- **THE FLOOD.** ~1 a.m.: dogs, then Ma Dunnock's geese. **Four to five hundred tallow-crawlers**
+  coming up the road from the ford, filling it side to side, "one thick," going round the ruts.
+- **WICK RUNS THE NIGHT WITHOUT USING HIS HOLD ONCE.** Twenty-six of the village's thirty-one
+  rock-salt licks broken up on barn floors — he could say in nine words exactly how, having
+  done it one-handed for four days in Long.
+- **HIS ORDER OF WORK (later printed in a Ledger circular posted in four hundred villages —
+  the first thing he ever said that outlived the saying of it; he was not present and did not
+  find out for years):**
+  · threshold, then byre door, then hen-house (cheapest, they go for it first)
+  · line as thick as your thumb, not your finger — a thin line is worse than none because it
+    makes you stop watching
+  · do not stand in a doorway with a lamp
+  · if one gets in, do not stab it — throw salt and shut the door
+  · **go round your own house before you go inside; salt the front and not the back and you
+    have built a funnel**
+- **NETTLE KILLED NINE** at the Rennicks', not with the strike (which is for one thing at a
+  time). Palm on the packed earth, about **a third of everything she had**; the byre floor
+  lifted a quarter inch and came down and every boneless thing on it came apart.
+  **Cost: two of her three.**
+- **RESULT: not one crawler crossed a salted threshold in Hollow Alder.** Twenty-six byres
+  held; four did not (salt laid after they were inside). Losses: **eleven hens, two lambs, a
+  cade calf, half a season's cheese.**
+- **OCK'S FATHER** went into his own unsalted byre with a lamp and a pitchfork; the door opened
+  outward and three of them were against it. **Nineteen bites on arms and shoulders, four on
+  the neck, one below the eye.** Alive; Gran says so and has never been wrong about that in
+  fifty years.
+- Ock, in his nightshirt with a cracked Hold, on the mounting block: *"You went to eleven
+  doors. … the difference between us is that you'd already thought about it."*
+- **THE DEDUCTION:** they were not hunting, they were **leaving**. Something has been eating
+  its way up from the bottom of the Welling since Long — which is also why Wick could not find
+  a crawler in chamber 1 by Dust and thought it was him.
+- **PELL** sat on the bridge post from ~2 a.m. and watched all of it and wrote a four-line
+  note and did not move. He states this on the record himself, and that it is not a good
+  enough answer, and that he knows it. He could not even give advice: it would have been
+  advice in furtherance of a Welling, not an assessment. (*Odell.*)
+- **TWO FACTS FROM PELL, both records:** (1) **the ward reports** — Vance knew the moment they
+  crossed it, wherever he was, and will be here tomorrow evening or the morning after;
+  (2) it is **the ninth of Gather**, and **Nead** is riding up from the Chalk estate with a
+  book, with eleven tenancies to call on in this parish, and **Whitts is the fourth**.
