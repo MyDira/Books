@@ -74,8 +74,12 @@ def run(files):
     paras = [p for p in re.split(r"\n\s*\n", whole)
              if p.strip() and not p.strip().startswith(("#", ">", "|", "---", "*("))]
     heads = sum(1 for p in paras if re.match(r'^(He|Wick)\b', p.strip()))
-    line("paragraphs opening He/Wick  %", heads / max(len(paras), 1) * 100,
-         QUOTAS["he_para_pct"], "{:.1f}")
+    if len(files) >= 5:   # single chapters are too small a sample to judge
+        line("paragraphs opening He/Wick  %", heads / max(len(paras), 1) * 100,
+             QUOTAS["he_para_pct"], "{:.1f}")
+    else:
+        print(f" [ n/a ] paragraphs opening He/Wick  %  {heads/max(len(paras),1)*100:>8.1f}"
+              f"   (needs 5+ chapters to judge)")
 
     # --- consecutive He-paragraph runs -------------------------------------
     runs, cur, worst = 0, 0, 0
