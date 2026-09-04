@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 7 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 8 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -1506,5 +1506,247 @@ Nettle wrote it down herself, under her own heading, in her own hand.
 
 ---
 
+# Chapter 8 — The Fourth of Green
 
-<!-- 7 chapters · 16,717 words · consolidated 2026-09-04 -->
+The Tallow cart came in at half past four and he was on Fell Street at two, which he was not proud of.
+
+Doreth Faring let him sit in the workshop and did not talk to him, which was the correct decision and which he understood to be one, and worked, and about an hour in she said, without looking up:
+
+"She knows. I wrote on the twentieth and she had it on the twenty-third and she has had eleven days."
+
+"Did she write back?"
+
+"Yes."
+
+"What did she—"
+
+"No," said Doreth Faring, and went on with what she was doing.
+
+---
+
+She came in through the green door at ten past five with a canvas roll under one arm and her hair wet, and she stopped dead in the doorway, and looked at him.
+
+Wick got up off the stool.
+
+There is a thing that happens to a face when a person has spent eleven days rehearsing and it does not survive contact, and he watched it happen to his sister, and it lasted about a second, and then Bri Alder put the canvas roll on the bench and said:
+
+"You've got tall."
+
+"I'm fifteen."
+
+"I know how old you are." Her voice had the Loam in it still, under Marrowfield, the way Tarrow had said. "God. You've got Dad's neck."
+
+She stood there.
+
+"Right," she said, "we're not doing this in here. Dor, I'm taking an hour."
+
+"Take two," said Doreth, to the pan.
+
+---
+
+They walked up to the top of Fell Street where it met the barrow road, and sat on the wall, and Marrowfield went on being loud below them, and for the first four minutes neither of them managed a single sentence that was not about the weather or the cart.
+
+Then Bri said: "Is she alive?"
+
+"Gran's alive."
+
+"Right." Bri let a breath go. "Right. That's — yes. Good."
+
+"You could have asked in a letter," said Wick.
+
+"I know."
+
+"That's four words. That's *is she alive*, four words on the inside of a bit of brown paper, and it would have been—"
+
+"I know what it would have been," said Bri.
+
+And Wick, who had rehearsed eleven versions of this and had thought the shape of it would be an argument, discovered that he had run out at the first fence, because she was not defending anything.
+
+---
+
+Here is what she told him, on a wall at the top of Fell Street, in about forty minutes, in order, without being asked twice for any of it.
+
+She had left Hollow Alder in Rust of Y-eight-ten with a bag, thirteen feet of brick, and a licence-application she had filled in on the cart and never filed, because the fee was two shillings and she had nine and needed a room.
+
+She had done kitchen work for eleven weeks. Then carting. Then two months at the Hall as a runner, and she had lost that in Green of eight-eleven, and she told him why without any pause at all, which he came to understand was because she had decided years ago that the shame was not worth the storage: she had taken a shilling out of a purse she was carrying, and she had been caught, and she had not done it again and did not intend to make anything of it.
+
+"I was hungry," said Bri Alder. "That's not an excuse and it's not not one. Both those things are true and you can have them in either order."
+
+Then she had swept a floor for seven months.
+
+"Three shilling a week and she never once suggested I was anything else, and the first eight shillings I sent home was four months of that, and Wick." She stopped, and started again. "I want you to hear this bit right. I did not send that money because I was doing well. I sent it because I had *worked out how much four months of my life was worth to that house*, and it was eight shillings, and I could bear that if I did not have to say it."
+
+---
+
+"Are you in trouble?" said Wick.
+
+It was the question he had carried up a hill and across four months and it came out and sat there between them on a wall, and Bri looked at him for a long moment with an expression he could not read at all and then laughed, once, and put a hand over her face.
+
+"No," she said. "God. Is that what you've — no. No, I'm not in trouble."
+
+"You're not on any register."
+
+"No."
+
+"You can't sign your own work."
+
+"No."
+
+"Doreth says you'll be better than her inside fifteen months and you'll still be doing a hundred and forty fittings a year under her name when you're forty."
+
+"That's about right," said Bri.
+
+"That's not *all right*."
+
+"I didn't say it was all right, I said it was right." She took the hand away from her face. "Wick. Listen to what I'm going to say and don't help.
+
+"I am nineteen. I have got a trade. I am the second-best fitter in this town and in two years I will be the best one, and I know that the way you know a number, not the way people know things about themselves. I get thirty shilling a month and my keep. I have got a room with a window in it and four people I would call for if something happened, and one of them is the woman who taught me, and I have not been hungry since Rust of eight-eleven.
+
+"There is exactly one thing wrong with my life and it is that my name is not written down anywhere. That's it. That is the whole of it and it is a real thing and I mind about it every day.
+
+"And it is *not the same* as being in trouble, and I have spent eleven days working out how to say that to you, and I have not managed it, and that's the best I've got."
+
+---
+
+The turn came about four minutes later and it was not the thing Wick had walked up the hill braced for.
+
+"So why didn't you write," he said. "Not the money. The words. Four words."
+
+Bri looked out over Marrowfield.
+
+"Because the first year I didn't write, and then it had been a year," she said. "And then it had been eighteen months, and by then the thing I'd have had to put in the letter wasn't *this is what I do*. It was *this is what I do, and I have not told you for eighteen months*, and that is a completely different letter, and it gets worse every month you don't send it, and I have got three of them in a drawer."
+
+"Three?"
+
+"Written. Not sent." She said it evenly. "One from Deep of eight-eleven. One from Turn. One from the twenty-fourth of Seed, three days after Dor wrote to me."
+
+Wick sat on the wall with his hands on the stone.
+
+"That's it," he said. "That's the whole thing, isn't it. It's not shame and it's not — nobody's *doing* anything. It just got further away every month and nobody was doing anything about it, and it took me four months of asking in nine places and I thought I was going to find you locked in something."
+
+"Yes."
+
+"And you're not locked in anything. You've been four hundred yards from Doreth's daughter for eleven months and neither of you has—"
+
+He stopped.
+
+Bri turned her head.
+
+"Say that again," she said.
+
+---
+
+He said it again, and then he said the rest of it, because he had promised a woman in a workshop that he would say the whole of a thing and then shut his mouth and he had discovered that he was better at it than he expected.
+
+Annet Faring. Two feet of glass, seven and a half weight, coherence true. Living over a chandler's on Cross Street since the Slack. Four hundred yards. Eleven months. A sentence said in Thaw that was cruel and was also the truest thing about her.
+
+Bri Alder listened to the whole of it without moving.
+
+"I've worked in that room for two years," she said at the end, "and Dor has said her daughter's name to me about four times, and every time it was a *fact*. *Annet's got the strike.* *Annet's licensed.* And I never once asked why she doesn't come, because it was obviously none of my business."
+
+"She's said your name to Nettle exactly never."
+
+"No," said Bri. "She wouldn't. That's not a secret, that's — " she rubbed her face — "God, that's just Dor. She'd think telling her daughter about the girl who took her place was cruel, and she'd think it so fast she wouldn't notice she'd decided it."
+
+"You didn't take her place."
+
+"I took *a* place." Bri stood up off the wall. "And I have been very careful for two years not to think about that, and I have just been told about it on a wall by my brother, and I would like about four days."
+
+She stopped.
+
+"No," she said. "That's the drawer. That's exactly the drawer, that's how the three letters happened." She turned round. "Where is she now?"
+
+"Room over the chandler's. She'll be in. She's always in."
+
+"Right," said Bri Alder, and did not move for about nine seconds, and then said, "No, I'm not doing that either. That's me deciding a thing for two people who've had eleven months of other folk deciding things for them."
+
+She sat back down on the wall.
+
+"So I'll tell you what I *am* going to do," she said, "and then you're going to go home and tell her I said it, exactly, and let her do whatever she does with it, and if that takes four years then it takes four years."
+
+"That's what Doreth said."
+
+"Where d'you think I got it," said Bri.
+
+---
+
+What she was going to do took her about four seconds to say and had clearly taken eleven days to arrive at.
+
+"I'm going to send the letter," said Bri. "The one from Seed. Tonight, on the mail, and I'm not going to rewrite it, because I've rewritten it four times and every version is worse than the first one and the first one is bad."
+
+"What's in it?"
+
+"What I do. Who I do it for. Why I didn't say." She looked at her hands. "And that I'm not coming home, which is the bit I've taken out three times, and which is going in this time because it's true and because Gran will have worked it out anyway and I'd rather she had it from me."
+
+"You're not coming home."
+
+"Not to live. Not ever, probably." Bri said it without any drama at all. "I'd visit. I'd like to visit. But there's no fitting work in Hollow Alder and there never will be, and I am not going to go and be a person who *used* to be good at something in a village of three hundred people, and Gran would rather I said that plainly than dressed it up."
+
+"She would," Wick agreed.
+
+"So that's mine and I'll do it tonight." Bri knocked her heels against the wall. "And the other one's Dor's and Annet's and it is not mine and it is not yours, and we are both going to keep our hands off it, and you are going to find that very hard because you have got Dad's neck and Gran's mouth and a face like a boy who fixes things."
+
+---
+
+Then she said, "Give us your tally."
+
+"What?"
+
+"Your tally. I've been looking at your collar for forty minutes." She held her hand out. "Two years of doing this to strangers, I can't stop."
+
+He took the cord off and gave her the brass chit.
+
+Bri Alder read it the way Doreth Faring had read the pans: fast, once, all of it, without any change of expression, and then a second time much more slowly, and she did not say any of the things Marrowfield said.
+
+She did not say *ah*.
+
+"Forty-three point nine," she said. "That's not a misprint."
+
+"No."
+
+"And nought point six, and settled — " she brought it closer to the lamplight off the street — "nought point nought nought one four."
+
+"That's the one that matters."
+
+"Mm." She turned it over and read the back, where the clerk's neat hand said *Hearth. Held on the boundary.* "And they've stamped you for it."
+
+"I take Ember writs at Ember pay."
+
+"Course you do," said Bri, and gave it back, and then sat quite still for a moment with her hands on her knees.
+
+"Can I ask you a thing that'll sound stupid?"
+
+"Yes."
+
+"Where does it *sit*?"
+
+Wick looked at her.
+
+"Where does what sit?"
+
+"The — " She made a shape with both hands, and stopped, and made a different one. "That's the trouble, I've not got the word, it's not a word thing. When Dor puts a graft in an arm the whole job is *where*. Not what. Anybody can cure a Seed. The thing that takes twenty-two years is knowing that it wants to go three quarters of an inch further up than where the man is pointing, and if you put it where he's pointing his hand works for nine years and then it doesn't."
+
+"And you can tell where."
+
+"I can *feel* where, and I can't tell you how, and I've had four goes at explaining it to Dor and she says it took her eleven years and she still guesses." Bri turned toward him on the wall. "So that's what I'm asking. You've got forty-three acres and everything you've got is in nought point nought nought one four of it. That's not a small Hold. That's a — that's a great big man with everything he owns in one pocket."
+
+"It's in the middle. It's where I can find it."
+
+"Yes," said Bri. "And in two years of arms I have never once fitted a thing to the middle of anything, because the middle is where a thing *sits* and it is not where a thing *works*."
+
+Wick did not say anything for some time.
+
+"That's not an answer," he said at last.
+
+"No. It's not even a question, properly. It's a — " she gave up. "It's a thing my hands think and my mouth can't do, and I've told you because you'll write it down and I know you will."
+
+He wrote it down that night, on the wall of the room over the chandler's, on the back of the Ninefold receipt, in the worst handwriting in the Loam.
+
+> *Where does it sit?*
+> *(She could not say what she meant. She was extremely sure she meant something.)*
+
+
+---
+
+
+<!-- 8 chapters · 19,192 words · consolidated 2026-09-04 -->
