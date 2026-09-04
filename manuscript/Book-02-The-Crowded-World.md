@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 2 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 3 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -397,5 +397,228 @@ She wrote it under *things I don't understand yet*, which went to thirty-nine en
 
 ---
 
+# Chapter 3 — Sixty-One Fell Street
 
-<!-- 2 chapters · 4,690 words · consolidated 2026-09-04 -->
+He went back on the twentieth and knocked, and it took him four seconds, and he had spent two days building up to it.
+
+The big woman opened the door with her sleeves rolled and flour on one forearm, which he had not expected and which threw him entirely.
+
+"We're shut."
+
+"I'm not a customer."
+
+"Then we're *very* shut." She looked at him properly, top to bottom, the way you look at a horse. "You're the one who sat on my crates for an hour on the eighteenth."
+
+"...Yes."
+
+"Mm," said the big woman, and stood aside.
+
+---
+
+The workshop was warmer than any room he had been in since Hollow Alder and it smelled so strongly that his eyes ran for the first minute and then stopped, permanently, and he never smelled it properly again for the rest of his life in that building.
+
+Four lamps over a long bench. A rack of small tools with the spaces marked. Three pans on a cured-iron stand over a slow heat, and a fourth on the floor with a lid on it and a brick on the lid.
+
+There was nobody else there.
+
+"Sit," said the big woman, and pointed at a stool, and went and did something to one of the pans and looked at it for a count of about forty and then took it off the heat.
+
+Then she sat down opposite him on the bench with her hands on her knees, and Wick understood, in the way you understand these things, that she was about eleven times more dangerous than she looked and that she looked fairly dangerous.
+
+"Name."
+
+"Wick Alder."
+
+Her face did not change at all.
+
+"Say the rest," she said.
+
+"Of Hollow Alder in the Loam. I've been in Marrowfield since the Slack. I'm on the boundary at Hearth and I take Ember writs." He had rehearsed this bit. "I'm looking for my sister. Bri Alder. She came here in Y-eight-ten and she's sent money home three times and no word, and I've been asking in nine places since Dark and a Hall runner told me a small woman with the Loam in her voice takes parcels off him at this door."
+
+The big woman was quiet.
+
+"Twice a month," she said. "Since Deep."
+
+"Yes."
+
+"That's her. She's not here. She's at Tallow till the fourth."
+
+---
+
+Most of the rest of it came out of her in about a quarter of an hour, and she gave it to him plainly and without any softening whatsoever, and he came to understand later that this was the single greatest kindness anybody did him that year.
+
+Her name was **Doreth Faring** and she had been a Grafter for twenty-two years under a Concord licence and she was the third best in Marrowfield, and she said all three of those things about herself in the flat voice a person uses to read out a distance.
+
+Wick had heard those exact words before. He had heard them in a yard behind a Hall in Dust, out of a fifteen-year-old with a burn on her forearm, and it took him a full second and a half to make the two things touch, and when they touched he sat very still.
+
+"You're Nettle's mother."
+
+Doreth Faring's hands did not move on her knees.
+
+"Say that again," she said.
+
+"Annet. Annet Faring. Two feet across, seven and four, coherence true." Wick heard his own voice come out wrong. "She's been living in a room over a chandler's on Cross Street since the Slack. She's four hundred yards from this door and she's been four hundred yards from this door for four months."
+
+The workshop was extremely quiet. One of the pans ticked.
+
+"Four months," said Doreth Faring.
+
+"Yes."
+
+"And you didn't know I was her mother."
+
+"I knew her mother was a Grafter. I knew twenty-two years and third best. I have known that since Dust." He put a hand over his eyes. "There's four Grafters in this town. I have walked past this building about nine times a week for four months. I have *asked at the front office*."
+
+"Mm," said Doreth Faring, and got up, and went and put the pan back on the heat because her hands needed something to do, and stood with her back to him for a good while.
+
+"She won't come," she said, to the wall.
+
+"I don't think she knows how."
+
+"No." Doreth turned round. "Nor do I, and I've had six years at it, and I'd thank you not to fix it for us."
+
+"I wasn't going to."
+
+"You were about to offer."
+
+"...Yes," said Wick.
+
+"Then don't." She came back and sat down. "You've had a shock and you'd like to be useful. That's decent of you and it's not what's wanted. What's wanted is that when you go back to that room tonight you tell her you were here, and you tell her the whole of what was said, and then you shut your mouth and let her do whatever she does with it, and if that takes four years then it takes four years."
+
+Wick nodded.
+
+"Now," said Doreth Faring. "Your sister."
+
+---
+
+"Bri Alder came in here in Rust of Y-eight-ten with a licence-application she'd never filed, thirteen feet of brick, and about nine shillings," she said. "She'd been in this town eleven weeks. She'd taken kitchen work and then carting work and then she'd got two months at the Hall as a runner and lost it, and I'd rather she told you why than me."
+
+"All right."
+
+"I took her on to sweep." Doreth's mouth moved. "That is not a euphemism. She swept this floor for seven months and I paid her three shilling a week and she never once asked me for anything else, and I have taken on eleven girls to sweep in twenty-two years and nine of them asked inside a fortnight."
+
+"What changed?"
+
+"She got good at the sweeping." Doreth said it entirely seriously. "You will not understand that and I'll not explain it. What I'll tell you is that in Green of eight-eleven I had a man on that bench with an arm that had gone bad round a soldier's graft that another Grafter put in nine years before, and I could not get the seat of it, and I had been at it two hours and I was going to have to take the arm, and your sister — who had swept my floor for seven months and had never touched a tool — said, from over by the door, *it's not in the arm, it's in the shoulder, look how he's sitting.*"
+
+Wick did not say anything.
+
+"And she was right," said Doreth Faring, "and I have thought about that afternoon every week since, and I do not know how she knew, and neither does she, and she has said four different things about it and I think all four were guesses."
+
+---
+
+"So she's a Grafter."
+
+"No." Doreth held up one flat hand, and there was iron in it. "Get that straight now, because it is the whole of her situation and it is why she has not written to your grandmother.
+
+"She is not a Grafter. She is not a journeyman and she is not an apprentice and she is not on the Concord register and she is not going to be, and that is not because she is not good enough. She is better at nine parts of this work than any journeyman I have had, and she is fifteen months from being better at it than me, and I do not say that."
+
+"Then why isn't she on the register?"
+
+"Because the Concord admits apprentices at *fourteen*," said Doreth Faring, "and takes indentures of seven years, and requires a bond of eleven pound, and she was seventeen and had nine shillings and no family in this town, and by the time she was any good she was eighteen, and there is no door in the Concord's rules that opens at eighteen. There is not one. I have looked at it for two years and I have written to Sennet twice and I have had two very polite replies."
+
+She sat back.
+
+"So she works in this room and she is paid out of my pocket and her name is on nothing. She may not cure a Seed under her own hand. She may not sign a fitting. Every graft she has done — and she has done a hundred and forty — is written in the book as **mine**, because if it were written as hers it would be an unlicensed fitting, and that is not a fine. That is the Concord, and the Concord takes the licence off the *supervisor*, and then there is no workshop and there is no wage and there is no her."
+
+---
+
+"Can I ask you something rude?" said Wick.
+
+"You can ask."
+
+"What's a graft actually *for*?"
+
+Doreth Faring looked at him for a moment, and then did a thing he did not expect, which was to roll her own left sleeve up to the elbow.
+
+There were four.
+
+He knew what he was looking at because Nettle had shown him one in a yard in Dust — a shiny place a quarter of an inch across where something had gone in and stayed. Doreth had four, in a neat line up the inside of the forearm, spaced like buttons, old and well done and nearly invisible unless you were told.
+
+"Chalk-hound, for the hands," she said, touching them in order. "River-drake, for the heat, because you cannot hold a pan at that temperature for two hours with an ordinary arm. Nine-in-a-coat, which cost me eleven pound and is the reason I can feel the seat of a fitting instead of guessing at it. And a tallow-crawler, which is worth four copper and which I put in myself when I was twenty because I was frightened of my own hands shaking."
+
+She rolled the sleeve down.
+
+"Nought point nine weight," said Doreth Faring. "Nine feet of daub. That's what I opened with, and that is what I have got now, and it has not moved in twenty-two years and it never will."
+
+Wick did not say anything.
+
+"So a graft is for this," she said. "It is for a woman with nine feet of daub doing work that a Wold couldn't do, and doing it for twenty-two years, and being paid for it. That's the whole of what it's for and there isn't a second thing."
+
+"Nettle says it isn't yours."
+
+"Nettle is *right*." Doreth said it without any heat at all, and that was somehow much worse. "She's right and she has been right since she was fourteen and I have never once argued with her about it. It isn't mine. I have four workings and not one of them came out of me. Every time I use my hands I am reading a letter somebody else wrote."
+
+"Then why—"
+
+"Because I had a choice between something that was mine and nothing, and *nothing is not a thing you can keep*." She put her hands flat on her knees. "That's the whole argument and I'd like you to notice it's not much of one. It isn't clever. It's just what it costs.
+
+"And my daughter can afford to be right, because she's got seven and a half weight and she can hit a wall and make a mark, and there is not one day in her life she has needed a borrowed working to put bread on a table. And when she tells me it isn't hers, she is telling the truth, and she is also telling it from about eleven feet up in the air, and I have never once said so to her because she would take it as me asking."
+
+She looked at the pan.
+
+"Your sister could afford it for exactly as long as she had nine shillings," said Doreth Faring.
+
+---
+
+Wick sat on a stool in a warm room that smelled of cured Seed and did the arithmetic, because that is what he does.
+
+A hundred and forty fittings. Two years and four months. Three parcels of eight shillings.
+
+"She sends money home," he said, "and she doesn't write, because if she wrote she'd have to say what she does."
+
+"She would have to say what she is," said Doreth Faring. "Which is a woman of nineteen who is very good at a trade she is not allowed to be in, and who has been doing it for two years in somebody else's name, and who will be doing it in somebody else's name when she is forty unless something changes, and nothing is going to change, because I have tried."
+
+"Does she know I'm here?"
+
+"No."
+
+"Are you going to tell her?"
+
+"Yes," said Doreth. "Tonight, in a letter to Tallow, because she is going to hear it from me and not walk in off a cart on the fourth and find you sat on my stool." She stood up, which ended the conversation. "And I'll tell you the last thing and then you'll go, because I've a pan on.
+
+"Your sister has got thirteen feet of brick and coherence *settled* and about two and a half weight, and she is the second-best fitter in this town, and she cannot put her name to a single thing she does.
+
+"And my daughter has got two feet of glass and seven and a half weight and the best coherence in this office, and she will not let me put a thing in her arm that would let her use it.
+
+"And I have had six years of the pair of them," said Doreth Faring, "and I do not know which of them is right, and anybody who tells you they do is selling something."
+
+---
+
+At the corner of Fell Street he had to stop and lean on a wall.
+
+Not because of Bri. Bri he could carry; Bri was bad and it was a bad he could look at.
+
+It was the last thing she had said, and the way she had said it — flat, like reading out a distance — and the fact that a woman who had been at it twenty-two years and had a daughter in it did not know the answer.
+
+Because Wick had had an answer since Dust. He had had it since a yard behind a Hall of Hunt, out of a girl on a water butt, and he had never once examined it, and it was: *a graft is not yours, so it doesn't count.*
+
+He had believed that for four months, comfortably, without paying anything for it.
+
+And a hundred and forty people in this town had an arm that worked because of a woman who was not allowed to have a name.
+
+---
+
+Nettle was at the table when he came in, with the ledger open and the second column laid out in her good hand, and she looked up and said, "Well?"
+
+"I knocked."
+
+"And?"
+
+Wick shut the door and stood with his back against it, because he had worked out on the walk home that there was no version of this that was not a shock, and that the least bad thing he could do was the thing Doreth Faring had told him to do, which was to say the whole of it and then shut his mouth.
+
+"Bri's not there," he said. "She's at Tallow till the fourth. She's been working in that workshop since Rust of eight-ten and she's done a hundred and forty fittings and every one of them is written down under somebody else's name, because she's nineteen and the Concord takes apprentices at fourteen and there's no door."
+
+"Right," said Nettle. "So who's she working for?"
+
+"Doreth Faring," said Wick.
+
+Nettle did not move at all.
+
+"Say that again," she said.
+
+
+---
+
+
+<!-- 3 chapters · 7,347 words · consolidated 2026-09-04 -->
