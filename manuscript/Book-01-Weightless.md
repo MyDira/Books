@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 21 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 23 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -4208,7 +4208,7 @@ He stopped.
 
 "What other one?"
 
-"The one where you're stood in Camber's frame in Rust with four hands of salt round nine paces of puddle," said Nettle, "and it holds, and he writes *Hearth*, and then you walk out of that yard with a mark on your tally and a fine you can't pay and your family living in a rented room in Marrowfield, because Gather's in *three days*."
+"The one where you're stood in Camber's frame in Rust with four hands of salt round nine paces of puddle," said Nettle, "and it holds, and he writes *Hearth*, and then you walk out of that yard with a mark on your tally and a fine you can't pay and your family living in a rented room in Marrowfield, because Nead is riding up this road with a book and he will be at your gate inside a week."
 
 The byre was quiet.
 
@@ -4221,5 +4221,405 @@ Outside, a long way off, a dog started barking, and then another one, and then e
 
 ---
 
+# Chapter 22 — The Ninth of Gather
 
-<!-- 21 chapters · 47,606 words · consolidated 2026-09-03 -->
+There were nine houses on the north side of the road and every one of them had a white line across the threshold, because Wick Alder had spent the eighth and ninth of Dust walking up and down that road with twelve pounds of Hall salt and a story about a man with grey eyes.
+
+He had not enjoyed doing it. He had knocked on eleven doors and been listened to politely at nine of them and laughed at gently at one, and at the last one Ock's father had opened it, looked at the sack, and shut it again without a word.
+
+Nobody had believed him. That was not the point and he had known it was not the point at the time. What they had believed was Dorn Vance, second-hand, through a boy, and that had been enough, because a line of salt across a doorstep costs nothing and looks like sense, and the Loam has never in its history refused to do a cheap thing that looks like sense.
+
+Five weeks later, at about one in the morning on the ninth of Gather, that decision was worth more than every other thing Wick did that year.
+
+---
+
+The dogs went first and then Ma Dunnock's geese, and Wick was out of the byre door with his boots half on before he was properly awake, and Nettle was ahead of him, which he minded.
+
+"Where?"
+
+"Road."
+
+The moon was up and the road was pale and there was something wrong with the surface of it.
+
+It took him three seconds to work out what he was looking at, and it took three seconds because his mind kept insisting on *water*: the road was moving. A long shallow slow-moving thing was coming up it from the ford, filling it side to side, and it was pale, and it went round the ruts instead of into them.
+
+"How many," said Nettle.
+
+"That's not — " Wick's mouth had gone. "That's not how many. That's *one thick*."
+
+They came up the road in a body, fold and pour, fold and pour, four hundred of them, five hundred, a slow pale flood of forearm-length boneless things going up the middle of Hollow Alder toward the houses.
+
+---
+
+He would say afterward that he did not decide anything. That was not true and he knew it was not true; what happened was that he had four months of thinking about tallow-crawlers already done, sitting in his head in a list of thirty-three items, and the night simply arrived and started asking questions he had already answered.
+
+"They won't cross salt," he said. "That's absolute. That's not a *usually*, it's the only thing about them that's absolute."
+
+"Every door's got a line."
+
+"Every door on the north side has got a line. Rennick's and Thatcher's and the Hollow and six more." He was already moving. "Nobody's salted a *byre*. I did the doors, I did the doors and I told them about the byres and I ran out and I never went back with more."
+
+Nettle looked at him.
+
+"How much have you got left?"
+
+"Two pound."
+
+"Then wake the village," said Nettle, "and start taking it out of the sheep."
+
+---
+
+There is a lump of rock salt in a trough in every byre in the Loam, because sheep need salt, and it costs a shilling a stone and lasts two years.
+
+Hollow Alder had thirty-one of them, and by two in the morning twenty-six were in pieces on twenty-six barn floors, and there were men and women and children going at them with the backs of hand-axes and flat stones in the dark, because a boy who had spent four days doing exactly that with one arm in Long had been able to say, in about nine words, precisely how it was done.
+
+That was the whole of his contribution and it was enough.
+
+He ran the road. He went house to house and he did not fight anything and he did not use his Hold once, and what he did was *tell people the order*.
+
+Threshold first, then the byre door, then the hen-house — a hen-house is the cheapest and the crawlers go for it first and if you lose your hens you have lost eleven months of eggs and nothing else.
+Line as thick as your thumb, not your finger; a thin line is worse than none because it makes you stop watching.
+Do not stand in a doorway with a lamp. They come to a light and they will come to that one.
+If one gets in, do not stab it, throw salt on it and get out of the room and shut the door.
+And go *round* your own house before you go inside. If you salt the front and not the back you have built a funnel.
+
+He said that last one to nineteen households and afterward the Ledger's man wrote it down in a report and it went into a circular that was posted in four hundred villages, and it was the first thing Wick Alder ever said that outlived the saying of it, and he was not present when it was written and did not find out for years.
+
+---
+
+Nettle killed nine.
+
+She did it at the Rennicks' because the Rennicks were slow, and she did it with her hands flat on the byre floor, and it was not the strike. The strike was for one thing at a time and there were forty things in that byre.
+
+What she did was put her palm on the packed earth and let go of about a third of everything she had, and the floor of that byre lifted a quarter inch and came down again, and every boneless thing standing on it came apart.
+
+It cost her two of her three. Wick found her afterward sitting against the wall with her hands shaking in her lap, and she looked up and said, "Don't," and he said, "I wasn't going to," and she said, "You were going to say thank you," and he said, "Yes," and she said, "Well. Don't."
+
+---
+
+The line held everywhere it had been laid.
+
+That was the thing. That was the whole night. Wick stood in the road at four in the morning and watched a slow pale flood come up against nine doorsteps and stop dead, and go round, and stop dead at the next one, and go round, and mill about in the road in a great pale confusion, and then start going *back down toward the ford*, because there was nothing here and something had told them there was nothing here.
+
+Not one crawler crossed a salted threshold in Hollow Alder that night.
+
+Twenty-six byres held. Four did not, because the salt had gone down after the crawlers were already inside, and Hollow Alder lost eleven hens, two lambs, a cade calf, and half a season's cheese.
+
+And one house had no line on it at all.
+
+---
+
+They got Ock's father out at about half past four.
+
+He had gone into his own byre at some point in the dark with a lamp and a pitchfork and had shut the door behind him, and the door had opened outward, and by the time Sil Thatcher got to it there were three of them on the inside of it and he could not.
+
+He was alive. He was going to stay alive; Gran said so at six in the morning with her sleeves rolled and her face like a closed door, and Gran had never once been wrong about that in fifty years.
+
+He had nineteen bites on his arms and shoulders and four on his neck and one below the eye.
+
+Wick sat outside on the mounting block while she worked and could hear all of it.
+
+Ock was in the doorway. He had not been able to help, because he was still not right and would not be for a fortnight, and he stood there in his nightshirt with his hands at his sides and his Hold cracked a foot long down one wall, watching his father be worked on, and after a while he came and sat down on the block next to Wick, and neither of them said anything for about ten minutes.
+
+"He wouldn't have it," said Ock at last.
+
+"I know."
+
+"You came with the sack and he shut the door on you."
+
+"He'd had a bad week," said Wick.
+
+"He'd had a bad *week*." Ock made a sound. "He bought me a Seed off a Hall man for two shilling and it split my head open and now he's — " He stopped. "And the reason he wouldn't have your salt is he couldn't stand being told, by *you*, after."
+
+Wick did not say anything, because there was nothing to say that was not either a lie or worse than silence.
+
+"You went to eleven doors," said Ock.
+
+"Nine of them took it."
+
+"You went to *eleven*." Ock rubbed his face with both hands. "Nobody in this village has ever gone to eleven doors about anything. You'd got no reason. You'd got nought weight and a fine and everybody being kind at you, and you walked up and down this road for two days with a bag of salt telling people a thing a man in Marrowfield told you."
+
+He got up.
+
+"I got ten and a half feet of brick," he said, "and I've been the best kindled thing in this village since I was fourteen, and last night I stood in a doorway and I couldn't do a single thing, and you can't either, and the difference between us is that you'd already thought about it."
+
+He went inside.
+
+---
+
+Dawn came up grey and ordinary over a road with nothing in it.
+
+Wick walked down to the ford, which he was not allowed within forty feet of, and stopped at forty-one feet, and looked.
+
+The chain was intact. The eight iron stakes were where Vance had put them. The six notices were on the six alders, and the ward inside the ring was doing whatever a ward does, and there was, so far as he could see from forty-one feet in the early light, a great deal of pale wet track on the gravel bar going one way and coming back.
+
+Nettle came and stood beside him.
+
+"They didn't come out because they wanted to," said Wick.
+
+"No."
+
+"Five hundred of them. All at once, in the middle of the night, up a road, to a village with nothing in it. They didn't come up here hunting." He was working it as he said it. "They came up here because they were *leaving*."
+
+"Something's cleaning the place out," said Nettle.
+
+"Something's cleaning the place out." Wick looked at the hole in the base of the third alder. "It's had four sheep since Long. And I killed five crawlers in that first chamber and there were plenty when I started, and by Dust I couldn't find one in three nights and I thought it was me."
+
+"It wasn't you."
+
+"It wasn't me." He put his hands in his pockets and found that he had done it and that it was his father's gesture and let it go. "It's been eating its way up. It started at the bottom and it's been coming up, and last night it got as far as that first chamber, and everything in front of it came out of the ground at once."
+
+They stood there for a while.
+
+"The writ's posted at Marrowfield on the second or third," said Nettle. "Licensed men come out after that."
+
+"Yes."
+
+"That's Gather. That's — what, three weeks."
+
+"Twenty-four days from when Vance sealed it," said Wick. "That's the fast version. That's if nothing's late, and something is always late."
+
+He turned round and looked back up the road at the nine white lines on the nine doorsteps, going grey now in the daylight, and at the twenty-six barn doors, and at the house at the end with no line on it and Gran inside it and a man on the table.
+
+"It's not coming in twenty-four days," he said.
+
+---
+
+Ossian Pell was sitting on the bridge post.
+
+He had been there, by his own account, since about two in the morning, and he had watched the entire thing, and he had not lifted a finger, and he had a note in his lap that was four lines long.
+
+Wick looked at him for a while.
+
+"Don't," said Pell.
+
+"I wasn't going to."
+
+"You were going to be generous about it, which is worse." He folded the note. "I sat on this post and watched five hundred Wildborn come up a road at a village and I wrote down the time. I would like that on the record between us, because you are going to want to like me later and I would rather you did it with the whole of the information."
+
+"You said you'd do that."
+
+"I did. And I did it, and it is a different thing to have done than to have said." Pell put the note in his satchel. "Nobody died. Nine doors held because a boy walked up and down a road for two days with a bag of salt in Dust. I did not do that either, and I have been sitting here for four hours working out whether I could have, and the answer is that I could not have, because it would have been advice given in furtherance of a Welling and not of an assessment, and I have read *Odell*." He said it flatly. "That is the true answer and it is not a good enough one, and I want you to notice that I know that."
+
+He stood up and brushed off his coat.
+
+"Now. Two pieces of information, both of them inside my instrument, both of them about records."
+
+"Go on."
+
+"The ward is a record. Vance's chain is stakes and a blanket of his own down laid over that gravel, and the whole point of it is that it *reports*. He will have known the moment they crossed it, wherever he was, and if he was in Sennet-on-Weft on the ninth then he is on the road now and he will be here tomorrow evening or the morning after."
+
+"And the other one?"
+
+"The other one is that today is the ninth of Gather," said Pell, "and there is a man called Nead riding up from the Chalk estate with a book, and he has eleven tenancies to call on in this parish, and yours is the fourth."
+
+
+---
+
+# Chapter 23 — What It Is Worth
+
+*(Nettle)*
+
+Nead came on the eleventh of Gather at half past nine in the morning, on a good grey cob, with a clerk behind him on a worse one.
+
+Nettle watched the whole thing from the byre roof, where she had gone to be out of the way and had stayed because the view was better.
+
+He was not what she had expected and she was cross about that. She had built a picture over four days out of the way the Alders said his name — a fat man, a hard mouth, a ledger under his arm — and what came up the lane was a tired person of about fifty in a decent coat who dismounted carefully because his knee was bad and who took his hat off to Gran Alder in the yard.
+
+He was at Whitts for forty minutes.
+
+He drank a cup of something. He went and looked at the barley, which took eleven minutes, and he stood at the end of the field with Tam Alder in exactly the same posture as Tam Alder, both of them with their hands in their pockets, both of them looking at the same short pale crop from the same angle. He asked about the ewes. He said something that made Gran laugh, once, sharply, which Nettle would not have believed if she had not heard it.
+
+Then he got the book out and sat on the bench by the door and they did the arithmetic, and it took four minutes, and at the end of it he said a number and Tam said a number and Nead said the first number again, and that was all.
+
+He gave them until the Slack.
+
+Then he put his hat on, and got back on the cob with difficulty, and rode down to the Rennicks', who were the fifth call.
+
+---
+
+"Well?" she said, coming down off the roof.
+
+"Slack," said Wick.
+
+"That's — " she counted — "that's the end of Still. That's five months."
+
+"Four and a half."
+
+"That's *generous*."
+
+"It's not generous. It's arrears at a shilling in the pound," said Wick, "and it's four pound four turning into four pound eight, and he's got no faith in us at all, he's just got a bad knee and eleven calls and he'd rather write one line than move a family in Gather when he's got the harvest to get in." He was standing in the middle of the yard with his arms folded, looking at the gate. "And he told Gran that if it's not paid at the Slack he'll have to take the tenancy, and he said *have to*, and he meant it, and that's worse than if he'd been a bastard about it."
+
+"Why's that worse?"
+
+"Because there's nobody to be angry at," said Wick.
+
+---
+
+She thought about that for most of the afternoon, on and off, while she cleaned her knife and did not need to.
+
+It was the first thing about the Alders that she properly understood.
+
+Nettle had grown up in a town where every single problem had a person attached to it. The clerk who would not reassess her. The Concord examiner. The boy at the Hall who had said the thing about her hair. Her mother, who cried about the graft. You could be furious at a person; being furious at a person was practically a trade, and she had been apprenticed to it since she was nine, and she was extremely good at it, and it had never once got her a single acre.
+
+Out here there was a bad harvest and a tired man with a bad knee and a number.
+
+*There's nobody to be angry at.*
+
+She sat on the trough in the byre with the knife in her hands and had the extremely unwelcome thought that she might have spent six years being furious because it was easier than being capped.
+
+---
+
+Gran found her on the trough at about four.
+
+"You'll want something to do," she said, "or you'll wear a hole in that knife."
+
+"I'm all right."
+
+"Mm." Gran put a basket down and sat on the bucket and started shelling, and did not offer her any, which Nettle understood after a moment was an invitation. She took a handful.
+
+They shelled for a while.
+
+"He's not going to sell them," said Nettle.
+
+"No."
+
+"You know that."
+
+"I've known that since Long," said Gran Alder. "I knew it the night he came in at two in the morning with wet knees and I told him to eat more."
+
+Nettle cracked a pod.
+
+"Doesn't that make you want to shake him?"
+
+"Every day since he was four." Gran worked steadily. "That's not a question, girl, that's you asking me for permission to be angry at him, and I'll not give it, because I've spent a good deal of my life watching people get talked out of the only thing about them that was worth anything, and it's always done kindly, and it's always by somebody who loves them."
+
+"So you just let him."
+
+"I don't *let* him anything. He's fourteen and he's not mine and there's nothing in that boy that ever asked leave." She held a pod up to the light. "What I do is feed him and take the vinegar to him and keep my mouth shut about the ford, and that costs me every night, and I do it because I've had seventy-one years of being the most useful woman in a village where nothing has ever once happened."
+
+Nettle stopped shelling.
+
+"He said that," she said. "Just now. About you."
+
+"Did he."
+
+"He said you'd been the most useful person here for fifty years and there'd be nothing left when you go."
+
+Gran Alder was quiet for a while.
+
+"Well," she said. "That's a hard thing to hear said out loud and it's the truth, and I'd rather he'd worked it out himself than had it explained, which he has, so that's all right."
+
+She went back to the pods.
+
+"I'm not sad about it," she said. "I want that understood, because you've got a face on you. I've had a good life and I'd have it again. But a thing that's useful and doesn't *last* is a candle, and I've been a candle, and I've watched this whole village be candles for three generations, and if that boy has found a way to be something that stays, then he can have the farm."
+
+"It's your farm."
+
+"It's the Chalk estate's farm," said Gran, "and it has been since before my mother, and that's rather my point."
+
+---
+
+They had the argument that evening and it was the only real one they ever had.
+
+It started because she said, flatly, over the bread: "Sell the pegs."
+
+Wick put his cup down.
+
+"They're planted."
+
+"Not the ones you've planted. The *chalk*." She had been building this for two days and she came at it in order, because she had learned that with him you had to. "You've got six pegs in there and you've measured the line and you've got the number. The line's done. It told you what it was going to tell you and you wrote it on the ledger and you're never going to un-know it."
+
+"You can't un-plant a Seed."
+
+"I know you can't. I'm not asking you to." Nettle leaned forward. "I'm telling you that the *next* six aren't pegs. There's a standing writ on the barrows at two shilling and three bounty, and I can work it, and I'm going up there in Turn whatever you say, and I'll do it four times before the Slack if the weather holds. That's six pound. That's the rent and the fine and a pair of boots."
+
+"That's your writ."
+
+"That's my writ. And I'm telling you I'll spend it here." She said it fast, so it would be over. "And what I want back is that when I hand you a Seed you *sell* it, and you don't put it in the ground, because you've got two months and a wall and no money and you cannot have all three."
+
+Wick was quiet for a while.
+
+"No," he said.
+
+"Give me a reason that isn't stubbornness."
+
+"I haven't got one."
+
+"Then—"
+
+"I haven't got one *yet*," said Wick, "and I'd rather say that than make one up, and you'd rather I said it than made one up, and we both know it." He turned the cup round on the table. "You've been at me for four days to say what the Seeds are *worth*, and I keep giving you an answer about pegs, and it's not the true answer, and I've known it wasn't for about a week."
+
+"So what's the true answer?"
+
+---
+
+He got up and went to the door and stood in it, looking out at the yard, where there was nothing to look at.
+
+"Pell said a thing when he did the frame," he said. "He said: find out what makes a thing *settle*, and then find a very great deal of it."
+
+"You've told me that four times."
+
+"Because I've been chewing it for a fortnight." He turned round. "Settled ground is ground that carries weight. That's all it is. My warm damp's settled — nine paces of it — and the other forty-two acres aren't, and the difference between the two is a Seed. That's it. That's the whole of the difference. Somewhere in Long I put a pin-head on the salt and two paces of nothing turned into two paces of something, and it has stayed something ever since and it will be something when I'm dead."
+
+"So?"
+
+"So a Seed isn't worth four copper," said Wick, "and a chalk-hound Seed isn't worth two shilling, and the entire Sill has been pricing them wrong for eight hundred years and nobody's noticed because for everybody else it doesn't matter."
+
+Nettle sat very still.
+
+"Say the next bit," she said.
+
+"A man with a nine-foot room can hold — what, four terrains? Five? Bri's got eleven feet and she'd fit six if she was careful and her coherence'd be in bits by the end of it." Wick came back to the table. "So for everybody in the world, Seeds run out *long* before ground does. You get five in your life and after that there's no room, and the price of a Seed is set by people who will never in their lives need a sixth one."
+
+"And you've got forty-two acres."
+
+"I've got forty-two acres." He put both hands flat on the table. "I could plant twenty thousand and not be full. There is not a person alive who can use a Seed the way I can use a Seed, and the market price is set by people who can't use them at all past the fifth one, and so I can buy the single most valuable thing in the world *at the price of a bad afternoon's hunting*."
+
+The byre was quiet.
+
+"That's the answer," said Wick. "Every Seed I sell for two shilling is two shilling. Every Seed I *plant* is a piece of settled ground that carries weight for six hundred years and gets me one twenty-thousandth of the way to being something. And the rent is four pound four, and I know exactly what that means, and I have run this arithmetic every night for eleven days and it always comes out the same way and I hate it."
+
+"Then sell them."
+
+"I'm not going to."
+
+"*Why?*"
+
+"Because in four and a half months we lose a farm," said Wick, "and in sixty years I'd have sold four hundred Seeds for eight hundred shillings and I'd be a man with a very large empty field and a paid-up tenancy, and I've watched what that looks like. Gran's done it. Gran's *done it*, Nettle, she's been the most useful person in this village for fifty years and there is not one thing in this world that will still be here when she goes."
+
+---
+
+Nettle went out to the yard after that, because she needed to not be in a room.
+
+It was a clear night and the Rafters were up.
+
+She stood there with her arms folded, being angry, and worked steadily through the reasons he was wrong, and there were four of them and they were all good, and she got to the end of them and found that she was not angry any more and had not been for a while.
+
+Because she had been listening to the wrong sentence.
+
+*There is not a person alive who can use a Seed the way I can use a Seed.*
+
+He had said it about himself. He had said it out of two acres of misery and a fine and a rent he could not pay, and it had come out sounding like an apology, and it was not an apology. It was the first time in six years that Nettle had heard anybody describe a broken Hold as an *advantage* and mean it arithmetically rather than kindly.
+
+She stood in the Alders' yard for a long time.
+
+Then she went and got her knife and sat on the mounting block and did the thing she had not done since she was fourteen, which was to think seriously about her own two feet of glass.
+
+Weight without room. Seven point four in a dead circle two feet across, flat as a plate, no edge, coherence true because there was one thing in it and nothing to argue with. Full bucket. Bucket.
+
+Everybody had told her the problem was that she could not put anything in.
+
+Nobody had ever once asked what it was *for* — what a thing that dense, that small, that perfectly coherent, and that entirely useless for storage might be **good at**, on purpose, as a design rather than as a mistake.
+
+"Oh," said Nettle, out loud, in the dark, to nobody.
+
+She did not have it. She wanted to be clear with herself about that: she did not have an answer, she had the shape of where an answer would go, and she of all people knew the difference.
+
+But she sat on that block until two in the morning turning it over, and when she came in Wick was still awake, and she said, "I'm not selling them either," and went to bed before he could ask her why.
+
+
+---
+
+
+<!-- 23 chapters · 52,476 words · consolidated 2026-09-04 -->
