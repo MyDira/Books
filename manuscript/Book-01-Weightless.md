@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 23 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 25 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -4621,5 +4621,374 @@ But she sat on that block until two in the morning turning it over, and when she
 
 ---
 
+# Chapter 24 — The Offer
 
-<!-- 23 chapters · 52,476 words · consolidated 2026-09-04 -->
+Dorn Vance came up the road on the evening of the eleventh of Gather with a pack horse and no Hall men, and the first thing he said, before he was off the horse, was:
+
+"Nobody took it."
+
+---
+
+They sat in the Alders' kitchen because Gran would not have it any other way, and she put bread and a cup in front of a high Wold the way she would have put it in front of a carter, and Dorn Vance said thank you and ate some, which Wick noticed.
+
+"The writ was posted at Marrowfield on the first," he said. "Wold grade, unlicensed Welling, Hollow Alder in the Loam, classification entered by Assessor Vell on the twenty-third of Dust. Standing rate for a Wold-grade clearance is nine pound and the Seed, and expenses on production of receipts."
+
+"That's a lot of money," said Tam.
+
+"It is a great deal of money and it sat on that board for eight days," said Vance.
+
+He turned the cup round.
+
+"There are four men and one woman in Marrowfield who can take a Wold writ. Two of them are working the Tallow lower gallery on a survey that pays eleven pound and is four miles from a bath. One is sixty-one and has not taken a live writ in two years and everybody pretends otherwise. One had a bad autumn in Rust last year and will not go into a hole, and I do not blame him and neither does anybody else." Vance's flat grey eyes did not move. "And the fifth is me, and I hold the licence for this circuit, which means I am not permitted to take a writ posted inside it, because a man who both writes the report and collects the fee is the exact thing the rule was written to stop."
+
+Nobody said anything.
+
+"So it went up the board to Sennet-on-Weft on the ninth," said Vance, "and Sennet will post it on about the fourteenth, and somebody there will look at three days' travel to a village nobody has heard of for nine pound and a rural Seed, and there are eleven jobs on that board that pay better and none of them are three days away."
+
+"How long?" said Wick.
+
+"If somebody takes it in Sennet, they are here on the twentieth or the twenty-first." Vance drank some of the cup. "If nobody takes it in Sennet, it goes to standing status, and a standing writ is worked when it is convenient, and I have known standing writs sit for two years."
+
+"It came up the road on the ninth," said Gran. "Five hundred of them."
+
+"I know. The ward reported at one in the morning and I was in Sennet-on-Weft and I rode." Vance put the cup down. "Which is why I am here on the eleventh instead of the twentieth, and why I have come with a pack horse instead of Hall men, and why I am going to say the next part to a room instead of to a boy."
+
+---
+
+"I am going to work it myself," said Dorn Vance. "On the fourteenth. I will file it as an abatement of imminent hazard, which is a real provision and which I have used twice, and which means I take no fee and no Seed and I am inside the rule."
+
+"That's why it's allowed," said Gran slowly. "Because you get nothing out of it."
+
+"That is exactly why it is allowed."
+
+"And if you get killed?"
+
+"Then the Ledger writes a note," said Vance, "and the writ stays on the board at Sennet, and it is worked when it is convenient."
+
+He said it without any weight at all, the way he had said *eleven days* in a Hall six weeks ago, and Wick, who had spent that entire time learning to read this man, understood that he had already done this arithmetic too and had liked it even less.
+
+"Alone?" said Tam.
+
+"Not alone. That is the other reason I am here."
+
+---
+
+He took a folded paper out of his coat and put it on the table and turned it round so it faced Wick.
+
+"Read that. Slowly, and out loud if you like, and I will wait."
+
+Wick read it. It took him a while. Nobody said anything for the whole of it, and Nettle, standing against the door, did not move a muscle.
+
+It was a form. Of course it was a form.
+
+**INSTRUMENT OF SPONSORED ENGAGEMENT (BEATER, UNRANKED).**
+
+"Say it in words," said Wick, when he had got to the bottom.
+
+"You come on as a beater under my licence." Vance leaned back. "That is a real trade and it is not a made-up job. A beater goes in front of the hunter, works the ground, reads the sign, carries the salt, sets the lines, and knows the beast better than the man who kills it. You have been doing it all summer with nobody to hand off to. I watched you run that road on the ninth from the top of the hill for the last forty minutes of it and I have not seen a Hall man do it better."
+
+"You were *here* on the ninth?"
+
+"I came in at four and it was over and I got out of the way," said Vance. "Do not make me tell you what I thought about, sitting on that hill, because it is not useful to either of us."
+
+"What's down there?" said Wick.
+
+Vance was quiet for a moment.
+
+"Vell entered it Wold grade on sign," he said. "That means he did not see it. Nobody has seen it. What he had was four sheep, a chamber cleared of crawlers from the bottom up, and the way the Wild lies in that shaft, and on that he wrote *Wold*, and he was right to, and it tells us almost nothing."
+
+"But you think you know."
+
+"I think I know," Vance agreed. "I have worked this circuit fourteen years and I have seen the sign twice, and both times an old woman in a village told me the story before I got to the ford, because the Loam has been telling it since before there was a Ledger to write it down."
+
+He looked at Gran.
+
+"Nine-in-a-coat," said Gran Alder.
+
+"Nine-in-a-coat."
+
+Wick had heard the name. He had heard it from Hob Tunny leaning on a cart, as the top of a price list — *eight pound for the Seed alone, and then you've got to be the sort of person who can kill one* — and he had heard it before that, all his life, the way children hear things, in the specific voice adults use when they are enjoying frightening you and have not stopped to consider whether the thing is true.
+
+"It's a story," he said. "It knocks on your door."
+
+"It knocks on your door," Vance agreed.
+
+"That's a *story*."
+
+"It is a story and it is also what it does, and the two are not in competition." Vance turned the cup round. "A tallow-crawler is a small thing with no bones and no shape and no wants beyond the next wet thing. Put five hundred of them in one hole for a long enough time in ground rich enough, and now and then — not often; I have seen it twice in fourteen years — some of them stop being five hundred things."
+
+"They join up."
+
+"They *agree*." Vance said the word carefully, as though he did not like it. "Nine of them, usually, and nobody knows why nine, and the Concord has a paper about it that is four hundred pages long and says nothing. Nine crawlers stop being nine and start being one, and the one thing they want, the whole and entire want of it, is a **shape**."
+
+The kitchen had gone very cold.
+
+"It has not got one," said Vance. "That is the thing to hold on to. It is nine boneless things holding an edge between them by main force, and it wants a shape more than it wants to eat, and so it takes shapes and wears them. That is why it clears a Welling from the bottom up: it is not hungry, it is *shopping*. Four sheep is four sheep-shaped tries and none of them held."
+
+"And the knocking?"
+
+"A door is a shape it has seen people use," said Dorn Vance, "and it has worked out what you do at one, and it has not worked out why, and that is the entire horror of the thing and I would rather not discuss it at this table."
+
+He put a finger on the paper.
+
+"The terms. You are engaged under my licence, which means you are lawfully in a Welling and lawfully in the trade, and the four-silver fine is remitted against service. Wages are eight shilling the month with keep, which for a boy of fourteen is good and is not charity; I pay it to two others. It is seven years, and at the end of it you sit the Hall examination like anybody else."
+
+"And the striking-off?"
+
+"Does not happen." Vance said it evenly. "A person in licensed engagement is not entered Failed of Kindling. It is in the schedule; it has been since Y-two-forty-one; the Ledger's position is that a man doing the work is doing the work whatever his tally says. Camber comes in Rust and enters you as *engaged*, and the second note is never written, and you are not barred from anything for the rest of your life."
+
+The kitchen was extremely quiet.
+
+Eight shilling the month. Four and a half months to the Slack.
+
+Wick did the arithmetic before he could stop himself, the way he always did, the way he could not help, and it came out at one pound sixteen by the Slack and four pound sixteen by Thaw, and the rent was four pound four, and there it was, sitting on the table on a piece of paper, the whole of it, every single thing.
+
+"There is one more term," said Dorn Vance.
+
+---
+
+"The sponsor holds the Seeds."
+
+Wick did not move.
+
+"That is not me being greedy and it is not a trick," said Vance. "It is the standard clause and it is on every sponsored engagement in the Sill, and the reason for it is that a sponsor is liable. If my beater plants something that ruptures him, that is my licence and my name and my nine years of it. I have seen a boy of sixteen buy a river-drake Seed off a stranger with three months' wages, and I have seen what came of it, and I did the paperwork." He tapped the paper. "So the Seeds come to me, and they are logged, and at the end of seven years, or sooner if I judge you ready, you are handed what is yours and you plant it under supervision. It is not confiscation. It is a lock, and I hold the key, and I have opened it early for two people out of nine."
+
+"Seven years."
+
+"Seven years."
+
+Wick looked at the paper.
+
+He was fourteen years old. He had four hands of hard salt round nine paces of warm ground, and forty-two acres of nothing, and nought point four, and a family who would be out of this house at the Slack. He had never once had anything offered to him.
+
+"Say the rest," he said. "There's a rest."
+
+"There is." Vance did not look away. "You would be very good at it. That is the rest and I want you to hear it from a man who does not say things to be nice. You have got a head that measures. You would be beating for a Hall man by nineteen and taking your own writs by twenty-five, and you would spend forty years in the trade and be respected in it, and you would put money by, and you would be the person in a village who knows what to do when it comes up the road at one in the morning."
+
+"And I'd be nought point four."
+
+"You would be Hearth or thereabouts by thirty," said Vance, "because you would be handed your Seeds a few at a time under a licence, the way everybody else is, and you would have four or five terrains and a working or two, and you would be *entirely ordinary*, and that is not an insult, that is the shape of every good life I know."
+
+He stood up.
+
+"I am not going to argue you into it and I am not going to make it sound better than it is. Here is the true summary and then I will go and see to the horse.
+
+"You would live. Your family would keep this farm. You would never be struck off, you would never be barred, and in seven years you would get your Seeds back and be a man with a trade.
+
+"And you would not get your forty-two acres. Not ever. Seven years at a few Seeds a year, and then a working life with a wife and a mortgage and a bad back — nobody settles forty-two acres out of that, and I have counted, and neither will you." He put his hat on. "That is the whole of the offer. It is the best thing that will ever be offered to you and I would take it if I were you and I am glad I am not."
+
+He went to the door and stopped.
+
+"You have got until the morning of the fourteenth," said Dorn Vance, "because that is when I go down the hole, and if you are coming with me you are coming as a lawful beater on a signed instrument, and if you are not, then you will stay forty feet from that ford or I will walk you to Marrowfield myself."
+
+---
+
+Nobody said anything for a long time after the door shut.
+
+Then Tam Alder, who had said perhaps forty words all evening, put both hands flat on the table.
+
+"Take it," he said.
+
+"Tam," said Gran.
+
+"No. No, I'll say it." His voice had gone, and he got it back. "I've said nothing all year. I said nothing when he cut my father's spear up and I said nothing when he came in at two in the morning with wet knees and I've said nothing for four months while everyone in this house pretended they didn't know, and I'm his father and I'm going to say one thing."
+
+He looked up.
+
+"Take it, Wick," said Tam Alder. "Please. It's a *life*. It's the life I've got and I'd not swap it, and it's more than I was ever offered, and you'd be — " He stopped, and did the thing he did, and said it twice. "You'd be all right, lad. You'd be all right."
+
+Wick sat at his own kitchen table with a form on it and could not look at any of them.
+
+"I know," he said.
+
+
+---
+
+# Chapter 25 — Two Days
+
+He had two days and he wasted most of the first one.
+
+He did the water and the ewes and he mended a gate that did not need mending, and he walked out to the long field twice and stood at the end of it with his hands in his pockets in his father's exact posture, and every time he tried to think about the form his mind went and did arithmetic instead, because arithmetic was easy and thinking was not.
+
+Eight shilling the month. One pound sixteen by the Slack. Four pound sixteen by Thaw.
+Four hands of rim round nine paces. Nought point four. Nought point zero zero two of forty-two point one.
+Seven years.
+Nine hundred years.
+
+He got to the end of every sum and the sum did not answer the question, and after the fourth time he understood that this was because it was not a question about numbers, and that he had known that since the moment Vance put the paper on the table, and that he had spent an entire day doing sums to avoid finding out what he was going to do.
+
+So on the second morning he went and found Ossian Pell, who was sitting on the churchyard wall eating an apple as though he had been placed there.
+
+---
+
+"Ask me your question," said Pell.
+
+"You already know what it is."
+
+"I know four things it might be and they are all quite different, so no, and I would like you to say it, because saying a thing out loud is nine tenths of the work and I have been doing this for thirty-one years."
+
+Wick sat down on the wall.
+
+"Is he right?"
+
+"Yes," said Pell, immediately. "Entirely. On every particular. I have read the schedule provision he quoted and it is real and it says what he says it says. The wages are good. He does have two others and he does pay them. He has opened that lock early twice in nine engagements, which is a better record than any sponsor in the Weft. He is not lying to you in any degree at all and he has not even shaded it, which is rarer."
+
+"Then—"
+
+"And it is still the wrong offer," said Pell, "and I am not going to tell you why, because if I hand you the reason you will take it and use it and it will not hold when you are frightened, and you are going to be frightened."
+
+He ate some apple.
+
+"I will tell you what I *am* permitted to tell you, which is a matter of record and therefore mine. Do you know how many people have been entered on the rolls of the Ledger of the Sill in eight hundred and twelve years?"
+
+"No."
+
+"Nor do I, precisely, but the working figure is a little over eleven million." Pell turned the apple round. "And in eleven million assessments there are — and I have spent four months establishing this, it is the whole of my instrument, it is why I am sitting on this wall — there are **six** entries where the acreage exceeded one full acre."
+
+Wick stopped.
+
+"Six."
+
+"Six, in eight hundred years. Four of them are from before Y-three-hundred and the records are poor and two of those are probably clerical. One is a woman in the Rakes in Y-six-eleven with an acre and a third, who is a footnote in a book about something else." Pell folded the apple core into his handkerchief, which was an appalling thing to do and he did it without noticing. "And one is a boy in Hollow Alder in Y-eight-twelve with forty-two point one."
+
+"That's not — " Wick's voice had gone. "That's not thirty times bigger. That's—"
+
+"Thirty-one and a half times the largest Hold ever recorded, and about twenty thousand times the median." Pell got down off the wall. "So when Dorn Vance says you will be entirely ordinary, he is right about what will happen and wrong about what is true, and both halves of that will still be the case in seven years, and I am not going to say another word about it."
+
+He put his hat on.
+
+"Except this one, which is free. He has offered you a locked box and the key in seven years. He is honest and he will honour it. And the reason you have spent a day doing sums instead of thinking is that you already know a locked box is the one thing forty-two acres cannot survive, and you do not want to be the sort of person who says so out loud in his own kitchen while his father is looking at him."
+
+---
+
+He told Gran that night.
+
+He did it before he told anybody else, and before he had signed or not signed anything, and he did it because of a thing he had said out loud in a dead tree on the twenty-fourth of Green when he was fourteen and had thought he was being clever.
+
+*That's a promise, and it's a real one, and if I break it I'll know I broke it.*
+
+He had broken the first half of that. He had gone to Marrowfield and told them about the hole and walked out of the room rather than answer the rest, and he had been carrying that since Dust and would carry it a long time.
+
+But the second half was still available. The second half was the whole of what the promise had actually been about, which was not *I will do the right thing*; it was *I will not lie to myself about what I have done*.
+
+And it was extremely easy, sitting in that kitchen with a form on the table, to see how the next fifty years went if he let himself off it once.
+
+So he sat down opposite his grandmother and said, "I'm not taking it."
+
+Gran Alder put the mending down.
+
+"Say the rest," she said.
+
+"You'll not like the rest."
+
+"I've not liked any of this year. Say it."
+
+"Eight shilling the month is four pound sixteen by Thaw," said Wick. "The rent's four pound four and Nead's given us till the Slack. If I sign that paper on Friday morning, we keep this farm, and Dad keeps the tenancy, and there's no fine and I'm never struck off, and you die in this house."
+
+The kitchen was quiet.
+
+"And I'm not going to sign it," said Wick, "and I want you to hear the reason from me, tonight, and not work it out later or hear it off Ma Dunnock. The reason is not that I think I'll find another way to the money. I've done the sums for two days and there isn't one. The reason is that he'd hold the Seeds for seven years, and I've got forty-two acres and about nine hundred years of work in front of me, and seven years of not being allowed to start is more than I've got to give."
+
+He made himself finish it.
+
+"So I'm choosing an empty field over your house," said Wick Alder, "and I know that's what I'm doing, and I'm not going to dress it up."
+
+---
+
+Gran Alder sat with her hands in her lap for a long moment.
+
+Then she said, "Good."
+
+"...What?"
+
+"Not *good* that you're doing it. God help you." She picked the mending back up, and her hands were not entirely steady, and she went on with it anyway. "Good that you came in here and said it in that order. You said the cost first and the reason second, and the reason wasn't a story, and you didn't tell me it'd be all right." She bit off a thread. "I've had a husband and a son and a daughter-in-law and two grandchildren, and there's not one of them ever told me a hard thing in that order, and I've done the same to all of them, so I'll not sit here being holy about it."
+
+"Gran—"
+
+"Don't." She held up the needle. "I'll be angry about the farm in a week and I'll be angry for months and you'll have to live with it, and that's fair and you'll take it. But there's a difference between a boy who does a hard thing and a boy who does a hard thing and *hides how much it cost somebody else*, and I'll not have you thinking they're the same, because the second one is how a person goes wrong and it always starts kindly."
+
+She went back to the mending.
+
+"Now go and tell your father," said Gran, "and say it in the same order, and don't you dare make it easier for him."
+
+---
+
+He went out to the yard afterward because he could not be in the house.
+
+He got about nine paces and stopped, because the ground went out.
+
+It was the second time. He knew it at once this time and it was nothing like the lane; in the lane it had been a held breath letting go and this was slower and it went on for a while, the way a field looks when a cloud comes off it — not larger, exactly. *Further.*
+
+He stood in the middle of his own yard with his hands at his sides for about a minute, and then he went in, and walked out from the middle for a hundred paces to peg one, and stood on the white down in the wind, and it was the same as it had been.
+
+He came back out and got the ledger and wrote **43** with a question mark next to it, because he had no frame and would not have a number until Rust, and a guess was a guess.
+
+Nettle was in the byre doorway.
+
+"Well?"
+
+"I told her."
+
+"And?"
+
+"She said *good*, and then she said she'd be angry for months, and both of them were true at the same time." Wick sat down on the trough. "And the ground went out again."
+
+"How much?"
+
+"Don't know. Don't care." He put his head back against the wall. "That's a lie. I care enormously. About nine tenths, I think, same as the lane."
+
+Nettle came and sat down next to him.
+
+"So what happens Friday?"
+
+"He goes down the hole at first light," said Wick.
+
+"Alone."
+
+"Alone."
+
+"And you're going to sit in this byre and let him."
+
+Wick did not answer for a long time.
+
+"He's a high Wold with four workings and fifty-two weight and fourteen years," he said at last. "And I'm nought point four with a spear. There isn't a version of this where I go down that hole and it helps him. There's only versions where he's got a boy to look after."
+
+"That's the right answer," said Nettle.
+
+"I know it is."
+
+"It's the right answer and you don't believe it."
+
+"I believe every word of it," said Wick. "I've been over it forty times and it's true every time." He looked out at the dark yard. "It's just that he's going down there because nobody in Sennet-on-Weft wanted a nine-pound writ three days from a bath, and he gets no fee and no Seed, and he's doing it because he holds a licence and there's nobody else, and if he dies on Friday morning in a hole under my village then it'll be because he was the only person in this entire country who did the correct thing all the way to the end."
+
+He rubbed his face.
+
+"And I'd have watched him do it from forty feet away," said Wick, "because a form said so."
+
+The byre was quiet.
+
+"Say it," said Nettle.
+
+"Say what?"
+
+"The thing you've been not-saying since he put the paper on the table," said Nettle. "You've done it four times tonight. You get right up to it and then you do a sum."
+
+Wick sat in the dark for a while.
+
+"I want to go down there," he said, "and it is not because of Vance, and it is not because of the village, and I have been telling myself both of those for two days. There's a nine-in-a-coat under that ford and it's got a Seed in it worth eight pound and no room in it at all, and every terrain on this Sill that's ever been planted went into somebody's nine-foot room, and I have got forty-two acres and a wall four hands high and nothing whatsoever to lose."
+
+He turned and looked at her.
+
+"That's the true one," he said. "I'm not going down there to save anybody. I'm going down there because it's the biggest thing anybody's ever going to put in front of me and there is not one other person alive who could hold it."
+
+"Right," said Nettle.
+
+Then, after a moment: "Sorry. That's yours."
+
+"Have it," said Wick. "I've got two days' worth I'm not using."
+
+
+---
+
+
+<!-- 25 chapters · 57,156 words · consolidated 2026-09-04 -->
