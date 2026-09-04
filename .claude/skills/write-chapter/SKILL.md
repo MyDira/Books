@@ -39,6 +39,11 @@ before drafting. It must name:
 
 If the brief has no turn, the chapter is not ready. Fix the brief, not the prose.
 
+**PLAN THREE MOVEMENTS, NOT TWO.** Every chapter drafted from a two-movement brief has come
+in at 1,600–2,100 words and needed a beat added afterward. A movement is a change of place,
+of company, or of question. Three of them lands at 2,300–2,800 naturally and the chapter
+breathes. Name all three in the brief before drafting.
+
 ## STEP 2 — DRAFT
 
 Write to `series/book-XX-<slug>/chapters/ch-NNN.md`.
