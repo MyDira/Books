@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 16 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 17 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -3269,5 +3269,165 @@ He picked the satchel back up.
 
 ---
 
+# Chapter 17 — The Thing He Had Been Running From
 
-<!-- 16 chapters · 36,309 words · consolidated 2026-09-06 -->
+He went and looked at it properly on the ninth of Turn, and the reason it took him a year and a half is that he had been calling it a threat, and you do not survey a threat, you watch it.
+
+Nettle put it plainly on the eighth, with her boots on the table.
+
+"You've measured two things about that seam in eighteen months. How far off it is and how long it is."
+
+"That's two more than anybody else has measured about anything."
+
+"It's two, and they're both about *you*." She was not being kind. "You've never once asked what it's made of, or what it does, or whether it's got a top and a bottom, or what happens if you put something on it. You've been doing arithmetic at it from a distance like a man counting wolves."
+
+"It's dangerous."
+
+"You don't know that," said Nettle. "That's my whole point. You've decided it, and you decided it on the night you found it, when you were fourteen and had just carried a monster into your own chest, and you have never once gone back and checked the decision."
+
+---
+
+So he went and sat on it.
+
+That was, in the end, the whole of the method, and he was faintly embarrassed about it afterward: he walked out from the middle for nine and a half paces to where the seam was, and instead of pacing it and coming away, he sat down on it, and stayed there for four hours.
+
+It was a hand across. He had known that since Gather of Y-812 and had written it down about fifty times.
+
+What he had never done was put his palms flat on it and leave them there.
+
+**It was not hard.** He had expected hard, because the rim was hard, and everything he knew about borders was the rim. It was not hard at all: it was smooth and slightly giving, like the packed floor of a byre, and it was very slightly *warm*, which nothing in that country except the warm damp had ever been.
+
+**It had a grain.** Running along its own length, both ways, too fine to see and easy to feel with the flat of a hand, like the grain in a plank.
+
+**It did not end at the surface.** He got a boot heel into the edge of it and worked at it for about ten minutes and dug up nothing whatever, because it was not laid on the salt, it *was* the salt, changed all the way down as far as he could get.
+
+He wrote all three of those down before he did anything else, because he had noticed that he stopped noticing things the moment he had a theory.
+
+---
+
+The fourth thing took him until the second hour and it was the one.
+
+Nothing grew on it.
+
+He had known that too, in the way he had known everything else: he had put a crawler Seed down on it in Gather of Y-812 and it had sat there like a pebble, and he had written *it did not take* and had underlined *everything I have ever put on that salt has taken*, and had then spent eighteen months treating that as a description of how bad the thing was.
+
+Sitting on it in Turn of Y-813 with his hands flat and his back to the middle, he heard himself say, out loud, in a country the size of a parish:
+
+"A thing that ground will not take a Seed on."
+
+And then, after about nine seconds:
+
+"That's a *fence*."
+
+---
+
+He came out at two in the morning and got Nettle up, which she was extremely rude about and then was not.
+
+"Say it again."
+
+"There is one thing in the whole of the Sill that will stop a terrain and I have got thirty-one thousand paces of it."
+
+"Slower."
+
+"A patch grows out from itself. All of them do — that's the whole of this year, that's the seep, that's the pegs, everything grows." He was standing in the middle of the room with his hands out. "So what stops it? What stops any of it? Nothing. Nothing has ever stopped any of it. Ninefinger's burn ate his flint in three years because there was nothing in the Rakes to stop a terrain either."
+
+Nettle sat up in the straw of the mattress with her hair on end.
+
+"And the seam stops it."
+
+"The seam is the *only thing anybody has ever found* that stops it." Wick got the ledger. "You can't plant on it. I've tried, twice, eighteen months apart. It's a hand across and it goes all the way down and it doesn't wear out and it doesn't need feeding and it's been running since Gather of last year without one single thing from me."
+
+"That's a wall."
+
+"That's a *wall*," said Wick Alder, "and I have got thirty-one thousand paces of wall in a country where I have spent two years trying to build twenty-eight paces of one by walking round a puddle in the dark."
+
+---
+
+The trouble arrived about four minutes later, as it always did, and Nettle found it before he did because she was better at finding the trouble.
+
+"It's not yours."
+
+"...No."
+
+"You didn't build it, you can't steer it, and you don't know why it goes where it goes." She counted it off. "And it's growing at double every three weeks, and you have just told me the one thing it definitely does is *make ground where nothing can ever grow again*."
+
+"Yes."
+
+"So every pace of new wall is a pace of your country you can never use." She looked at him. "You've spent a night discovering that the thing eating your ground is a very good fence. Which is true. And it is eating your ground."
+
+Wick sat down on the end of the bed.
+
+"I know," he said. "I worked that out at about the third hour and I sat on it for another one anyway, and I'll tell you why, and you're going to say it's not enough.
+
+"For eighteen months that thing has been a *countdown*. It's been the last line of every column and the thing I go and check before I sleep, and Pell said in Dust that it doesn't know I'm there and I have never once managed to believe him.
+
+"And tonight I sat on it for four hours and found out it's warm, and it's got a grain, and it's the only fence in the world.
+
+"That's not nothing. That's the first time since Gather of last year I've looked at it and seen a *thing* instead of a clock."
+
+---
+
+Nettle got out of bed, and put the kettle on, and did not say it was not enough.
+
+What she said, at about half past three, with two cups, was:
+
+"Right. Then here's the question, and it's mine, and I want it written down with my name on it because you'll forget where it came from.
+
+"You have got a fence you did not build, running everywhere, that you cannot steer.
+
+"And you have got — how many patches?"
+
+"Eight. Warm damp, the down at the middle, six pegs."
+
+"Eight patches that grow out from themselves and never stop, in a country where nothing has ever stopped one." Nettle blew on the cup. "And the fence goes where it likes, and the patches go where they like, and neither of them has ever taken the slightest notice of the other.
+
+"So what happens when they *meet*?"
+
+Wick put his cup down.
+
+"They haven't," he said slowly. "Not once. Eighteen months. The seam started fifteen paces out from the middle and it's come in to nine and a half, and the warm damp is ten and three eighths across, which is five and three sixteenths from the middle—"
+
+He stopped.
+
+He did the sum again, out loud, and got the same answer, and looked up.
+
+"Nine and a half," he said. "The seam's at nine and a half paces from the middle. The rim's at five and three sixteenths.
+
+"It's four and a quarter paces from my wall."
+
+---
+
+They sat in a rented room over a chandler's at four in the morning with the candles going and did not say anything for a while.
+
+"How long?" said Nettle.
+
+"At the inward rate?" Wick was already writing. "Eleven years. Pell said eleven years on the steps and I checked it and he's right."
+
+"And how fast is the rim coming out?"
+
+And Wick Alder stopped with the charcoal in the air, because in eighteen months of measuring the distance from the middle to the seam, and eighteen months of measuring the width of the warm damp, he had never once put the two columns on the same page.
+
+The seam was coming in at about a twentieth of a pace a night and slowing.
+
+The warm damp had been growing at three quarters of a pace a season since Dust, and speeding up, because of a seep that got longer as it went.
+
+He did it four times because one is a guess.
+
+"Two years," he said. "Maybe eighteen months."
+
+"That's not eleven years."
+
+"That's not eleven years, because Pell was doing the sum I gave him." Wick's voice had gone strange. "He was working out when *it* gets to *me*. Nobody's done the other one. My wall is going out to meet it and it's going out faster than it's coming in, and in about two years the only fence in the world and the only wall I've ever built are going to touch, and I have got no idea whatsoever what happens then."
+
+Nettle put her cup down.
+
+"Write it on my list," she said.
+
+> *8. What happens when the wall meets the fence?*
+> *(His. But I asked it. — A.F.)*
+
+
+---
+
+
+<!-- 17 chapters · 37,965 words · consolidated 2026-09-06 -->
