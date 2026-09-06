@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 14 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 15 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -2973,5 +2973,153 @@ She stood up.
 
 ---
 
+# Chapter 15 — The Seep
 
-<!-- 14 chapters · 33,064 words · consolidated 2026-09-06 -->
+The second chalk-hound Seed cost eighteen shillings, and Nettle went up the barrows alone for it because Wick was on a three-day job for Vance, and she came back with it and one bad ankle and a great deal to say about the state of the drove in High.
+
+He put it on the table between them on the twenty-fourth.
+
+"Right," he said. "Here's the whole of it before I do anything, and if there's a hole in it I want it now and not on the salt."
+
+"Go on."
+
+"White down reach is somewhere under three hundred paces, because peg one and peg two have sat three hundred apart for a year and stayed two things.
+
+"So I put this at the **middle**. That's a hundred paces from peg one and four hundred from peg two, and nothing else of that kind anywhere near.
+
+"If reach is a hundred or more, it goes to peg one and I've wasted your eighteen shillings and I'll have learned that reach is over a hundred, which is worth something and is not worth eighteen shillings.
+
+"If reach is under a hundred, it makes a **new patch, at the middle, touching the warm damp**, and I have got two of my own grounds against each other for the first time in my life."
+
+Nettle turned the Seed over with one finger.
+
+"And you don't know which."
+
+"I don't know which and I'd rather say so."
+
+"Then that's an experiment," she said, "and the one in High wasn't, and you can have my eighteen shillings."
+
+---
+
+It made a new patch.
+
+He knelt at the middle with the warm damp steaming round his knees and put it down on the salt a pace clear of the wet, and it did not go anywhere.
+
+It took, instead: the ring going out slow from under his hands, and the pale ridged salt turning to short white turf over chalk, and a wind starting up that had not been there, in a place where there had never been any wind at all.
+
+**Four paces across.** Smaller than any peg he had planted; he wrote that down and did not know what it meant.
+
+And on one side of it, a pace away and steaming, the warm damp.
+
+Wick sat down on the salt between his own two grounds and looked at the gap between them, which was about a pace of bare ground, and worked out that it would close in something under two months at the rate they had both been growing, and that he would have to wait.
+
+Then he went and did three days of tallow-crawlers for Vance and did not wait well.
+
+---
+
+They touched on the eleventh of Dust and he was there when it happened, because he had been going in every night to check, and Nettle had begun making a noise about it.
+
+There was no drama. The wet ground came out along its own edge about the width of a thumb, the way it had been doing all summer, and the white turf came the other way, and at about two in the morning the bare salt between them was gone.
+
+Wick lay flat on his stomach with his cheek on the ground, which he had not done since a gravel bar at the ford when he was fourteen, and watched a border be four inches long.
+
+Nothing happened for nine days.
+
+He wrote that down too, because he had been keeping the failures since Doreth said so.
+
+> *Dust 11: they touch. Border ~4 inches.*
+> *Dust 12–19: nothing. No rim. No hardness. No anything.*
+> *I have checked it every night and I have been an idiot every night, because a rim on the salt took SIX NIGHTS to show and this is not salt.*
+
+On the twentieth there was water.
+
+---
+
+It came out of the chalk.
+
+That was the whole of it and it was so ordinary that he nearly missed it. He came out to the border on the twentieth to do his nightly bit of being an idiot, and the four inches was about two feet by then, and along the bottom of the white turf where it met the wet there was a dark line, and the dark line was **seeping**.
+
+Not a spring. Nothing gushed. It came out the way water comes out of a chalk bank in the Loam in Thaw: slowly, continuously, cold, from everywhere along the line at once, and it ran about a hand's width into the warm damp and soaked away.
+
+Wick put his fingers in it and then sat back on his heels and laughed out loud in a country where nothing has ever laughed.
+
+He knew this. Every child in the Loam knows this. Chalk takes water in at the top of a down and lets it out at the bottom of one, slowly, all year, and that is why you site a village at the foot of a chalk hill and not on top of it, and it is why the Wickwater runs in Dust when everything else is a ditch.
+
+He had planted a downland next to a wet place and the downland had done what downland does.
+
+"You're a *hill*," he said, to four paces of white turf. "You've been a hill the whole time. I've had six of you for a year and I've been treating you like a *number on a survey line*."
+
+---
+
+The measurements took him eleven days and they were the best eleven days of his life to that point.
+
+**The seep runs continuously.** It does not stop. It has not stopped since the twentieth of Dust.
+**It feeds the warm damp.** He measured the damp on the first of every month, as he always had:
+9½ (Seed) · 9⅝ (Green, after the crawler Seed) · 9¾ (High) · **10⅜ (Turn).**
+Nearly three quarters of a pace in a season, and he had planted nothing into it.
+**The border lengthened faster than either patch grew**, because two circles growing into each other make a chord, and a chord gets longer much faster than either circle does, and Nettle drew that for him on the table with two cups and made him watch.
+
+And on the fourth of Turn, sitting on the wet edge of it with his hands in a cold seep, he did the thing he had been not-doing for eleven days and put the wet on his own forearm and pulled it back.
+
+The crust set.
+
+And then, about nine seconds later, while he was still looking at it, **it went soft again**, because there was water coming out of a hill a foot away and it had nowhere else to be.
+
+Wick sat in his own country with a hand full of wet salt.
+
+"Oh," he said. "You can *undo* it."
+
+---
+
+The Register entry cost four shillings and it was his second, and Sarrow took it standing up.
+
+> **REGISTER OF WORKINGS — ENTRY 411,644**
+> Subject: Wick Alder, of Hollow Alder, the Loam. Hearth (on the boundary).
+> **3. The Alder Second Setting.** *Common name: the seep.* Class: **Confluence.**
+> Seat: the border of *warm damp* and *white down*, at the middle. Length at entry: 2 paces.
+> Effect: continuous slow release of water along the border. Does not cease. Feeds the
+> adjoining terrain at approximately ¾ pace per season, unfed by Seed.
+> Secondary: a set crust laid within one foot of the border **reverts** in ~9 seconds.
+> Cost: **none.** The working is not performed. It is the border, and it runs whether the
+> subject attends to it or not.
+> Entered by: H. Sarrow, Registrar of Workings, Marrowfield.
+
+"Cost: none," said Sarrow, and read it again, and put the pen down. "In thirty-four years I have never written that."
+
+"It's not a thing I do."
+
+"No," said Sarrow. "It is a thing that *is*, and there is no box for that either, and I am going to have to write another memorandum, and Coel is going to have a very bad Tuesday."
+
+He blotted it.
+
+"Nineteen shillings gone of your twenty entries," he said. "Sixteen left. Spend them on the ones that frighten you."
+
+---
+
+Wick came out onto Cross Street on the sixth of Turn with a receipt in his hand and stood in the road doing arithmetic, and Nettle waited, because she had learned that this was faster than asking.
+
+"Three quarters of a pace a season," he said. "Off one border, four inches long when it started."
+
+"And?"
+
+"And the border's two paces now and it's going to be six by Dark, because of the chord." He was going faster. "And the seep runs off the *length* of it. Longer border, more water, faster growth, and faster growth makes a longer border."
+
+Nettle stopped walking.
+
+"That's not a line," she said.
+
+"No."
+
+"That's the thing you shouted at me about in Deep. With the folding paper. That's a—"
+
+"It's the same shape as the seam," said Wick.
+
+He was standing in the middle of Cross Street with a cart trying to get past him.
+
+"It's exactly the same shape as the seam," he said. "It's the same shape and it's the same *rate*, and I have been measuring one of them since Gather of last year and calling it a countdown, and I have just built the other one on purpose out of two Seeds and eighteen shillings of your money."
+
+
+---
+
+
+<!-- 15 chapters · 34,635 words · consolidated 2026-09-06 -->
