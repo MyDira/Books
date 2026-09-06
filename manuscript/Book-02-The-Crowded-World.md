@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 21 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 22 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -4046,5 +4046,160 @@ She picked a flake of salt off her sleeve.
 
 ---
 
+# Chapter 22 — Four Hundred Yards
 
-<!-- 21 chapters · 44,662 words · consolidated 2026-09-06 -->
+*(Nettle)*
+
+She went on the twenty-fourth of Rust at half past six in the evening, and she went round the side, past the coal chute and the stack of empty crates, and she stood on the bootscraper shaped like a dog for about four seconds and then knocked.
+
+Four seconds. She had counted, because she had spent an hour and eleven minutes deciding what her number was going to be and had settled on *whatever it turns out to be, and no going back up the alley to start again*.
+
+Bri opened the door.
+
+"Dor," she said, over her shoulder, in a completely ordinary voice, "it's Annet," and then, to Nettle, "she's got a pan on, come in and don't stand in the light."
+
+---
+
+Doreth Faring did not turn round.
+
+She was at the bench with her back to the door and both hands going, and she said, "Sit down, I've four minutes on this," and Nettle sat down on the stool by the coal chute — Wick's stool, though she did not know that — and her mother finished the four minutes.
+
+It was the longest four minutes of Nettle's life and she had spent one of them under a chalk-hound in Dust.
+
+Then Doreth lifted the pan off, and set it on the stone, and wiped her hands, and turned round.
+
+They looked at each other across about nine feet of workshop.
+
+"You've got wet feet," said Doreth Faring.
+
+"It's raining."
+
+"Mm." She got a cloth off the rail and threw it, and Nettle caught it, and dried her hair with it because it was easier than not.
+
+---
+
+She had rehearsed four openings and had discarded three of them in the alley and used none of the four.
+
+What she said was: "I've got something to show you and it's work, and I want to do that first, because if we do the other thing first I'll not manage the work."
+
+Doreth Faring stood absolutely still for a moment.
+
+"Right," she said.
+
+And then, and Nettle was not ready for it and had to look at the floor: "Bri. Get the good lamp."
+
+---
+
+She showed her the shell.
+
+Wick had cast it that afternoon on the back of her right hand and up the wrist, thick, and had done it four times until it went on to her satisfaction, and had then gone and sat in the Hall for three hours and had not asked her one single question about where she was going.
+
+Doreth took her daughter's hand in both of hers and turned it over under the good lamp and looked at it for about two minutes without saying anything.
+
+Then she said: "Who set this."
+
+"Wick Alder."
+
+"How."
+
+"He's got a border in him between a wet ground and a dry one, and he can put the wet on a thing and pull the water back out, and what's left sets." Nettle heard her own voice go steady, and was grateful for it. "It's in the Register. It's called the crust. Class Confluence, entered under protest of the form in Seed."
+
+"I know what class Confluence is," said Doreth Faring, "and I have known since I was nineteen, and I have never once seen a person do it."
+
+She turned the hand again.
+
+"It's got a grain," she said. "Look at that. It's running with the bone."
+
+"He says it always does. He doesn't know why."
+
+"No," said Doreth. "Nor do I." She put the hand down. "And what do you do with it?"
+
+"I strike through it."
+
+---
+
+She told her the whole of it, standing in the middle of the workshop with the lamp on the bench, and she did not once soften any of it, and about halfway through she noticed that she was talking to her mother the way she talked to Wick.
+
+The sphere. The three inches. The half of every strike she had put into the air behind her hand since she was fourteen. The shell, and the wall, and the trough that had gone over sideways, and eleven shillings the Hall had made them pay for it, and the iron band eleven feet up in the mortar.
+
+Bri, by the door, said, "*Eleven feet?*" once, and Doreth said, "Hush," and Bri hushed.
+
+At the end of it Doreth Faring sat down on the bench, which she did not do while she was working, and put her hands on her knees.
+
+"Say the last bit again," she said.
+
+"It only works because I haven't got a boundary."
+
+"Yes. That bit."
+
+"It only works because I haven't got a boundary," said Nettle. "The strike goes out until it's spent instead of going out until it hits an edge, and I've got no edge, so it goes in every direction, and half of it's wasted — and if you put a wall on one side of it, it doesn't waste."
+
+Her mother looked at the floor for a long moment.
+
+"Six years," said Doreth Faring.
+
+"Yes."
+
+"Six years, and four reassessments, and I sat in this room and watched four different clerks write *Ember* on a chit and tell you the two feet was the trouble, and I *agreed with them*." She was not crying and did not look near it; her voice had simply gone very flat. "I have got twenty-two years and a licence and I agreed with them every single time, and the one thing I know how to do in this world is find the place where a thing stops being one thing and starts being another, and I did not once think to look at my own daughter."
+
+"You couldn't have—"
+
+"I could have looked," said Doreth. "That is the whole of what I could have done and it is not nothing and I did not do it."
+
+---
+
+There was a long quiet.
+
+Bri, from the doorway, said, "I'm going to go and stand in the alley," and Doreth said, "You'll do no such thing, you'll put the kettle on," and Bri put the kettle on, and that was the whole of it, and Nettle sat down on the stool.
+
+They did not talk about Thaw.
+
+Nettle had known they would not, at about the second minute, and had made her peace with it somewhere around the tenth. Her mother did not raise it and she did not raise it and neither of them was pretending; it sat in that room the entire evening like a chair nobody used.
+
+What they did instead, for about two hours, was talk about the shell.
+
+Doreth wanted to know how thick. How long it lasted. Whether it cracked at the knuckle every time or only when she flexed. Whether it went on cold or set cold. Whether it would take on a *palm* — "because you are putting the wall on the back of your hand and striking forward, and I want to know what happens if you put it on the front and strike backward, and I want you to be somewhere with nothing behind you when you find out."
+
+And at about nine o'clock, without any change in her voice at all, she said:
+
+"You'll want it thicker at the wrist and thinner over the knuckle."
+
+"He does it even."
+
+"Then he's doing it like a man who has never fitted anything," said Doreth Faring. "A joint moves and a shell doesn't, and if you set the same thickness across a joint the joint breaks it every time, and you will spend the rest of your life getting one strike out of a shell instead of four.
+
+"Tell him: thick at the wrist, thin over the knuckle, and *nothing at all* across the back of the first joint. Leave it bare. It'll look wrong and it'll hold three times as long."
+
+Nettle sat on the stool by the coal chute and wrote it on the back of her own hand in pencil, because she had not brought anything to write on.
+
+---
+
+She got up to go at about half past ten.
+
+At the door, with her coat on, she said the only thing she had planned in the alley and had not yet used.
+
+"I'm not sorry."
+
+Doreth Faring, at the bench, with her back to her, said, "No."
+
+"I meant it. In Thaw. I still mean it, and I'm not going to say I don't, because I'd be lying and you'd know inside four seconds."
+
+"I would."
+
+"So I'm not sorry, and I'm — " Nettle stopped, and made herself finish it, because she had walked four hundred yards. "I'm sorry it was *you*. That's the bit. I'd say that one at eighty."
+
+Her mother did not turn round.
+
+"That'll do," said Doreth Faring.
+
+Then, when the door was open and the rain was coming in: "Annet."
+
+"What."
+
+"Chalk-hound, thick at the wrist. And tell him if he ever wants to know what a seat looks like from the other side, he can come and put his hands on one, and I'll pay him a shilling an arm, and he is not to tell the Concord and neither am I."
+
+
+---
+
+
+<!-- 22 chapters · 46,184 words · consolidated 2026-09-06 -->
