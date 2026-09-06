@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 12 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 13 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -2553,5 +2553,121 @@ He wrote underneath it:
 
 ---
 
+# Chapter 13 — Reach
 
-<!-- 12 chapters · 28,469 words · consolidated 2026-09-06 -->
+He planted it on the seventh of High, two paces off the edge of peg one, on bare salt, at about eleven at night, and he had the answer inside a minute and it was not the answer to the question he had asked.
+
+He knelt on the salt with the Seed in his palm and ran through it one more time, out loud, because saying a thing out loud had caught four mistakes for him since Green.
+
+"Chalk-hound Seed. Two paces clear of peg one. If it makes a *new* patch, then two patches of the same kind can sit side by side, and they'll grow into each other, and in about a season I'll have a border between two grounds that are both mine, and I'll go and look at what happens there.
+
+"If it doesn't make a new patch, then—"
+
+He stopped, because he had not actually finished that sentence in three days of building this, and he heard himself not finish it, and made himself do it.
+
+"—then I've wasted two shillings of somebody else's writ and I still don't know."
+
+He put it down.
+
+---
+
+It went.
+
+He felt it the way he had felt the crawler Seed go on the tenth of Green: a travelling, out of his hand and away, and not fast, and he counted, and it was under two seconds.
+
+And two paces away, peg one got bigger.
+
+He was on his feet before he had thought about it. He paced the patch four times from four bearings and it came out **ten and a quarter** where it had been nine and three quarters that morning, and the new half-pace had come out toward him, on the side where he had put the Seed down.
+
+Wick stood on white downland a hundred paces from the middle of himself in a wind that blew nowhere else and said, "Oh, you've *got* to be —" and did not finish that one either.
+
+Two shillings. Nettle's writ. Four hounds and a twenty-foot chalk cliff and a bite that had gone through a shell on his left forearm and left two grey marks under it.
+
+And it had gone into the patch he already had, exactly the way the crawler Seed had gone a hundred paces to the middle, exactly the way the rule in the ledger had said it would since Long of Y-812, and he had known the rule and had built three days of experiment on top of a hope that it might not apply.
+
+He sat down on the turf.
+
+Then he got the ledger out and wrote the failure up properly, because Doreth Faring had said something in a doorway about four hundred failures being worth more than the successes, and he had been thinking about it for a fortnight.
+
+> *Failed. Chalk-hound Seed, 2 paces off peg one, High 7. Went into peg one. 9¾ → 10¼.*
+> *I knew the rule. I built on top of hoping it was wrong. That is not an experiment.*
+
+And then, underneath, in a different hand, because he had got up off the turf and walked about four paces and stopped:
+
+> *Except.*
+
+---
+
+Here is the thing he had been looking at for a year without once seeing it, and it took him about nine seconds on a patch of white down at eleven o'clock at night.
+
+**Peg one is white down. Peg two is white down. They are three hundred paces apart and they are two separate patches.**
+
+He had planted them eight days apart in Dust of Y-812 with two Seeds out of the same bag, cut out of the same pack on the same hill by the same knife within an hour of each other, and they had not merged. He had six of them. Six separate patches of the same terrain, standing out across his country at a hundred, four hundred, a thousand, three thousand, eight thousand and twenty thousand paces, and every single one of them had stayed its own thing for a year.
+
+And tonight a seventh Seed of that exact kind, put down **two paces** from peg one, had gone into peg one.
+
+He said it out loud to a hundred paces of empty salt.
+
+"It's not *same kind*. It's *near*."
+
+---
+
+He worked it for three hours on his knees with the ledger and got a shape, and the shape was the best night's work he did that year.
+
+If a Seed goes to the nearest patch of its own kind within some distance, and makes a new patch beyond that distance, then there is a **reach**, and a reach is a number, and he had been running experiments on it by accident since he was fourteen.
+
+> **What I already know, and have known for a year, and have never once put next to itself:**
+> *Crawler Seed at 100 paces → went to the warm damp at the middle. So warm damp reach is **at least 100.***
+> *Chalk-hound Seed at 2 paces → went into peg one. So white down reach is **at least 2.** (Useless. But it is a bracket.)*
+> *Peg one and peg two are **300 apart** and have stayed separate for a year. So white down reach is **less than 300.***
+> *Pegs two and three are 600 apart. Separate. Consistent.*
+> *So: **white down is somewhere between 2 and 300.** Warm damp is **over 100.***
+> *THESE ARE DIFFERENT TERRAINS AND THEY MAY HAVE DIFFERENT REACH.*
+
+He looked at that last line for a long moment and then wrote under it:
+
+> *Nobody has ever needed this number. In a nine-foot room everything is within two paces of everything. Reach has never mattered to a single person who has ever lived.*
+
+---
+
+The frightening part came at about two in the morning and it came from the wrong direction entirely.
+
+He had been thinking about how to narrow the bracket — you would need Seeds, and spacing, and about eleven of them, and it would cost four pound and two years — and he was doing the arithmetic on that when his own handwriting from Green caught his eye further up the page.
+
+> *The seam is a border. It is nothing else.*
+> *Everything I have just learned is about how fast an edge grows.*
+
+Wick put the charcoal down.
+
+Because the seam was not terrain. He had written that in Green and had been quietly pleased with himself for it. The seam was *the line where terrain meets terrain*, and there was nothing else to it, and it had been getting longer at something like double every three weeks since Dark.
+
+And a thing with no terrain in it has no *kind*.
+
+And a thing with no kind cannot go to the nearest patch of its own kind, because there isn't one.
+
+And it had started fifteen paces from the middle, in bare salt, a hundred paces from peg one and twenty thousand from peg six, in ground he had spent a year calling **empty**.
+
+He sat in a rented room over a chandler's on Cross Street at two in the morning and worked out, slowly, and checked it twice, that he had been asking the wrong question about it since Gather.
+
+He had been asking *how fast is it coming at me*.
+
+The question was **what is it growing along**.
+
+> *42. It is not travelling through empty ground. There is no empty ground.*
+> *A crawler Seed crossed 100 paces of "nothing" in eleven seconds and arrived at the right place without being told.*
+> *The salt carried it.*
+> *THE SALT IS A TERRAIN. It is forty-three acres of one terrain and I have called it empty since I was fourteen because there is nothing IN it.*
+> *And if the salt is a terrain, then the seam is not crossing my country.*
+> *It is growing along a border it already has.*
+
+He read that four times.
+
+Then he went and got Nettle's apple off the windowsill and ate it, which she complained about for a week, and lay down on the floor by the stove and did not sleep, and at about four he got up again and added the line that turned out to be the whole of Book Two.
+
+> *WHAT IS THE SALT FLAT'S BORDER WITH?*
+
+
+---
+
+
+<!-- 13 chapters · 29,843 words · consolidated 2026-09-06 -->
