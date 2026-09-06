@@ -2515,8 +2515,43 @@ Nettle took the hat off her face.
 
 "Then you'd better be right about the borders," said Nettle, "because there is nobody left in this country to be wrong at."
 
+---
+
+The Hall paid out at the counter on the sixth, and it paid them separately, because the return had two names on it and two rates.
+
+Nettle first. Four chalk-hounds at two shillings the Seed, and the three-shilling standing bounty, and two days: **eighteen shillings**, counted out in silver, with the clerk saying *thank you, Faring* at the end of it the way he said it to everybody.
+
+Then Wick.
+
+"Alder. Hired person, two days. Eight shilling."
+
+Eight shillings is not nothing. It was more than he had made in the five days before it. He signed the book with the mark he used because his signature was slow, and took the coins, and said thank you, and stood aside.
+
+And the clerk, who was not being cruel and had never once been cruel to him, turned the page and said to the room in general, "Anyone else on the fourth?"
+
+There was one more thing.
+
+It came from behind him, from the long table, in a perfectly ordinary voice, and Wick did not know which of them said it and never found out.
+
+"That's the salt lad, is it. On the *boundary*."
+
+And somebody else said, "Aye," and that was all, and the conversation went on to something about a gate.
+
+---
+
+Nettle bought bread on the way back and did not mention it, and Wick did not mention it, and neither of them mentioned it that night or ever.
+
+What he did instead, at about eleven, with the chalk-hound Seed on the table in front of him in a twist of oilcloth, was get the ledger out and turn to the loop he had drawn a circle round in Green.
+
+He wrote underneath it:
+
+> *I keep writing this down as though the loop is the problem.*
+> *The loop is not the problem. The loop is a fact, like thin ground.*
+> *Nobody has ever got out of thin ground by resenting it. Gran didn't. Dad didn't. They put a wall round nine paces of it and grew what would grow.*
+> *STOP LOOKING AT THE LOOP. Plant the Seed.*
+
 
 ---
 
 
-<!-- 12 chapters · 28,121 words · consolidated 2026-09-06 -->
+<!-- 12 chapters · 28,469 words · consolidated 2026-09-06 -->
