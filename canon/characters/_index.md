@@ -36,3 +36,7 @@ return.*
 | Tarrow | line only | Hall runner, 9 yrs; sold Bri's address for 2s | B02 c02 |
 | Marrin | line only | 17, Hearth in full at 2.1, 9s a day, friendly, cannot read a profile | B02 c01/c06 |
 | Corse | line only | reads the Register entries aloud at the Hall on the second of the month | B02 c06 |
+| Under-Warden Coel | `coel-and-sarrow.md` | Grafters' Concord, Fell Street chapter | B02 c09 |
+| Registrar H. Sarrow | `coel-and-sarrow.md` | Register of Workings, Marrowfield | B02 c05 |
+| Ilsa Moon | line only | Registrar, Marrowfield; ran the challenge re-test | B01 c13 / B02 c24 |
+| T. Corse | line only | Hearth in full, 31 yrs licensed; reads the entries aloud on the second | B02 c06/c19/c24 |

@@ -122,10 +122,12 @@ def run(files):
 
     # --- verbal furniture ownership ----------------------------------------
     print(f"\n  VERBAL FURNITURE (ownership must hold)")
-    for tok, owner in (('"Right', "Wick"), ('"Mm', "Gran"), ('"Course you did', "Tam")):
+    # standalone forms only: a whole speech, nothing after it
+    for tok, owner in (('Right', "Wick"), ('Mm', "Gran"), ('Course you did', "Tam")):
         rows = []
         for f, t in texts.items():
-            for m in re.finditer(re.escape(tok) + r'[.,"][^\n]{0,70}', t):
+            for m in re.finditer(r'^"' + tok + r'[.!]"(?:\s+(?:said|she said|he said)[^\n]{0,40})?$',
+                                 t, re.M):
                 rows.append((os.path.basename(f), m.group(0)[:72]))
         print(f"   {tok}…' → {owner}: {len(rows)}")
         for f, r in rows:

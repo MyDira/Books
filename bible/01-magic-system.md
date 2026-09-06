@@ -150,6 +150,40 @@ three, it is a cheat and the power-auditor will say so.
   ground between is continuous. This is what produces Farsense.
 - **Wold** — the Verge steps outside the skin. Requires walls that can be *carried*.
 
+### ⚠ EDGELESS HOLDS — the second exception
+*(Amended B02. See `canon/continuity-log.md`. Parallel in status to § WHAT A RANK ACTUALLY IS.)*
+
+Section 2 says: *below Wold rank, the Verge stops at the skin.* That is true of every Hold
+that has a boundary, which is every Hold anybody has ever assessed but one.
+
+**A working comes out at the Verge and is shaped by it.** The boundary is what makes a
+working stop; it is also what makes a working *directional*. This has never needed saying,
+because a nine-foot room has walls and the walls are at the skin.
+
+**Annet Faring has no boundary at all.** Not a small one — none. Her two feet of strike-glass
+stops the way the world stops: no rim, no lip, nothing on the other side. Consequences,
+established on the page in B02 c014 and c021:
+
+1. **Her working does not stop at the skin, because there is nothing there to stop it.**
+   It goes out until it is *spent*. Her three inches is not a reach; it is seven and a half
+   weight running out.
+2. **It has no direction.** It leaves in every direction at once, and about half of every
+   strike she has ever made went into the air behind her hand.
+3. **She cannot be graded past Ember by any threshold test**, because every threshold from
+   Hearth upward is a test of a boundary and there is nowhere to apply the load. Her
+   *coherence: true* is not an achievement; it is a tautology — one terrain, nothing to
+   argue with. Four registrars recorded it as a grade for six years.
+4. **A borrowed wall works.** A shell of set salt laid on the back of the hand (Wick's
+   *crust*) gives the strike one direction, and the output is a Wold's worth of work, once a
+   day, at a third of her total and a third of his. **This is a two-person working and there
+   is no box on any form in the Sill for one.**
+
+**AUTHOR'S RULES.** (a) This is not a power-up: her Hold is exactly what it was and will be
+at eighty. (b) It works *because* of the deficit, and the series must never quietly convert
+the deficit into an advantage that stops costing. (c) An institution must eventually notice
+that an Ember is working three inches off the skin — the Ledger has flagged less. Carry that
+as a live thread, not as background.
+
 ### THE FIRE
 Every Hold opens with a fire in it. The taper does not light it; the taper is a formality.
 What lights it is the Wild present at the moment of kindling, condensing at the middle of

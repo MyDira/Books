@@ -151,6 +151,20 @@ him ("counting… instead of a plan", "lists… instead of a temper", "writing t
 instead of understanding them"). **Keep one per series.** It is a signature and signatures
 should be rare.
 
+## "RIGHT." — STANDALONE vs CONNECTIVE (refined, B02)
+The blanket rule *only Wick may say "Right."* proved unworkable across two books: it is an
+ordinary English discourse marker and banning it outright forces stilted dialogue. It kept
+being violated, by me, in every audit. The workable rule is:
+
+- **`"Right."` as a complete standalone line — a whole speech, nothing after it — is WICK'S.**
+  It is the sound of him accepting a fact and starting work, and it is a naming device.
+  Nobody else gets it un-lampshaded. (Nettle takes it once, deliberately, in B02 c002, and
+  Wick says *"That's mine"* in the next line. That is the model: a theft that gets caught.)
+- **`"Right, ..."` or `"Right. Then ..."` as a CONNECTIVE inside a longer speech is anybody's.**
+  Corse, Vance, Doreth and Nettle all use it that way and it reads as ordinary speech.
+
+`tools/tics.py` checks the standalone form only.
+
 ## "RIGHT." — OWNERSHIP AND STAGING
 "Right" as a full sentence is **Wick's**, and it is the sound of him accepting a fact and
 starting work. Therefore:
