@@ -2662,12 +2662,97 @@ The question was **what is it growing along**.
 
 He read that four times.
 
-Then he went and got Nettle's apple off the windowsill and ate it, which she complained about for a week, and lay down on the floor by the stove and did not sleep, and at about four he got up again and added the line that turned out to be the whole of Book Two.
+Then he went and got Nettle's apple off the windowsill and ate it, which she complained about for a week, and lay down on the floor by the stove and did not sleep, and at about four he got up again and added the line that everything after it came out of.
 
 > *WHAT IS THE SALT FLAT'S BORDER WITH?*
+
+---
+
+Nettle read it at seven in the morning with her hair on end and took it apart in about four minutes, which was what he had wanted and was still not pleasant.
+
+"Your bracket's rubbish."
+
+"Which bit."
+
+"*Less than three hundred.*" She put her finger on it. "You've got peg one and peg two three hundred apart and separate. That tells you reach is under three hundred **at the time you planted peg two**, which was Dust of last year, when peg one was nine paces across and had no rim on it."
+
+Wick stopped with the bread halfway to his mouth.
+
+"They've all grown," said Nettle. "You told me that yourself in Green. Nine to nine and three quarters, seven to seven and a half, the lot of them. So if reach goes with the size of the patch, and I have no idea whether it does and neither have you, then the bracket you have written down is a number about a thing that does not exist any more."
+
+"...Right."
+
+"And there's a worse one." She turned the ledger round. "Peg one is ten and a quarter now, because you fed it last night. You have made the one patch you were measuring *bigger* in the middle of measuring it."
+
+"I know," said Wick. "I knew at about midnight and I have been trying not to look at it."
+
+"Good. Look at it." Nettle bit her own bread. "You have spoiled the experiment, and you have spoiled it in a way that tells you the experiment was worth running, and those are two separate facts and you get to be pleased about exactly one of them."
+
+---
+
+He went to Fell Street on the ninth and told Under-Warden Coel that he was not taking the indenture.
+
+It took four minutes, and he said the true reason, and he said it in the order Gran would have said it, which was the cost first.
+
+"I would get four hundred failures and forty shillings a month and a bond waived on record, and I would be a journeyman in three years, and I have got a ledger and one chalk-hound Seed I have just wasted, and I know exactly what I am turning down.
+
+"And I am not taking it because of the second clause. Doreth Faring said I would break it inside a year and she is right. Nettle would ask me how a boundary is made and I would tell her, and I would know I was going to when I signed, and I have done that once before with a promise I made to a tree, and I have had a year of it."
+
+Coel heard the whole of it without moving.
+
+"You have thought about it properly," he said at last, "and you have given me the honest reason and not a flattering one, and I am going to tell you that I would rather have this answer than a yes I have to police."
+
+He stood up.
+
+"And I am going to tell you the other thing, because I said I would be entirely straight with you and I am not going to stop now that you have said no.
+
+"You are going to work this out anyway. I said that at the start and I meant it. And now you are going to do it in public, in a Ledger register, at four shillings an entry, because that is the only place you can put a thing down.
+
+"And every time you enter one, the Concord is going to have a conversation about whether a boy outside our charter is practising our principle, and I am going to be in that conversation, and I am going to be arguing your side, and I want you to know that I will not always win it."
+
+"What happens if you lose?"
+
+"Nothing dramatic. Nobody comes to your door." Coel walked him to it. "The Concord writes to the Ledger, and the Ledger writes back, and it goes on for about nine years, and at the end of it there is either a new box on a form or there is a rule that says a working of the class Confluence may only be entered by a licensed Grafter.
+
+"And if it is the second one," said Under-Warden Coel, "then the entry you already have stands, because it was made before the rule. And the next one does not."
+
+---
+
+Wick walked back down Fell Street and stopped outside the green door with the bootscraper shaped like a dog, and did not knock, and this time it was not cowardice; there was a pan on and he could hear it.
+
+He stood there for about a minute working out what he had just been told.
+
+Not *stop*. Not *we will make you stop*. Something much slower and much more like weather: that there was a clock on how many of these he could write down, and nobody knew what the number was, and it might be nine years and it might be two.
+
+He got the ledger out on the corner of Fell and Cross, standing up, in the street, which he had never done before.
+
+> *43. Coel says there may be a rule in ~9 yrs that only a Grafter may enter Confluence.*
+> *Entries made before a rule stand. Entries after do not.*
+> *So everything I find has to be WRITTEN DOWN AND FILED, not just known.*
+> *Four shillings each. I have four pound two.*
+> *That is twenty entries.*
+> *TWENTY. That is the actual budget of my whole life and nobody told me, and I have been treating that money like it was for an emergency.*
+
+He put the charcoal away and stood on the corner in the middle of the afternoon with people going round him.
+
+Then he went and found Nettle, who was in the bath-house end with her boots off, and sat down opposite her and said:
+
+"How much does it cost to search the Register?"
+
+"Two shilling. You know that."
+
+"And how much have you got?"
+
+Nettle looked at him for a moment over the top of a cup.
+
+"Eighteen shilling off the barrows and about two pound eleven put by," she said, "and before you ask me for it, I want you to notice that you have come in here and asked me *how much money have you got* without one single word of preamble, and that a year ago you would have taken four days to work up to it."
+
+"Sorry."
+
+"Don't be sorry, it's an improvement." She put the cup down. "What are we buying?"
 
 
 ---
 
 
-<!-- 13 chapters · 29,843 words · consolidated 2026-09-06 -->
+<!-- 13 chapters · 30,944 words · consolidated 2026-09-06 -->
