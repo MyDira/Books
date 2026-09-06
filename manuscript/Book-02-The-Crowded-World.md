@@ -2798,17 +2798,17 @@ Nettle did the arithmetic on the steps outside, on the back of the search slip, 
 
 He did the lot, standing on the steps of the Ledger office on Cross Street in the middle of the afternoon, out loud, in barley-fields and paces, the way he did everything.
 
-Warm damp, 9½ across: **28 round.**
+Warm damp, 9½ across: **30 round.**
 Peg one, 10¼: **32.**
-Peg two, 7½: **23.**
-Peg three, 5¼: **16.**
-Peg four, 3 and a bit: **10.**
-Peg five, 2: **6.**
-Peg six, 1½: **4½.**
+Peg two, 7½: **24.**
+Peg three, 5¼: **16½.**
+Peg four, 3: **9½.**
+Peg five, 2: **6¼.**
+Peg six, 1½: **4¾.**
 
-"That's a hundred and nineteen paces," said Nettle. "That's the whole of the border in your entire country."
+"That's a hundred and twenty-two paces," said Nettle. "That's the whole of the border in your entire country."
 
-"A hundred and nineteen and a half."
+"A hundred and twenty-two and a half."
 
 "Don't." She wrote it down. "Now do the ground."
 
@@ -2818,13 +2818,13 @@ Peg six, 1½: **4½.**
 
 Wick stopped.
 
-An acre is four thousand eight hundred and forty square yards, and a pace is not a yard, and he had to do it twice on the step with people going past, and the number that came out was so large that he checked it a third time and then said it in the flat voice Gran used for reading out distances.
+An acre is four thousand eight hundred and forty square paces, which he knew because a pace is a yard and a yard is a pace and every surveyor in the Loam has been quietly grateful for that since Y-two-hundred. He did it twice on the step with people going past, and the number that came out was so large that he checked it a third time and then said it in the flat voice Gran used for reading out distances.
 
-"About two hundred and twenty thousand square paces."
+"About two hundred and twelve thousand square paces."
 
 Nettle put the pencil down.
 
-"A hundred and nineteen paces of edge," she said, "in two hundred and twenty thousand square paces of ground."
+"A hundred and twenty-two paces of edge," she said, "in two hundred and twelve thousand square paces of ground."
 
 ---
 
@@ -2852,7 +2852,7 @@ Not once. In eighteen months.
 
 "It is a sentence."
 
-"It's a sentence about *filling*." Wick had the slip and was drawing on it. "Look. Here's mine. One big circle round the middle and six little ones scattered, and a hundred and nineteen paces of edge.
+"It's a sentence about *filling*." Wick had the slip and was drawing on it. "Look. Here's mine. One big circle round the middle and six little ones scattered, and a hundred and twenty-two paces of edge.
 
 "Now here's the same ground, same amount of terrain, exactly the same number of Seeds, put down as — " he counted, badly, and did it again — "as forty patches of three paces instead of seven patches of nine."
 
@@ -2860,7 +2860,7 @@ Nettle leaned over.
 
 Forty patches, three paces across. Each one about nine and a half paces round.
 
-**Three hundred and eighty paces of border.**
+**Three hundred and seventy-seven paces of border** — and, he checked, very slightly *more* ground than he had, not less.
 
 "Same ground," said Wick. "Same Seeds. Same weight. Three times the edge."
 
@@ -2900,7 +2900,7 @@ He did not notice the other half of it for two days, and when he did, he did not
 
 So he said it.
 
-"A hundred and nineteen paces of border in two hundred and twenty thousand square paces of ground," he said. "That's mine. It's a terrible ratio and it's the worst in the world and it's the reason I can't do anything.
+"A hundred and twenty-two paces of border in two hundred and twelve thousand square paces of ground," he said. "That's mine. It's a terrible ratio and it's the worst in the world and it's the reason I can't do anything.
 
 "Yours is nought."
 
@@ -3270,4 +3270,4 @@ He picked the satchel back up.
 ---
 
 
-<!-- 16 chapters · 36,281 words · consolidated 2026-09-06 -->
+<!-- 16 chapters · 36,309 words · consolidated 2026-09-06 -->

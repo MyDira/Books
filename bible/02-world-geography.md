@@ -43,6 +43,14 @@ Broken highland. Wellings everywhere. Effectively lawless; nominally licensed.
 - **The Quiet Coast** — where the Ledger's authority stops.
 - **Vantage** — the city under the Rafters. Dominion country.
 
+## UNITS (locked — all geometry in the series checks against these)
+- **1 pace = 1 yard.** Surveyors in the Loam have been grateful for this since Y-200.
+- **1 acre = 4,840 square paces.**
+- **1 barley-field = 0.6 acre** — Hollow Alder's unit; what a man can work in a day.
+  Wick thinks in these and always will.
+- A circle *n* paces across is about **3.14 × n** paces round. Wick does this arithmetic
+  constantly and on the page, so it must always be right.
+
 ## DISTANCES & TRAVEL
 Walking: 20 miles/day. Cart: 25. River barge: 40. There is no fast travel below March
 rank, and travel time is a *feature* of the series, not an obstacle to route around —
