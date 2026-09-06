@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 19 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 20 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -3729,5 +3729,180 @@ She looked up at him.
 
 ---
 
+# Chapter 20 — A Shilling for the Frame
 
-<!-- 19 chapters · 41,549 words · consolidated 2026-09-06 -->
+The paper came on the ninth and it was one sheet and it was polite.
+
+> **LEDGER OF THE SILL — NOTICE OF CHALLENGE TO ASSESSMENT**
+> Challenger: T. Corse, of Marrowfield. Wold-adjacent; Hearth in full; licensed 31 years.
+> Subject: W. Alder, of Hollow Alder in the Loam. Hearth, held on the boundary.
+> Grounds: that the recorded assessment of 4th Rust Y-812 is inconsistent with Register
+> entry 411,644 (*The Alder Second Setting*), and that a re-test is in the public interest.
+> **Date of re-test: the fourth of Dark, at the market cross, at two in the afternoon.**
+> Assessor: to be appointed by the Marrowfield office.
+> *The subject is reminded that a challenged re-test is at the subject's expense (one
+> shilling) and that non-attendance is entered as a withdrawal of rank.*
+
+Nettle read it twice and put it down.
+
+"Twenty-five days," she said.
+
+"Twenty-five days."
+
+"And a shilling."
+
+"And a shilling," said Wick, "which I notice they have found room to mention."
+
+---
+
+He did the obvious thing first, on the ninth, because it cost a shilling and he had been putting it off for eleven months out of a superstition he was not proud of.
+
+He went to the Cross Street office and paid a shilling and had the field frame put on him in a back room by a clerk who did it in nine minutes and had no idea he was doing anything of interest.
+
+"Acreage."
+
+The inner hoop swung out and quivered.
+
+The clerk read it, and wrote it, and said the number, and Wick did not hear him, because he was looking at the hoop.
+
+"Say that again."
+
+"Forty-three point four," said the clerk, and turned the sheet round. "Weight, nought point nine. Coherence, ragged, second class. Would you like it stamped? It's a penny."
+
+---
+
+Nought point nine.
+
+He got out into Cross Street and stood in the road with a piece of paper in his hand and had to be got out of the way of a cart.
+
+**Nought point six in Rust of Y-812. Nought point nine in Rust of Y-813.**
+
+Half again in a year, and he had done nothing whatever to earn it — no different drawing, no new discipline, sixty-one breaths a night the same as always, and a seep that had been running since Dust while he was asleep.
+
+He did the sums on the corner of Fell and Cross, which he had done standing up in the street twice now and was becoming known for.
+
+Hearth in full was one and a half.
+
+At nought point six going up by nothing at all, it had been **nine years**.
+At nought point nine and rising because of a border that got longer as it went, it was —
+
+He did it three times.
+
+"Two years," he said, out loud, in the road. "Maybe less."
+
+---
+
+He went home and told Nettle and she did not do what he expected either, which was becoming a habit of hers.
+
+She said: "Say the other number."
+
+"What other number?"
+
+"You said two. Acreage and weight. You've said one of them four times since you came up those stairs and you've not said the other one once."
+
+Wick stopped with his coat half off.
+
+"Forty-three point four," he said.
+
+"And what was it in Rust?"
+
+"Forty-three point nine."
+
+The room over the chandler's was quiet.
+
+"That's down," said Nettle.
+
+---
+
+He spent four days telling himself it was the frame.
+
+That is what he did, and he wrote it down afterward in the failure column because Doreth Faring had said the failures were worth more, and because it had taken him four days to do a thing he had been perfectly capable of doing on the first afternoon.
+
+It was a field frame, and a field frame is smaller and worse than an assessor's frame. It was a clerk who did it in nine minutes and did not care. Camber had read Wick eleven times at the ford and five times in his own yard and had reset the hoops between each one, and this man had let go of it twice.
+
+All of that was true.
+
+He went back on the thirteenth and paid another shilling and had it done four times by the same clerk, who was patient about it, and it came out at forty-three point four, forty-three point four, forty-three point three, and forty-three point four.
+
+Then he went and paid a third shilling on the fifteenth and had a *different* clerk do it, without telling the second one what the first one had found, because Nettle told him to.
+
+Forty-three point four.
+
+---
+
+"Right," said Nettle, on the fifteenth, in the room, with the three chits laid out on the table in a row. "You've spent three shilling and four days proving a thing you knew on the ninth. Now stop it and think."
+
+"I have been thinking."
+
+"You have been *not looking at it*, which is a different activity and you are extremely good at it." She put her finger on the chits. "Forty-three point nine to forty-three point four. That is half an acre in a year."
+
+"Two thousand four hundred square paces," said Wick, without meaning to.
+
+"Say what it means."
+
+"It means my acreage is going *down*," said Wick, "and acreage doesn't go down. Acreage has never gone down. It's the one number in the whole system that only ever goes up, because it comes from deeds and a deed is a thing you did and you cannot un-do a thing you did."
+
+"So either the rule's wrong—"
+
+"Or something is taking it."
+
+---
+
+They found it in about an hour once they were looking, because they had both known it for a month and had both been reading it as good news.
+
+The seep.
+
+> *Dust 20: the seep begins.*
+> *The warm damp: 9½ · 9⅝ · 9¾ · 10⅜. Nearly ¾ of a pace in a season, unfed by Seed.*
+> *"Cost: none. The working is not performed."*
+
+Wick sat with the ledger open at the page he had been proudest of.
+
+"It's not making ground," he said.
+
+"No."
+
+"It's *moving* it." He had his hand flat on the page. "The warm damp got bigger and I wrote it down eleven times and I never once asked where the extra came from, and it came from — Nettle, it came from the *salt*. It's the only thing there is. It's forty-three acres of salt and a few little patches, and the patches got bigger, so the salt got smaller, and I have been standing in the middle of it *cheering*."
+
+"Half an acre."
+
+"Half an acre in a year off four inches of border." He was going very fast now. "And the border's two paces now and it's going to be six by Dark because of the chord, and the seep runs off the length of it—"
+
+He stopped.
+
+"Say it," said Nettle.
+
+"It's not free," said Wick Alder. "It has never been free. Sarrow wrote *cost: none* because I told him I don't perform it and I don't feel it and it doesn't tire me, and every one of those is true, and the cost isn't coming out of *me*.
+
+"It's coming out of the ground. And there is a finite amount of ground, and I have been treating it as the one infinite thing about me since I was fourteen, because when a man has got forty-four acres and no weight, the acres are the thing he tells himself about at night."
+
+---
+
+He wrote it out properly at about two in the morning, on a clean page, because it needed to be on a clean page.
+
+> *THE SEEP IS NOT MAKING SETTLED GROUND. IT IS CONVERTING UNSETTLED GROUND INTO SETTLED GROUND.*
+> *That is still what I want. Settled ground carries weight and unsettled ground does nothing.*
+> *But it is a CONVERSION and I have been calling it a GIFT, and the difference is that a conversion runs out.*
+> *43.9 → 43.4 in one year, off ONE border four inches long.*
+> *If I build 377 paces of border it does not go 377 times faster than nothing.*
+> *It goes 377 times faster than HALF AN ACRE A YEAR.*
+
+He looked at that for a long moment and then did the division, and put the charcoal down, and went and stood at the window.
+
+Nettle, from the mattress, said: "How long?"
+
+"If I did the forty patches?" Wick did not turn round. "About nine years. To convert the lot. All of it. Forty-three acres, settled, at weight, the whole country."
+
+"That's — Wick, that's *good*. That's the number you've wanted since—"
+
+"And then it stops," said Wick. "That's what it means. It's not nine hundred years and it's not a hundred and forty. It's nine years and then there is no more salt, and every border I've got stops giving, and whatever I am at the end of it is what I am for ever."
+
+He turned round.
+
+"I've spent two years thinking I had a country that was too big to fill," he said, "and it turns out I have got a country that is exactly big enough to spend, and nobody has ever had to think about that either, because nobody has ever had more ground than they could use."
+
+
+---
+
+
+<!-- 20 chapters · 43,100 words · consolidated 2026-09-06 -->
