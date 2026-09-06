@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 8 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 9 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -239,7 +239,7 @@ He gave Tarrow the two shillings.
 
 "That's the Concord workshops."
 
-"That's the *back* of the Concord workshops." Tarrow put the coins away. "And you'll want to knock at the side and not the front, and you'll want to do it after six, and — " he stopped, and did something with his mouth, and Wick watched a man who made his living being pleasant decide to be honest instead. "Look. I don't know her. I carry a parcel to that door about twice a month and I've had it took off me by a big woman and by a small one, and the small one's got the Loam in her voice and a face a bit like yours."
+"That's the *back* of the Concord workshops." Tarrow put the coins away. "And you'll want to knock at the side and not the front, and you'll want to do it after six, and." He stopped, and did something with his mouth, and Wick watched a man who made his living being pleasant decide to be honest instead. "Look. I don't know her. I carry a parcel to that door about twice a month and I've had it took off me by a big woman and by a small one, and the small one's got the Loam in her voice and a face a bit like yours."
 
 "That's her."
 
@@ -251,7 +251,7 @@ He gave Tarrow the two shillings.
 
 ---
 
-Fell Street ran up the hill from the market to the barrow road, and the Concord workshops took up most of one side of it: a long frontage of good stone with a brass plate, three storeys, and the particular smell that Wick had learned to identify in his first week and had never got used to, which was cured Seed — sweetish, faintly like a rendering shed, faintly like hot iron.
+Fell Street ran up the hill from the market to the barrow road, and the Concord workshops took up most of one side of it: a long frontage of good stone with a brass plate, three storeys, and the particular smell that Wick had learned to identify in his first week and had never got used to, which was cured Seed: sweetish, faintly like a rendering shed, faintly like hot iron.
 
 The front office had a counter and a woman in it who had been perfectly polite to him in Dark.
 
@@ -271,7 +271,7 @@ Afterward he worked out that there had been four reasons, and that only one of t
 
 *Gran wants to know you're all right.* — an accusation.
 *I was passing.* — a lie, and a bad one, in a side alley off Fell Street after six.
-*You sent eight shillings and no word.* — the truth, and the worst of the three.
+*You sent eight shillings and no word.* The truth, and the worst of the three.
 
 **The fourth** was the actual one and it took him until about the fiftieth minute to get to it, and when he got to it he sat down on the crates.
 
@@ -384,7 +384,7 @@ Both of them were his measurements. Both of them were correct. He had made a sha
 
 "That's what I thought."
 
-"It's not coming at the middle at all. It's — " and he stopped, because he did not have the next word, and would not have it for four months.
+"It's not coming at the middle at all. It's." And he stopped, because he did not have the next word, and would not have it for four months.
 
 Nettle waited.
 
@@ -499,7 +499,7 @@ Wick nodded.
 
 "What changed?"
 
-"She got good at the sweeping." Doreth said it entirely seriously. "You will not understand that and I'll not explain it. What I'll tell you is that in Green of eight-eleven I had a man on that bench with an arm that had gone bad round a soldier's graft that another Grafter put in nine years before, and I could not get the seat of it, and I had been at it two hours and I was going to have to take the arm, and your sister — who had swept my floor for seven months and had never touched a tool — said, from over by the door, *it's not in the arm, it's in the shoulder, look how he's sitting.*"
+"She got good at the sweeping." Doreth said it entirely seriously. "You will not understand that and I'll not explain it. What I'll tell you is that in Green of eight-eleven I had a man on that bench with an arm that had gone bad round a soldier's graft that another Grafter put in nine years before, and I could not get the seat of it, and I had been at it two hours and I was going to have to take the arm, and your sister, who had swept my floor for seven months and had never touched a tool, said, from over by the door, *it's not in the arm, it's in the shoulder, look how he's sitting.*"
 
 Wick did not say anything.
 
@@ -519,7 +519,7 @@ Wick did not say anything.
 
 She sat back.
 
-"So she works in this room and she is paid out of my pocket and her name is on nothing. She may not cure a Seed under her own hand. She may not sign a fitting. Every graft she has done — and she has done a hundred and forty — is written in the book as **mine**, because if it were written as hers it would be an unlicensed fitting, and that is not a fine. That is the Concord, and the Concord takes the licence off the *supervisor*, and then there is no workshop and there is no wage and there is no her."
+"So she works in this room and she is paid out of my pocket and her name is on nothing. She may not cure a Seed under her own hand. She may not sign a fitting. Every graft she has done, and she has done a hundred and forty, is written in the book as **mine**, because if it were written as hers it would be an unlicensed fitting, and that is not a fine. That is the Concord, and the Concord takes the licence off the *supervisor*, and then there is no workshop and there is no wage and there is no her."
 
 ---
 
@@ -533,7 +533,7 @@ Doreth Faring looked at him for a moment, and then did a thing he did not expect
 
 There were four.
 
-He knew what he was looking at because Nettle had shown him one in a yard in Dust — a shiny place a quarter of an inch across where something had gone in and stayed. Doreth had four, in a neat line up the inside of the forearm, spaced like buttons, old and well done and nearly invisible unless you were told.
+He knew what he was looking at because Nettle had shown him one in a yard in Dust: a shiny place a quarter of an inch across where something had gone in and stayed. Doreth had four, in a neat line up the inside of the forearm, spaced like buttons, old and well done and nearly invisible unless you were told.
 
 "Chalk-hound, for the hands," she said, touching them in order. "River-drake, for the heat, because you cannot hold a pan at that temperature for two hours with an ordinary arm. Nine-in-a-coat, which cost me eleven pound and is the reason I can feel the seat of a fitting instead of guessing at it. And a tallow-crawler, which is worth four copper and which I put in myself when I was twenty because I was frightened of my own hands shaking."
 
@@ -589,7 +589,7 @@ At the corner of Fell Street he had to stop and lean on a wall.
 
 Not because of Bri. Bri he could carry; Bri was bad and it was a bad he could look at.
 
-It was the last thing she had said, and the way she had said it — flat, like reading out a distance — and the fact that a woman who had been at it twenty-two years and had a daughter in it did not know the answer.
+It was the last thing she had said, and the way she had said it, flat, like reading out a distance, and the fact that a woman who had been at it twenty-two years and had a daughter in it did not know the answer.
 
 Because Wick had had an answer since Dust. He had had it since a yard behind a Hall of Hunt, out of a girl on a water butt, and he had never once examined it, and it was: *a graft is not yours, so it doesn't count.*
 
@@ -1704,7 +1704,7 @@ She did not say *ah*.
 
 "No."
 
-"And nought point six, and settled — " she brought it closer to the lamplight off the street — "nought point nought nought one four."
+"And nought point six. And settled." She brought it closer to the lamplight off the street — "nought point nought nought one four."
 
 "That's the one that matters."
 
@@ -1724,11 +1724,11 @@ Wick looked at her.
 
 "Where does what sit?"
 
-"The — " She made a shape with both hands, and stopped, and made a different one. "That's the trouble, I've not got the word, it's not a word thing. When Dor puts a graft in an arm the whole job is *where*. Not what. Anybody can cure a Seed. The thing that takes twenty-two years is knowing that it wants to go three quarters of an inch further up than where the man is pointing, and if you put it where he's pointing his hand works for nine years and then it doesn't."
+"The." She made a shape with both hands, and stopped, and made a different one. " "That's the trouble, I've not got the word, it's not a word thing. When Dor puts a graft in an arm the whole job is *where*. Not what. Anybody can cure a Seed. The thing that takes twenty-two years is knowing that it wants to go three quarters of an inch further up than where the man is pointing, and if you put it where he's pointing his hand works for nine years and then it doesn't."
 
 "And you can tell where."
 
-"I can *feel* where, and I can't tell you how, and I've had four goes at explaining it to Dor and she says it took her eleven years and she still guesses." Bri turned toward him on the wall. "So that's what I'm asking. You've got forty-three acres and everything you've got is in nought point nought nought one four of it. That's not a small Hold. That's a — that's a great big man with everything he owns in one pocket."
+"I can *feel* where, and I can't tell you how, and I've had four goes at explaining it to Dor and she says it took her eleven years and she still guesses." Bri turned toward him on the wall. "So that's what I'm asking. You've got forty-three acres and everything you've got is in nought point nought nought one four of it. That's not a small Hold. That's a great big man with everything he owns in one pocket."
 
 "It's in the middle. It's where I can find it."
 
@@ -1748,5 +1748,206 @@ He wrote it down that night, on the wall of the room over the chandler's, on the
 
 ---
 
+# Chapter 9 — What Nettle Did
 
-<!-- 8 chapters · 19,192 words · consolidated 2026-09-04 -->
+He said it exactly, in the order Bri had given it to him, and then he shut his mouth, and that took about four minutes and was the hardest four minutes of his week.
+
+Nettle listened to the whole of it sitting on the end of the bed with her boots still on.
+
+At the end she said: "She's sending it tonight?"
+
+"On the mail."
+
+"And she's not coming home."
+
+"Not to live. She'd visit."
+
+"Right." Nettle looked at the floor for a bit. "And neither of you's going to come near me and Dor."
+
+"That's what she said. Both of them said it. Word for word, near enough, and Bri knew where she'd got it from."
+
+Nettle laughed at that, once, without much in it, and then sat there for long enough that Wick began composing something and had the sense to stop.
+
+"I want to meet her," she said.
+
+---
+
+That was not what he had expected and he said so, which was a mistake.
+
+"Why not?"
+
+"I thought — " He stopped and started again, because he had learned that with her the second attempt was usually the honest one. "I thought you'd want to not think about her at all. She's had two years in that room. She calls your mother *Dor*."
+
+"Yes."
+
+"And she's going to be better at it than her inside fifteen months."
+
+"Yes," said Nettle, "and I have been lying here for an hour finding out that I do not mind about that even slightly, and it has been a very unpleasant hour, because if I minded about it I'd know what I was."
+
+She got up and put her coat on, and then took it off again and put it on the chair, which for Nettle was a considerable admission.
+
+"Here's the thing I worked out," she said. "I have been telling myself for eleven months that I stopped going because I said a cruel thing and meant it. That's true. It's also *tidy*, and I've noticed I like it, and I've started to think a thing that tidy is probably furniture."
+
+"So what's under it?"
+
+"Under it is that if I go up that road and knock, and she is *fine*—" Nettle stopped. "She's got a workshop and a licence and four grafts in her arm and a girl of nineteen who calls her Dor and is going to be better than her, and she is not sat in the dark in there missing me. She is *working*. She has been working the whole eleven months."
+
+"You want her to have been unhappy."
+
+"I want her to have *minded*," said Nettle, "and I know she minded, and I know she cried in Thaw, and I have got seven and a half weight and no edge and I cannot walk four hundred yards to find out how much."
+
+She sat back down.
+
+"So I'll start with the one I've got no history with," she said. "Your sister works in that room six days a week and she'll know exactly how much my mother minds, because that is the sort of thing you cannot help knowing about a person you work next to. And I can look at *her* without it costing me eleven years."
+
+---
+
+She was, Wick reflected afterward, the most efficient person he had ever met about anything that was not herself, and about herself she was the most efficient person he had ever met at building a route.
+
+"You're going to interrogate my sister about your mother."
+
+"I am going to *ask her*," said Nettle, "and she can tell me to get out, and if she does I'll have learned something too."
+
+---
+
+The experiment took him three days to design and about nine seconds to discover was impossible, and he did the nine seconds first and then did the three days anyway, because he wanted it written down properly before he gave up on it.
+
+The question was clean.
+
+Every border he had was **terrain against salt.** Warm damp against salt. Six pegs of white down against salt. Seven borders, seven rims, all of them the same kind of meeting.
+
+He had never once had two terrains touch each other.
+
+*So does a rim form between two grounds that are both mine, or only where a ground meets the empty?*
+
+And under it, in a different hand because he had come back to it at two in the morning:
+
+> *Because if it is only against the empty, then everything I have got is a coast, and I have got no interior at all.*
+
+The way to find out was obvious. Put a second kind of terrain down near peg one, close enough that the two patches would grow into each other, and go and look at the seam between them when they met.
+
+Peg one was growing at about three quarters of a pace a season. A new patch beside it would do the same. Put them nine paces apart and they touch in six seasons; put them two paces apart and they touch by Rust.
+
+He could not do it.
+
+---
+
+The reason was a thing he had known since Long of Y-812 and had never once had to *use*, and it took him nine seconds to arrive at and three days to accept.
+
+**Same-kind Seeds do not make a new patch. They grow the one you have.**
+
+He had forty-one tallow-crawler Seeds in a drawstring bag in the Hall's strongbox, worth thirteen shillings and eightpence, and if he planted every one of them two paces from peg one they would not make a patch of warm damp two paces from peg one. They would go into the warm damp at the middle, a hundred paces away, because that is what the warm damp is and there is only one of it.
+
+To make a new patch he needed a Seed of a kind he did not have.
+
+Chalk-hound: **two shillings** at the Hall, and a writ he could not take.
+Cinder-boar: eleven shillings, and a Hearth-grade writ he could not take.
+Anything out of the Tallow lower gallery: Wold, and by nomination.
+
+He tested it anyway, on the tenth, and it cost him fourpence and told him something nobody in the Sill knew.
+
+He had never actually *watched* the rule work. He had inferred it in Long of Y-812 from four plantings and a rate of growth, sitting in a byre, and had written it down and believed it for a year, and Nettle had once observed that a thing he believed and had not watched was a thing he had read in a book with his own handwriting in it.
+
+So he took one crawler Seed out of the bag, and went in, and walked a hundred paces out to peg one, and knelt down two paces clear of the white down on bare salt, and put it on the ground.
+
+Nothing happened for a moment.
+
+Then he felt it go.
+
+That was the part he had not expected and had no word for. The Seed did not sit there and fail. It did not crumble or refuse or stay a pin-head on the salt. It **went**, and he felt the going, the way you feel a draught under a door: something left his hand and travelled, and it travelled *inward*, and it was not fast — he counted, because he counts — and it took about eleven seconds to cross the hundred paces to the middle.
+
+And a hundred paces away, at the middle, the warm damp got very slightly bigger.
+
+Wick knelt on bare salt with his hand still out and his mouth open.
+
+He got up and walked in and paced it, four times from four bearings, and it came out **nine and five eighths** where it had been nine and a half all season, and he did the sums on his knees on the salt.
+
+One crawler Seed had bought about an eighth of a pace, at the middle, whether he wanted it there or not.
+
+Two things went on the ledger that night and he underlined the second one twice.
+
+> *Confirmed: same-kind Seed will not take away from its own ground. Watched it, did not infer it.*
+> *AND IT TRAVELS. It went 100 paces in ~11 seconds and it went the RIGHT WAY without being told.*
+> *So the ground out there is not empty and it is not separate. Something carried it.*
+> *A hundred paces of "nothing" passed a Seed along like a bucket chain.*
+> *WHAT IS THE SALT DOING.*
+
+---
+
+He sat in the room over the chandler's on the eleventh of Green with thirteen and four in Seeds he could not use and four pound two he was frightened of, and worked out that the entire question of what his own country was made of came down to **two shillings and a licence.**
+
+Then he wrote it on the ledger, under the loop from the Ninefold receipt, and drew a line round the pair of them.
+
+> *It has closed again. Same shape. Third time.*
+> *Green Y-812: broke because nobody licenses PLANTING.*
+> *Seed Y-813: not broken yet.*
+> *Green Y-813: I cannot buy a two-shilling Seed because I cannot take a two-shilling writ.*
+> *THE LOOP IS ALWAYS THE SAME AND THE WAY OUT IS ALWAYS A THING NOBODY HAS WRITTEN DOWN.*
+
+---
+
+Nettle read it upside down over his shoulder while eating an apple.
+
+"I can take a chalk-hound writ," she said.
+
+"I know you can."
+
+"Two shilling the Seed, three shilling standing bounty. I've done forty-one of them."
+
+"I know."
+
+"So I'll go up the barrows on the fourth and I'll be back on the sixth and I'll bring you a Seed, and you can stop looking like that."
+
+Wick turned round.
+
+"That's not the point," he said.
+
+"I *know* it's not the point." She bit the apple. "It's not the point and it fixes the problem, and those are two different things, and you have been sat here for three days confusing them because you would rather have a principle than a Seed."
+
+"That's not—"
+
+"It's completely that." Nettle sat down on the corner of the table. "Look. I'll get you a Seed. That's Wednesday. But you've noticed the thing that matters and you've written it down in the wrong place, so I'm going to say it out loud so you can't pretend you didn't."
+
+"Go on."
+
+"You have got forty-three acres of ground," said Nettle, "and the reason you cannot run an experiment on your own country is that a *board in a building on Cross Street* says what grade of animal you are allowed to be near. It is not your ground stopping you. It is not your weight. It's a rate of pay."
+
+---
+
+The third thing happened on the twelfth, in the yard behind the Hall, and it took four minutes and Wick did not understand any of it until Pell explained it three days later.
+
+There was a man waiting for him by the water butt.
+
+He was about fifty and neat and had ink on neither cuff, which Wick noticed because he had got used to Pell, and he had a Concord pin on his coat: a small brass thing shaped like a pair of tongs.
+
+"Wick Alder."
+
+"Yes."
+
+"Alder Setting Working. Class, Confluence. Entered under protest of the form on the twenty-third of Seed by H. Sarrow at Marrowfield." The man said it without a note in his hand. "I am Under-Warden Coel of the Grafters' Concord and I would like an hour of your time, at your convenience, at the Fell Street chapter house, and I am going to be entirely straight with you about why."
+
+"All right."
+
+"*Confluence* is our word." Coel's voice was perfectly pleasant. "It is in our schedule, it has been for two hundred and eleven years, and every practitioner in the Sill who has ever been entered under it has been a licensed Grafter, because until the twenty-third of Seed it had never once occurred to anybody that a person could do it *inside himself*."
+
+Wick's mouth had gone dry.
+
+"You're saying it's yours."
+
+"I am saying it is *ours*, which is not quite the same and is the entire reason I am standing in a yard being pleasant instead of writing you a letter." Under-Warden Coel put his hands behind his back. "You have registered, in a public book, a working that operates by a principle the Concord has held and taught and licensed for two centuries. You did it without a bond, without an indenture, and without a supervisor, and you are fifteen years old and you are on the boundary at Hearth."
+
+"I didn't know it was your word. The registrar gave it me."
+
+"I know he did. I have read his memorandum. It is four pages long and it is *extremely* good and it has already gone to Sennet." Something happened at the corner of Coel's mouth that was not quite a smile. "Mr Alder, I am not here to threaten you and I could not do it if I wanted to, because there is no provision under which the Concord may touch a man who is not in it. That is precisely the difficulty."
+
+"Then what do you want?"
+
+"An hour," said Coel. "And I will tell you now what I am going to ask for at the end of it, because I would rather you spent the week thinking about it than be surprised.
+
+"I am going to ask you to take an indenture."
+
+
+---
+
+
+<!-- 9 chapters · 21,450 words · consolidated 2026-09-06 -->
