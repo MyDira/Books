@@ -1546,3 +1546,270 @@ Y-812). Book opens **Seed 9, Y-813** (month 2). Wick is 15; Nettle 16; Bri 19.
   the middle is where a thing *sits* and it is not where a thing *works*."**
   Wick's note: *Where does it sit? (She could not say what she meant. She was extremely sure she
   meant something.)*
+
+## B02 c009 — "What Nettle Did"  [Green 4–12]
+- Wick delivers Bri's message exactly and shuts up (four minutes; the hardest of his week).
+- **NETTLE ASKS TO MEET BRI**, which is not what he expected. Her reasoning: she has been telling
+  herself for eleven months that she stopped going because she said a cruel thing and meant it —
+  *"That's true. It's also tidy, and I've noticed I like it, and a thing that tidy is probably
+  furniture."* Under it: **she wants her mother to have minded**, and cannot walk four hundred
+  yards to find out how much. So she starts with the person she has no history with, because
+  Bri will know exactly how much Doreth minds, and looking at Bri costs her nothing.
+- **THE PLANTING TEST (Green 10), and the discovery nobody in the Sill has:** Wick has believed
+  the same-kind rule since Long Y-812 on inference from four plantings and has never *watched*
+  it. He takes one crawler Seed a hundred paces out and puts it on bare salt.
+  → **IT TRAVELS.** He feels it go, inward, and counts: **~11 seconds to cross 100 paces**, and
+  it arrives at the warm damp without being told. The damp goes **9½ → 9⅝**.
+  > *So the ground out there is not empty and it is not separate. Something carried it.
+  > A hundred paces of "nothing" passed a Seed along like a bucket chain. WHAT IS THE SALT DOING.*
+- **THE THIRD CLOSED LOOP:** to make a *new* patch he needs a Seed of a kind he does not have.
+  Chalk-hound is 2s and a writ he cannot take; cinder-boar 11s and Hearth-grade; Tallow lower
+  gallery is Wold, by nomination. **The whole question of what his country is made of comes down
+  to two shillings and a licence.** (Green Y-812's loop broke because nobody licenses planting;
+  this one is not broken yet.)
+- Nettle: *"It's not the point and it fixes the problem, and those are two different things, and
+  you have been sat here for three days confusing them because you would rather have a principle
+  than a Seed."* And: *"It is not your ground stopping you. It is not your weight. It's a rate of pay."*
+- **UNDER-WARDEN COEL** of the Grafters' Concord, ~50, neat, no ink on either cuff, brass pin
+  shaped like a pair of tongs. Quotes the Register entry from memory. **Confluence is the
+  Concord's word** — in their schedule 211 years, and every practitioner ever entered under it
+  has been a licensed Grafter, *because until Seed 23 it had never occurred to anybody that a
+  person could do it inside himself.* He asks for an hour and announces in advance that he will
+  ask for **an indenture**.
+
+## B02 c010 — "The Chapter House"  [Green 12–21]
+- **Pell cannot coach him**: the Concord is a chartered body, not a record and not a person, so
+  advising Wick through a Concord negotiation would be interference outside instrument — a
+  different nine-hundred-page case, not *Odell*. **First time in fourteen months his instrument
+  has stopped him doing something he wanted to do**, and he is extremely annoyed.
+  What he *may* say is what happened: a Ledger registrar entered a working under a classification
+  the Ledger's form does not have, took the word from the Concord's schedule, and said so in
+  writing. **That is a question about jurisdiction**, and jurisdiction is the only thing in this
+  country anybody has ever gone to war about.
+- **INDENTURE — canon.** Seven years with a chartered body. (1) may not practise the craft
+  outside the body; (2) **may not teach it**; (3) **anything DEVISED in the term belongs to the
+  body**, is entered in its schedule and licensed by it thereafter; (4) bond of £11, forfeit if
+  the term is broken.
+- **The Fell Street chapter house.** Glass cases; the third holds a page from **Y-602**,
+  Marrowfield chapter, a woman of twenty-six, unknown after Y-614: *"Of the borders between two
+  cures, and what occurreth there, which we shall call Confluence."* **Eleven such pages exist.**
+- **THE OFFER:** indenture, seven years, **£11 bond waived and recorded as waived** ("a waiver is
+  a precedent and a gift is not"); journeyman in three years rather than seven; **access to the
+  whole schedule — 211 years, ~9,000 entries turning on the principle, of which about 400 are
+  failures written up properly and unpublished**; board and **40s a month** (ten times his income).
+- **What is wrong with it, in Coel's own words:** (1) the bond is waived only for him, and it is
+  *a purchase*, not a compliment; (2) **he may not teach it** — not to a friend, not to a sister,
+  not in a letter; (3) **devises**: everything he works out in seven years goes into the
+  Concord's schedule under his name and may be taught only by them, to apprentices admitted at
+  fourteen on an £11 bond.
+- **Coel has written to Sennet about Bri Alder twice**, in the same packet as Doreth's letters,
+  and had the same two very polite replies. He does not defend the age rule and has believed it
+  wrong for nine years.
+- **His real argument:** *"I have seen what unlicensed fitting does. I have seen eleven of them."*
+  A man in the Rakes put a river-drake Seed into his own brother's spine in Y-804, out of love,
+  having watched a Grafter do it twice; the brother took **four years to die and was in his right
+  mind for all of it.** The bond and the term exist because *this work kills people slowly and at
+  a distance, and the only thing that stops it is making it very difficult to begin* — **which is
+  exactly the reason Bri has no name.**
+  And: *"We have got the four hundred failures. That is what an indenture actually buys. It is
+  not the tuition. It is the list of things that have already killed people."*
+- **DORETH'S ANSWER (Green 21), which is not what Coel wants:** *"You should take it."* Then:
+  *"You'd take it, and you'd hate the second clause, and you'd break it inside a year,"* because
+  Annet will ask how a boundary is made and he will answer, and then he would have forfeited a
+  bond he never paid and be barred for life and **Coel would have to write it up.**
+  So: *"you should take it, and you should not take it, and anybody who tells you those are not
+  both true is selling something."*
+  Her own advice instead: **go and count how many things there are like this.** Four in one town
+  in four months — the Concord's category the Ledger lacks; a thing that only works if a Hold is
+  big; Sarrow's nine protested forms; and *"my daughter's been graded true for six years on an
+  examination she was never actually given."*
+
+## B02 c011 — "The Bath-House End"  [Green 23]  *(NETTLE POV)*
+- She picks the **bath-house end of the Marrowfield Hall** — neutral ground; a rule (unwritten,
+  enforced by **Sabbet**, who runs the coppers) that nobody talks business in it. Nettle arrives
+  forty minutes early and has a bath she does not need, **because whoever is dry and shod in that
+  room is the visitor.**
+- Bri sits the way Doreth sits — forward, elbows on knees, weight on the balls of the feet — and
+  has the bad back off it.
+- **Bri's sixth question, which nobody has asked Nettle in six years: "How far can you get your
+  hand from the thing before it stops going off?"** Answer: **three inches, maybe three on a good
+  night.** Bri: *"Three's not contact, that's near contact."*
+- **THE PAN (the chapter's payload).** When Doreth cures a **chalk-hound** Seed — and only a
+  chalk-hound — she gets the pan to heat, says something (*I've left the door*, *that's the wrong
+  cloth*), goes into the alley for about a minute, comes back and does it perfectly. **Every time.
+  ~40 times in two years.** Bri asked once in the first year; Doreth said the fumes catch her
+  throat; Bri has had the same throat for two years and it does not catch hers.
+  → Nettle's burn is a **chalk-hound** Seed, in at eleven, a quarter inch, by accident.
+  **Five years. Forty times a year. Doreth has never once said.**
+- Bri's reading of it: *"She's not not-saying it to punish you. She thinks it's hers. She thinks
+  she did it… and she'll go on deciding that until she's eighty."*
+- **Nettle does not go up the road**, and is clear why: Bri has just handed her a *reason* — a
+  wrong with edges — and using it would be crueller than the sentence in Thaw. *She thinks it's
+  hers. Fine. Then it was hers.*
+- **BRI'S QUESTION BACK, in the doorway with her coat half on** (where she keeps everything she
+  means): *"You've got no edge."* Worked out at the fourth minute from the three inches, because
+  **a thing that works three inches off the skin has not got a boundary at the skin.**
+  Her framing: she reads an arm as *where does it stop, what does it do at the place where it
+  stops, and what's on the other side* — and for Nettle the answers are *it doesn't*, *nothing*,
+  and *nothing*. Every clerk has read the chit as how much and how much room, **because that is
+  what the boxes say, and the boxes were written by people who all have the same shape.**
+
+## B02 c012 — "Her Writ"  [High 4–6]
+- The writ has Nettle's name on the back and, in the *party* box: **"Alder, W. — hired person,
+  4s/day."** Nine shillings a day for her, four for him. She threatens to leave him at Fell Lane
+  if he says one word about it on the road.
+- **Gran has been writing to Nettle since Dark.** Two letters. Wick did not know. She will not
+  show him.
+- **NETTLE'S CHALK-HOUND CRAFT (forty-one writs, never asked about, never told to anybody):**
+  the wind in that valley turns at about eight; a rabbit run through a barrow base will hold a
+  hound's shoulders for about a second and a half; and **a thing that hunts by reading drag does
+  not read upward well**, so a person standing above one is quieter than a person beside one.
+  None of it is in the Hall's beast-book.
+- **THE COST OF NO LONGER BEING NOTHING.** A year ago six chalk-hounds ignored him at forty feet
+  because he was 0.0. At **0.6** the rearmost turns round in the fourth minute. *"It's found a
+  post."* The spear does nothing (loose hide); the shells take the teeth and the left one goes
+  with a crack like a plate under a thumb; he puts **the wet** on the shoulder and the wet hide
+  grips. Nettle comes off a twenty-foot chalk cliff and strikes at three inches.
+  · **Ledger 41:** *Coming up from nought is not the same as getting stronger. It is getting
+    LOUDER. Every advantage I have had since Green Y-812 was being beneath notice. I am spending
+    it. What else have I got that only works while I am small?*
+  · Four hounds killed; the fifth got away and she wrote that in the return, because she writes
+    what happened.
+- **He refuses the Concord**, and the reason is an accounting one, not a noble one: Doreth said he
+  would break the teaching clause inside a year and she is right, and he has already once signed
+  a promise in a tree knowing he would break it. Nettle: *"That's a better reason than I expected
+  … I'd not have trusted a noble one off you."*
+- **THE PAY COUNTER.** Nettle: 4 Seeds at 2s + 3s bounty, two days = **18s**, and *"thank you,
+  Faring."* Wick: **8s**, hired person. He signs with a mark because his signature is slow. From
+  the long table, in an ordinary voice, from someone he never identified: *"That's the salt lad,
+  is it. On the boundary."* — *"Aye."* — and the conversation moved on to a gate.
+
+## B02 c013 — "Reach"  [High 7–9]  ★ THE MECHANIC
+- The chalk-hound Seed planted **two paces off peg one** goes **into peg one** (9¾ → 10¼, the new
+  half-pace coming out on the side he put it down). He knew the rule and built three days of
+  experiment on hoping it was wrong, and writes the failure up properly.
+- **THEN THE INVERSION:** peg one and peg two are **three hundred paces apart and have stayed two
+  separate patches for a year**, planted from the same bag on the same morning. A seventh Seed of
+  that exact kind at **two paces** went in. **"It's not *same kind*. It's *near*."**
+- **REACH (new canon):** a Seed goes to the nearest patch of its own kind **within some distance**,
+  and makes a new patch beyond it. Brackets he already had and had never put together:
+  · crawler Seed at 100 paces → went to the middle. **Warm damp reach ≥ 100.**
+  · chalk-hound Seed at 2 paces → went into peg one. **White down reach ≥ 2.**
+  · pegs one and two 300 apart, separate for a year → **white down reach < 300.**
+  · **Different terrains may have different reach.** *Nobody has ever needed this number: in a
+    nine-foot room everything is within two paces of everything.*
+- **Nettle breaks the bracket:** *<300* was true when peg two was planted in Dust Y-812, when peg
+  one was nine paces with no rim. They have all grown since. And he has just made peg one bigger
+  **in the middle of measuring it.** *"You've spoiled the experiment, and you've spoiled it in a
+  way that tells you the experiment was worth running, and you get to be pleased about exactly
+  one of them."*
+- **THE SALT IS A TERRAIN.** *(Ledger 42.)* A crawler Seed crossed a hundred paces of "nothing"
+  in eleven seconds and arrived correctly. Nothing carried it — **the salt carried it.** Forty-four
+  acres of one terrain that he has called empty since he was fourteen because there is nothing
+  *in* it. → **The seam is not crossing his country. It is growing along a border it already has.**
+  Closing line: ***WHAT IS THE SALT FLAT'S BORDER WITH?***
+- **COEL'S WARNING, after the refusal:** the Concord will now have a conversation, for about nine
+  years, ending either in a new box on a form **or** a rule that a working of class Confluence may
+  be entered only by a licensed Grafter. **Entries made before a rule stand; entries after do not.**
+  Coel will argue Wick's side and will not always win.
+  → *Ledger 43:* everything found must be **written down and filed**, not merely known. At 4s an
+  entry against £4 2s, that is **twenty entries — the actual budget of his whole life.**
+
+## B02 c014 — "Perimeter"  [High 14–17]  ★ THE SYSTEM IDEA
+- **A two-shilling search: every Register entry mentioning a border between two terrains inside a
+  Hold. Eleven, out of 411,000.** Nine are Grafters describing a pan. The other two are the same
+  man: **K. Ninefinger of the Rakes, Y-481** — *"where his burn meets his flint there is a
+  hardness, and it grows, and he does not know what to call it"* — and **Y-484**, reporting the
+  hardness has ceased, believing his burn has consumed his flint, requesting the earlier note be
+  struck. *Refused; notes are not struck.* **Three years of border, and then one terrain ate the
+  other, and nothing else was written for 332 years.**
+- Sarrow: **a nine-foot room is eighty-one square feet**, four terrains at most, everything
+  touching everything and the wall and the fire, *"the whole business is the size of a table."*
+  **Wick is the first person in the Register's history with room to stand between two of his own
+  grounds.**
+- **THE ARITHMETIC (locked; 1 pace = 1 yard, 1 acre = 4,840 sq paces):**
+  warm damp 9½ → **30 round** · peg 1 10¼ → **32** · peg 2 7½ → **24** · peg 3 5¼ → **16½** ·
+  peg 4 3 → **9½** · peg 5 2 → **6¼** · peg 6 1½ → **4¾**.
+  **Total border: 122½ paces. Total ground: ~212,000 square paces.**
+- **THE INVERSION:** everything that has ever happened in his Hold has happened at a border — the
+  rim that got him a rank, the crust, the six rims he never made. **The interior has never once
+  done anything, in eighteen months.** *"I've been treating it like a barn. Like a thing you fill."*
+  And *nine hundred years* was always a sentence about **filling.**
+- **Same ground, same Seeds, as forty patches of three paces instead of seven of nine:
+  377 paces of border instead of 122½ — three times the edge (and very slightly more ground).**
+  Cost: he would have to *find* forty patches in the dark in a country where the salt keeps
+  nothing. Six pegs took nine nights. **Forty would take a year and it still would not be enough.**
+  *"It's three times nothing… and it's the first time in eighteen months I've been able to say
+  what shape the answer has to be."*
+- **NETTLE'S HALF (High 16):** his ratio is terrible; **hers is nought.** Seven and a half weight
+  and no perimeter at all. And then the turn — **the strike goes off at three inches because there
+  is nothing at her skin to stop at.** A working comes out at the Verge; everybody's Verge is at
+  the skin until Wold; hers is not anywhere. *"It goes until it runs out instead of going until it
+  hits the edge… That is the only thing about me that has ever worked, and it works because of the
+  hole in me, and I have spent six years carrying a chit that says the hole is what is wrong."*
+- **BRI (High 17), in the alley, ten minutes between a fitting and a pan.** Wick: *"The interesting
+  thing happens at the edge and not in it."* Bri: *"That's the whole of fitting. That's the entire
+  trade, and it takes seven years, and nobody has ever said it to me like that."*
+  A graft goes **where the arm stops being one thing and starts being another** — wrist, shoulder
+  seat, where the muscle changes over. Put it in the middle of a muscle and it sits nine years
+  being nothing and then goes bad, and she has known *that* since the first month and never why.
+  Her question back: ***"How much edge has a person got?"***
+
+## B02 c015 — "The Seep"  [High 24 – Turn 6]  ★ RATCHET · WORKING 3
+- Nettle goes up the barrows **alone** for the second chalk-hound Seed (18s, one bad ankle).
+- **THE EXPERIMENT, stated in full before acting** (which makes it one): plant at **the middle** —
+  100 paces from peg one, 400 from peg two. If reach ≥100 it goes to peg one and he has learned
+  something not worth 18s. If reach <100 it makes a **new patch touching the warm damp**.
+- **It makes a new patch. Four paces across** — smaller than any peg he has planted; he writes
+  that down and does not know what it means. **So white down reach is under 100 paces.**
+- **They touch on Dust 11.** Border four inches. **Nine days of nothing** (he writes that up too:
+  a rim on salt took six nights and this is not salt). **Dust 20: water.**
+- **THE SEEP.** Chalk takes water in at the top of a down and lets it out at the bottom slowly all
+  year — every child in the Loam knows it; it is why you site a village at the foot of a chalk
+  hill and why the Wickwater runs in Dust. *"You're a hill. You've been a hill the whole time."*
+- **MEASUREMENTS:** the seep **does not stop.** The warm damp goes 9½ (Seed) · 9⅝ (Green) ·
+  9¾ (High) · **10⅜ (Turn)** — nearly ¾ pace in a season, **with nothing planted into it.**
+  And **the border lengthens faster than either patch grows**, because two circles growing into
+  each other make a chord, and a chord lengthens faster than either circle (Nettle draws it with
+  two cups).
+- **A crust laid within a foot of the border REVERTS in ~9 seconds.** *"Oh. You can undo it."*
+- **REGISTER ENTRY 411,644 — *The Alder Second Setting*, common name **the seep**, class
+  Confluence.** Seat: the border of warm damp and white down at the middle, 2 paces at entry.
+  **Cost: none. The working is not performed. It is the border, and it runs whether the subject
+  attends to it or not.** Sarrow, in thirty-four years, has never written *cost: none*.
+  **Nineteen shillings of the twenty entries spent. Sixteen left.** *"Spend them on the ones that
+  frighten you."*
+
+## B02 c016 — "Nine Hundred Years"  [Turn 6–7]  ★ MIDPOINT
+- **THE GOOD NEWS, checked twice and independently:** Pell's nine hundred years assumed **Seeds**,
+  because for eight hundred years there was no other way. **The seep does not use Seeds.** A border
+  that feeds the ground either side of it, where the ground lengthens the border, **multiplies
+  rather than adds.** Long division gives **about a hundred and forty years** — *if it holds,
+  which we do not know* — **off one border, four inches long in Dust, for 18s and two Seeds.**
+  Nine hundred years had been a sentence. A hundred and forty is a number **that moved.**
+  For about eleven hours Wick is as happy as he has ever been.
+- **THE REVERSAL, at three in the afternoon in the street:** he has not measured the seam's length
+  since Seed. It was 11,000 then. **He walks it that evening and gives up at 31,000 paces, still a
+  hand across.**
+- **THE FOUR STATEMENTS:**
+  1. A border compounds. True, checked twice.
+  2. **The seam is a border and nothing else** — no inside, a hand across at 31,000 the same as at
+     900.
+  3. His seep is a border with two grounds either side and it is four inches of a country the size
+     of a parish. **The seam is a border with salt on both sides of it, and the salt is 43.9 acres,
+     and there is nothing in that country for it to run out of.**
+  4. *(the one he did not want to write, and Nettle made him)* **Every acre he settles gives it
+     more border to grow along.** Forty patches would not be 377 paces of edge; it would be
+     **377 paces of new road for it.** *The method is the disease. There is no version of getting
+     stronger that does not also make it worse.*
+- **PELL, on the steps, without the cheerfulness:** he has suspected since Dust 11 and said nothing,
+  because *"if I had told you in Dust you would have believed me. You would not have measured it.
+  And in nine years you are going to need to be a person who measured it."* He has examined the
+  rule four times this year and it has held every time, and he is not asking to be liked for it.
+  · **The fear is the wrong fear.** The seam reaches the rim in ~eleven years at the current inward
+    rate, which is inconvenient and will not kill him.
+  · **What they have actually found out:** *"Your country is not a container. It is a process, and
+    it has been running the entire time, and the thing you have been calling a seam is simply that
+    process with nobody's hand on it. And you cannot stop a process. You can only ever be the
+    fastest thing in it."*
+  · **"The question is not how do I stop the seam. It never was. The question is: how fast can you grow?"**
