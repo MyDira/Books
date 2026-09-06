@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 22 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 23 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -4201,5 +4201,123 @@ Then, when the door was open and the rain was coming in: "Annet."
 
 ---
 
+# Chapter 23 — Twenty-Five Days
 
-<!-- 22 chapters · 46,184 words · consolidated 2026-09-06 -->
+The choice took him nine days to see and about four seconds to make once he had seen it, and the nine days were spent doing arithmetic he already knew the answer to, which he was becoming aware was a habit.
+
+It was this.
+
+He had twenty-five days. He could raise his weight.
+
+Not by drawing — drawing was sixty-one breaths a night and had been for a year and would not move a decimal in a month. He could raise it by **borders**. He had two Seeds' worth of money and a fortnight's work available from Vance, and if he spent every penny on Seeds and put them down in pairs, close, deliberately, so that they touched inside a fortnight, he could have four new borders running by the fourth of Dark and every one of them converting salt into settled ground while he slept.
+
+Nettle did the sum with him twice.
+
+"One and one," she said. "Maybe one and two, if the seeps come on fast."
+
+"One and one is Hearth in full."
+
+"One and one is Hearth in full, and Corse withdraws, and the whole town watches a hoop go round and stop at the band, and you take Hearth writs at nine shilling a day from the fifth of Dark." She put the pencil down. "And?"
+
+"And the acreage."
+
+"Say it."
+
+"Four borders converting for three weeks," said Wick. "That's — I've got one border doing half an acre a year. Four borders, and two of them fresh and short, call it another half acre over the three weeks if they come on hard."
+
+He looked at the page.
+
+"I'd walk up to that frame at one and one," he said, "and forty-two point nine."
+
+---
+
+He went and sat in the bath-house end for three hours on the twenty-eighth and did not have a bath.
+
+Because the frame reads both.
+
+That was the whole of it and it had taken him nine days to be willing to write it in one line: **a re-test reads both hoops**, and it reads them in front of the town, and there is no version where the assessor takes the weight and leaves the acreage in the box.
+
+He could go up to that cross at nought point nine and forty-three point four and be exactly what he was.
+
+Or he could go up at one and one and forty-two point nine, and hold Hearth in full, and take nine shillings a day, and stand in a market square while a man with a brass instrument read out that Wick Alder's acreage had fallen by a full acre in a year.
+
+And the second one was better in every way that could be counted, and he could not do it, and it took him three hours in a room full of steam to work out why.
+
+It was not pride. He checked that four times, because he had spent a year finding out that his reasons were usually worse than he thought.
+
+It was that he did not know what the acreage falling *was*.
+
+He had a month of measurements and a theory. The theory was conversion — unsettled ground turning into settled ground, a thing spending itself to become itself — and the theory fit and he had checked it and Nettle had checked it and it was still four weeks old and it was still *his*, and nobody else in the Sill had ever seen a number in that column go down.
+
+And if he went and made it fall faster, on purpose, in a fortnight, in order to win a public argument about a different number — then whatever it was, he would have spent a year of it before he understood it, and he would have done it for **nine shillings a day**.
+
+---
+
+He told Vance on the twenty-ninth, because Vance was in Marrowfield for the Hall's audit and because Wick had discovered that he told Vance things now.
+
+They were in the yard. Vance heard the whole of it standing up, with his arm out of the sling for the first time since Gather.
+
+"Say it as a decision and not as a worry," he said. "You have been doing the worry for four minutes."
+
+"I'm going to the cross at what I am. I'll not plant a thing in the next three weeks. And I'll take whatever the hoop says and it's going to say nought point nine and forty-three point four, and Corse is going to be half right in public and I'm going to look like a boy who is getting smaller."
+
+"Why."
+
+"Because I do not know what the smaller means yet," said Wick, "and I am not going to spend a year of it to win an argument."
+
+Dorn Vance was quiet for a moment.
+
+"Right," he said.
+
+Then he said: "I am going to tell you the thing I would have said to you a year ago and did not, because a year ago you would not have heard it and I do not think that is true any more.
+
+"I have watched you turn down three offers in fourteen months. Mine, and Coel's, and now this one, which is the same offer wearing a different hat: *be a normal size, and be paid properly, and stop.*
+
+"And every time you have given a reason, and every reason has been a good one, and I have believed all three."
+
+"But."
+
+"But a man who turns down three good offers is either the most careful person I have met or he has got a thing in him that cannot take an arrangement," said Vance, "and I have known you fourteen months and I still do not know which, and I want you to understand that *neither do you*, and that the difference between them is going to be the whole of how your life goes."
+
+---
+
+Nettle asked him about it on the second of Dark, on the roof of the chandler's, where they had taken to sitting because the room had got small.
+
+"Is he right?"
+
+"About which bit?"
+
+"That you can't take an arrangement."
+
+Wick sat with his arms round his knees and thought about it properly, because she had asked properly.
+
+"I don't know," he said. "I've been at it for four days. Here's what I've got.
+
+"Vance's offer, I turned down because the sponsor holds the Seeds, and I'd have had seven years of not being allowed to start.
+
+"Coel's, I turned down because I'd have broken the teaching clause inside a year and I knew the month.
+
+"And this one I'm turning down because I don't know what the number means.
+
+"And every one of those is true, and if you line them up they've all got the same shape underneath, and the shape is *not yet*." He put his chin on his knees. "That's not a principle, Nettle. That's a man who keeps saying not yet, and one day it's going to be too late for something and the reason will have been perfectly good."
+
+"So what stops it?"
+
+"Nothing stops it," said Wick. "That's the whole of what I've worked out in four days. Nothing stops it, and the only thing I can do about it is know that it's there, and write down every time I say not yet, and look at the list in about ten years and count."
+
+Nettle looked out over Marrowfield, where two thousand posts stood in a river that neither of them could see and only one of them would ever be able to.
+
+"Then write it down," she said.
+
+So he got the ledger out on a roof in the dark on the second of Dark and started a new page and put a heading on it, and it was the fourth list he had ever kept, and he kept it for the rest of the time anybody wrote any of this down.
+
+> **THINGS I HAVE SAID NOT YET TO.**
+> *1. Vance's instrument. Gather Y-812. Reason: seven years of not starting.*
+> *2. Coel's indenture. Green Y-813. Reason: I would break the second clause.*
+> *3. One and one by the fourth of Dark. Rust Y-813. Reason: I do not know what the acreage means.*
+
+
+---
+
+
+<!-- 23 chapters · 47,559 words · consolidated 2026-09-06 -->
