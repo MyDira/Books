@@ -2840,7 +2840,7 @@ The rim, which got him a rank, was a border.
 The crust, which was the only interesting thing he could do, was a border — Sarrow had made him say so at a counter and had given him a word for it and had entered it under protest.
 The rims on six pegs he had never walked were borders, and they were the only evidence he had that his country did anything at all when he was not looking.
 
-And the interior — the ground itself, the pale flat salt, the two hundred and twenty thousand square paces, the thing on his tally that made men in Marrowfield say *ah* and made a registrar cross out a printed word — the interior had never once done anything.
+And the interior — the ground itself, the pale flat salt, the two hundred and twelve thousand square paces, the thing on his tally that made men in Marrowfield say *ah* and made a registrar cross out a printed word — the interior had never once done anything.
 
 Not once. In eighteen months.
 
@@ -2874,7 +2874,7 @@ They sat on the steps for a bit.
 
 "Forty would take you a year."
 
-"Forty would take me a year and I'd never do anything else." He folded the slip. "And it'd be worth it, and I'd still only be at three hundred and eighty paces of edge in two hundred and twenty thousand square paces of ground, which is — "
+"Forty would take me a year and I'd never do anything else." He folded the slip. "And it'd be worth it, and I'd still only be at three hundred and seventy-seven paces of edge in two hundred and twelve thousand square paces of ground, which is — "
 
 He worked it out.
 
