@@ -2082,8 +2082,60 @@ Coel looked at him for a moment.
 
 "We have got the four hundred failures, Mr Alder. That is what an indenture actually buys. It is not the tuition. It is the list of things that have already killed people."
 
+---
+
+He asked Doreth Faring on the twenty-first, standing in the workshop doorway because she would not let him sit down while she had a pan on.
+
+She heard the whole offer out without stopping work.
+
+"Waived bond," she said.
+
+"Recorded as waived."
+
+"Mm." She turned the pan a quarter and watched it. "Coel's a good man and he'll have hated saying that bit."
+
+"He said it was a purchase and he'd rather I saw it as one."
+
+"Course he did." She lifted the pan off and set it on the stone. "Right. Here's mine, and you'll not like it, and it's not advice.
+
+"You should take it."
+
+Wick stood in the doorway.
+
+"I'll say the rest before you get your face sorted out," said Doreth Faring. "Four hundred failures. He told you about the four hundred failures?"
+
+"Yes."
+
+"Then he told you the true thing and I'd have led with it too." She wiped her hands. "I have got twenty-two years and I have read about ninety of those and I still guess. You have got a ledger and a girl who reads upside down and a great deal of ground, and you are going to go out there and *try things*, because that is what you are, and I have watched you for four months and you cannot help it.
+
+"And the difference between trying things with the list and trying things without it is that with the list you find out on paper and without it you find out in an arm."
+
+"Whose arm? I've not got anybody's arm. It's *my ground*."
+
+"It's your ground now." Doreth put the cloth down. "You are fifteen. In four years you will know something nobody else knows, and somebody will ask you to do it to them, and they will be somebody you like, and you will say yes, and that is not a failure of character. That is a Tuesday."
+
+---
+
+"So that's the whole of it," said Wick. "You'd take it."
+
+"I'd take it, and I'd hate the second clause, and I'd break it inside a year."
+
+"...What?"
+
+"The one about teaching." Doreth said it perfectly evenly. "You'd sit in that hall and sign it and you would not last twelve months, because Annet is going to ask you how a boundary is made, and she is going to keep asking, and you are going to answer her, because you are fifteen and she is your friend and *that is what you are*.
+
+"And then you'd have broken an indenture, and forfeit a bond you never paid, and you'd be barred from the Concord for life, and Coel would be the one who had to write it up, and it would take him about eleven days and he would not sleep well."
+
+She picked the cloth back up.
+
+"So my actual answer," said Doreth Faring, "is that you should take it, and that you should not take it, and that anybody who tells you those are not both true is selling something.
+
+"And if you want mine and not the Concord's, it's this. Go and count how many things there are like this. Coel's got a category we haven't. You found one thing in a byre in Dust that only works if a Hold is big. Sarrow's protested a form nine times in thirty-four years. My daughter's been graded *true* for six years on an examination she was never actually given.
+
+"That's four, in one town, in four months, and you've been walking past them and writing them down one at a time in a book like they're separate."
+
 
 ---
 
 
-<!-- 10 chapters · 23,312 words · consolidated 2026-09-06 -->
+<!-- 10 chapters · 23,911 words · consolidated 2026-09-06 -->
