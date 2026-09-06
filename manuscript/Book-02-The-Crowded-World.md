@@ -2147,9 +2147,15 @@ Not the workshop: that was Bri's ground and her mother's.
 Not the room over the chandler's: that was hers and Wick's.
 Not a street, because a street means walking, and walking means one of you can leave.
 
-The bath-house end of the Marrowfield Hall of Hunt had four benches, a stove, and a rule that nobody talked business in it, and Nettle had sat on those benches since she was fourteen, and it was the only place in that town that belonged to what she *did* and not to who anybody's mother was.
+The bath-house end of the Marrowfield Hall of Hunt had four benches, a stove, a stone floor that sloped to a drain, and a rule that nobody talked business in it.
+
+The rule was not written anywhere. It was enforced by a woman called Sabbet who ran the coppers and who had thrown a Wold-rank out in Y-eight-oh-nine for reading a writ aloud, and everyone in Marrowfield knew the story and nobody knew whether it was true, including Sabbet, who had been asked and had said only that she remembered it differently.
+
+So the benches at that end were where the town's hunters sat with their boots off and their hands wrapped, and talked about weather and horses and whose knee had gone, and never once about money. Nettle had sat on them since she was fourteen. It was the only place in Marrowfield that belonged to what she *did* rather than to who her mother was.
 
 She sent the note by Tarrow, who charged her a penny and was insulted when she offered him two.
+
+Then she got there forty minutes early, and had a bath she did not need, and sat on the bench nearest the stove with wet hair and her boots off, because she had worked out that whoever is dry and shod in that room is the visitor.
 
 ---
 
@@ -2278,8 +2284,50 @@ Wick looked up.
 
 "How far can I get my hand from a thing before the strike stops going off." Nettle pulled the ledger over. "And the answer's three inches, and I have known that since I was fourteen, and I have never once written it down."
 
+---
+
+There was one more thing and Bri did it on the way out, standing up, with her coat half on, which Nettle came to understand within a year was where Bri Alder kept everything she actually meant.
+
+"Can I ask you a rude one?"
+
+"Everyone in your family says that before they ask a rude one."
+
+"Yeah, we get it off Gran." Bri did up a button. "You've got no edge."
+
+Nettle went very still on the bench.
+
+"Wick told you."
+
+"Wick told me you'd been in for the first time in eleven months and come out with a face on. He didn't tell me what you found, because he wouldn't." Bri did up the other button. "I worked out the rest at about the fourth minute of sitting here, because you told me the strike goes off at three inches, and a thing that works at three inches off the skin has not got a boundary at the skin, because a boundary is where a thing *stops*."
+
+Nettle sat on a bench in the bath-house end of the Marrowfield Hall of Hunt with her boots off and her hair drying and found that she could not think of one single thing to say.
+
+"That's not clever," said Bri. "That's two years of arms. Don't look at me like that."
+
+"Nobody has ever—"
+
+"I know. That's the whole trouble with this town." Bri picked up her bag. "Every clerk in that office has read your chit and every one of them has read it as *how much have you got and how much room have you got in it*, because that's what the boxes say, and the boxes were written by people who have all got the same shape and have never once had to think about it."
+
+"So what do you read it as?"
+
+Bri stopped in the doorway.
+
+"I'd read it the way I read an arm," she said. "Which is: where does it stop, and what does it do at the place where it stops, and what's on the other side.
+
+"And the answer for you is: *it doesn't*, and *nothing*, and *nothing*. And every single person you have ever shown that chit to has looked at the two feet and said what a shame, and not one of them has looked at the fact that you have got seven and a half weight sat in a thing that does not have an outside."
+
+She put her hat on.
+
+"I don't know what that means," said Bri Alder. "I want to be dead clear about that. I have got a feeling in my hands and no theory whatsoever, and if I'd said this to Dor she'd have told me to go and cure something and stop showing off.
+
+"But I have fitted a hundred and forty arms, and every one of them was a question about where a thing stops, and I have never in my life met a person whose ground does not stop anywhere.
+
+"And I'd think about that, if I were you," she said, "instead of about whether your mother minds. Because she does, and you know she does, and you're going to be sixteen and clever about it for another year yet."
+
+Then she went, and Nettle sat on the bench until the water went cold in the coppers.
+
 
 ---
 
 
-<!-- 11 chapters · 25,464 words · consolidated 2026-09-06 -->
+<!-- 11 chapters · 26,168 words · consolidated 2026-09-06 -->
