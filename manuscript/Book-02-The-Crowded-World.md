@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 9 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 10 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -1949,5 +1949,141 @@ Wick's mouth had gone dry.
 
 ---
 
+# Chapter 10 — The Chapter House
 
-<!-- 9 chapters · 21,450 words · consolidated 2026-09-06 -->
+"Do not go on the fourteenth," said Pell.
+
+"He said at my convenience."
+
+"He said it and he meant it and you should still not go on the fourteenth, because you would go having thought about it for two days, and Under-Warden Coel has thought about it for eleven." Pell was sitting on the churchyard wall on Fell Street with an apple, in the same posture he had used in Hollow Alder a year ago, and Wick had come to understand that the wall was not a coincidence and that Pell chose them. "Go on the nineteenth. Spend the week finding out what an indenture is."
+
+"You could just tell me."
+
+"I could tell you in four minutes and you would remember about a third of it." Pell bit the apple. "Also I am not permitted, and I would like that noticed, because it is the first time in fourteen months that my instrument has actually stopped me doing something I wanted to do and I am extremely annoyed about it."
+
+"Why does it stop you?"
+
+"Because the Grafters' Concord is not the Ledger of the Sill," said Ossian Pell, "and I am seconded to an audit of assessment irregularities in the Third Circuit, and the Concord is not a record and it is not a person, and if I sit on this wall and coach a fifteen-year-old through a Concord negotiation then what I have done is *interfere in the affairs of a chartered body outside instrument*, and there is a case about that too and it is nine hundred pages and it is not called *Odell*."
+
+He got down off the wall.
+
+"What I *may* do," he said, "is tell you what has happened, because what has happened is a matter of record. Would you like to know what has happened?"
+
+"Yes."
+
+"On the twenty-third of Seed a registrar of the Ledger entered a working under a classification that does not exist on the Ledger's form, and took the word for it out of the Concord's schedule, and said so in writing, in a memorandum four pages long, which is now in Sennet-on-Weft." Pell counted it on his fingers. "That is the Ledger saying, in public, in ink: *the Concord has a category we do not have, and one of our people is doing it.*
+
+"Which is a question about jurisdiction, and jurisdiction is the only thing in this country that anybody has ever actually gone to war about."
+
+---
+
+He spent the week finding out what an indenture was, which cost him two shillings at the Register and eleven hours and a considerable amount of Nettle's patience.
+
+An **indenture** was a contract of seven years between an apprentice and a chartered body, and it was the oldest kind of paper in the Sill and it had teeth in four directions.
+
+- The apprentice may not practise the craft outside the body.
+- The apprentice may not teach it.
+- Anything the apprentice **devises** during the term belongs to the body, and is entered in the body's schedule, and is licensed by the body thereafter.
+- The bond is eleven pound and is forfeit if the term is broken.
+
+Nettle read the fourth line twice.
+
+"That's the one," she said.
+
+"The bond?"
+
+"The *devises*." She put her finger on it. "You have got two workings and one of them is a class nobody's ever entered on a Ledger form. What d'you think you're going to devise in seven years with forty-three acres and a rule about walking borders?"
+
+---
+
+The Fell Street chapter house was two doors up from the workshops and it was much older, and inside it there was a hall with a long table and, along one wall, glass cases.
+
+Wick looked at the cases while Coel poured tea, and afterward could not have said what was in most of them, because the third case had a page in it.
+
+It was open, and it was old — the ink had gone the colour of weak tea — and the hand was small and even, and across the top of it somebody had written, two hundred and eleven years ago:
+
+> *Of the borders between two cures, and what occurreth there, which we shall call Confluence.*
+
+He stood in front of it for a while.
+
+"Y-six-oh-two," said Under-Warden Coel, behind him. "Marrowfield chapter, and she was twenty-six, and we do not know what happened to her after Y-six-fourteen. There are eleven of those pages. That is the third."
+
+"Eleven pages."
+
+"Eleven pages, and four hundred years of practice, and about nine thousand entries in our schedule that turn on the principle, and a body of instruction that takes seven years to give a person because it cannot be given faster." Coel put the tea down. "Sit, Mr Alder, and I will make the offer and then I will tell you what is wrong with it, because if I do not tell you, Sarrow will, and he will enjoy it more."
+
+---
+
+The offer was better than he had let himself imagine and it took Coel about four minutes to lay out.
+
+**Indenture, seven years, the eleven-pound bond waived.**
+
+"Waived entirely?"
+
+"Waived entirely and recorded as waived, which is the part that matters, because a waiver is a precedent and a gift is not." Coel did not blink. "You would be entered as apprentice on the twenty-third of Green, and you would be a journeyman inside three years rather than seven, because you can already do a thing I cannot, and there is no purpose in making you sweep."
+
+**Access to the schedule.** All of it. Two hundred and eleven years of Confluence.
+
+"Nine thousand entries," said Coel, "and about four hundred of them are failures written up properly, which are worth more than the successes and which is why we do not publish them. Every one is a pair of terrains and what happened at the border between them. You are, so far as anybody in this building knows, the first person in the history of the Sill to have more than one terrain far enough apart to *walk* the line between them. You have got seven borders and no theory. We have got a hundred years of theory and nobody with a border longer than a foot."
+
+**And board, and forty shillings a month, which was ten times what he was making.**
+
+Wick sat at a long table in a two-hundred-year-old hall with a cup of tea in front of him.
+
+"What's wrong with it?" he said.
+
+---
+
+"Three things," said Under-Warden Coel, "and I shall do them in the order of how much they will bother you, which I have guessed and may have got wrong.
+
+"**The first is the bond.** It is waived for you. It is not waived for anybody else, and it will not be, and the reason you are getting it is that the Concord would rather have you inside than have a fifteen-year-old registering our principle in a public book at four shillings a time. That is not a compliment. It is a purchase, and I would rather you saw it as one."
+
+"All right."
+
+"**The second is that you may not teach it.** Not to a friend, not to a sister, not in a letter. For seven years, and after that only as the Concord licenses. You have a girl in this town who takes chalk-hound writs and who I am told has been asking you how a boundary is made." Coel's voice did not change. "You would have to stop answering."
+
+Wick put the cup down.
+
+"**And the third is *devises*,**" said Coel. "Everything you work out in the term is ours. It goes in our schedule under your name, which is a real honour and I do not say it lightly, and it is licensed by us thereafter, and it may be taught only by us, to indentured apprentices, admitted at fourteen, on a seven-year term, on an eleven-pound bond."
+
+The hall was very quiet.
+
+"You have thought of it already," said Coel. "I watched you do it just then."
+
+"There's a woman two doors up," said Wick, "who has done a hundred and forty fittings under somebody else's name because she was seventeen and had nine shillings, and there is no door in your rules that opens at eighteen."
+
+"Bri Alder."
+
+"You know her name."
+
+"Mr Alder, I have known her name for two years and I have written to Sennet about her *twice*," said Under-Warden Coel, and for the first time there was something under the pleasantness. "Doreth Faring's letters and mine went in the same packet. I have had the same two very polite replies."
+
+---
+
+He said the last of it standing up, with his hands on the back of a chair, and it was the part Wick carried home.
+
+"I am not going to pretend to you that the Concord is right about the age," he said. "I have believed it was wrong for nine years and I have said so in rooms where saying so cost me something.
+
+"And I am going to ask you to indenture anyway, because I have seen what unlicensed fitting does. I have seen eleven of them. There is a man in the Rakes who put a river-drake Seed into his own brother's spine in Y-eight-oh-four, out of love, having watched a Grafter do it twice, and I went out there and I could not undo it and neither could anybody else, and the brother took four years to die and was in his right mind for all of it.
+
+"The bond and the term and the seven years are not there to keep people out. They are there because this work kills people slowly and at a distance, and the only thing anybody has ever found that stops it is *making it very difficult to begin.*
+
+"That is a real reason and it is also exactly the reason your sister has no name, and I have not found the bottom of that in nine years, and I would be lying to you if I said the Concord has."
+
+He came round the table.
+
+"Take a fortnight," said Under-Warden Coel. "Ask Doreth Faring what she thinks; she will tell you the truth and it will not be what I want. And do not decide it on your sister, because she would not thank you, and because it is not the largest thing in the room."
+
+"What's the largest thing in the room?"
+
+Coel looked at him for a moment.
+
+"That you are going to work out how borders behave whether we indenture you or not," he said, "and that we have got a hundred years of writing on it and you have got a ledger with your own handwriting in it, and that if you do it outside, you will do it *alone*, and it will take you thirty years, and about four of the things you try will hurt somebody.
+
+"We have got the four hundred failures, Mr Alder. That is what an indenture actually buys. It is not the tuition. It is the list of things that have already killed people."
+
+
+---
+
+
+<!-- 10 chapters · 23,312 words · consolidated 2026-09-06 -->
