@@ -5,7 +5,7 @@
 
 ---
 
-> **Work in progress.** 13 chapters written so far. New chapters are appended as they are finished.
+> **Work in progress.** 14 chapters written so far. New chapters are appended as they are finished.
 
 ---
 
@@ -2754,5 +2754,174 @@ Nettle looked at him for a moment over the top of a cup.
 
 ---
 
+# Chapter 14 — Perimeter
 
-<!-- 13 chapters · 30,944 words · consolidated 2026-09-06 -->
+What they bought, for two shillings, was a search — and the search was for a thing Sarrow had never been asked for in thirty-four years, which was **every entry in the Register that mentions a border between two terrains inside a Hold.**
+
+He came back from the shelves after fifty minutes with a face on.
+
+"Eleven," said Sarrow.
+
+"Out of four hundred and eleven thousand?"
+
+"Out of four hundred and eleven thousand." He put the slips on the counter. "And nine of the eleven are Grafters describing a pan, which is not inside a Hold at all and which I have brought you anyway because you will want to see how they talk about it. That leaves two."
+
+The two were both from the Rakes, both over three hundred years old, and both were the same man.
+
+*Y-four-eighty-one. Ninefinger, K., of no fixed chapter. Reports that where his burn meets his flint there is a hardness, and that it grows, and that he does not know what to call it. Not entered as a working. No effect claimed.*
+
+*Y-four-eighty-four. Ninefinger, K. Reports the hardness has ceased. Believes his burn to have consumed the flint. Requests the earlier note be struck. Refused; notes are not struck.*
+
+Wick read them four times.
+
+"Three years," he said. "He had a border for three years and one of his terrains ate the other one."
+
+"So it would appear."
+
+"And nobody wrote anything else about it for three hundred and thirty-two years."
+
+"Nobody had anything to write," said Sarrow. "Mr Alder, I have told you this and you have not believed it yet, so I shall tell you again with a number on it. **A nine-foot room is eighty-one square feet.** Four terrains in it, if the man is ambitious. Every one of them is touching every other one and touching the wall and touching the fire, and the whole business is the size of a table."
+
+He tapped the slips.
+
+"Ninefinger got three years and a note because he was in the Rakes and had eleven feet and no sense," he said. "You are the first person in the history of this Register with room to *stand between two of his own grounds*, and I do not think you have understood that yet, and I have been watching you not understand it since Seed."
+
+---
+
+Nettle did the arithmetic on the steps outside, on the back of the search slip, with a pencil she had stolen off the counter.
+
+"Right," she said. "Your rim's nine and a half across. That's twenty-eight round. That's your one border, near enough."
+
+"Twenty-eight and a half now. Peg one's ten and a quarter, so that's another thirty-two."
+
+"So do the lot."
+
+He did the lot, standing on the steps of the Ledger office on Cross Street in the middle of the afternoon, out loud, in barley-fields and paces, the way he did everything.
+
+Warm damp, 9½ across: **28 round.**
+Peg one, 10¼: **32.**
+Peg two, 7½: **23.**
+Peg three, 5¼: **16.**
+Peg four, 3 and a bit: **10.**
+Peg five, 2: **6.**
+Peg six, 1½: **4½.**
+
+"That's a hundred and nineteen paces," said Nettle. "That's the whole of the border in your entire country."
+
+"A hundred and nineteen and a half."
+
+"Don't." She wrote it down. "Now do the ground."
+
+"Forty-three point nine acres."
+
+"In paces."
+
+Wick stopped.
+
+An acre is four thousand eight hundred and forty square yards, and a pace is not a yard, and he had to do it twice on the step with people going past, and the number that came out was so large that he checked it a third time and then said it in the flat voice Gran used for reading out distances.
+
+"About two hundred and twenty thousand square paces."
+
+Nettle put the pencil down.
+
+"A hundred and nineteen paces of edge," she said, "in two hundred and twenty thousand square paces of ground."
+
+---
+
+Here is the thing that arrived on those steps, and it arrived in the wrong order, the way the useful ones do.
+
+Wick's first thought was that the ratio was appalling.
+
+His second thought, about four seconds later, was that he had spent a year and a half being proud of the wrong half of it.
+
+**Everything that had ever happened in his Hold had happened at a border.**
+
+The rim, which got him a rank, was a border.
+The crust, which was the only interesting thing he could do, was a border — Sarrow had made him say so at a counter and had given him a word for it and had entered it under protest.
+The rims on six pegs he had never walked were borders, and they were the only evidence he had that his country did anything at all when he was not looking.
+
+And the interior — the ground itself, the pale flat salt, the two hundred and twenty thousand square paces, the thing on his tally that made men in Marrowfield say *ah* and made a registrar cross out a printed word — the interior had never once done anything.
+
+Not once. In eighteen months.
+
+"It's not a Hold," he said.
+
+"What?"
+
+"That's what I've been getting wrong." He sat down on the step, which he did not usually do. "I've been treating it like a — like a barn. Like a thing you fill. And you can't fill it, everybody's known you can't fill it since Pell put a number on it in Dust, nine hundred years, and I've been carrying that number round like a sentence."
+
+"It is a sentence."
+
+"It's a sentence about *filling*." Wick had the slip and was drawing on it. "Look. Here's mine. One big circle round the middle and six little ones scattered, and a hundred and nineteen paces of edge.
+
+"Now here's the same ground, same amount of terrain, exactly the same number of Seeds, put down as — " he counted, badly, and did it again — "as forty patches of three paces instead of seven patches of nine."
+
+Nettle leaned over.
+
+Forty patches, three paces across. Each one about nine and a half paces round.
+
+**Three hundred and eighty paces of border.**
+
+"Same ground," said Wick. "Same Seeds. Same weight. Three times the edge."
+
+---
+
+They sat on the steps for a bit.
+
+"You'd have to find them all," said Nettle.
+
+"I'd have to find them all. In the dark, with no landmarks, in a country where the salt keeps nothing." He was still looking at the slip. "That's the actual cost and it's a big one. Six pegs took me nine nights to survey and I nearly lost peg five twice."
+
+"Forty would take you a year."
+
+"Forty would take me a year and I'd never do anything else." He folded the slip. "And it'd be worth it, and I'd still only be at three hundred and eighty paces of edge in two hundred and twenty thousand square paces of ground, which is — "
+
+He worked it out.
+
+"— which is nothing," he said. "Which is still nothing at all. It's three times nothing."
+
+"So it's not the answer."
+
+"It's not the answer," Wick agreed, "and it's the first time in eighteen months I've been able to say what *shape* the answer has to be, and I'd like to sit here for a minute."
+
+---
+
+He told Bri on the seventeenth, in the alley behind the workshop, sitting on the crates, because she had ten minutes between a fitting and a pan and had said that was what he could have.
+
+She listened to the whole of it with her arms folded.
+
+"Where does it sit," she said, when he had finished.
+
+"I've been thinking about that for a fortnight."
+
+"And?"
+
+"You said the middle is where a thing sits and it isn't where a thing works." Wick had rehearsed this and it came out badly anyway. "And I've got everything I own at the middle, and everything I own does exactly one interesting thing, and the interesting thing happens at the edge of it and not in it."
+
+Bri Alder unfolded her arms.
+
+"Say that last bit again," she said, "because I have been trying to get that sentence out of my hands and into my mouth for a fortnight and you have just done it in about nine words."
+
+"The interesting thing happens at the edge and not in it."
+
+"Yes." She sat down on the crate next to him. "That's the whole of fitting. That's the *entire trade*, and it takes seven years, and nobody has ever said it to me like that.
+
+"A graft doesn't go in an arm. It goes at a — " she made the shape with her hands again, the one she could not finish in Green, and this time she finished it. "It goes where the arm stops being one thing and starts being another. Wrist. Shoulder seat. The place where the muscle changes over. That's where it takes. Put it in the middle of a muscle and it sits there for nine years being nothing and then it goes bad, and I have never known why and I have known *that* since the first month."
+
+"Because there's no border in the middle of a muscle."
+
+"Because there's no border in the middle of a muscle," said Bri, "and I have got a hundred and forty arms and you have got a salt flat, and neither of us has got the faintest idea what that means, and I have got to go, there's a pan on."
+
+She stood up.
+
+"Wick."
+
+"Yes?"
+
+"How much edge has a person got?" said his sister. "Because I've been fitting them for two years on a guess, and you've just counted yours, and it turns out that's a thing a person can *do*."
+
+
+---
+
+
+<!-- 14 chapters · 32,571 words · consolidated 2026-09-06 -->
