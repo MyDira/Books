@@ -2886,6 +2886,56 @@ He worked it out.
 
 ---
 
+He did not notice the other half of it for two days, and when he did, he did not say it, and Nettle said it for him on the sixteenth with her boots on the table.
+
+"You've been not-saying a thing since the steps."
+
+"Yes."
+
+"Say it."
+
+"I don't want to."
+
+"Wick." She took her boots off the table. "I have been sat here for two days watching you look at me and look away, and it is a great deal worse than whatever it is."
+
+So he said it.
+
+"A hundred and nineteen paces of border in two hundred and twenty thousand square paces of ground," he said. "That's mine. It's a terrible ratio and it's the worst in the world and it's the reason I can't do anything.
+
+"Yours is nought."
+
+Nettle did not move.
+
+"Two feet across," said Wick, "and it doesn't stop like a wall, it stops like the world stops, and there's no rim and no ridge and nothing on the other side. You told me that in Dust of last year on a kerb and I have thought about it about four hundred times and I never once did the sum.
+
+"You've got seven and a half weight and no perimeter at all."
+
+The room over the chandler's was quiet. Down in the street somebody was doing something with a barrel.
+
+"Right," said Nettle.
+
+Then she got up and went and stood at the window with her back to him for about a minute, which she had done perhaps twice in eighteen months.
+
+"That's why the strike works at three inches," she said.
+
+Wick sat up.
+
+"Say that again."
+
+"I've been at it since the bath-house." She did not turn round. "Your sister asked me how far off the skin it goes off and I said three inches, and she went funny about it, and I have not been able to leave it alone since.
+
+"A working comes out at your Verge. Everybody's Verge is at the skin until Wold. Mine goes off at *three inches* and it always has, and I have known that since I was fourteen, and four registrars have written *Ember* on a chit and not one of them has ever asked me about it."
+
+"Because there's nothing at your skin to stop at."
+
+"Because there is nothing at my skin to stop at," said Nettle, "and the strike doesn't come out of a boundary, it comes out of a *thing with no boundary*, and it goes until it runs out instead of going until it hits the edge."
+
+She turned round.
+
+"And that is not a defect," she said, and her voice was doing something Wick had not heard it do. "That is the only thing about me that has ever worked, and it works *because* of the hole in me, and I have spent six years carrying a brass chit round my neck that says the hole is what is wrong."
+
+---
+
 He told Bri on the seventeenth, in the alley behind the workshop, sitting on the crates, because she had ten minutes between a fitting and a pan and had said that was what he could have.
 
 She listened to the whole of it with her arms folded.
@@ -2924,4 +2974,4 @@ She stood up.
 ---
 
 
-<!-- 14 chapters · 32,571 words · consolidated 2026-09-06 -->
+<!-- 14 chapters · 33,064 words · consolidated 2026-09-06 -->
